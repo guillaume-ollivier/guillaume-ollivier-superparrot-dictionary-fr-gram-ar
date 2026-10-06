@@ -1,0 +1,36 @@
+{
+  "topic_ref": "0029-2",
+  "source": "source=AR§reference=0029-2",
+  "title": "lang=fr-FR§{Duel après préposition}lang=ar-SA§{المثنى المجرور}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§dans deux écoles}",
+      "answer": "{?1§في مدرستين}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§J'ai deux sœurs}{type=affix§.}",
+      "answer": "{?1§{عندي أختان|عندي اختان}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§J'ai deux frères}{type=affix§.}",
+      "answer": "{?1§{عندي أخوان|عندي اخوان}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

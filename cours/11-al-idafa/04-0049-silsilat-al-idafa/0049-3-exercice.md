@@ -1,0 +1,43 @@
+# Exercice
+
+## Description
+| attribute   | section | index | lang  | value              |
+| ----------- | ------- | ----- | ----- | ------------------ |
+| ref         |         |       |       | 0049-1             |
+| title       |         |       | fr-FR | Chaînes d'annexion |
+|             |         |       | ar-SA | سلسلة الإضافة      |
+| wording     |         |       | fr-FR | Traduisez          |
+|             |         |       | ar-SA | ترجم               |
+| categories* |         |       |       | niv-b1             |
+| tags*       |         |       |       |                    |
+
+## Items
+### Common
+| attribute | section | index | lang  |
+| --------- | ------- | ----- | ----- |
+| question  | 1       |       | fr-FR |
+| answer    | 1       |       | ar-SA |
+
+### 1
+| attribute | section | index | lang | value                                |
+| --------- | ------- | ----- | ---- | ------------------------------------ |
+| question  |         |       |      | {?1§la clé de la porte de la maison} |
+| answer    |         |       |      | {?1§مفتاح باب البيت}                 |
+
+### 2
+| attribute | section | index | lang | value                                  |
+| --------- | ------- | ----- | ---- | -------------------------------------- |
+| question  |         |       |      | {?1§le directeur de l'école de filles} |
+| answer    |         |       |      | {?1§مدير مدرسة البنات}                 |
+
+### 3
+| attribute | section | index | lang | value                                   |
+| --------- | ------- | ----- | ---- | --------------------------------------- |
+| question  |         |       |      | {?1§la porte de la chambre de la fille} |
+| answer    |         |       |      | {?1§باب غرفة البنت}                     |
+
+### 4
+| attribute | section | index | lang | value                            |
+| --------- | ------- | ----- | ---- | -------------------------------- |
+| question  |         |       |      | {?1§le nom de la rue de l'école} |
+| answer    |         |       |      | {?1§اسم شارع المدرسة}            |

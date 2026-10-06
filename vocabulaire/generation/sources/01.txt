@@ -1,0 +1,246 @@
+@ref 0001
+@chap 01
+@slug alif-ba-ta-tha
+@niv niv-a1
+=== NOTE
+# L'alphabet : sens d'écriture et premières lettres
+
+**1** L'arabe s'écrit et se lit **de droite à gauche**. L'alphabet compte **28 lettres**, toutes des consonnes (trois servent aussi de voyelles longues) (§2.2). Il n'y a pas de majuscules.
+
+**2** Les lettres d'un mot sont **liées** entre elles, comme dans une écriture cursive. Une lettre change donc de forme selon sa place : **isolée**, **initiale** (liée à gauche), **médiane** (liée des deux côtés), **finale** (liée à droite).
+
+**3** Beaucoup de lettres partagent le même tracé de base et ne se distinguent que par leurs **points** :
+
+| lettre | nom | son | isolée | initiale | médiane | finale |
+| --- | --- | --- | --- | --- | --- | --- |
+| *[ar] ب /baːʔ/* | _bāʾ_ | b | ب | بـ | ـبـ | ـب |
+| *[ar] ت /taːʔ/* | _tāʾ_ | t | ت | تـ | ـتـ | ـت |
+| *[ar] ث /θaːʔ/* | _ṯāʾ_ | th anglais de *[en] think /θɪŋk/* | ث | ثـ | ـثـ | ـث |
+
+**4** L'**alif** _ا_ (_ʾalif_) est un trait vertical. Au milieu d'un mot, il note le **a long** (_ā_) : *[ar] بَاب /baːb/* _bāb_ (porte).
+
+> *بَابٌ*
+> _bābun_
+> une porte
+
+**5** Dans ce cours, chaque exemple arabe est **vocalisé** (petits signes de voyelles) (§2.1), suivi de sa **translittération** en italique et de sa traduction. Dans les exercices, on tape l'arabe **sans voyelles**, comme on l'écrit couramment : *بَاب* se tape _باب_.
+=== EXO
+title: Assembler les lettres | تركيب الحروف
+wording: Écrivez le mot en liant les lettres | اكتب الكلمة
+mode: transfo
+ب + ا + ب => باب ## porte
+ت + ا + ب => تاب ## il s'est repenti
+ب + ا + ت => بات ## il a passé la nuit
+ث + ا + ب + ت => ثابت ## fixe
+ث + ب + ت => ثبت ## il a été établi
+ب + ت => بت ## tu as passé la nuit
+=== VOCA
+بَاب | porte:f | noun, mas | niv-a1 | freq-tres | habitation | | | | | أَبْوَاب
+ثَابِت | fixe; stable | adj | niv-b1 | freq-freq | qualite
+@ref 0002
+@chap 01
+@slug jim-ha-kha-dal-ra
+@niv niv-a1
+=== NOTE
+# Les lettres de _ج_ à _ز_
+
+**1** Trois lettres partagent le tracé en crochet, distinguées par un point (en dessous, aucun, au-dessus) :
+
+| lettre | nom | son |
+| --- | --- | --- |
+| *[ar] ج /d͡ʒiːm/* | _ǧīm_ | dj de *[fr] djinn /dʒin/* (j de *[fr] jour /ʒuʁ/* au Maghreb et au Levant) |
+| *[ar] ح /ħaːʔ/* | _ḥāʾ_ | h fort soufflé du fond de la gorge, sans raclement |
+| *[ar] خ /xaːʔ/* | _ḫāʾ_ | j espagnol de *[es] jota /ˈxota/*, r raclé |
+
+**2** Deux paires se distinguent elles aussi par un point :
+
+| lettre | nom | son |
+| --- | --- | --- |
+| *[ar] د /daːl/* | _dāl_ | d |
+| *[ar] ذ /ðaːl/* | _ḏāl_ | th anglais de *[en] this /ðɪs/* |
+| *[ar] ر /raːʔ/* | _rāʾ_ | r roulé de l'espagnol |
+| *[ar] ز /zaːj/* | _zāy_ | z |
+
+**3** _د ذ ر ز_ ne se lient **jamais à la lettre suivante** (à gauche) : après elles, la lettre suivante reprend sa forme initiale ou isolée (§1.5).
+
+> *خُبْزٌ*
+> _ḫubzun_
+> du pain
+
+> *ذَهَبٌ*
+> _ḏahabun_
+> de l'or
+
+**4** Ne confondez pas _ح_ et _ه_ (§1.4) : le premier est un souffle serré venu de la gorge (_ḥ_), le second un h aspiré léger (_h_).
+=== EXO
+title: Assembler les lettres | تركيب الحروف
+wording: Écrivez le mot en liant les lettres | اكتب الكلمة
+mode: transfo
+خ + ب + ز => خبز ## pain
+ذ + ه + ب => ذهب ## or
+ج + د + ي + د => جديد ## nouveau
+ح + ب => حب ## amour
+د + ا + ر => دار ## demeure
+ب + ح + ر => بحر ## mer
+ز + ي + ت => زيت ## huile
+ر + ز => رز ## riz
+=== VOCA
+خُبْز | pain:m | noun, mas | niv-a1 | freq-tres | aliment
+ذَهَب | or [métal]:m | noun, mas | niv-a2 | freq-freq | matiere
+حُبّ | amour:m | noun, mas | niv-a1 | freq-tres | emotion
+دَار | demeure:f | noun, fem | niv-a2 | freq-tres | logement | | | | | دُور
+بَحْر | mer:f | noun, mas | niv-a1 | freq-tres | nature |  |  |  |  | بِحَار
+زَيْت | huile:f | noun, mas | niv-a1 | freq-freq | aliment
+أَرُزّ | riz:m | noun, mas | niv-a1 | freq-freq | aliment
+@ref 0003
+@chap 01
+@slug sin-ila-ghayn
+@niv niv-a1
+=== NOTE
+# Les lettres de _س_ à _غ_
+
+**1** _س_ et _ش_ : le même tracé à trois dents, avec ou sans trois points.
+
+| lettre | nom | son |
+| --- | --- | --- |
+| *[ar] س /siːn/* | _sīn_ | s |
+| *[ar] ش /ʃiːn/* | _šīn_ | ch de *[fr] chat /ʃa/* |
+
+**2** Les **emphatiques** se prononcent la langue reculée et le fond de la bouche élargi ; elles assombrissent les voyelles voisines (le *[fr] a /a/* tire vers *[fr] o /o/*) :
+
+| lettre | nom | son |
+| --- | --- | --- |
+| *[ar] ص /sˤaːd/* | _ṣād_ | s emphatique |
+| *[ar] ض /dˤaːd/* | _ḍād_ | d emphatique — l'arabe est « la langue du _ḍād_ » |
+| *[ar] ط /tˤaːʔ/* | _ṭāʾ_ | t emphatique |
+| *[ar] ظ /ðˤaːʔ/* | _ẓāʾ_ | th de *[en] this /ðɪs/*, emphatique |
+
+**3** Deux lettres de gorge :
+
+| lettre | nom | son |
+| --- | --- | --- |
+| *[ar] ع /ʕajn/* | _ʿayn_ | contraction du fond de la gorge, voisée ; sans équivalent français |
+| *[ar] غ /ɣajn/* | _ġayn_ | r grasseyé parisien |
+
+**4** Les paires à distinguer à l'oreille : _س_ / _ص_, _د_ / _ض_, _ت_ / _ط_, _ذ_ / _ظ_. Le sens change : *[ar] سَيْف /sajf/* _sayf_ (épée), *[ar] صَيْف /sˤajf/* _ṣayf_ (été).
+
+> *الصَّيْفُ حَارٌّ.*
+> _aṣ-ṣayfu ḥārrun._
+> L'été est chaud.
+=== EXO
+title: Assembler les lettres | تركيب الحروف
+wording: Écrivez le mot en liant les lettres | اكتب الكلمة
+mode: transfo
+ش + م + س => شمس ## soleil
+ص + ي + ف => صيف ## été
+س + ي + ف => سيف ## épée
+ط + ب + ي + ب => طبيب ## médecin
+ع + ر + ب + ي => عربي ## arabe
+غ + ر + ب => غرب ## ouest
+ظ + ه + ر => ظهر ## dos
+ض + ي + ف => ضيف ## invité
+=== VOCA
+شَمْس | soleil:m | noun, fem | niv-a1 | freq-tres | meteo
+صَيْف | été [saison]:m | noun, mas | niv-a1 | freq-tres | saison
+سَيْف | épée:f | noun, mas | niv-b1 | freq-peu | objet |  |  |  |  | سُيُوف
+طَبِيب | médecin:m | noun, mas | niv-a1 | freq-tres | metier, sante | | | | | أَطِبَّاء
+غَرْب | ouest:m | noun, mas | niv-a2 | freq-freq | geographie
+ظَهْر | dos:m | noun, mas | niv-a2 | freq-freq | corps | | جِسْم
+ضَيْف | invité:m | noun, mas | niv-a2 | freq-freq | relation | | | | | ضُيُوف
+@ref 0004
+@chap 01
+@slug fa-ila-ya
+@niv niv-a1
+=== NOTE
+# Les lettres de _ف_ à _ي_
+
+**1** Les dernières lettres :
+
+| lettre | nom | son |
+| --- | --- | --- |
+| *[ar] ف /faːʔ/* | _fāʾ_ | f — un point au-dessus |
+| *[ar] ق /qaːf/* | _qāf_ | k prononcé tout au fond de la gorge — deux points |
+| *[ar] ك /kaːf/* | _kāf_ | k |
+| *[ar] ل /laːm/* | _lām_ | l |
+| *[ar] م /miːm/* | _mīm_ | m |
+| *[ar] ن /nuːn/* | _nūn_ | n |
+| *[ar] ه /haːʔ/* | _hāʾ_ | h aspiré |
+| *[ar] و /waːw/* | _wāw_ | w ; aussi _ū_ long |
+| *[ar] ي /jaːʔ/* | _yāʾ_ | y ; aussi _ī_ long |
+
+**2** _ه_ change beaucoup de forme : isolée _ه_, initiale _هـ_, médiane _ـهـ_, finale _ـه_.
+
+**3** _ك_ et _ق_ : le premier se prononce comme le k français, le second beaucoup plus en arrière. *[ar] كَلْب /kalb/* _kalb_ (chien), *[ar] قَلْب /qalb/* _qalb_ (cœur).
+
+> *قَلْبِي مَعَكَ.*
+> _qalbī maʿaka._
+> Mon cœur est avec toi.
+
+**4** Vous connaissez maintenant les 28 lettres. L'ordre traditionnel de l'alphabet (_ʾabǧadiyya_ moderne) : _ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي_.
+=== EXO
+title: Assembler les lettres | تركيب الحروف
+wording: Écrivez le mot en liant les lettres | اكتب الكلمة
+mode: transfo
+ك + ل + ب => كلب ## chien
+ق + ل + ب => قلب ## cœur
+ف + ي + ل => فيل ## éléphant
+ن + و + ر => نور ## lumière
+ق + م + ر => قمر ## lune
+ي + و + م => يوم ## jour
+ك + ت + ا + ب => كتاب ## livre
+ب + ي + ت => بيت ## maison
+=== VOCA
+كَلْب | chien:m | noun, mas | niv-a1 | freq-tres | animal | | | | | كِلَاب
+فِيل | éléphant:m | noun, mas | niv-a1 | freq-freq | animal | | | | | أَفْيَال
+قَلْب | cœur:m | noun, mas | niv-a1 | freq-tres | corps |  |  |  |  | قُلُوب
+نُور | lumière:f | noun, mas | niv-a2 | freq-freq | nature
+قَمَر | lune:f | noun, mas | niv-a1 | freq-tres | nature
+يَوْم | jour:m | noun, mas | niv-a1 | freq-ultra | calendrier |  |  |  |  | أَيَّام
+كِتَاب | livre [ouvrage]:m | noun, mas | niv-a1 | freq-ultra | langue-ecrit | | | | | كُتُب
+بَيْت | maison:f | noun, mas | niv-a1 | freq-ultra | logement | | مَسْكَن | | | بُيُوت
+@ref 0005
+@chap 01
+@slug al-wasl
+@niv niv-a1
+=== NOTE
+# Lettres qui ne se lient pas, et _لا_
+
+**1** Six lettres ne se lient **qu'à la lettre précédente**, jamais à la suivante : _ا د ذ ر ز و_. Après elles, le mot se « coupe » visuellement, mais c'est toujours **un seul mot**.
+
+> *وَرْدَةٌ*
+> _wardatun_
+> une rose
+
+Ici _و_, _ر_ et _د_ ne se lient pas à gauche : le mot paraît en trois morceaux.
+
+**2** Toutes les autres lettres se lient des deux côtés.
+
+**3** _ل_ suivi de _ا_ forme une **ligature obligatoire** : _لا_ (_lā_), qui veut d'ailleurs dire « non ».
+
+> *لَا، شُكْرًا.*
+> _lā, šukran._
+> Non, merci.
+
+**4** La tête de _ع_ / _غ_ s'ouvre au milieu d'un mot (_ـعـ_) ; _ي_ final s'écrit avec une boucle (_ـي_), _ي_ initial ou médian n'a que ses deux points.
+
+**5** La lettre isolée et finale porte une « queue » ; pour lire, repérez d'abord les **points**, ils distinguent la plupart des lettres.
+=== EXO
+title: Assembler les lettres | تركيب الحروف
+wording: Écrivez le mot en liant les lettres | اكتب الكلمة
+mode: transfo
+و + ر + د + ة => وردة ## rose
+ل + ا => لا ## non
+و + ز + ي + ر => وزير ## ministre
+د + ر + س => درس ## leçon
+س + ل + ا + م => سلام ## paix
+ع + ر + ب => عرب ## les Arabes
+ب + ل + د => بلد ## pays
+ق + ل + م => قلم ## stylo
+=== VOCA
+وَرْدَة | rose [fleur]:f | noun, fem | niv-a2 | freq-freq | vegetal |  |  |  |  | وُرُود
+لَا | non | particle | niv-a1 | freq-ultra | communication-orale | | جَوَاب
+وَزِير | ministre:m | noun, mas | niv-b1 | freq-freq | institution, metier | | | | | وُزَرَاء
+دَرْس | leçon:f | noun, mas | niv-a1 | freq-tres | ecole |  |  |  |  | دُرُوس
+بَلَد | pays:m | noun, mas | niv-a1 | freq-tres | geographie | | | | | بُلْدَان
+قَلَم | stylo:m; crayon:m | noun, mas | niv-a1 | freq-tres | ecole, objet | | | | | أَقْلَام
+سَلَام | paix:f | noun, mas | niv-a1 | freq-tres | relation

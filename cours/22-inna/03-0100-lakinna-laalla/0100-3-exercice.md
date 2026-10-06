@@ -1,0 +1,37 @@
+# Exercice
+
+## Description
+| attribute   | section | index | lang  | value             |
+| ----------- | ------- | ----- | ----- | ----------------- |
+| ref         |         |       |       | 0100-1            |
+| title       |         |       | fr-FR | Les sœurs de inna |
+|             |         |       | ar-SA | أخوات إن          |
+| wording     |         |       | fr-FR | Traduisez         |
+|             |         |       | ar-SA | ترجم              |
+| categories* |         |       |       | niv-b1            |
+| tags*       |         |       |       |                   |
+
+## Items
+### Common
+| attribute | section | index | lang  |
+| --------- | ------- | ----- | ----- |
+| question  | 1       |       | fr-FR |
+| answer    | 1       |       | ar-SA |
+
+### 1
+| attribute | section | index | lang | value                                                    |
+| --------- | ------- | ----- | ---- | -------------------------------------------------------- |
+| question  |         |       |      | {?1§Peut-être que le directeur est occupé}{type=affix§.} |
+| answer    |         |       |      | {?1§لعل المدير مشغول}{type=affix§.}                      |
+
+### 2
+| attribute | section | index | lang | value                                                            |
+| --------- | ------- | ----- | ---- | ---------------------------------------------------------------- |
+| question  |         |       |      | {?1§La maison est vieille mais le jardin est beau}{type=affix§.} |
+| answer    |         |       |      | {?1§البيت قديم لكن الحديقة جميلة}{type=affix§.}                  |
+
+### 3
+| attribute | section | index | lang | value                                               |
+| --------- | ------- | ----- | ---- | --------------------------------------------------- |
+| question  |         |       |      | {?1§Si seulement le temps était beau}{type=affix§!} |
+| answer    |         |       |      | {?1§ليت الجو جميل}{type=affix§!}                    |

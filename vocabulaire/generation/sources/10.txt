@@ -1,0 +1,143 @@
+@ref 0042
+@chap 10
+@slug hadha-hadhihi
+@niv niv-a1
+=== NOTE
+# _Hāḏā_, _hāḏihi_ : celui-ci, ceci
+
+**1** Le démonstratif de proximité s'accorde en genre :
+
+| masculin | féminin |
+| --- | --- |
+| *هٰذَا* _hāḏā_ | *هٰذِهِ* _hāḏihi_ |
+
+**2** Le _ā_ long de la première syllabe ne s'écrit pas avec un alif, mais avec un petit alif suscrit (souvent omis) : on tape *هذا*, *هذه*.
+
+**3** Employé seul, il vaut « ceci / c'est » :
+
+> *هٰذَا كِتَابٌ.*
+> _hāḏā kitābun._
+> C'est un livre.
+
+> *هٰذِهِ مَدْرَسَتِي.*
+> _hāḏihi madrasatī._
+> C'est mon école.
+
+**4** Pluriels de choses → *هٰذِهِ* (féminin singulier) (§7.4) : *هٰذِهِ كُتُبٌ* (ce sont des livres).
+=== EXO
+title: Hāḏā ou hāḏihi | هذا أم هذه
+wording: Traduisez | ترجم
+mode: trad
+C'est un livre. => هذا كتاب.
+C'est une voiture. => هذه سيارة.
+C'est un médecin. => هذا طبيب.
+C'est une école. => هذه مدرسة.
+Ce sont des livres. => هذه كتب.
+C'est (bien) la mer. => هذا هو البحر.
+=== VOCA
+هٰذَا | ceci; celui-ci | pron | niv-a1 | freq-ultra | | | | hādhā | fr-FR§masculin
+هٰذِهِ | ceci; celle-ci | pron | niv-a1 | freq-ultra | | | | hādhihi | fr-FR§féminin, ou pluriel de choses
+@ref 0043
+@chap 10
+@slug dhalika-tilka
+@niv niv-a1
+=== NOTE
+# _Ḏālika_, _tilka_ : celui-là, cela
+
+**1** Le démonstratif d'éloignement :
+
+| masculin | féminin |
+| --- | --- |
+| *ذٰلِكَ* _ḏālika_ | *تِلْكَ* _tilka_ |
+
+Même alif suscrit dans *ذٰلِكَ* : on tape *ذلك*.
+
+> *ذٰلِكَ الرَّجُلُ طَبِيبٌ.*
+> _ḏālika r-raǧulu ṭabībun._
+> Cet homme-là est médecin.
+
+> *تِلْكَ المَدِينَةُ بَعِيدَةٌ.*
+> _tilka l-madīnatu baʿīdatun._
+> Cette ville-là est loin.
+
+**2** *ذٰلِكَ* sert aussi à reprendre une idée : *لِذٰلِكَ* _li-ḏālika_ (c'est pourquoi).
+=== EXO
+title: Ḏālika ou tilka | ذلك أم تلك
+wording: Traduisez | ترجم
+mode: trad
+cet homme-là => ذلك الرجل
+cette ville-là => تلك المدينة
+Cette ville-là est loin. => تلك المدينة بعيدة.
+ce livre-là => ذلك الكتاب
+cette voiture-là => تلك السيارة
+=== VOCA
+ذٰلِكَ | cela; celui-là | pron | niv-a1 | freq-ultra | | | | dhalika | fr-FR§masculin
+تِلْكَ | cela; celle-là | pron | niv-a1 | freq-tres | | | | tilka | fr-FR§féminin, ou pluriel de choses
+بَعِيد | lointain; éloigné | adj | niv-a1 | freq-tres | lieu
+قَرِيب | proche | adj | niv-a1 | freq-tres | lieu
+لِذٰلِكَ | c'est pourquoi | locution, adv | niv-a2 | freq-tres | pensee
+@ref 0044
+@chap 10
+@slug haulai-ulaika
+@niv niv-a2
+=== NOTE
+# Le pluriel et le duel des démonstratifs
+
+**1** Pour des **personnes** au pluriel (sans distinction de genre) :
+
+| proche | éloigné |
+| --- | --- |
+| *هٰؤُلَاءِ* _hāʾulāʾi_ (ceux-ci, celles-ci) | *أُولٰئِكَ* _ʾulāʾika_ (ceux-là, celles-là) |
+
+On tape *هؤلاء* et *أولئك* (le _و_ de *أولئك* ne se prononce pas).
+
+**2** Duel : *هٰذَانِ* _hāḏāni_ (masc.), *هَاتَانِ* _hātāni_ (fém.) — complément *هٰذَيْنِ*, *هَاتَيْنِ*.
+
+> *هٰؤُلَاءِ طُلَّابٌ جُدُدٌ.*
+> _hāʾulāʾi ṭullābun ǧududun._
+> Ce sont de nouveaux étudiants.
+
+**3** Pluriels de **choses** : *هٰذِهِ* / *تِلْكَ* (§10.1).
+=== EXO
+title: Démonstratifs pluriels et duels | أسماء الإشارة
+wording: Traduisez | ترجم
+mode: trad
+Ce sont des étudiants. => هؤلاء طلاب.
+ces hommes-là => أولئك الرجال
+ces deux livres => هذان الكتابان
+ces deux filles => هاتان البنتان
+ces voitures => هذه السيارات
+=== VOCA
+هٰؤُلَاءِ | ceux-ci; celles-ci | pron | niv-a1 | freq-tres |  |  |  | haulai
+أُولٰئِكَ | ceux-là; celles-là | pron | niv-a2 | freq-freq |  |  |  | ulaika
+@ref 0045
+@chap 10
+@slug al-ishara-wal-tarif
+@niv niv-a2
+=== NOTE
+# « Ce livre » ou « c'est un livre » ?
+
+**1** Démonstratif + nom **défini** = groupe « ce… » ; démonstratif + nom **indéfini** = phrase « c'est un… » :
+
+| arabe | sens |
+| --- | --- |
+| *هٰذَا الكِتَابُ* | ce livre |
+| *هٰذَا كِتَابٌ* | c'est un livre |
+| *هٰذَا الكِتَابُ جَدِيدٌ* | ce livre est neuf |
+| *هٰذَا هُوَ الكِتَابُ* | c'est (bien) le livre |
+
+**2** Avec une annexion (§11.1), le démonstratif se met **après** : *كِتَابُ الطَّالِبِ هٰذَا* (ce livre de l'étudiant).
+
+> *هٰذِهِ السَّيَّارَةُ لِأَبِي.*
+> _hāḏihi s-sayyāratu li-ʾabī._
+> Cette voiture est à mon père.
+=== EXO
+title: Groupe ou phrase | المركب أم الجملة
+wording: Traduisez | ترجم
+mode: trad
+ce livre => هذا الكتاب
+C'est un livre. => هذا كتاب.
+Ce livre est neuf. => هذا الكتاب جديد.
+Cette école est grande. => هذه المدرسة كبيرة.
+C'est une grande école. => هذه مدرسة كبيرة.
+=== VOCA

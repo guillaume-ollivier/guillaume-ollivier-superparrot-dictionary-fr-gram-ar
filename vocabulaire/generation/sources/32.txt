@@ -1,0 +1,205 @@
+@ref 0140
+@chap 32
+@slug masdar-1
+@niv niv-b1
+=== NOTE
+# Le nom verbal de la forme I
+
+**1** Le **nom verbal** (_maṣdar_) désigne l'action elle-même : « l'écriture, le fait d'écrire ». Il sert d'infinitif nominal.
+
+**2** En forme I, il n'est **pas prévisible** et s'apprend avec le verbe :
+
+| verbe | nom verbal |
+| --- | --- |
+| *كَتَبَ* | *كِتَابَة* (écriture) |
+| *دَرَسَ* | *دِرَاسَة* (études) |
+| *شَرِبَ* | *شُرْب* (boisson, fait de boire) |
+| *خَرَجَ* | *خُرُوج* (sortie) |
+| *دَخَلَ* | *دُخُول* (entrée) |
+| *عَمِلَ* | *عَمَل* (travail) |
+| *سَافَرَ* (III) | *سَفَر* / *مُسَافَرَة* (voyage) |
+
+> *الدُّخُولُ مَجَّانِيٌّ.*
+> _ad-duḫūlu maǧǧāniyyun._
+> L'entrée est gratuite.
+
+**3** Il se construit comme un nom (article, annexion) : *قَبْلَ خُرُوجِي* (avant ma sortie, avant que je sorte).
+=== EXO
+title: Nom verbal (forme I) | مصدر الثلاثي
+wording: Donnez le nom verbal | اكتب المصدر
+mode: transfo
+كتب => كتابة
+درس => دراسة
+خرج => خروج
+دخل => دخول
+عمل => عمل
+شرب => شرب
+=== VOCA
+دُخُول | entrée [action d'entrer]:f | noun, mas, masdar | niv-a2 | freq-tres | deplacement
+خُرُوج | sortie [action de sortir]:f | noun, mas, masdar | niv-a2 | freq-tres | deplacement
+مَجَّانِيّ | gratuit | adj, nisba | niv-a2 | freq-freq | argent
+كِتَابَة | écriture:f | noun, fem, masdar | niv-a2 | freq-tres | langue-ecrit
+@ref 0141
+@chap 32
+@slug masdar-mazid
+@niv niv-b1
+=== NOTE
+# Le nom verbal des formes dérivées
+
+**1** Pour les formes II à X, le nom verbal est **régulier** (§29.6) :
+
+| forme | verbe | nom verbal |
+| --- | --- | --- |
+| II | *دَرَّسَ* | *تَدْرِيس* (enseignement) |
+| III | *سَاعَدَ* | *مُسَاعَدَة* (aide) |
+| IV | *أَرْسَلَ* | *إِرْسَال* (envoi) |
+| V | *تَعَلَّمَ* | *تَعَلُّم* (apprentissage) |
+| VI | *تَعَاوَنَ* | *تَعَاوُن* (coopération) |
+| VII | *اِنْقَطَعَ* | *اِنْقِطَاع* (coupure) |
+| VIII | *اِجْتَمَعَ* | *اِجْتِمَاع* (réunion) |
+| X | *اِسْتَعْمَلَ* | *اِسْتِعْمَال* (usage) |
+
+**2** Le nom verbal de la forme IV commence par *إِ* (avec _hamza_), celui des formes VII, VIII et X par *اِ* (sans _hamza_).
+
+> *عِنْدِي اجْتِمَاعٌ فِي العَاشِرَةِ.*
+> _ʿindī jtimāʿun fī l-ʿāširati._
+> J'ai une réunion à dix heures.
+=== EXO
+title: Nom verbal des formes dérivées | مصدر المزيد
+wording: Donnez le nom verbal | اكتب المصدر
+mode: transfo
+درّس => تدريس
+ساعد => مساعدة
+أرسل => إرسال
+تعلّم => تعلم
+تعاون => تعاون
+اجتمع => اجتماع
+استعمل => استعمال
+استقبل => استقبال
+=== VOCA
+اِجْتِمَاع | réunion:f | noun, mas, masdar | niv-a2 | freq-tres | travail |  |  |  |  | اِجْتِمَاعَات
+مُسَاعَدَة | aide:f | noun, fem, masdar | niv-a2 | freq-tres | echange
+تَدْرِيس | enseignement:m | noun, mas, masdar | niv-b1 | freq-freq | ecole
+@ref 0142
+@chap 32
+@slug ism-al-fail
+@niv niv-b1
+=== NOTE
+# Le participe actif
+
+**1** Le participe actif (_ism al-fāʿil_) désigne **celui qui fait** l'action ; il sert de nom et d'adjectif.
+- Forme I : schème *فَاعِل* : *كَاتِب* (écrivant, écrivain), *سَاكِن* (habitant).
+- Formes dérivées : préfixe *مُـ* + radical de l'inaccompli en _i_ : *مُدَرِّس* (II, professeur), *مُسَاعِد* (III, assistant), *مُسْتَعْمِل* (X, utilisateur).
+
+**2** Il exprime souvent un **état présent** ou un futur proche, là où le français met un verbe :
+
+> *أَنَا ذَاهِبٌ إِلَى السُّوقِ.*
+> _ʾanā ḏāhibun ʾilā s-sūqi._
+> Je vais au marché. (je suis en train d'y aller)
+
+> *هَلْ أَنْتَ فَاهِمٌ؟*
+> _hal ʾanta fāhimun?_
+> Tu as compris ?
+
+**3** Il s'accorde comme un adjectif : *ذَاهِبَة*, *ذَاهِبُونَ*.
+=== EXO
+title: Participe actif | اسم الفاعل
+wording: Formez le participe actif | اكتب اسم الفاعل
+mode: transfo
+ذهب => ذاهب
+سكن => ساكن
+فهم => فاهم
+درّس => مدرس
+ساعد => مساعد
+استعمل => مستعمل
+=== EXO
+title: Participe en phrase | اسم الفاعل في جملة
+wording: Traduisez avec un participe | ترجم
+mode: trad
+Je vais au marché. (homme) => أنا ذاهب إلى السوق.
+Je vais au marché. (femme) => أنا ذاهبة إلى السوق.
+Tu as compris ? (à un homme) => هل أنت فاهم؟ | أنت فاهم؟
+=== VOCA
+سَكَنَ | habiter | verb, verb-intrans | niv-a1 | freq-tres | habitation
+ذَاهِب | allant | adj | niv-a2 | freq-freq | deplacement
+مُسَاعِد | assistant:m; adjoint:m | noun, mas | niv-b1 | freq-freq | travail | | | | | مُسَاعِدُون
+@ref 0143
+@chap 32
+@slug ism-al-maful
+@niv niv-b1
+=== NOTE
+# Le participe passif
+
+**1** Le participe passif (_ism al-mafʿūl_) désigne **ce qui subit** l'action.
+- Forme I : schème *مَفْعُول* : *مَكْتُوب* (écrit), *مَعْرُوف* (connu), *مَشْغُول* (occupé).
+- Formes dérivées : *مُـ* + radical en **_a_** : *مُرْسَل* (envoyé, IV), *مُسْتَعْمَل* (utilisé, d'occasion, X).
+
+**2** Sans voyelles, *مستعمل* vaut « utilisateur » (_mustaʿmil_) ou « utilisé » (_mustaʿmal_).
+
+> *البَابُ مَفْتُوحٌ.*
+> _al-bābu maftūḥun._
+> La porte est ouverte.
+
+> *سَيَّارَةٌ مُسْتَعْمَلَةٌ*
+> _sayyāratun mustaʿmalatun_
+> une voiture d'occasion
+=== EXO
+title: Participe passif | اسم المفعول
+wording: Formez le participe passif | اكتب اسم المفعول
+mode: transfo
+فتح => مفتوح
+كتب => مكتوب
+عرف => معروف
+شغل => مشغول
+كسر => مكسور
+=== EXO
+title: Participe passif en phrase | اسم المفعول
+wording: Traduisez | ترجم
+mode: trad
+La porte est ouverte. => الباب مفتوح.
+une voiture d'occasion => سيارة مستعملة
+Le verre est cassé. => الكأس مكسورة.
+=== VOCA
+مَفْتُوح | ouvert | adj | niv-a1 | freq-tres | etat
+مَكْسُور | cassé | adj | niv-a2 | freq-freq | etat
+مُسْتَعْمَل | d'occasion; usagé | adj | niv-b1 | freq-freq | commerce
+@ref 0144
+@chap 32
+@slug ism-al-makan-wal-ala
+@niv niv-b2
+=== NOTE
+# Noms de lieu et d'instrument
+
+**1** Le **nom de lieu** (_ism al-makān_) se forme sur *مَفْعَل* / *مَفْعِل* / *مَفْعَلَة* :
+
+| racine | lieu |
+| --- | --- |
+| _ك ت ب_ | *مَكْتَب* (bureau), *مَكْتَبَة* (bibliothèque) |
+| _ج ل س_ | *مَجْلِس* (conseil, salon) |
+| _ط ع م_ | *مَطْعَم* (restaurant) |
+| _س ج د_ | *مَسْجِد* (mosquée, lieu de prosternation) |
+
+**2** Le **nom d'instrument** (_ism al-ʾāla_) se forme sur *مِفْعَال*, *مِفْعَل* ou *مِفْعَلَة* :
+
+| racine | instrument |
+| --- | --- |
+| _ف ت ح_ | *مِفْتَاح* (clé) |
+| _ن ش ر_ | *مِنْشَار* (scie) |
+| _م س ح_ | *مِمْسَحَة* (serpillière) |
+| _ك ن س_ | *مِكْنَسَة* (balai) |
+
+> *أَيْنَ المِفْتَاحُ؟ — فِي المَطْبَخِ.*
+> _ʾayna l-miftāḥu? — fī l-maṭbaḫi._
+> Où est la clé ? — Dans la cuisine.
+=== EXO
+title: Lieu et instrument | اسم المكان والآلة
+wording: Formez le nom sur le schème indiqué | صُغ على الوزن
+mode: transfo
+طبخ ← مفعل => مطبخ
+لعب ← مفعل => ملعب
+فتح ← مفعال => مفتاح
+كنس ← مفعلة => مكنسة
+جلس ← مفعِل => مجلس
+=== VOCA
+مَجْلِس | conseil [assemblée]:m | noun, mas | niv-b1 | freq-tres | institution |  |  |  |  | مَجَالِس
+مِكْنَسَة | balai:m | noun, fem | niv-b1 | freq-peu | objet | | | | | مَكَانِس

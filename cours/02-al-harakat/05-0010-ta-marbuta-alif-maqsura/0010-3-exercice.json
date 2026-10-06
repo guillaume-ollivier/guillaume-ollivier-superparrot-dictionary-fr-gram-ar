@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0010-1",
+  "source": "source=AR§reference=0010-1",
+  "title": "lang=fr-FR§{Tāʾ marbūṭa et alif maqṣūra}lang=ar-SA§{التاء المربوطة والألف المقصورة}",
+  "wording": "lang=fr-FR§{Écrivez en arabe}lang=ar-SA§{اكتب بالعربية}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§madrasa (école)}",
+      "answer": "{?1§مدرسة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§sayyāra (voiture)}",
+      "answer": "{?1§سيارة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§ʿalā (sur)}",
+      "answer": "{?1§على}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§mustašfā (hôpital)}",
+      "answer": "{?1§مستشفى}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§ṭāwila (table)}",
+      "answer": "{?1§طاولة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§maʿnā (sens)}",
+      "answer": "{?1§معنى}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

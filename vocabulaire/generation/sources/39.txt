@@ -1,0 +1,173 @@
+@ref 0173
+@chap 39
+@slug mutabaqat-al-fil
+@niv niv-b1
+=== NOTE
+# L'accord du verbe : récapitulatif
+
+**1** Verbe **avant** un sujet nom : singulier, accordé en genre (§17.5).
+
+> *وَصَلَ المُسَافِرُونَ.* / *وَصَلَتِ المُسَافِرَاتُ.*
+> _waṣala l-musāfirūna. / waṣalati l-musāfirātu._
+> Les voyageurs sont arrivés. / Les voyageuses sont arrivées.
+
+**2** Verbe **après** le sujet : accord complet en genre et en nombre.
+
+> *المُسَافِرُونَ وَصَلُوا.*
+> _al-musāfirūna waṣalū._
+> Les voyageurs, ils sont arrivés.
+
+**3** Pluriel de **choses** : verbe au féminin singulier, quel que soit l'ordre : *وَصَلَتِ الطَّائِرَاتُ*, *الطَّائِرَاتُ وَصَلَتْ*.
+
+**4** Le féminin est facultatif quand un mot sépare le verbe d'un sujet féminin : *حَضَرَ الاِجْتِمَاعَ امْرَأَةٌ* est admis, mais *حَضَرَتْ* est plus courant.
+=== EXO
+title: Accorder le verbe | مطابقة الفعل
+wording: Traduisez | ترجم
+mode: trad
+Les voyageurs sont arrivés. => وصل المسافرون.
+Les voyageuses sont arrivées. => وصلت المسافرات.
+Les avions sont arrivés. => وصلت الطائرات.
+Les voyageurs, ils sont arrivés. => المسافرون وصلوا.
+Les étudiantes ont écrit. => كتبت الطالبات.
+=== VOCA
+مُسَافِر | voyageur:m | noun, mas | niv-a2 | freq-freq | voyage, personne | | | | | مُسَافِرُون
+طَائِرَة | avion:m | noun, fem | niv-a1 | freq-tres | transport, voyage | | | | | طَائِرَات
+@ref 0174
+@chap 39
+@slug al-ismiyya-wal-filiyya
+@niv niv-b2
+=== NOTE
+# Phrase verbale ou nominale ?
+
+**1** Toute phrase arabe est soit **nominale** (commence par un nom), soit **verbale** (commence par un verbe). L'une et l'autre peuvent contenir un verbe :
+
+| phrase | type | valeur |
+| --- | --- | --- |
+| *ذَهَبَ أَحْمَدُ إِلَى السُّوقِ* | verbale | récit neutre |
+| *أَحْمَدُ ذَهَبَ إِلَى السُّوقِ* | nominale | « Ahmed, lui, est allé… » (thème mis en avant) |
+
+**2** La presse et le récit préfèrent la phrase verbale ; la conversation et les dialectes, la phrase nominale.
+
+**3** Le **thème** peut être repris par un pronom dans la suite : *هٰذَا الكِتَابُ قَرَأْتُهُ* (ce livre, je l'ai lu).
+
+> *الأَطْفَالُ يَلْعَبُونَ فِي الحَدِيقَةِ.*
+> _al-ʾaṭfālu yalʿabūna fī l-ḥadīqati._
+> Les enfants jouent dans le jardin.
+=== EXO
+title: Thème en tête | الجملة الاسمية
+wording: Mettez le sujet en tête | قدّم الفاعل
+mode: transfo
+ذهب أحمد إلى السوق. => أحمد ذهب إلى السوق.
+يلعب الأطفال في الحديقة. => الأطفال يلعبون في الحديقة.
+كتب الطلاب الدرس. => الطلاب كتبوا الدرس.
+وصلت الطائرة. => الطائرة وصلت.
+=== VOCA
+طِفْل | enfant:m | noun, mas | niv-a1 | freq-tres | famille, age-etat | | | | | أَطْفَال
+@ref 0175
+@chap 39
+@slug adawat-ar-rabt
+@niv niv-b1
+=== NOTE
+# Les connecteurs
+
+| mot | sens | exemple |
+| --- | --- | --- |
+| *وَ* | et | *أَكَلْتُ وَشَرِبْتُ* |
+| *فَـ* | et alors, et aussitôt | *دَخَلَ فَجَلَسَ* (il entra et s'assit) |
+| *ثُمَّ* | puis, ensuite (après un délai) | *دَرَسَ ثُمَّ نَامَ* |
+| *أَوْ* | ou | *شَايٌ أَوْ قَهْوَةٌ* |
+| *أَمْ* | ou (dans une question) | *أَشَايٌ أَمْ قَهْوَةٌ؟* |
+| *بَلْ* | mais plutôt | *لَيْسَ طَبِيبًا بَلْ مُهَنْدِسٌ* |
+| *لٰكِنْ* | mais | *أُرِيدُ لٰكِنْ لَا أَسْتَطِيعُ* |
+
+**1** *وَ* et *فَـ* s'écrivent collés au mot suivant.
+
+**2** L'arabe enchaîne volontiers les phrases par *وَ* là où le français met un point : en traduisant, on coupe.
+
+> *اِسْتَيْقَظْتُ فَشَرِبْتُ القَهْوَةَ ثُمَّ خَرَجْتُ.*
+> _istayqaẓtu fa-šaribtu l-qahwata ṯumma ḫaraǧtu._
+> Je me suis réveillé, j'ai bu le café, puis je suis sorti.
+=== EXO
+title: Connecteurs | أدوات الربط
+wording: Traduisez | ترجم
+mode: trad
+Il est entré et s'est assis. => دخل فجلس.
+Il a étudié puis il a dormi. => درس ثم نام.
+Du thé ou du café ? => شاي أم قهوة؟ | أشاي أم قهوة؟
+Il n'est pas médecin mais ingénieur. => ليس طبيبا بل مهندس.
+Je veux mais je ne peux pas. => أريد لكن لا أستطيع. | أريد ولكن لا أستطيع.
+=== VOCA
+ثُمَّ | puis; ensuite | conj | niv-a2 | freq-tres | moment
+أَوْ | ou | conj | niv-a1 | freq-ultra | | | | aw
+أَمْ | ou | conj | niv-b1 | freq-freq | | | | am | fr-FR§dans une question
+بَلْ | mais plutôt; bien plus | conj | niv-b1 | freq-tres |  |  |  | bal
+اِسْتَيْقَظَ | se réveiller | verb, verb-intrans, verb-derived | niv-a2 | freq-freq | sommeil
+@ref 0176
+@chap 39
+@slug al-kalam-al-manqul
+@niv niv-b2
+=== NOTE
+# Le discours rapporté
+
+**1** On rapporte les paroles avec *قَالَ إِنَّ* (§22.2), ou avec *أَنَّ* après les autres verbes (*ذَكَرَ*, *أَعْلَنَ*, *أَكَّدَ*). La concordance des temps **n'existe pas** : on garde le temps de l'original.
+
+> *قَالَ إِنَّهُ سَيَأْتِي غَدًا.*
+> _qāla ʾinnahu sayaʾtī ġadan._
+> Il a dit qu'il viendrait le lendemain.
+
+> *أَعْلَنَتِ الوِزَارَةُ أَنَّ المَدَارِسَ سَتُغْلَقُ.*
+> _ʾaʿlanati l-wizāratu ʾanna l-madārisa satuġlaqu._
+> Le ministère a annoncé que les écoles seraient fermées.
+
+**2** Question rapportée : *سَأَلَنِي هَلْ…* / *سَأَلَنِي مَتَى…* (il m'a demandé si / quand…).
+
+**3** Ordre rapporté : *طَلَبَ مِنِّي أَنْ…* + subjonctif (il m'a demandé de…).
+=== EXO
+title: Discours rapporté | الكلام المنقول
+wording: Traduisez | ترجم
+mode: trad
+Il a dit qu'il viendrait demain. => قال إنه سيأتي غدا.
+Il m'a demandé si j'étais étudiant. => سألني هل أنا طالب. | سألني إذا كنت طالبا.
+Il m'a demandé de partir. => طلب مني أن أذهب.
+Le ministère a annoncé que les écoles seraient fermées. => أعلنت الوزارة أن المدارس ستغلق.
+=== VOCA
+أَعْلَنَ | annoncer | verb, verb-trans, verb-derived | niv-b1 | freq-tres | media
+طَلَبَ | demander [une chose] | verb, verb-trans | niv-a2 | freq-tres | volonte
+وِزَارَة | ministère:m | noun, fem | niv-b1 | freq-tres | institution |  |  |  |  | وِزَارَات
+@ref 0177
+@chap 39
+@slug an-nida
+@niv niv-b1
+=== NOTE
+# Le vocatif : _yā_ et _ʾayyuhā_
+
+**1** On interpelle avec *يَا* + nom **sans article** (au nominatif, sans _tanwīn_) :
+
+> *يَا أَحْمَدُ، تَعَالَ!*
+> _yā ʾaḥmadu, taʿāla!_
+> Ahmed, viens !
+
+> *يَا أُسْتَاذُ!*
+> _yā ʾustāḏu!_
+> Monsieur le professeur !
+
+**2** Devant un nom avec article, on intercale *أَيُّهَا* (masc.) / *أَيَّتُهَا* (fém.) :
+
+> *أَيُّهَا الطُّلَّابُ، اِسْمَعُوا!*
+> _ʾayyuhā ṭ-ṭullābu, smaʿū!_
+> Étudiants, écoutez !
+
+**3** Avec un nom en annexion, celui-ci est à l'accusatif : *يَا عَبْدَ اللّٰهِ*. Formule de discours : *أَيُّهَا السَّيِّدَاتُ وَالسَّادَةُ* (mesdames et messieurs).
+=== EXO
+title: Interpeller | النداء
+wording: Traduisez | ترجم
+mode: trad
+Ahmed, viens ! => يا أحمد، تعال! | يا أحمد تعال!
+Monsieur le professeur ! => يا أستاذ!
+Étudiants, écoutez ! => أيها الطلاب، اسمعوا! | أيها الطلاب اسمعوا!
+Mesdames et messieurs => أيها السيدات والسادة | سيداتي سادتي
+=== VOCA
+يَا | ô [vocatif] | particle | niv-a1 | freq-tres |  |  |  | ya
+أُسْتَاذ | professeur:m | noun, mas | niv-a1 | freq-tres | metier, ecole | | | | fr-FR§d'université, ou titre de politesse | أَسَاتِذَة
+سَيِّد | monsieur:m | noun, mas | niv-a1 | freq-tres | personne | | | | | سَادَة:messieurs
+سَيِّدَة | madame:f; dame:f | noun, fem | niv-a1 | freq-tres | personne | | | | | سَيِّدَات:mesdames; dames

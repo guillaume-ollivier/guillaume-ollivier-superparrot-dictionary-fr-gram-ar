@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0171-1",
+  "source": "source=AR§reference=0171-1",
+  "title": "lang=fr-FR§{Temps et cause}lang=ar-SA§{الظرف والمفعول لأجله}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§le matin}",
+      "answer": "{?1§صباحا}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§la nuit}",
+      "answer": "{?1§ليلا}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Je travaille le soir}{type=affix§.}",
+      "answer": "{?1§{أعمل مساء|اعمل مساء}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§par respect pour l'instituteur}",
+      "answer": "{?1§احتراما للمعلم}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§Il est resté par peur}{type=affix§.}",
+      "answer": "{?1§بقي خوفا}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

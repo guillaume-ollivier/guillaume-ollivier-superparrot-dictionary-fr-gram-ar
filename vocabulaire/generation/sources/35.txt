@@ -1,0 +1,173 @@
+@ref 0154
+@chap 35
+@slug afal-min
+@niv niv-b1
+=== NOTE
+# Le comparatif : _ʾafʿal min_
+
+**1** Le comparatif se forme sur le schème *أَفْعَل*, **invariable**, suivi de *مِنْ* (que) :
+
+| adjectif | comparatif |
+| --- | --- |
+| *كَبِير* (grand) | *أَكْبَرُ* (plus grand) |
+| *صَغِير* (petit) | *أَصْغَرُ* |
+| *جَمِيل* (beau) | *أَجْمَلُ* |
+| *قَرِيب* (proche) | *أَقْرَبُ* |
+| *سَهْل* (facile) | *أَسْهَلُ* |
+
+> *القَاهِرَةُ أَكْبَرُ مِنْ بَيْرُوتَ.*
+> _al-qāhiratu ʾakbaru min bayrūta._
+> Le Caire est plus grand que Beyrouth.
+
+**2** *أَفْعَل* ne change ni en genre ni en nombre : *هِيَ أَكْبَرُ مِنِّي* (elle est plus âgée que moi).
+
+**3** Adjectifs à consonnes redoublées : *جَدِيد* → *أَجَدُّ* ; mais on dit plutôt *أَحْدَثُ* (plus récent).
+
+**4** Comparatifs irréguliers : *خَيْر* → *خَيْرٌ مِنْ* (meilleur), *شَرّ* → *شَرٌّ مِنْ* (pire).
+=== EXO
+title: Former le comparatif | اسم التفضيل
+wording: Donnez le comparatif | اكتب اسم التفضيل
+mode: transfo
+كبير => أكبر
+صغير => أصغر
+جميل => أجمل
+قريب => أقرب
+سهل => أسهل
+بعيد => أبعد
+=== EXO
+title: Comparer | المقارنة
+wording: Traduisez | ترجم
+mode: trad
+Le Caire est plus grand que Beyrouth. => القاهرة أكبر من بيروت.
+Elle est plus âgée que moi. => هي أكبر مني.
+L'arabe est plus difficile que le français. => العربية أصعب من الفرنسية.
+=== VOCA
+@ref 0155
+@chap 35
+@slug at-tafdil-al-mutlaq
+@niv niv-b1
+=== NOTE
+# Le superlatif
+
+**1** Le superlatif est le comparatif **en annexion** :
+- avec un nom **indéfini singulier** : *أَكْبَرُ مَدِينَةٍ* (la plus grande ville) ;
+- avec un nom **défini pluriel** : *أَكْبَرُ المُدُنِ* (la plus grande des villes).
+
+> *القَاهِرَةُ أَكْبَرُ مَدِينَةٍ عَرَبِيَّةٍ.*
+> _al-qāhiratu ʾakbaru madīnatin ʿarabiyyatin._
+> Le Caire est la plus grande ville arabe.
+
+**2** Avec un pronom suffixe : *أَكْبَرُهُمْ* (le plus grand d'entre eux).
+
+**3** *أَفْعَل* reste invariable dans ces tournures : *هِيَ أَذْكَى طَالِبَةٍ* (c'est l'étudiante la plus intelligente).
+=== EXO
+title: Superlatif | التفضيل المطلق
+wording: Traduisez | ترجم
+mode: trad
+la plus grande ville => أكبر مدينة
+la plus grande des villes => أكبر المدن
+le plus beau jour => أجمل يوم
+le plus âgé d'entre eux => أكبرهم
+l'étudiante la plus intelligente => أذكى طالبة
+=== VOCA
+ذَكِيّ | intelligent | adj | niv-a1 | freq-tres | caractere
+@ref 0156
+@chap 35
+@slug akthar-tamyiz
+@niv niv-b2
+=== NOTE
+# Comparer les autres adjectifs
+
+**1** Les adjectifs qui ne peuvent pas prendre le schème *أَفْعَل* (participes, couleurs, _nisba_, mots longs) se comparent avec *أَكْثَرُ* (plus) ou *أَقَلُّ* (moins) + **nom verbal à l'accusatif** (_tamyīz_) (§38.2) :
+
+> *هٰذَا الطَّرِيقُ أَكْثَرُ ازْدِحَامًا.*
+> _hāḏā ṭ-ṭarīqu ʾakṯaru zdiḥāman._
+> Cette route est plus encombrée. (litt. plus en encombrement)
+
+> *هِيَ أَكْثَرُ نَشَاطًا مِنْ أَخِيهَا.*
+> _hiya ʾakṯaru našāṭan min ʾaḫīhā._
+> Elle est plus active que son frère.
+
+**2** La même tournure sert pour les couleurs : *أَشَدُّ حُمْرَةً* (plus rouge).
+
+**3** *أَكْثَرُ* seul = « plus, davantage » : *أُحِبُّهُ أَكْثَرَ* (je l'aime davantage).
+=== EXO
+title: Plus / moins + nom | أكثر وأقل
+wording: Traduisez | ترجم
+mode: trad
+Cette route est plus encombrée. => هذا الطريق أكثر ازدحاما.
+Elle est plus active que son frère. => هي أكثر نشاطا من أخيها.
+moins cher => أقل ثمنا | أرخص
+Je l'aime davantage. => أحبه أكثر.
+=== VOCA
+أَكْثَر | plus::adv; davantage::adv | adj | niv-a2 | freq-ultra | quantite
+أَقَلّ | moins::adv | adj | niv-a2 | freq-tres | quantite
+نَشَاط | activité:f; dynamisme:m | noun, mas, masdar | niv-b1 | freq-tres | action | | | | | أَنْشِطَة:activités
+ثَمَن | prix [coût]:m | noun, mas | niv-a2 | freq-freq | argent, commerce | | | | | أَثْمَان
+@ref 0157
+@chap 35
+@slug fula
+@niv niv-b2
+=== NOTE
+# Le féminin _fuʿlā_ : _al-kubrā_
+
+**1** Quand le superlatif est employé comme **adjectif défini** (après le nom, avec l'article), il s'accorde — féminin en *فُعْلَى* :
+
+| masculin | féminin |
+| --- | --- |
+| *الأَكْبَرُ* | *الكُبْرَى* (la plus grande) |
+| *الأَصْغَرُ* | *الصُّغْرَى* |
+| *الأَوَّلُ* | *الأُولَى* |
+| *الأَعْلَى* | *العُلْيَا* |
+
+> *الحَرْبُ العَالَمِيَّةُ الأُولَى*
+> _al-ḥarbu l-ʿālamiyyatu l-ʾūlā_
+> la Première Guerre mondiale
+
+> *المَسْجِدُ الأَكْبَرُ*
+> _al-masǧidu l-ʾakbaru_
+> la Grande Mosquée
+
+**2** Usages figés : *أَخِي الأَكْبَرُ* (mon frère aîné), *أُخْتِي الصُّغْرَى* (ma petite sœur, la cadette), *الشَّرْقُ الأَوْسَطُ* (le Moyen-Orient).
+=== EXO
+title: Fuʿlā | فعلى
+wording: Traduisez | ترجم
+mode: trad
+mon frère aîné => أخي الأكبر
+ma petite sœur => أختي الصغرى
+la Première Guerre mondiale => الحرب العالمية الأولى
+le Moyen-Orient => الشرق الأوسط
+=== VOCA
+عَالَمِيّ | mondial | adj, nisba | niv-b1 | freq-tres | geographie
+الشَّرْقُ الأَوْسَطُ | Moyen-Orient:m | locution, noun-pro | niv-b1 | freq-freq | geographie
+@ref 0158
+@chap 35
+@slug at-taajjub
+@niv niv-b2
+=== NOTE
+# L'exclamation : _mā ʾafʿala_
+
+**1** L'admiration « comme… ! » se dit *مَا* + *أَفْعَلَ* (en _-a_) + nom à l'**accusatif** :
+
+> *مَا أَجْمَلَ السَّمَاءَ!*
+> _mā ʾaǧmala s-samāʾa!_
+> Que le ciel est beau !
+
+> *مَا أَطْيَبَ هٰذَا الطَّعَامَ!*
+> _mā ʾaṭyaba hāḏā ṭ-ṭaʿāma!_
+> Comme ce plat est délicieux !
+
+**2** Avec un pronom : *مَا أَجْمَلَهَا!* (qu'elle est belle !).
+
+**3** Plus familier : *يَا لَـ* + nom : *يَا لَهُ مِنْ يَوْمٍ!* (quelle journée !).
+=== EXO
+title: Exclamation | التعجب
+wording: Traduisez | ترجم
+mode: trad
+Que le ciel est beau ! => ما أجمل السماء!
+Comme ce plat est délicieux ! => ما أطيب هذا الطعام!
+Qu'elle est belle ! => ما أجملها!
+Comme la mer est grande ! => ما أكبر البحر!
+=== VOCA
+طَيِّب | délicieux; bon [au goût] | adj | niv-a2 | freq-tres | qualite
+طَعَام | nourriture:f | noun, mas | niv-a1 | freq-tres | aliment | | | | | أَطْعِمَة:aliments@m

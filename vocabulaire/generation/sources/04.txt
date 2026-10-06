@@ -1,0 +1,205 @@
+@ref 0015
+@chap 04
+@slug as-salam
+@niv niv-a1
+=== NOTE
+# Saluer et prendre congé
+
+**1** La salutation universelle, à toute heure, appelle une réponse fixe qui **inverse** les termes :
+
+> *السَّلَامُ عَلَيْكُمْ.*
+> _as-salāmu ʿalaykum._
+> Que la paix soit sur vous. (Bonjour.)
+
+> *وَعَلَيْكُمُ السَّلَامُ.*
+> _wa-ʿalaykumu s-salām._
+> Et sur vous la paix.
+
+On l'emploie même pour s'adresser à une seule personne : le pluriel _-kum_ y est figé.
+
+**2** Plus familiers :
+
+| salutation | réponse |
+| --- | --- |
+| *مَرْحَبًا* _marḥaban_ (salut) | *مَرْحَبًا* ou *أَهْلًا* _ʾahlan_ |
+| *أَهْلًا وَسَهْلًا* _ʾahlan wa-sahlan_ (bienvenue) | *أَهْلًا بِكَ* _ʾahlan bika_ (à un homme), *بِكِ* _biki_ (à une femme) |
+
+**3** Pour prendre congé : *مَعَ السَّلَامَةِ* _maʿa s-salāma_ (au revoir, litt. « avec la sécurité ») ; *إِلَى اللِّقَاءِ* _ʾilā l-liqāʾ_ (au revoir, à la prochaine).
+=== EXO
+title: Saluer | التحية
+wording: Traduisez | ترجم
+mode: trad
+Bonjour (que la paix soit sur vous). => السلام عليكم.
+Et sur vous la paix. => وعليكم السلام.
+Salut ! => مرحبا! | أهلا!
+Bienvenue ! => أهلا وسهلا!
+Au revoir. => مع السلامة. | إلى اللقاء.
+=== VOCA
+السَّلَامُ عَلَيْكُمْ | bonjour | locution, interj | niv-a1 | freq-ultra | communication-orale | | | | fr-FR§à toute heure, formule universelle
+وَعَلَيْكُمُ السَّلَامُ | bonjour | locution, interj | niv-a1 | freq-ultra | communication-orale | | | | fr-FR§réponse à as-salāmu ʿalaykum
+مَرْحَبًا | salut; bonjour | interj | niv-a1 | freq-tres | communication-orale | | | | fr-FR§formule neutre et détendue
+أَهْلًا وَسَهْلًا | bienvenue | locution, interj | niv-a1 | freq-tres | communication-orale
+مَعَ السَّلَامَةِ ; إِلَى اللِّقَاءِ | au revoir | locution, interj | niv-a1 | freq-tres | communication-orale
+@ref 0016
+@chap 04
+@slug sabah-masa
+@niv niv-a1
+=== NOTE
+# Bonjour, bonsoir
+
+**1** Le matin et le soir, des formules à réponse fixe :
+
+| salutation | réponse |
+| --- | --- |
+| *صَبَاحُ الخَيْرِ* _ṣabāḥu l-ḫayr_ (bonjour, litt. « matin du bien ») | *صَبَاحُ النُّورِ* _ṣabāḥu n-nūr_ (« matin de la lumière ») |
+| *مَسَاءُ الخَيْرِ* _masāʾu l-ḫayr_ (bonsoir) | *مَسَاءُ النُّورِ* _masāʾu n-nūr_ |
+
+**2** Pour la nuit :
+
+> *تُصْبِحُ عَلَى خَيْرٍ.*
+> _tuṣbiḥu ʿalā ḫayrin._
+> Bonne nuit. (à un homme ; *تُصْبِحِينَ* _tuṣbiḥīna_ à une femme)
+
+> *وَأَنْتَ مِنْ أَهْلِهِ.*
+> _wa-ʾanta min ʾahlihi._
+> Toi aussi. (litt. « et tu en es digne »)
+
+**3** Ces formules sont communes à tout le monde arabe, au-delà des dialectes.
+=== EXO
+title: Le matin et le soir | الصباح والمساء
+wording: Traduisez | ترجم
+mode: trad
+Bonjour (le matin). => صباح الخير.
+Réponse à « bonjour » (le matin). => صباح النور.
+Bonsoir. => مساء الخير.
+Réponse à « bonsoir ». => مساء النور.
+Bonne nuit (à un homme). => تصبح على خير.
+=== VOCA
+صَبَاحُ الخَيْرِ | bonjour | locution, interj | niv-a1 | freq-tres | communication-orale | | | | fr-FR§le matin
+صَبَاحُ النُّورِ | bonjour | locution, interj | niv-a1 | freq-tres | communication-orale | | | | fr-FR§réponse, le matin
+مَسَاءُ الخَيْرِ | bonsoir | locution, interj | niv-a1 | freq-tres | communication-orale
+مَسَاءُ النُّورِ | bonsoir | locution, interj | niv-a1 | freq-tres | communication-orale | | | | fr-FR§réponse
+تُصْبِحُ عَلَى خَيْرٍ | bonne nuit | locution, interj | niv-a1 | freq-freq | communication-orale | | | | fr-FR§à un homme
+صَبَاح | matin:m | noun, mas | niv-a1 | freq-tres | moment
+مَسَاء | soir:m | noun, mas | niv-a1 | freq-tres | moment
+خَيْر | bien [bonté]:m | noun, mas | niv-a2 | freq-tres | qualite | | ضِدّ الشَّرّ
+@ref 0017
+@chap 04
+@slug at-taaruf
+@niv niv-a1
+=== NOTE
+# Se présenter
+
+**1** Le nom : *اِسْمِي* _ismī_ (mon nom [est]) — pas de verbe « être » au présent (§5.4).
+
+> *اِسْمِي سَارَة.*
+> _ismī sāra._
+> Je m'appelle Sarah.
+
+**2** La question distingue l'interlocuteur et l'interlocutrice :
+
+| à un homme | à une femme |
+| --- | --- |
+| *مَا اسْمُكَ؟* _mā smuka?_ | *مَا اسْمُكِ؟* _mā smuki?_ |
+| *مِنْ أَيْنَ أَنْتَ؟* _min ʾayna ʾanta?_ | *مِنْ أَيْنَ أَنْتِ؟* _min ʾayna ʾanti?_ |
+
+Sans voyelles, *اسمك* et *أنت* s'écrivent pareil dans les deux cas.
+
+**3** L'origine : *أَنَا مِنْ فَرَنْسَا* _ʾanā min faransā_ (je suis de France), ou l'adjectif de nationalité (§9.3) : *أَنَا فَرَنْسِيٌّ* _ʾanā faransiyyun_ (je suis français), *أَنَا فَرَنْسِيَّةٌ* _ʾanā faransiyyatun_ (je suis française).
+
+**4** *تَشَرَّفْنَا* _tašarrafnā_ : enchanté(e) (litt. « nous avons été honorés »).
+=== EXO
+title: Se présenter | التعارف
+wording: Traduisez | ترجم
+mode: trad
+Je m'appelle Karim. => اسمي كريم.
+Comment t'appelles-tu ? => ما اسمك؟
+D'où es-tu ? => من أين أنت؟
+Je suis de France. => أنا من فرنسا.
+Je suis français. => أنا فرنسي.
+Je suis française. => أنا فرنسية.
+Enchanté. => تشرفنا.
+=== VOCA
+اِسْم | nom [d'une personne]:m; prénom:m | noun, mas | niv-a1 | freq-ultra | personne | | لِشَخْص | | | أَسْمَاء
+مِنْ | de [provenance] | prep | niv-a1 | freq-ultra | lieu
+أَيْنَ | où | adv | niv-a1 | freq-ultra | lieu
+فَرَنْسَا | France:f | noun, noun-pro | niv-a1 | freq-freq | geographie
+فَرَنْسِيّ | français | adj, nisba | niv-a1 | freq-freq | nationalite
+تَشَرَّفْنَا | enchanté | locution, interj | niv-a1 | freq-freq | communication-orale
+@ref 0018
+@chap 04
+@slug shukran-afwan
+@niv niv-a1
+=== NOTE
+# S'il te plaît, merci, pardon
+
+**1** Remercier et répondre :
+
+> *شُكْرًا جَزِيلًا.* — *عَفْوًا.*
+> _šukran ǧazīlan._ — _ʿafwan._
+> Merci beaucoup. — De rien.
+
+**2** « S'il te plaît » s'accorde avec l'interlocuteur :
+
+| à un homme | à une femme | à plusieurs |
+| --- | --- | --- |
+| *مِنْ فَضْلِكَ* _min faḍlika_ | *مِنْ فَضْلِكِ* _min faḍliki_ | *مِنْ فَضْلِكُمْ* _min faḍlikum_ |
+| *لَوْ سَمَحْتَ* _law samaḥta_ | *لَوْ سَمَحْتِ* _law samaḥti_ | *لَوْ سَمَحْتُمْ* _law samaḥtum_ |
+
+**3** S'excuser : *آسِفٌ* _ʾāsifun_ (désolé), *آسِفَةٌ* _ʾāsifatun_ (désolée). *عَفْوًا* sert aussi à attirer l'attention : « pardon… ».
+
+> *قَهْوَةً، مِنْ فَضْلِكَ.*
+> _qahwatan, min faḍlika._
+> Un café, s'il vous plaît.
+=== EXO
+title: Formules de politesse | عبارات المجاملة
+wording: Traduisez | ترجم
+mode: trad
+Merci beaucoup. => شكرا جزيلا.
+De rien. => عفوا.
+S'il te plaît (à une femme). => من فضلك. | لو سمحت.
+Désolé. => آسف.
+Désolée. => آسفة.
+Un café, s'il vous plaît. => قهوة من فضلك. | قهوة، من فضلك.
+=== VOCA
+مِنْ فَضْلِكَ | s'il te plaît; s'il vous plaît | locution | niv-a1 | freq-tres | communication-orale | | | | fr-FR§à un homme
+لَوْ سَمَحْتَ | si tu permets; excusez-moi | locution | niv-a1 | freq-tres | communication-orale | | | | fr-FR§à un homme
+آسِف | désolé | adj | niv-a1 | freq-tres | emotion
+قَهْوَة | café [boisson]:m | noun, fem | niv-a1 | freq-tres | boisson
+شُكْرًا جَزِيلًا | merci beaucoup | locution, interj | niv-a1 | freq-tres | communication-orale
+@ref 0019
+@chap 04
+@slug kayfa-haluk
+@niv niv-a1
+=== NOTE
+# Demander des nouvelles
+
+**1** La question s'accorde avec l'interlocuteur, par le suffixe (§12.1) :
+
+| à un homme | à une femme | à plusieurs |
+| --- | --- | --- |
+| *كَيْفَ حَالُكَ؟* _kayfa ḥāluka?_ | *كَيْفَ حَالُكِ؟* _kayfa ḥāluki?_ | *كَيْفَ حَالُكُمْ؟* _kayfa ḥālukum?_ |
+
+**2** Réponses :
+
+> *بِخَيْرٍ، الحَمْدُ لِلَّهِ. وَأَنْتَ؟*
+> _bi-ḫayrin, al-ḥamdu li-llāh. wa-ʾanta?_
+> Bien, Dieu merci. Et toi ?
+
+*الحَمْدُ لِلَّهِ* _al-ḥamdu li-llāh_ (louange à Dieu) s'emploie par tous, croyants ou non, comme « Dieu merci » (§40.5).
+
+**3** Autres réponses : *أَنَا بِخَيْرٍ* _ʾanā bi-ḫayrin_ (je vais bien), *تَمَام* _tamām_ (parfait, très courant à l'oral), *لَسْتُ بِخَيْرٍ* _lastu bi-ḫayrin_ (je ne vais pas bien) (§20.2).
+=== EXO
+title: Comment ça va ? | كيف الحال؟
+wording: Traduisez | ترجم
+mode: trad
+Comment vas-tu ? => كيف حالك؟
+Comment allez-vous ? (à plusieurs) => كيف حالكم؟
+Bien, Dieu merci. => بخير، الحمد لله. | بخير الحمد لله.
+Je vais bien. => أنا بخير.
+Et toi ? => وأنت؟
+=== VOCA
+كَيْفَ | comment | adv | niv-a1 | freq-ultra | qualite
+حَال | état [situation]:m | noun, mas | niv-a1 | freq-tres | etat | | | | | أَحْوَال
+كَيْفَ حَالُكَ | comment vas-tu::locution, question | locution, question | niv-a1 | freq-ultra | communication-orale | | | | fr-FR§à un homme
+الحَمْدُ لِلَّهِ | Dieu merci | locution, interj | niv-a1 | freq-ultra | religion, communication-orale

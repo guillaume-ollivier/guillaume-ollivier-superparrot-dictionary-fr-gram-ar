@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0023-1",
+  "source": "source=AR§reference=0023-1",
+  "title": "lang=fr-FR§{Phrase nominale}lang=ar-SA§{الجملة الاسمية}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§La maison est grande}{type=affix§.}",
+      "answer": "{?1§البيت كبير}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Je suis ingénieur}{type=affix§.}",
+      "answer": "{?1§{أنا مهندس|انا مهندس}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Le livre est sur la table}{type=affix§.}",
+      "answer": "{?1§الكتاب على الطاولة}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§Le marché est grand}{type=affix§.}",
+      "answer": "{?1§السوق كبير}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§Il est médecin}{type=affix§.}",
+      "answer": "{?1§هو طبيب}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§L'école est petite}{type=affix§.}",
+      "answer": "{?1§المدرسة صغيرة}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

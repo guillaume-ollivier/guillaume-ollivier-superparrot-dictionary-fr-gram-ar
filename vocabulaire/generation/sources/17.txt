@@ -1,0 +1,213 @@
+@ref 0075
+@chap 17
+@slug mabda-al-madi
+@niv niv-a1
+=== NOTE
+# L'accompli : principe
+
+**1** Le verbe arabe a deux conjugaisons de base : l'**accompli** (_al-māḍī_), pour une action achevée — en pratique le **passé** —, et l'**inaccompli** (_al-muḍāriʿ_), pour le présent et le futur (§18.1).
+
+**2** La forme de citation d'un verbe, celle du dictionnaire, est la **3ᵉ personne du masculin singulier de l'accompli** : *كَتَبَ* _kataba_ signifie « il a écrit » — et sert d'« infinitif » : « écrire ».
+
+**3** La plupart des verbes ont **trois consonnes** (la racine) (§27.1), vocalisées _a-a-a_, _a-i-a_ ou _a-u-a_ :
+
+| verbe | sens |
+| --- | --- |
+| *كَتَبَ* _kataba_ | il a écrit |
+| *ذَهَبَ* _ḏahaba_ | il est allé |
+| *شَرِبَ* _šariba_ | il a bu |
+| *كَبُرَ* _kabura_ | il a grandi |
+
+> *ذَهَبَ أَحْمَدُ إِلَى السُّوقِ.*
+> _ḏahaba ʾaḥmadu ʾilā s-sūqi._
+> Ahmed est allé au marché.
+
+**4** Pour « elle », on ajoute *ـَتْ* _-at_ : *ذَهَبَتْ* (elle est allée).
+=== EXO
+title: Il ou elle au passé | هو أو هي
+wording: Mettez à la 3ᵉ personne du féminin | حوّل إلى المؤنث
+mode: transfo
+كتب => كتبت
+ذهب => ذهبت
+شرب => شربت
+درس => درست
+جلس => جلست
+خرج => خرجت
+=== VOCA
+شَرِبَ | boire | verb, verb-trans | niv-a1 | freq-tres | boisson
+جَلَسَ | s'asseoir | verb, verb-intrans | niv-a1 | freq-tres | geste
+خَرَجَ | sortir [d'un lieu] | verb, verb-intrans | niv-a1 | freq-ultra | deplacement
+@ref 0076
+@chap 17
+@slug al-madi-al-mufrad
+@niv niv-a1
+=== NOTE
+# L'accompli : le singulier
+
+**1** Les personnes sont marquées par des **suffixes** :
+
+| pronom | forme | translittération |
+| --- | --- | --- |
+| *أَنَا* | *كَتَبْتُ* | _katabtu_ |
+| *أَنْتَ* | *كَتَبْتَ* | _katabta_ |
+| *أَنْتِ* | *كَتَبْتِ* | _katabti_ |
+| *هُوَ* | *كَتَبَ* | _kataba_ |
+| *هِيَ* | *كَتَبَتْ* | _katabat_ |
+
+**2** Sans voyelles, *كتبت* vaut pour quatre personnes ! Le pronom sujet, normalement omis, se rajoute quand le contexte ne suffit pas.
+
+> *دَرَسْتُ العَرَبِيَّةَ فِي القَاهِرَةِ.*
+> _darastu l-ʿarabiyyata fī l-qāhirati._
+> J'ai étudié l'arabe au Caire.
+
+**3** Le sujet pronom n'est pas répété : *كَتَبْتُ* suffit pour « j'ai écrit ».
+=== EXO
+title: L'accompli au singulier | الماضي المفرد
+wording: Conjuguez à l'accompli | صرّف في الماضي
+mode: transfo
+أنا (كتب) => كتبت
+هو (ذهب) => ذهب
+هي (شرب) => شربت
+أنا (درس) => درست
+هو (جلس) => جلس
+أنت (خرج) => خرجت
+=== EXO
+title: Phrases au passé | جمل في الماضي
+wording: Traduisez | ترجم
+mode: trad
+J'ai étudié l'arabe. => درست العربية.
+Elle est sortie. => خرجت.
+Il a bu le café. => شرب القهوة.
+Tu es allé au marché ? => هل ذهبت إلى السوق؟ | ذهبت إلى السوق؟
+=== VOCA
+@ref 0077
+@chap 17
+@slug al-madi-al-jam
+@niv niv-a1
+=== NOTE
+# L'accompli : le pluriel
+
+| pronom | forme | translittération |
+| --- | --- | --- |
+| *نَحْنُ* | *كَتَبْنَا* | _katabnā_ |
+| *أَنْتُمْ* | *كَتَبْتُمْ* | _katabtum_ |
+| *أَنْتُنَّ* | *كَتَبْتُنَّ* | _katabtunna_ |
+| *هُمْ* | *كَتَبُوا* | _katabū_ |
+| *هُنَّ* | *كَتَبْنَ* | _katabna_ |
+
+**1** *كَتَبُوا* s'écrit avec un **alif muet** après le _و_ (l'« alif de séparation ») : on tape *كتبوا*. Cet alif disparaît devant un suffixe : *كَتَبُوهُ* (ils l'ont écrit).
+
+**2** *كَتَبْنَا* (nous) et *كَتَبْنَ* (elles) se distinguent par le _ا_ final.
+
+> *ذَهَبْنَا إِلَى البَحْرِ وَشَرِبُوا القَهْوَةَ.*
+> _ḏahabnā ʾilā l-baḥri wa-šaribū l-qahwata._
+> Nous sommes allés à la mer et ils ont bu le café.
+=== EXO
+title: L'accompli au pluriel | الماضي الجمع
+wording: Conjuguez à l'accompli | صرّف في الماضي
+mode: transfo
+نحن (كتب) => كتبنا
+هم (ذهب) => ذهبوا
+أنتم (شرب) => شربتم
+هن (درس) => درسن
+نحن (خرج) => خرجنا
+هم (جلس) => جلسوا
+=== VOCA
+@ref 0078
+@chap 17
+@slug al-madi-al-muthanna
+@niv niv-b1
+=== NOTE
+# L'accompli : le duel
+
+| pronom | forme | translittération |
+| --- | --- | --- |
+| *أَنْتُمَا* | *كَتَبْتُمَا* | _katabtumā_ |
+| *هُمَا* (masc.) | *كَتَبَا* | _katabā_ |
+| *هُمَا* (fém.) | *كَتَبَتَا* | _katabatā_ |
+
+**1** À la 3ᵉ personne, le duel distingue masculin et féminin.
+
+> *خَرَجَ الوَلَدَانِ وَخَرَجَتِ البِنْتَانِ.*
+> _ḫaraǧa l-waladāni wa-ḫaraǧati l-bintāni._
+> Les deux garçons sont sortis et les deux filles sont sorties.
+
+**2** Notez que le verbe est au **singulier** quand le sujet le suit (§17.5) ; les formes duelles servent quand le sujet est un pronom ou le précède.
+
+**3** Tableau complet de l'accompli : 13 formes (5 au singulier, 3 au duel, 5 au pluriel).
+=== EXO
+title: L'accompli au duel | الماضي المثنى
+wording: Conjuguez à l'accompli | صرّف في الماضي
+mode: transfo
+هما، مذكر (كتب) => كتبا
+هما، مؤنث (كتب) => كتبتا
+أنتما (ذهب) => ذهبتما
+هما، مذكر (خرج) => خرجا
+هما، مؤنث (جلس) => جلستا
+=== VOCA
+@ref 0079
+@chap 17
+@slug al-jumla-al-filiyya
+@niv niv-a2
+=== NOTE
+# La phrase verbale : verbe en tête
+
+**1** L'ordre de base de la phrase verbale est **verbe – sujet – complément** :
+
+> *كَتَبَ الطَّالِبُ الدَّرْسَ.*
+> _kataba ṭ-ṭālibu d-darsa._
+> L'étudiant a écrit la leçon.
+
+**2** Quand le verbe **précède** un sujet nom, il reste au **singulier**, et ne s'accorde qu'en genre :
+
+| arabe | sens |
+| --- | --- |
+| *ذَهَبَ الطُّلَّابُ* | les étudiants sont allés |
+| *ذَهَبَتِ الطَّالِبَاتُ* | les étudiantes sont allées |
+
+**3** Si le sujet vient **avant**, le verbe s'accorde complètement : *الطُّلَّابُ ذَهَبُوا*. Cet ordre met le sujet en relief (§39.2).
+
+**4** Le complément d'objet est à l'**accusatif** (_-a_, _-an_) (§33.1).
+=== EXO
+title: Verbe en tête | الجملة الفعلية
+wording: Traduisez en commençant par le verbe | ترجم
+mode: trad
+L'étudiant a écrit la leçon. => كتب الطالب الدرس.
+Les étudiants sont allés au marché. => ذهب الطلاب إلى السوق.
+Les étudiantes sont sorties. => خرجت الطالبات.
+La fille a bu le café. => شربت البنت القهوة.
+Les hommes se sont assis. => جلس الرجال.
+=== VOCA
+@ref 0080
+@chap 17
+@slug qad
+@niv niv-b1
+=== NOTE
+# _Qad_ + accompli : « déjà », « bel et bien »
+
+**1** *قَدْ* _qad_ devant l'accompli insiste sur l'**achèvement** de l'action (« déjà », « effectivement ») :
+
+> *قَدْ وَصَلَ القِطَارُ.*
+> _qad waṣala l-qiṭāru._
+> Le train est (déjà) arrivé.
+
+**2** Renforcé : *لَقَدْ* _laqad_, très fréquent en début de récit ou de discours :
+
+> *لَقَدْ تَعِبْتُ كَثِيرًا.*
+> _laqad taʿibtu kaṯīran._
+> Je me suis vraiment beaucoup fatigué.
+
+**3** Devant l'**inaccompli**, *قَدْ* signifie au contraire « il se peut que, parfois » (§18.6).
+=== EXO
+title: Qad | قد
+wording: Traduisez avec قد | ترجم
+mode: trad
+Le train est déjà arrivé. => قد وصل القطار.
+Il est déjà sorti. => قد خرج.
+Nous sommes déjà allés au marché. => قد ذهبنا إلى السوق.
+J'ai déjà bu le café. => قد شربت القهوة.
+=== VOCA
+قَدْ | déjà | particle | niv-b1 | freq-ultra | moment | | مَعَ المَاضِي
+وَصَلَ | arriver [quelque part] | verb, verb-intrans | niv-a1 | freq-tres | deplacement
+قِطَار | train:m | noun, mas | niv-a1 | freq-tres | transport, voyage | | | | | قِطَارَات
+تَعِبَ | se fatiguer | verb, verb-intrans | niv-a2 | freq-freq | etat

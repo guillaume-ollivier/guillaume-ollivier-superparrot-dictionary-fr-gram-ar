@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0074-1",
+  "source": "source=AR§reference=0074-1",
+  "title": "lang=fr-FR§{Dire l'heure}lang=ar-SA§{الساعة}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§Quelle heure est-il}{type=affix§?}",
+      "answer": "{?1§كم الساعة}{type=affix§؟}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Il est trois heures}{type=affix§.}",
+      "answer": "{?1§الساعة الثالثة}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Il est une heure}{type=affix§.}",
+      "answer": "{?1§الساعة الواحدة}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§Il est cinq heures et demie}{type=affix§.}",
+      "answer": "{?1§الساعة الخامسة والنصف}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§Il est quatre heures et quart}{type=affix§.}",
+      "answer": "{?1§الساعة الرابعة والربع}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§Il est dix heures moins le quart}{type=affix§.}",
+      "answer": "{?1§{الساعة العاشرة إلا ربعا|الساعة العاشرة الا ربعا}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

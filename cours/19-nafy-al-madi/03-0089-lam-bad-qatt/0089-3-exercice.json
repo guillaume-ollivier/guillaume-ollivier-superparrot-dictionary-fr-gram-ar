@@ -1,0 +1,43 @@
+{
+  "topic_ref": "0089-1",
+  "source": "source=AR§reference=0089-1",
+  "title": "lang=fr-FR§{Pas encore, jamais}lang=ar-SA§{لم بعد، قط}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§Le train n'est pas encore arrivé}{type=affix§.}",
+      "answer": "{?1§لم يصل القطار بعد}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Il n'est pas encore sorti}{type=affix§.}",
+      "answer": "{?1§لم يخرج بعد}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Je n'ai jamais voyagé en Égypte}{type=affix§.}",
+      "answer": "{?1§{لم أسافر إلى مصر قط|لم اسافر الى مصر قط}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§Nous n'avons pas encore compris}{type=affix§.}",
+      "answer": "{?1§لم نفهم بعد}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

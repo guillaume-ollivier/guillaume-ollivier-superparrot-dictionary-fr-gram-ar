@@ -1,0 +1,170 @@
+@ref 0046
+@chap 11
+@slug mabda-al-idafa
+@niv niv-a1
+=== NOTE
+# Le principe de l'annexion
+
+**1** Pour dire « le livre de l'étudiant », l'arabe juxtapose deux noms sans préposition : c'est l'**annexion** (_ʾiḍāfa_). Le possédé vient **d'abord**, le possesseur ensuite, au génitif (_-i_).
+
+> *كِتَابُ الطَّالِبِ*
+> _kitābu ṭ-ṭālibi_
+> le livre de l'étudiant
+
+> *بَابُ البَيْتِ*
+> _bābu l-bayti_
+> la porte de la maison
+
+**2** L'annexion rend aussi les noms composés : *غُرْفَةُ النَّوْمِ* (chambre à coucher, litt. « chambre du sommeil »), *كُرَةُ القَدَمِ* (football, « ballon du pied »).
+
+**3** Ordre inverse du français « de » ? Non : même ordre ! _Le livre de l'étudiant_ = *كِتَابُ الطَّالِبِ*. Seul « de » disparaît.
+=== EXO
+title: L'annexion | الإضافة
+wording: Traduisez | ترجم
+mode: trad
+le livre de l'étudiant => كتاب الطالب
+la porte de la maison => باب البيت
+la voiture du médecin => سيارة الطبيب
+la chambre à coucher => غرفة النوم
+le football => كرة القدم
+le nom de l'école => اسم المدرسة
+=== VOCA
+نَوْم | sommeil:m | noun, mas | niv-a1 | freq-freq | sommeil
+كُرَةُ القَدَمِ | football:m | locution, noun | niv-a1 | freq-freq | sport
+قَدَم | pied:m | noun, fem | niv-a1 | freq-tres | corps | | | | | أَقْدَام
+@ref 0047
+@chap 11
+@slug al-mudaf
+@niv niv-a2
+=== NOTE
+# Le premier terme : ni article ni _tanwīn_
+
+**1** Le premier terme (_muḍāf_) ne prend **jamais** l'article ni le _tanwīn_ : il est défini par son complément.
+
+| juste | faux |
+| --- | --- |
+| *كِتَابُ الطَّالِبِ* | ~~*الكِتَابُ الطَّالِبِ*~~ |
+
+**2** Si le second terme est **indéfini**, tout le groupe l'est :
+
+| défini | indéfini |
+| --- | --- |
+| *كِتَابُ الطَّالِبِ* (le livre de l'étudiant) | *كِتَابُ طَالِبٍ* (un livre d'étudiant) |
+| *بَيْتُ الطَّبِيبِ* (la maison du médecin) | *بَيْتُ طَبِيبٍ* (une maison de médecin) |
+
+**3** Un nom propre est défini par lui-même :
+
+> *جَامِعَةُ القَاهِرَةِ كَبِيرَةٌ.*
+> _ǧāmiʿatu l-qāhirati kabīratun._
+> L'université du Caire est grande.
+=== EXO
+title: Défini ou indéfini | معرفة أو نكرة
+wording: Traduisez | ترجم
+mode: trad
+la maison du médecin => بيت الطبيب
+une maison de médecin => بيت طبيب
+un livre d'étudiant => كتاب طالب
+l'université du Caire => جامعة القاهرة
+une tasse de café => فنجان قهوة
+=== VOCA
+جَامِعَة | université:f | noun, fem | niv-a1 | freq-tres | ecole, batiment | | | | | جَامِعَات
+القَاهِرَة | Le Caire | noun, noun-pro | niv-a1 | freq-freq | ville
+فِنْجَان | tasse:f | noun, mas | niv-a1 | freq-freq | objet, boisson |  |  |  |  | فَنَاجِين
+@ref 0048
+@chap 11
+@slug at-ta-fil-idafa
+@niv niv-a2
+=== NOTE
+# Le féminin en annexion : _-at_
+
+**1** Quand le premier terme finit par _ة_, celle-ci se prononce **_-t_** :
+
+> *مَدِينَةُ بَيْرُوتَ*
+> _madīnatu bayrūta_
+> la ville de Beyrouth
+
+> *سَيَّارَةُ أَبِي*
+> _sayyāratu ʾabī_
+> la voiture de mon père
+
+**2** C'est la seule différence : l'écriture ne change pas (_ة_ reste _ة_).
+
+**3** Les expressions de temps et de lieu en annexion sont fréquentes : *صَبَاحَ يَوْمِ الأَحَدِ* (le dimanche matin), *وَسَطَ المَدِينَةِ* (le centre-ville).
+=== EXO
+title: Annexion au féminin | الإضافة
+wording: Traduisez | ترجم
+mode: trad
+la ville de Beyrouth => مدينة بيروت
+la voiture de mon père => سيارة أبي
+le centre-ville => وسط المدينة
+la chambre de la fille => غرفة البنت
+la table de la cuisine => طاولة المطبخ
+=== VOCA
+بَيْرُوت | Beyrouth | noun, noun-pro | niv-a1 | freq-freq | ville
+وَسَط | centre:m; milieu:m | noun, mas | niv-a2 | freq-tres | lieu
+مَطْبَخ | cuisine [pièce]:f | noun, mas | niv-a1 | freq-freq | piece, repas | | | | | مَطَابِخ
+@ref 0049
+@chap 11
+@slug silsilat-al-idafa
+@niv niv-b1
+=== NOTE
+# Les chaînes d'annexion
+
+**1** Une annexion peut s'enchaîner : chaque terme est complément du précédent. Seul le **dernier** peut porter l'article.
+
+> *مِفْتَاحُ بَابِ البَيْتِ*
+> _miftāḥu bābi l-bayti_
+> la clé de la porte de la maison
+
+> *مُدِيرُ مَدْرَسَةِ البَنَاتِ*
+> _mudīru madrasati l-banāti_
+> le directeur de l'école de filles
+
+**2** Tous les termes après le premier sont au génitif (_-i_).
+
+**3** Au-delà de trois termes, on préfère *لِـ* (pour, de) (§13.2) : *مُدِيرٌ لِمَدْرَسَةِ البَنَاتِ* (un directeur de l'école de filles).
+=== EXO
+title: Chaînes d'annexion | سلسلة الإضافة
+wording: Traduisez | ترجم
+mode: trad
+la clé de la porte de la maison => مفتاح باب البيت
+le directeur de l'école de filles => مدير مدرسة البنات
+la porte de la chambre de la fille => باب غرفة البنت
+le nom de la rue de l'école => اسم شارع المدرسة
+=== VOCA
+مُدِير | directeur:m | noun, mas | niv-a1 | freq-tres | travail, metier |  |  |  |  | مُدِيرُون
+@ref 0050
+@chap 11
+@slug al-idafa-wan-nat
+@niv niv-b1
+=== NOTE
+# Annexion et adjectif ; duels et pluriels annexés
+
+**1** L'adjectif ne peut pas s'intercaler : il se place **après toute l'annexion**. Il s'accorde avec le nom qu'il qualifie, d'où des ambiguïtés que le genre lève :
+
+> *سَيَّارَةُ المُدِيرِ الجَدِيدَةُ*
+> _sayyāratu l-mudīri l-ǧadīdatu_
+> la voiture neuve du directeur
+
+> *سَيَّارَةُ المُدِيرِ الجَدِيدِ*
+> _sayyāratu l-mudīri l-ǧadīdi_
+> la voiture du nouveau directeur
+
+**2** Le duel et le pluriel masculin sain **perdent leur _n_** en premier terme :
+
+| seul | annexé |
+| --- | --- |
+| *كِتَابَانِ* | *كِتَابَا الطَّالِبِ* (les deux livres de l'étudiant) |
+| *مُعَلِّمُونَ* | *مُعَلِّمُو المَدْرَسَةِ* (les instituteurs de l'école) |
+
+On tape *معلمو* : pas d'alif après ce _و_, contrairement aux verbes (§17.3).
+=== EXO
+title: Annexion et adjectif | الإضافة والصفة
+wording: Traduisez | ترجم
+mode: trad
+la voiture neuve du directeur => سيارة المدير الجديدة
+la voiture du nouveau directeur => سيارة المدير الجديد
+les instituteurs de l'école => معلمو المدرسة
+les deux livres de l'étudiant => كتابا الطالب
+la grande maison du médecin => بيت الطبيب الكبير
+=== VOCA

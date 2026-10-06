@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0024-1",
+  "source": "source=AR§reference=0024-1",
+  "title": "lang=fr-FR§{Masculin et féminin}lang=ar-SA§{المذكر والمؤنث}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§Je suis fatigué}{type=affix§.}",
+      "answer": "{?1§{أنا متعب|انا متعب}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Je suis fatiguée}{type=affix§.}",
+      "answer": "{?1§{أنا متعبة|انا متعبة}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Tu es étudiante}{type=affix§?}",
+      "answer": "{?1§{أنت طالبة|انت طالبة}}{type=affix§؟}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§Oui, je suis étudiante}{type=affix§.}",
+      "answer": "{?1§{نعم، أنا طالبة|نعم، انا طالبة|نعم أنا طالبة|نعم انا طالبة}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§Elle est ingénieure}{type=affix§.}",
+      "answer": "{?1§هي مهندسة}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

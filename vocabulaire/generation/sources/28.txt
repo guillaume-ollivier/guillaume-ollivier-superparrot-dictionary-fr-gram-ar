@@ -1,0 +1,152 @@
+@ref 0121
+@chap 28
+@slug fa-ala
+@niv niv-b1
+=== NOTE
+# Forme II : _faʿʿala_
+
+**1** Le verbe simple (forme I) peut être modifié selon dix schèmes, numérotés par les grammairiens européens. La **forme II** double la 2ᵉ consonne (_šadda_) :
+
+| forme I | forme II |
+| --- | --- |
+| *دَرَسَ* (étudier) | *دَرَّسَ* (enseigner) |
+| *عَلِمَ* (savoir) | *عَلَّمَ* (enseigner, apprendre à) |
+| *كَسَرَ* (casser) | *كَسَّرَ* (briser en morceaux) |
+
+**2** Valeurs : **causatif** (faire faire) et **intensif** (faire beaucoup).
+
+**3** Certains verbes n'existent qu'en forme II : *فَكَّرَ* (penser), *صَلَّى* (prier).
+
+> *عَلَّمَنِي أَبِي السِّبَاحَةَ.*
+> _ʿallamanī ʾabī s-sibāḥata._
+> Mon père m'a appris à nager.
+
+**4** Sans voyelles, *درس* vaut _darasa_ et _darrasa_ : le contexte décide.
+=== EXO
+title: Forme II | الوزن فعّل
+wording: Traduisez | ترجم
+mode: trad
+Il a enseigné l'arabe. => درس العربية.
+Mon père m'a appris à nager. => علمني أبي السباحة.
+J'ai pensé. => فكرت.
+Elle a brisé le verre. => كسرت الكأس.
+=== VOCA
+عَلَّمَ | enseigner; apprendre [à quelqu'un] | verb, verb-trans, verb-derived | niv-a2 | freq-tres | ecole | | | | fr-FR§à quelqu'un
+فَكَّرَ | réfléchir; penser | verb, verb-intrans, verb-derived | niv-a2 | freq-tres | pensee
+كَسَرَ | casser | verb, verb-trans | niv-a2 | freq-freq | action
+سِبَاحَة | natation:f | noun, fem, masdar | niv-a2 | freq-freq | sport
+كَأْس | verre [à boire]:m | noun, fem | niv-a1 | freq-freq | objet, boisson | | لِلشُّرْب | | | كُؤُوس
+@ref 0122
+@chap 28
+@slug faala
+@niv niv-b1
+=== NOTE
+# Forme III : _fāʿala_
+
+**1** La forme III allonge la 1ʳᵉ voyelle (_ā_). Elle exprime une action **dirigée vers quelqu'un**, un effort, une réciprocité :
+
+| forme I | forme III |
+| --- | --- |
+| *كَتَبَ* (écrire) | *كَاتَبَ* (correspondre avec) |
+| *قَتَلَ* (tuer) | *قَاتَلَ* (combattre) |
+
+**2** Verbes fréquents de forme III : *سَاعَدَ* (aider), *شَاهَدَ* (regarder), *سَافَرَ* (voyager), *حَاوَلَ* (essayer), *نَاقَشَ* (discuter).
+
+> *سَاعَدْتُ صَدِيقِي فِي الدَّرْسِ.*
+> _sāʿadtu ṣadīqī fī d-darsi._
+> J'ai aidé mon ami pour la leçon.
+
+> *نُشَاهِدُ التِّلْفَازَ.*
+> _nušāhidu t-tilfāza._
+> Nous regardons la télévision.
+=== EXO
+title: Forme III | الوزن فاعل
+wording: Traduisez | ترجم
+mode: trad
+J'ai aidé mon ami. => ساعدت صديقي.
+Il a essayé. => حاول.
+Nous avons regardé le film. => شاهدنا الفيلم.
+Ils ont discuté du problème. => ناقشوا المشكلة.
+=== VOCA
+سَاعَدَ | aider | verb, verb-trans, verb-derived | niv-a1 | freq-tres | echange
+شَاهَدَ | regarder | verb, verb-trans, verb-derived | niv-a1 | freq-tres | perception
+حَاوَلَ | essayer | verb, verb-trans, verb-derived | niv-a2 | freq-tres | volonte
+نَاقَشَ | discuter | verb, verb-trans, verb-derived | niv-b1 | freq-freq | parole
+تِلْفَاز | télévision:f | noun, mas, loanword | niv-a1 | freq-freq | media, objet
+فِيلْم | film:m | noun, mas, loanword | niv-a1 | freq-freq | art, media | | | | | أَفْلَام
+@ref 0123
+@chap 28
+@slug afala
+@niv niv-b1
+=== NOTE
+# Forme IV : _ʾafʿala_
+
+**1** La forme IV préfixe *أَ* et met la 1ʳᵉ consonne au _sukūn_. Valeur surtout **causative** :
+
+| forme I | forme IV |
+| --- | --- |
+| *خَرَجَ* (sortir) | *أَخْرَجَ* (faire sortir, sortir qqch ; réaliser un film) |
+| *جَلَسَ* (s'asseoir) | *أَجْلَسَ* (faire asseoir) |
+| *عَلِمَ* (savoir) | *أَعْلَمَ* (informer) |
+
+**2** Verbes fréquents : *أَرْسَلَ* (envoyer), *أَغْلَقَ* (fermer), *أَحَبَّ* (aimer), *أَصْبَحَ* (devenir), *أَكْمَلَ* (achever).
+
+> *أَخْرَجَ المِفْتَاحَ مِنْ جَيْبِهِ.*
+> _ʾaḫraǧa l-miftāḥa min ǧaybihi._
+> Il a sorti la clé de sa poche.
+
+**3** La _hamza_ de forme IV est stable : elle s'écrit _أ_ (et se tape ainsi).
+=== EXO
+title: Forme IV | الوزن أفعل
+wording: Traduisez | ترجم
+mode: trad
+Il a sorti la clé. => أخرج المفتاح.
+J'ai envoyé la lettre. => أرسلت الرسالة.
+Elle a fermé la porte. => أغلقت الباب.
+Nous avons terminé le travail. => أكملنا العمل.
+=== VOCA
+أَخْرَجَ | sortir [quelque chose]; faire sortir | verb, verb-trans, verb-derived | niv-b1 | freq-freq | geste
+أَكْمَلَ | achever; terminer | verb, verb-trans, verb-derived | niv-b1 | freq-freq | action
+جَيْب | poche:f | noun, mas | niv-a2 | freq-freq | vetement |  |  |  |  | جُيُوب
+عَمَل | travail:m | noun, mas, masdar | niv-a1 | freq-ultra | travail | | | | | أَعْمَال:travaux
+@ref 0124
+@chap 28
+@slug mudari-2-4
+@niv niv-b1
+=== NOTE
+# L'inaccompli des formes II à IV
+
+**1** Les formes II, III et IV ont un préfixe en **_u_** et un radical en **_i_** :
+
+| forme | accompli | inaccompli |
+| --- | --- | --- |
+| II | *دَرَّسَ* | *يُدَرِّسُ* _yudarrisu_ |
+| III | *سَافَرَ* | *يُسَافِرُ* _yusāfiru_ |
+| IV | *أَرْسَلَ* | *يُرْسِلُ* _yursilu_ |
+
+**2** En forme IV, le _أ_ disparaît à l'inaccompli : *أُرْسِلُ* (j'envoie), *تُرْسِلُ*, *يُرْسِلُ*.
+
+> *يُدَرِّسُ أَبِي فِي الجَامِعَةِ.*
+> _yudarrisu ʾabī fī l-ǧāmiʿati._
+> Mon père enseigne à l'université.
+
+**3** Les verbes à quatre consonnes ont le même modèle : *يُتَرْجِمُ*.
+=== EXO
+title: Inaccompli II–IV | مضارع المزيد
+wording: Conjuguez à l'inaccompli (هو) | صرّف في المضارع
+mode: transfo
+درّس => يدرس
+سافر => يسافر
+أرسل => يرسل
+ساعد => يساعد
+أغلق => يغلق
+فكّر => يفكر
+شاهد => يشاهد
+=== EXO
+title: Phrases | جمل
+wording: Traduisez | ترجم
+mode: trad
+Mon père enseigne à l'université. => يدرس أبي في الجامعة.
+J'envoie une lettre. => أرسل رسالة.
+Nous voyageons demain. => نسافر غدا.
+=== VOCA

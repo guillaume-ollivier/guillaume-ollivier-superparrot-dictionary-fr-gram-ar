@@ -1,0 +1,182 @@
+@ref 0135
+@chap 31
+@slug an-naqis-al-madi
+@niv niv-b1
+=== NOTE
+# Les verbes défectueux : l'accompli
+
+**1** Quand la **dernière** consonne est _و_ ou _ي_, le verbe est dit **défectueux**. Trois modèles à la 3ᵉ personne :
+
+| type | accompli (il) | je… |
+| --- | --- | --- |
+| _-ā_ écrit _ا_ (racine en _w_) | *دَعَا* (inviter) | *دَعَوْتُ* |
+| _-ā_ écrit _ى_ (racine en _y_) | *مَشَى* (marcher) | *مَشَيْتُ* |
+| _-iya_ | *نَسِيَ* (oublier) | *نَسِيتُ* |
+
+**2** Pluriel : *دَعَوْا* (ils ont invité), *مَشَوْا*, *نَسُوا*. Féminin : *دَعَتْ*, *مَشَتْ*, *نَسِيَتْ*.
+
+> *دَعَوْتُ أَصْدِقَائِي إِلَى العَشَاءِ.*
+> _daʿawtu ʾaṣdiqāʾī ʾilā l-ʿašāʾi._
+> J'ai invité mes amis à dîner.
+
+**3** Autres verbes fréquents : *بَقِيَ* (rester), *رَمَى* (jeter), *بَكَى* (pleurer), *اِشْتَرَى* (acheter, forme VIII).
+=== EXO
+title: Défectueux à l'accompli | الناقص في الماضي
+wording: Conjuguez à l'accompli | صرّف في الماضي
+mode: transfo
+أنا (دعا) => دعوت
+أنا (مشى) => مشيت
+أنا (نسي) => نسيت
+هي (مشى) => مشت
+هم (دعا) => دعوا
+أنا (اشترى) => اشتريت
+=== VOCA
+دَعَا | inviter | verb, verb-trans | niv-a2 | freq-tres | relation | | لِلضِّيَافَة
+مَشَى | marcher [à pied] | verb, verb-intrans | niv-a1 | freq-tres | deplacement
+بَقِيَ | rester | verb, verb-intrans | niv-a2 | freq-tres | etat
+بَكَى | pleurer | verb, verb-intrans | niv-a2 | freq-freq | emotion
+اِشْتَرَى | acheter | verb, verb-trans, verb-derived | niv-a1 | freq-ultra | commerce
+عَشَاء | dîner:m | noun, mas | niv-a1 | freq-freq | repas
+@ref 0136
+@chap 31
+@slug an-naqis-al-mudari
+@niv niv-b1
+=== NOTE
+# Les verbes défectueux : l'inaccompli
+
+**1** Trois finales :
+
+| accompli | inaccompli | subjonctif | apocopé | impératif |
+| --- | --- | --- | --- | --- |
+| *دَعَا* | *يَدْعُو* | *أَنْ يَدْعُوَ* | *لَمْ يَدْعُ* | *اُدْعُ* |
+| *مَشَى* | *يَمْشِي* | *أَنْ يَمْشِيَ* | *لَمْ يَمْشِ* | *اِمْشِ* |
+| *نَسِيَ* | *يَنْسَى* | *أَنْ يَنْسَى* | *لَمْ يَنْسَ* | *اِنْسَ* |
+
+**2** À l'apocopé et à l'impératif, la voyelle longue finale **tombe** : *لَمْ يَمْشِ* (il n'a pas marché).
+
+**3** Pluriel : *يَدْعُونَ*, *يَمْشُونَ*, *يَنْسَوْنَ*.
+
+> *أَشْتَرِي الخُبْزَ كُلَّ صَبَاحٍ.*
+> _ʾaštarī l-ḫubza kulla ṣabāḥin._
+> J'achète le pain tous les matins.
+=== EXO
+title: Défectueux à l'inaccompli | الناقص في المضارع
+wording: Traduisez | ترجم
+mode: trad
+J'achète le pain. => أشتري الخبز.
+Il marche. => يمشي.
+Il n'a pas oublié. => لم ينس.
+Il n'a pas marché. => لم يمش.
+Marche ! (à un homme) => امش!
+N'oublie pas ! (à un homme) => لا تنس!
+=== VOCA
+@ref 0137
+@chap 31
+@slug al-mudaaf
+@niv niv-b2
+=== NOTE
+# Les verbes sourds (2ᵉ et 3ᵉ consonnes identiques)
+
+**1** Quand les deux dernières consonnes sont identiques, elles fusionnent en _šadda_ : *مَدَّ* (étendre, racine _m-d-d_), *رَدَّ* (répondre), *ظَنَّ* (croire, penser).
+
+**2** Devant un suffixe consonantique, la fusion se défait :
+
+| pronom | forme |
+| --- | --- |
+| *هُوَ* | *رَدَّ* |
+| *هِيَ* | *رَدَّتْ* |
+| *أَنَا* | *رَدَدْتُ* |
+| *نَحْنُ* | *رَدَدْنَا* |
+| *هُمْ* | *رَدُّوا* |
+
+**3** Inaccompli : *يَرُدُّ*, *يَمُدُّ*, *يَظُنُّ*.
+
+> *رَدَدْتُ عَلَى رِسَالَتِهِ.*
+> _radadtu ʿalā risālatihi._
+> J'ai répondu à sa lettre.
+
+**4** De même en forme IV : *أَحَبَّ* → *أَحْبَبْتُ* (j'ai aimé).
+=== EXO
+title: Verbes sourds | المضعف
+wording: Conjuguez à l'accompli | صرّف في الماضي
+mode: transfo
+أنا (رد) => رددت
+هي (رد) => ردت
+نحن (مد) => مددنا
+أنا (ظن) => ظننت
+أنا (أحب) => أحببت
+هم (رد) => ردوا
+=== VOCA
+رَدَّ | répondre | verb, verb-trans | niv-a2 | freq-tres | communication
+ظَنَّ | croire; supposer | verb, verb-trans | niv-b1 | freq-tres | pensee
+@ref 0138
+@chap 31
+@slug al-mahmuz
+@niv niv-b1
+=== NOTE
+# Les verbes hamzés
+
+**1** Une _hamza_ dans la racine se conjugue comme une consonne ordinaire, mais son **support** change avec les voyelles (§2.4) :
+
+| verbe | formes |
+| --- | --- |
+| *أَكَلَ* (manger) | *آكُلُ* (je mange : _ʾa_ + _ʾ_ → _آ_), *يَأْكُلُ* |
+| *سَأَلَ* (demander) | *يَسْأَلُ*, *سَأَلْتُ* |
+| *قَرَأَ* (lire) | *قَرَأْتُ*, *يَقْرَأُ*, *يَقْرَؤُونَ* |
+| *بَدَأَ* (commencer) | *بَدَأْتُ*, *يَبْدَأُ* |
+
+**2** À l'impératif, voir (§26.3) : *كُلْ*, *خُذْ* ; mais *اِقْرَأْ* (lis) et *اِسْأَلْ* ou *سَلْ* (demande).
+
+> *اِقْرَأْ بِاسْمِ رَبِّكَ.*
+> _iqraʾ bi-smi rabbika._
+> Lis, au nom de ton Seigneur. (premier verset révélé)
+=== EXO
+title: Verbes hamzés | المهموز
+wording: Traduisez | ترجم
+mode: trad
+J'ai lu le livre. => قرأت الكتاب.
+Il lit le journal. => يقرأ الجريدة.
+Je mange. => آكل.
+Lis ! (à un homme) => اقرأ!
+Elle a posé une question. => سألت سؤالا.
+Ils lisent. => يقرؤون. | يقرأون.
+=== VOCA
+قَرَأَ | lire | verb, verb-trans | niv-a1 | freq-ultra | langue-ecrit
+سَأَلَ | demander [une question]; interroger | verb, verb-trans | niv-a1 | freq-tres | communication
+جَرِيدَة | journal [presse]:m | noun, fem | niv-a1 | freq-freq | media | | | | | جَرَائِد
+@ref 0139
+@chap 31
+@slug al-lafif
+@niv niv-b2
+=== NOTE
+# Verbes doublement faibles : _raʾā_, _ǧāʾa_, _ʾatā_
+
+**1** *رَأَى* (voir) cumule _hamza_ et finale faible ; la _hamza_ disparaît à l'inaccompli :
+
+| accompli | inaccompli | apocopé | impératif |
+| --- | --- | --- | --- |
+| *رَأَى*, *رَأَيْتُ* | *يَرَى*, *أَرَى* | *لَمْ يَرَ* | *رَ* (rare) |
+
+**2** *جَاءَ* (venir) : concave et hamzé — *جِئْتُ* (je suis venu), *يَجِيءُ*, *لَمْ يَجِئْ*.
+
+**3** *أَتَى* (venir, soutenu) : *أَتَيْتُ*, *يَأْتِي*, *لَمْ يَأْتِ*, *اِئْتِ*.
+
+> *رَأَيْتُهُ أَمْسِ فِي السُّوقِ.*
+> _raʾaytuhu ʾamsi fī s-sūqi._
+> Je l'ai vu hier au marché.
+
+> *لَمْ يَأْتِ بَعْدُ.*
+> _lam yaʾti baʿdu._
+> Il n'est pas encore venu.
+=== EXO
+title: Voir et venir | رأى وجاء
+wording: Traduisez | ترجم
+mode: trad
+Je l'ai vu hier. => رأيته أمس.
+Je vois la mer. => أرى البحر.
+Je suis venu. => جئت.
+Il n'est pas encore venu. => لم يأت بعد.
+Il viendra demain. => سيأتي غدا. | سيجيء غدا.
+=== VOCA
+رَأَى | voir | verb, verb-trans | niv-a1 | freq-ultra | perception
+جَاءَ ; أَتَى @reg-soutenu | venir | verb, verb-intrans | niv-a1 | freq-ultra | deplacement

@@ -1,0 +1,43 @@
+{
+  "topic_ref": "0049-1",
+  "source": "source=AR§reference=0049-1",
+  "title": "lang=fr-FR§{Chaînes d'annexion}lang=ar-SA§{سلسلة الإضافة}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§la clé de la porte de la maison}",
+      "answer": "{?1§مفتاح باب البيت}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§le directeur de l'école de filles}",
+      "answer": "{?1§مدير مدرسة البنات}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§la porte de la chambre de la fille}",
+      "answer": "{?1§باب غرفة البنت}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§le nom de la rue de l'école}",
+      "answer": "{?1§اسم شارع المدرسة}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

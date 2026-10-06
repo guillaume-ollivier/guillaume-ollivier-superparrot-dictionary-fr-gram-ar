@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0077-1",
+  "source": "source=AR§reference=0077-1",
+  "title": "lang=fr-FR§{L'accompli au pluriel}lang=ar-SA§{الماضي الجمع}",
+  "wording": "lang=fr-FR§{Conjuguez à l'accompli}lang=ar-SA§{صرّف في الماضي}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§نحن (كتب)}",
+      "answer": "{?1§كتبنا}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§هم (ذهب)}",
+      "answer": "{?1§ذهبوا}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§أنتم (شرب)}",
+      "answer": "{?1§شربتم}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§هن (درس)}",
+      "answer": "{?1§درسن}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§نحن (خرج)}",
+      "answer": "{?1§خرجنا}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§هم (جلس)}",
+      "answer": "{?1§جلسوا}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

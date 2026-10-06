@@ -1,0 +1,547 @@
+{
+ "tag_id": "tag@42b1142b-5acb-5762-8bbb-4dcaf669805f",
+ "text": "lang=fr§{étiquettes}lang=en§{labels}lang=pt§{etiquetas}",
+ "optional": false,
+ "selectable": false,
+ "creation_date": "2026-09-02T00:00:00.000",
+ "tags": [
+  {
+   "tag_id": "tag@4fa61f05-ea87-54c0-9543-657b1bd41c02",
+   "text": "lang=fr§{personne}lang=en§{person}lang=pt§{pessoa}",
+   "optional": true,
+   "selectable": true,
+   "reference": "personne",
+   "creation_date": "2026-09-02T00:00:00.000",
+   "tags": [
+    {
+     "tag_id": "tag@6367bec0-c00b-53b7-9154-3f75802382ee",
+     "text": "lang=fr§{famille}lang=en§{family}lang=pt§{família}",
+     "optional": true,
+     "selectable": true,
+     "reference": "famille",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@2fb47bb7-5ed3-5049-bc2c-5fe4680dbb0f",
+     "text": "lang=fr§{corps humain}lang=en§{human body}lang=pt§{corpo humano}",
+     "optional": true,
+     "selectable": true,
+     "reference": "corps",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@5c0b892b-6107-5ae9-8a90-46ba1923c562",
+     "text": "lang=fr§{santé}lang=en§{health}lang=pt§{saúde}",
+     "optional": true,
+     "selectable": true,
+     "reference": "sante",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@8b3440fc-636e-57ac-9e6b-8b745c6ea036",
+     "text": "lang=fr§{âge}lang=en§{age}lang=pt§{idade}",
+     "optional": true,
+     "selectable": true,
+     "reference": "age-etat",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "text": "lang=fr§{émotion}lang=en§{emotion}lang=pt§{emoção}",
+     "optional": true,
+     "selectable": true,
+     "reference": "emotion",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "text": "lang=fr§{caractère}lang=en§{personality}lang=pt§{personalidade}",
+     "optional": true,
+     "selectable": true,
+     "reference": "caractere",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "text": "lang=fr§{relation sociale}lang=en§{social relation}lang=pt§{relação social}",
+     "optional": true,
+     "selectable": true,
+     "reference": "relation",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "text": "lang=fr§{vie}lang=en§{life}lang=pt§{vida}",
+     "optional": true,
+     "selectable": true,
+     "reference": "vie",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "text": "lang=fr§{sommeil}lang=en§{sleep}lang=pt§{sono}",
+     "optional": true,
+     "selectable": true,
+     "reference": "sommeil",
+     "creation_date": "2026-09-02T00:00:00.000"
+    }
+   ]
+  },
+  {
+   "tag_id": "tag@78dcf05c-64ce-5883-9197-fa97561e562d",
+   "text": "lang=fr§{métier}lang=en§{occupation}lang=pt§{profissão}",
+   "optional": true,
+   "selectable": true,
+   "reference": "metier",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "tag_id": "tag@b25c7e31-5ecb-5b54-88fd-4812ac6de291",
+   "text": "lang=fr§{habitation}lang=en§{housing}lang=pt§{habitação}",
+   "optional": true,
+   "selectable": true,
+   "reference": "habitation",
+   "creation_date": "2026-09-02T00:00:00.000",
+   "tags": [
+    {
+     "tag_id": "tag@69aac613-e7e0-5a0f-ba45-918977e38e8a",
+     "text": "lang=fr§{logement}lang=en§{dwelling}lang=pt§{alojamento}",
+     "optional": true,
+     "selectable": true,
+     "reference": "logement",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@7f8db87a-2f63-51e3-a1ed-06c3610eba7b",
+     "text": "lang=fr§{pièce du logement}lang=en§{room of a home}lang=pt§{divisão da casa}",
+     "optional": true,
+     "selectable": true,
+     "reference": "piece",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@f9f6edb7-d40c-5ef0-816b-7a14104ed4c5",
+     "text": "lang=fr§{mobilier}lang=en§{furniture}lang=pt§{mobiliário}",
+     "optional": true,
+     "selectable": true,
+     "reference": "mobilier",
+     "creation_date": "2026-09-02T00:00:00.000"
+    }
+   ]
+  },
+  {
+   "tag_id": "tag@0886cfb4-9dc5-5bc6-bed2-52d817166465",
+   "text": "lang=fr§{vêtement}lang=en§{clothing}lang=pt§{vestuário}",
+   "optional": true,
+   "selectable": true,
+   "reference": "vetement",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "tag_id": "tag@6cf66acc-3c01-547a-900f-86276bf95519",
+   "text": "lang=fr§{alimentation}lang=en§{food and drink}lang=pt§{alimentação}",
+   "optional": true,
+   "selectable": true,
+   "reference": "alimentation",
+   "creation_date": "2026-09-02T00:00:00.000",
+   "tags": [
+    {
+     "tag_id": "tag@aae5a983-fa5b-58f4-ad89-63eeffbfdfe4",
+     "text": "lang=fr§{aliment}lang=en§{food item}lang=pt§{alimento}",
+     "optional": true,
+     "selectable": true,
+     "reference": "aliment",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@9c35a60f-b4b0-577a-9642-03d99c2fede4",
+     "text": "lang=fr§{boisson}lang=en§{drink}lang=pt§{bebida}",
+     "optional": true,
+     "selectable": true,
+     "reference": "boisson",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@2b1bd4ff-32e4-53c5-bc12-4ff855ef81bc",
+     "text": "lang=fr§{repas}lang=en§{meal}lang=pt§{refeição}",
+     "optional": true,
+     "selectable": true,
+     "reference": "repas",
+     "creation_date": "2026-09-02T00:00:00.000"
+    }
+   ]
+  },
+  {
+   "tag_id": "tag@aef8f2f2-293a-59d6-a955-660e34d54aed",
+   "text": "lang=fr§{lieu}lang=en§{place}lang=pt§{lugar}",
+   "optional": true,
+   "selectable": true,
+   "reference": "lieu",
+   "creation_date": "2026-09-02T00:00:00.000",
+   "tags": [
+    {
+     "tag_id": "tag@d1fb8527-1e09-52b0-920b-4ea44291a2be",
+     "text": "lang=fr§{ville}lang=en§{town}lang=pt§{cidade}",
+     "optional": true,
+     "selectable": true,
+     "reference": "ville",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@51a6d543-2965-5b0d-bc24-385c1913d803",
+     "text": "lang=fr§{commerce}lang=en§{shop}lang=pt§{comércio}",
+     "optional": true,
+     "selectable": true,
+     "reference": "commerce",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@b4287cfe-b1b9-5320-8110-18a15a13723c",
+     "text": "lang=fr§{transport}lang=en§{transport}lang=pt§{transporte}",
+     "optional": true,
+     "selectable": true,
+     "reference": "transport",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@ce77ddee-7915-54e3-8a33-b42711f7c613",
+     "text": "lang=fr§{bâtiment public}lang=en§{public building}lang=pt§{edifício público}",
+     "optional": true,
+     "selectable": true,
+     "reference": "batiment",
+     "creation_date": "2026-09-02T00:00:00.000"
+    }
+   ]
+  },
+  {
+   "tag_id": "tag@7dced68b-a6ac-5561-8622-3d4c9b2056ec",
+   "text": "lang=fr§{nature}lang=en§{nature}lang=pt§{natureza}",
+   "optional": true,
+   "selectable": true,
+   "reference": "nature",
+   "creation_date": "2026-09-02T00:00:00.000",
+   "tags": [
+    {
+     "tag_id": "tag@8339bb32-fd17-54aa-a245-3081f15d8175",
+     "text": "lang=fr§{météo}lang=en§{weather}lang=pt§{meteorologia}",
+     "optional": true,
+     "selectable": true,
+     "reference": "meteo",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@d59d2404-b71a-572b-9b75-be880d9f85c6",
+     "text": "lang=fr§{géographie}lang=en§{geography}lang=pt§{geografia}",
+     "optional": true,
+     "selectable": true,
+     "reference": "geographie",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@046a5a6d-31da-5c4e-9d1f-efc934c326f6",
+     "text": "lang=fr§{animal}lang=en§{animal}lang=pt§{animal}",
+     "optional": true,
+     "selectable": true,
+     "reference": "animal",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@16a85002-6d16-5b6c-9a45-fe3633e20c45",
+     "text": "lang=fr§{végétal}lang=en§{plant}lang=pt§{planta}",
+     "optional": true,
+     "selectable": true,
+     "reference": "vegetal",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@79446331-8e7c-50f8-b537-ed0f54cc1718",
+     "text": "lang=fr§{matière}lang=en§{material}lang=pt§{material}",
+     "optional": true,
+     "selectable": true,
+     "reference": "matiere",
+     "creation_date": "2026-09-02T00:00:00.000"
+    }
+   ]
+  },
+  {
+   "tag_id": "tag@13d43a72-792b-5401-9db4-49771e03f324",
+   "text": "lang=fr§{repérage dans le temps}lang=en§{telling time}lang=pt§{localização no tempo}",
+   "optional": true,
+   "selectable": true,
+   "reference": "temps",
+   "creation_date": "2026-09-02T00:00:00.000",
+   "tags": [
+    {
+     "tag_id": "tag@54a22170-53e2-5b44-8fbe-5d41d5b89d1d",
+     "text": "lang=fr§{calendrier}lang=en§{calendar}lang=pt§{calendário}",
+     "optional": true,
+     "selectable": true,
+     "reference": "calendrier",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@a1220cbd-e047-57d3-aff3-30e38745e7ec",
+     "text": "lang=fr§{moment de la journée}lang=en§{time of day}lang=pt§{momento do dia}",
+     "optional": true,
+     "selectable": true,
+     "reference": "moment",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@37fd1247-62f1-5440-977b-b84498f8878c",
+     "text": "lang=fr§{saison}lang=en§{season}lang=pt§{estação do ano}",
+     "optional": true,
+     "selectable": true,
+     "reference": "saison",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@0f3f5032-26ce-56b9-b33b-3e942b29f7c5",
+     "text": "lang=fr§{durée}lang=en§{duration}lang=pt§{duração}",
+     "optional": true,
+     "selectable": true,
+     "reference": "duree",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "text": "lang=fr§{fréquence}lang=en§{frequency}lang=pt§{frequência}",
+     "optional": true,
+     "selectable": true,
+     "reference": "frequence",
+     "creation_date": "2026-09-02T00:00:00.000"
+    }
+   ]
+  },
+  {
+   "tag_id": "tag@661f73be-b376-5e25-b44d-8f05dc47c21b",
+   "text": "lang=fr§{couleur}lang=en§{colour}lang=pt§{cor}",
+   "optional": true,
+   "selectable": true,
+   "reference": "couleur",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "tag_id": "tag@a2e99f50-4331-5793-9021-27c8b3355bbb",
+   "text": "lang=fr§{nombre}lang=en§{number}lang=pt§{número}",
+   "optional": true,
+   "selectable": true,
+   "reference": "nombre",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "tag_id": "tag@a06f1848-0f06-5c63-9865-c682bfd19733",
+   "text": "lang=fr§{communication}lang=en§{communication}lang=pt§{comunicação}",
+   "optional": true,
+   "selectable": true,
+   "reference": "communication",
+   "creation_date": "2026-09-02T00:00:00.000",
+   "tags": [
+    {
+     "tag_id": "tag@6fe3242a-eb3f-5fd4-ad86-23f9806baa3f",
+     "text": "lang=fr§{langue}lang=en§{language}lang=pt§{língua}",
+     "optional": true,
+     "selectable": true,
+     "reference": "langue-ecrit",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@1fd8e28e-0c7f-5a63-ab82-bedc222c274a",
+     "text": "lang=fr§{média}lang=en§{media}lang=pt§{meios de comunicação}",
+     "optional": true,
+     "selectable": true,
+     "reference": "media",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "text": "lang=fr§{parole}lang=en§{speech}lang=pt§{fala}",
+     "optional": true,
+     "selectable": true,
+     "reference": "parole",
+     "creation_date": "2026-09-02T00:00:00.000"
+    }
+   ]
+  },
+  {
+   "tag_id": "tag@628faea4-33d1-56f0-8d3d-1dc24654ddff",
+   "text": "lang=fr§{enseignement}lang=en§{education}lang=pt§{ensino}",
+   "optional": true,
+   "selectable": true,
+   "reference": "ecole",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "tag_id": "tag@6b10c904-feac-55a3-9024-d4a768aaa703",
+   "text": "lang=fr§{argent}lang=en§{money}lang=pt§{dinheiro}",
+   "optional": true,
+   "selectable": true,
+   "reference": "argent",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "tag_id": "tag@6a13c99c-5216-5138-ae8a-05c7f78c7b78",
+   "text": "lang=fr§{monde du travail}lang=en§{world of work}lang=pt§{mundo do trabalho}",
+   "optional": true,
+   "selectable": true,
+   "reference": "travail",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "tag_id": "tag@1f1cc98f-03f1-5dc5-9d73-47d65e4f6962",
+   "text": "lang=fr§{institution}lang=en§{institution}lang=pt§{instituição}",
+   "optional": true,
+   "selectable": true,
+   "reference": "institution",
+   "creation_date": "2026-09-02T00:00:00.000",
+   "tags": [
+    {
+     "text": "lang=fr§{nationalité}lang=en§{nationality}lang=pt§{nacionalidade}",
+     "optional": true,
+     "selectable": true,
+     "reference": "nationalite",
+     "creation_date": "2026-09-02T00:00:00.000"
+    }
+   ]
+  },
+  {
+   "tag_id": "tag@61786432-57c7-5f3a-a917-03d499f49556",
+   "text": "lang=fr§{loisir}lang=en§{leisure}lang=pt§{lazer}",
+   "optional": true,
+   "selectable": true,
+   "reference": "loisir",
+   "creation_date": "2026-09-02T00:00:00.000",
+   "tags": [
+    {
+     "tag_id": "tag@da68c1aa-a95e-572c-9987-ce1778396bb1",
+     "text": "lang=fr§{sport}lang=en§{sport}lang=pt§{desporto}",
+     "optional": true,
+     "selectable": true,
+     "reference": "sport",
+     "creation_date": "2026-09-02T00:00:00.000"
+    },
+    {
+     "tag_id": "tag@6403368f-1874-55da-b92c-275676723df7",
+     "text": "lang=fr§{art}lang=en§{art}lang=pt§{arte}",
+     "optional": true,
+     "selectable": true,
+     "reference": "art",
+     "creation_date": "2026-09-02T00:00:00.000"
+    }
+   ]
+  },
+  {
+   "tag_id": "tag@e6e051a1-399f-5d0d-b05f-27fff910d2ca",
+   "text": "lang=fr§{politesse}lang=en§{politeness}lang=pt§{cortesia}",
+   "optional": true,
+   "selectable": true,
+   "reference": "communication-orale",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "text": "lang=fr§{quantité}lang=en§{quantity}lang=pt§{quantidade}",
+   "optional": true,
+   "selectable": true,
+   "reference": "quantite",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "text": "lang=fr§{droit}lang=en§{law}lang=pt§{direito}",
+   "optional": true,
+   "selectable": true,
+   "reference": "droit",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "text": "lang=fr§{religion}lang=en§{religion}lang=pt§{religião}",
+   "optional": true,
+   "selectable": true,
+   "reference": "religion",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "text": "lang=fr§{pensée}lang=en§{thought}lang=pt§{pensamento}",
+   "optional": true,
+   "selectable": true,
+   "reference": "pensee",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "text": "lang=fr§{volonté}lang=en§{will}lang=pt§{vontade}",
+   "optional": true,
+   "selectable": true,
+   "reference": "volonte",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "text": "lang=fr§{action}lang=en§{action}lang=pt§{ação}",
+   "optional": true,
+   "selectable": true,
+   "reference": "action",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "text": "lang=fr§{perception}lang=en§{perception}lang=pt§{perceção}",
+   "optional": true,
+   "selectable": true,
+   "reference": "perception",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "text": "lang=fr§{déplacement}lang=en§{getting around}lang=pt§{deslocação}",
+   "optional": true,
+   "selectable": true,
+   "reference": "deplacement",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "text": "lang=fr§{geste}lang=en§{gesture}lang=pt§{gesto}",
+   "optional": true,
+   "selectable": true,
+   "reference": "geste",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "text": "lang=fr§{échange}lang=en§{exchange}lang=pt§{troca}",
+   "optional": true,
+   "selectable": true,
+   "reference": "echange",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "text": "lang=fr§{objet}lang=en§{object}lang=pt§{objeto}",
+   "optional": true,
+   "selectable": true,
+   "reference": "objet",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "text": "lang=fr§{qualité}lang=en§{quality}lang=pt§{qualidade}",
+   "optional": true,
+   "selectable": true,
+   "reference": "qualite",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "text": "lang=fr§{dimension}lang=en§{size}lang=pt§{dimensão}",
+   "optional": true,
+   "selectable": true,
+   "reference": "dimension",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "text": "lang=fr§{état}lang=en§{condition}lang=pt§{estado}",
+   "optional": true,
+   "selectable": true,
+   "reference": "etat",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "text": "lang=fr§{voyage}lang=en§{travel}lang=pt§{viagem}",
+   "optional": true,
+   "selectable": true,
+   "reference": "voyage",
+   "creation_date": "2026-09-02T00:00:00.000"
+  },
+  {
+   "text": "lang=fr§{fête}lang=en§{celebration}lang=pt§{festa}",
+   "optional": true,
+   "selectable": true,
+   "reference": "fete",
+   "creation_date": "2026-09-02T00:00:00.000"
+  }
+ ]
+}

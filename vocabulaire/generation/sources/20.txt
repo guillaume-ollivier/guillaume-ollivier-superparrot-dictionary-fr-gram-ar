@@ -1,0 +1,134 @@
+@ref 0090
+@chap 20
+@slug la-al-mudari
+@niv niv-a1
+=== NOTE
+# _Lā_ + inaccompli
+
+**1** On nie le présent avec *لَا* _lā_ devant l'inaccompli, qui ne change pas :
+
+> *لَا أَعْرِفُ.*
+> _lā ʾaʿrifu._
+> Je ne sais pas.
+
+> *لَا يَشْرَبُ القَهْوَةَ.*
+> _lā yašrabu l-qahwata._
+> Il ne boit pas de café.
+
+**2** *لَا* sert aussi de « non » en réponse (§1.5) : *لَا، لَا أَفْهَمُ.* (Non, je ne comprends pas.)
+=== EXO
+title: Nier le présent | نفي المضارع
+wording: Traduisez | ترجم
+mode: trad
+Je ne sais pas. => لا أعرف.
+Il ne boit pas de café. => لا يشرب القهوة.
+Nous ne comprenons pas. => لا نفهم.
+Elles ne sortent pas. => لا يخرجن.
+Tu ne joues pas ? => ألا تلعب؟ | لا تلعب؟
+=== VOCA
+@ref 0091
+@chap 20
+@slug laysa
+@niv niv-a2
+=== NOTE
+# _Laysa_ : « ne pas être »
+
+**1** La phrase nominale se nie avec *لَيْسَ* _laysa_, verbe qui n'a que la conjugaison de l'accompli, mais un sens **présent** :
+
+| pronom | forme | pronom | forme |
+| --- | --- | --- | --- |
+| *أَنَا* | *لَسْتُ* | *نَحْنُ* | *لَسْنَا* |
+| *أَنْتَ* | *لَسْتَ* | *أَنْتُمْ* | *لَسْتُمْ* |
+| *أَنْتِ* | *لَسْتِ* | *أَنْتُنَّ* | *لَسْتُنَّ* |
+| *هُوَ* | *لَيْسَ* | *هُمْ* | *لَيْسُوا* |
+| *هِيَ* | *لَيْسَتْ* | *هُنَّ* | *لَسْنَ* |
+
+**2** Le _y_ disparaît quand une consonne suit : *لَيْسَ* mais *لَسْتُ*.
+
+> *لَسْتُ طَبِيبًا.*
+> _lastu ṭabīban._
+> Je ne suis pas médecin.
+=== EXO
+title: Conjuguer laysa | تصريف ليس
+wording: Conjuguez ليس | صرّف ليس
+mode: transfo
+أنا => لست
+هو => ليس
+هي => ليست
+نحن => لسنا
+هم => ليسوا
+أنتم => لستم
+هن => لسن
+=== VOCA
+لَيْسَ | ne pas être | verb | niv-a2 | freq-ultra | etat
+@ref 0092
+@chap 20
+@slug khabar-laysa
+@niv niv-a2
+=== NOTE
+# L'attribut de _laysa_
+
+**1** Après *لَيْسَ*, l'attribut passe à l'**accusatif** (_-an_, _-a_) — d'où l'alif du _tanwīn_ à l'écrit :
+
+| affirmatif | négatif |
+| --- | --- |
+| *البَيْتُ كَبِيرٌ* | *لَيْسَ البَيْتُ كَبِيرًا* |
+| *أَنَا مُتْعَبٌ* | *لَسْتُ مُتْعَبًا* |
+
+**2** On peut aussi introduire l'attribut par *بِـ*, au génitif : *لَيْسَ البَيْتُ بِكَبِيرٍ*.
+
+**3** *لَيْسَ* nie aussi « il y a » et « avoir » :
+
+> *لَيْسَ عِنْدِي وَقْتٌ.*
+> _laysa ʿindī waqtun._
+> Je n'ai pas le temps.
+
+Ici *وَقْتٌ* est le sujet, il reste au nominatif.
+=== EXO
+title: Phrases avec laysa | جمل بليس
+wording: Traduisez | ترجم
+mode: trad
+Je ne suis pas médecin. => لست طبيبا.
+La maison n'est pas grande. => ليس البيت كبيرا. | البيت ليس كبيرا.
+Elle n'est pas fatiguée. => ليست متعبة.
+Je n'ai pas le temps. => ليس عندي وقت.
+Ils ne sont pas étudiants. => ليسوا طلابا.
+=== VOCA
+وَقْت | temps [durée]:m | noun, mas | niv-a1 | freq-ultra | duree |  |  |  |  | أَوْقَات
+@ref 0093
+@chap 20
+@slug ghayr-la-nafiya
+@niv niv-b1
+=== NOTE
+# Nier un nom : _ġayr_ et _lā_ de négation absolue
+
+**1** *غَيْر* _ġayr_ (« autre que ») suivi d'un génitif rend le préfixe négatif « in-, non- » :
+
+| arabe | sens |
+| --- | --- |
+| *غَيْرُ مُمْكِنٍ* | impossible |
+| *غَيْرُ صَحِيحٍ* | inexact |
+| *غَيْرُ عَرَبِيٍّ* | non arabe |
+
+**2** *لَا* + nom **sans _tanwīn_**, à l'accusatif = « aucun, pas de » (négation absolue) :
+
+> *لَا شَكَّ فِي ذٰلِكَ.*
+> _lā šakka fī ḏālika._
+> Il n'y a aucun doute là-dessus.
+
+> *لَا مُشْكِلَةَ.*
+> _lā muškilata._
+> Pas de problème.
+=== EXO
+title: Ġayr et lā | غير ولا النافية للجنس
+wording: Traduisez | ترجم
+mode: trad
+impossible => غير ممكن
+inexact => غير صحيح
+Pas de problème. => لا مشكلة.
+Il n'y a aucun doute. => لا شك.
+=== VOCA
+غَيْر | autre que | noun | niv-b1 | freq-ultra | qualite
+مُمْكِن | possible | adj | niv-a2 | freq-tres | qualite
+صَحِيح | exact; correct | adj | niv-a1 | freq-tres | qualite
+شَكّ | doute:m | noun, mas | niv-b1 | freq-freq | pensee |  |  |  |  | شُكُوك

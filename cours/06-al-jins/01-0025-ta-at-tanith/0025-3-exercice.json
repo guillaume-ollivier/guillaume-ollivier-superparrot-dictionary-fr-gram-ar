@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0025-1",
+  "source": "source=AR§reference=0025-1",
+  "title": "lang=fr-FR§{Mettre au féminin}lang=ar-SA§{التأنيث}",
+  "wording": "lang=fr-FR§{Donnez le féminin}lang=ar-SA§{اكتب المؤنث}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§طالب}",
+      "answer": "{?1§طالبة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§كبير}",
+      "answer": "{?1§كبيرة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§جديد}",
+      "answer": "{?1§جديدة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§صغير}",
+      "answer": "{?1§صغيرة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§جميل}",
+      "answer": "{?1§جميلة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§مهندس}",
+      "answer": "{?1§مهندسة}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

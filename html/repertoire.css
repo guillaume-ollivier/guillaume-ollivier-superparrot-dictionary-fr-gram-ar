@@ -1,0 +1,328 @@
+/*
+ * repertoire.css — feuille de style du répertoire HTML statique produit par
+ * `parrotdict repertoire` (voir `repertoire.py`).
+ *
+ * Dérivée de la feuille APPLICATIVE des fiches de cours,
+ * `SuperParrotUISwift/Parrot_iOS/Resources/Course/cours.css` : mêmes jetons de
+ * couleur, mêmes crochets `.sp-cours` (h1/h2/p/blockquote/table/.sp-xref/
+ * .sp-speak-btn) pour que la fiche de leçon, recopiée telle quelle depuis la
+ * ressource déjà assemblée, se rende à l'identique. Les crochets `.sp-repertoire`
+ * ci-dessous sont propres à ce répertoire (bandeau de chapitre, sommaire,
+ * vocabulaire, puce de langue) — l'app ne les connaît pas. À resynchroniser à la
+ * main si `cours.css` change (même consigne que son propre en-tête pour les
+ * jetons SwiftUI).
+ *
+ * Différence volontaire avec `cours.css` : celle-ci est affichée dans un
+ * WKWebView rendu transparent par l'app et ne peint donc pas de fond ; ce
+ * répertoire est une page autonome, ouverte telle quelle dans un navigateur —
+ * elle peint donc son propre fond (`--sp-bg` / `--sp-surface`, mêmes teintes que
+ * `ParrotBg` / `ParrotSurface`).
+ */
+
+:root {
+  color-scheme: light dark;
+
+  --sp-fg: #11181C;
+  --sp-muted: #5B6770;
+  --sp-accent: #00B8A9;
+  --sp-accent-soft: rgba(0, 184, 169, .10);
+  --sp-quote-bar: #FF6B5B;
+  --sp-quote-bg: rgba(255, 107, 91, .10);
+  --sp-rule: #E2E6EA;
+  --sp-del: #E84A5F;
+  --sp-bg: #F6F7F9;
+  --sp-surface: #FFFFFF;
+
+  --sp-space: clamp(.85rem, 3.5vw, 1.25rem);
+  --sp-maxw: 44rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --sp-fg: #ECF1F4;
+    --sp-muted: #9AA7B0;
+    --sp-accent: #2FD9C9;
+    --sp-accent-soft: rgba(47, 217, 201, .14);
+    --sp-quote-bar: #FF8073;
+    --sp-quote-bg: rgba(255, 128, 115, .13);
+    --sp-rule: #2C353C;
+    --sp-del: #FF6275;
+    --sp-bg: #0F1417;
+    --sp-surface: #1A2127;
+  }
+}
+
+* , *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  overflow-wrap: break-word;
+  background: var(--sp-bg);
+  color: var(--sp-fg);
+  font: 1.0625rem/1.6 ui-rounded, -apple-system, BlinkMacSystemFont, "Helvetica Neue",
+    Arial, sans-serif;
+}
+
+img { max-width: 100%; height: auto; }
+
+.sp-cours {
+  max-width: var(--sp-maxw);
+  margin-inline: auto;
+  padding: var(--sp-space) 1rem calc(var(--sp-space) * 2.5);
+}
+
+/* --- Titres et texte courant, repris de cours.css -------------------------- */
+
+.sp-cours h1 {
+  margin: 2rem 0 1rem;
+  font-size: clamp(1.3rem, 5.5vw, 1.6rem);
+  font-weight: 700;
+  line-height: 1.25;
+  color: var(--sp-accent);
+}
+.sp-repertoire__lecon:first-of-type h1 { margin-top: 1rem; }
+
+.sp-cours h2 {
+  margin: 2rem 0 .75rem;
+  padding-bottom: .25rem;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  color: var(--sp-accent);
+  border-bottom: 1px solid var(--sp-rule);
+}
+
+.sp-cours p { margin: .75rem 0; }
+.sp-cours strong { font-weight: 700; }
+.sp-cours em { font-style: italic; }
+.sp-cours del { color: var(--sp-del); text-decoration-thickness: .08em; }
+.sp-cours .sp-ipa { font-style: normal; opacity: .7; }
+/* Écritures de droite à gauche (arabe…) : pas d'oblique artificiel, un cran plus grand. */
+.sp-cours [dir=rtl] em, .sp-cours em[dir=rtl] { font-style: normal; }
+.sp-cours [dir=rtl] { font-size: 1.2em; }
+
+.sp-cours code {
+  font: .9em/1.4 ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  padding: .05em .35em;
+  background: var(--sp-accent-soft);
+  border-radius: .3em;
+}
+
+.sp-cours ul { margin: .75rem 0; padding-left: 1.35rem; }
+.sp-cours li { margin: .3rem 0; }
+
+.sp-cours blockquote {
+  margin: .9rem 0;
+  padding: .4rem 0 .4rem 1rem;
+  border-left: 3px solid var(--sp-quote-bar);
+  background: var(--sp-quote-bg);
+  border-radius: 0 .5rem .5rem 0;
+}
+.sp-cours blockquote p { margin: .3rem 0; }
+.sp-cours blockquote p:first-child { margin-top: 0; }
+.sp-cours blockquote p:last-child { margin-bottom: 0; }
+
+.sp-cours .sp-speak-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.6em;
+  height: 1.6em;
+  margin-inline-start: .25em;
+  padding: 0;
+  border: none;
+  background: var(--sp-accent-soft);
+  border-radius: 999px;
+  font-size: .8em;
+  line-height: 1;
+  vertical-align: middle;
+  cursor: pointer;
+}
+.sp-cours .sp-speak-btn:hover { background: var(--sp-accent); }
+/* Aucune voix installée pour la langue du segment : la prononciation entendue
+   n'est pas fiable (repli silencieux du navigateur) — signalé visuellement,
+   détail dans le title du bouton (cf. repertoire.js). */
+.sp-cours .sp-speak-btn-sans-voix { background: none; outline: 1px dashed var(--sp-muted); opacity: .6; }
+
+.sp-cours p.xref {
+  margin-top: 1.5rem;
+  font-size: .9rem;
+  font-style: italic;
+  color: var(--sp-muted);
+}
+
+.sp-cours .sp-xref {
+  color: var(--sp-accent);
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: .15em;
+  white-space: nowrap;
+}
+/* Les parenthèses et les virgules d'un renvoi `(§8.3)` — ou d'une série
+   `(§7.6, §33.1)` — sont du texte émis par l'outillage, pas des `::before` :
+   un pseudo-élément par lien ne saurait pas ouvrir avant le premier et fermer
+   après le dernier. Elles restent hors du lien, donc ni colorées ni soulignées. */
+.sp-cours .sp-xref-groupe { white-space: nowrap; }
+
+.sp-cours__table {
+  margin: 1.1rem 0;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.sp-cours__table > table { border-collapse: collapse; width: 100%; font-size: .95rem; }
+.sp-cours__table th,
+.sp-cours__table td {
+  padding: .45rem .65rem;
+  text-align: left;
+  vertical-align: top;
+  border: 1px solid var(--sp-rule);
+}
+.sp-cours__table th { font-weight: 700; background: var(--sp-accent-soft); }
+.sp-cours__table tbody tr:nth-child(even) td {
+  background: color-mix(in srgb, var(--sp-fg) 5%, transparent);
+}
+
+@media (max-width: 24rem) {
+  .sp-cours__table th, .sp-cours__table td { padding: .35rem .45rem; }
+}
+
+/* --- Propre au répertoire --------------------------------------------------- */
+
+.sp-repertoire__nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem 1rem;
+  margin: 0 0 1.5rem;
+  padding-bottom: .75rem;
+  border-bottom: 1px solid var(--sp-rule);
+  font-size: .9rem;
+}
+.sp-repertoire__nav-lien {
+  color: var(--sp-accent);
+  text-decoration: none;
+}
+.sp-repertoire__nav-lien:hover { text-decoration: underline; }
+
+.sp-repertoire__chapitre-bandeau {
+  margin: 0 0 .5rem;
+  font-size: .8rem;
+  font-weight: 600;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--sp-muted);
+}
+.sp-repertoire__position {
+  font-weight: 400;
+  letter-spacing: normal;
+  text-transform: none;
+}
+
+.sp-repertoire__lecon {
+  padding: 1.5rem 0;
+}
+.sp-repertoire__lecon + .sp-repertoire__lecon {
+  border-top: 1px solid var(--sp-rule);
+}
+
+.sp-repertoire__voca-titre { margin-top: 1.5rem; }
+
+.sp-repertoire__voca {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.sp-repertoire__sens {
+  padding: .6rem 0;
+  border-bottom: 1px solid var(--sp-rule);
+}
+.sp-repertoire__sens:last-child { border-bottom: none; }
+
+.sp-repertoire__ligne {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: .4em;
+  line-height: 1.5;
+}
+.sp-repertoire__ligne--traduction {
+  margin-top: .2rem;
+  padding-left: 1.6rem;
+  font-size: .92em;
+  color: var(--sp-muted);
+}
+
+.sp-repertoire__chip {
+  display: inline-flex;
+  align-items: center;
+  gap: .3em;
+  padding: .05em .5em;
+  border-radius: 999px;
+  background: var(--sp-accent-soft);
+  color: var(--sp-accent);
+  font-size: .72em;
+  font-weight: 600;
+  letter-spacing: .02em;
+}
+
+.sp-repertoire__abbr {
+  font-size: .78em;
+  font-style: italic;
+  color: var(--sp-muted);
+}
+
+.sp-repertoire__mot { font-weight: 600; }
+.sp-repertoire__affix {
+  font-weight: 400;
+  color: var(--sp-muted);
+}
+
+.sp-repertoire__contexte {
+  font-size: .85em;
+  font-style: italic;
+  color: var(--sp-muted);
+}
+
+/* --- Sommaire --------------------------------------------------------------- */
+
+.sp-repertoire h1 { color: var(--sp-accent); }
+
+.sp-repertoire__chapitre-sommaire {
+  margin: 1.5rem 0;
+  padding: 1rem 1.2rem;
+  background: var(--sp-surface);
+  border-radius: .75rem;
+}
+.sp-repertoire__chapitre-sommaire h2 {
+  margin: 0 0 .5rem;
+  border: none;
+  text-transform: none;
+  letter-spacing: normal;
+  font-size: 1.1rem;
+}
+.sp-repertoire__chapitre-sommaire h2 a { color: inherit; text-decoration: none; }
+.sp-repertoire__chapitre-sommaire h2 a:hover { text-decoration: underline; }
+.sp-repertoire__chapitre-sommaire ul {
+  columns: 2;
+  column-gap: 1.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: .92rem;
+}
+.sp-repertoire__chapitre-sommaire li { margin: .25rem 0; break-inside: avoid; }
+/* Numéro de lecture `§C.L` (sommaire, bandeau) : la même notation que les
+   renvois de la prose, en chiffres tabulaires pour que la colonne s'aligne. */
+.sp-repertoire__numero {
+  color: var(--sp-muted);
+  font-variant-numeric: tabular-nums;
+  font-size: .9em;
+}
+.sp-repertoire__chapitre-sommaire h2 .sp-repertoire__numero { font-size: .85em; }
+.sp-repertoire__chapitre-sommaire a { color: var(--sp-fg); text-decoration: none; }
+.sp-repertoire__chapitre-sommaire a:hover { color: var(--sp-accent); }
+
+@media (max-width: 30rem) {
+  .sp-repertoire__chapitre-sommaire ul { columns: 1; }
+}

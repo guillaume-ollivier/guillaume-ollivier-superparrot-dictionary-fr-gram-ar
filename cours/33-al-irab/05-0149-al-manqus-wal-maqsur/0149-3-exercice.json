@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0149-1",
+  "source": "source=AR§reference=0149-1",
+  "title": "lang=fr-FR§{Manqūṣ et maqṣūr}lang=ar-SA§{المنقوص والمقصور}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§un juge}",
+      "answer": "{?1§قاض}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§le juge}",
+      "answer": "{?1§القاضي}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§le club}",
+      "answer": "{?1§النادي}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§J'ai vu un juge}{type=affix§.}",
+      "answer": "{?1§{رأيت قاضيا|رايت قاضيا}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§l'hôpital}",
+      "answer": "{?1§المستشفى}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

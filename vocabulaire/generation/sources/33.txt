@@ -1,0 +1,172 @@
+@ref 0145
+@chap 33
+@slug al-ahwal-ath-thalatha
+@niv niv-b1
+=== NOTE
+# Les trois cas
+
+**1** Le nom arabe se décline en trois cas, marqués par la voyelle finale :
+
+| cas | nom arabe | défini | indéfini | emplois |
+| --- | --- | --- | --- | --- |
+| nominatif | _marfūʿ_ | *ـُ* _-u_ | *ـٌ* _-un_ | sujet, attribut de la phrase nominale |
+| accusatif | _manṣūb_ | *ـَ* _-a_ | *ـًا* _-an_ | complément d'objet, attribut de _kāna_, sujet de _ʾinna_, adverbes |
+| génitif | _maǧrūr_ | *ـِ* _-i_ | *ـٍ* _-in_ | après préposition, 2ᵉ terme d'annexion |
+
+> *قَرَأَ الطَّالِبُ كِتَابًا فِي المَكْتَبَةِ.*
+> _qaraʾa ṭ-ṭālibu kitāban fī l-maktabati._
+> L'étudiant a lu un livre à la bibliothèque.
+
+Ici *الطَّالِبُ* est sujet (_-u_), *كِتَابًا* complément (_-an_), *المَكْتَبَةِ* après préposition (_-i_).
+
+**2** Sans voyelles, seul l'accusatif indéfini se voit, par son alif (*كتابا*). Les cas s'entendent à la lecture soignée, au journal télévisé, dans les discours ; ils ont disparu des dialectes.
+=== EXO
+title: L'accusatif indéfini | النصب بالتنوين
+wording: Traduisez | ترجم
+mode: trad
+L'étudiant a lu un livre. => قرأ الطالب كتابا.
+J'ai bu un café. => شربت قهوة.
+J'ai écrit une lettre. => كتبت رسالة.
+Il a mangé du pain. => أكل خبزا.
+J'ai vu un homme. => رأيت رجلا.
+=== VOCA
+@ref 0146
+@chap 33
+@slug al-mamnu-min-as-sarf
+@niv niv-b2
+=== NOTE
+# Les diptotes
+
+**1** Certains noms n'ont que **deux** terminaisons à l'indéfini : _-u_ au nominatif, _-a_ à l'accusatif **et au génitif**, et **jamais de _tanwīn_** : ce sont les **diptotes** (_al-mamnūʿ min aṣ-ṣarf_).
+
+| nominatif | accusatif | génitif |
+| --- | --- | --- |
+| *مَدَارِسُ* | *مَدَارِسَ* | *فِي مَدَارِسَ* |
+
+**2** Sont diptotes :
+- les pluriels *مَفَاعِل*, *مَفَاعِيل*, *فُعَلَاء*, *أَفْعِلَاء* (§8.3) ;
+- les adjectifs *أَفْعَل* (couleurs, comparatifs) : *أَحْمَرُ* ;
+- les noms en *ـَاء* féminin : *صَحْرَاءُ* ;
+- la plupart des noms propres étrangers ou féminins : *أَحْمَدُ*, *فَاطِمَةُ*, *مِصْرُ*, *بَارِيسُ*.
+
+> *سَافَرْتُ إِلَى مِصْرَ.*
+> _sāfartu ʾilā miṣra._
+> J'ai voyagé en Égypte.
+
+**3** Avec l'article ou en annexion, ils redeviennent normaux : *فِي المَدَارِسِ*.
+=== EXO
+title: Diptotes : pas d'alif de tanwīn | الممنوع من الصرف
+wording: Traduisez | ترجم
+mode: trad
+J'ai vu des écoles. => رأيت مدارس.
+J'ai visité des mosquées. => زرت مساجد.
+J'ai rencontré des amis. => قابلت أصدقاء.
+J'ai vu Ahmed. => رأيت أحمد.
+=== VOCA
+@ref 0147
+@chap 33
+@slug al-asma-al-khamsa
+@niv niv-b1
+=== NOTE
+# Les « cinq noms »
+
+**1** Quelques noms très courants allongent leur voyelle de cas devant un complément (annexion ou suffixe autre que _-ī_) :
+
+| nom | nominatif | accusatif | génitif |
+| --- | --- | --- | --- |
+| *أَب* (père) | *أَبُو* | *أَبَا* | *أَبِي* |
+| *أَخ* (frère) | *أَخُو* | *أَخَا* | *أَخِي* |
+| *ذُو* (doté de) | *ذُو* | *ذَا* | *ذِي* |
+
+**2** Ici les cas se voient, même sans voyelles :
+
+> *أَبُوهُ طَبِيبٌ.*
+> _ʾabūhu ṭabībun._
+> Son père est médecin.
+
+> *سَلَّمْتُ عَلَى أَخِيكَ.*
+> _sallamtu ʿalā ʾaḫīka._
+> J'ai salué ton frère.
+
+**3** *أَبُو* est aussi le surnom « père de » : *أَبُو أَحْمَدَ* (le père d'Ahmed), forme d'adresse respectueuse.
+=== EXO
+title: Les cinq noms | الأسماء الخمسة
+wording: Traduisez | ترجم
+mode: trad
+Son père est médecin. => أبوه طبيب.
+J'ai salué ton frère. => سلمت على أخيك.
+J'ai vu son père. => رأيت أباه.
+Mon frère est ingénieur. => أخي مهندس.
+le père d'Ahmed => أبو أحمد
+=== VOCA
+ذُو | doté de; possesseur de | noun | niv-b2 | freq-freq | qualite | reg-soutenu
+سَلَّمَ | saluer | verb, verb-trans, verb-derived | niv-b1 | freq-freq | relation | | عَلَى شَخْص
+@ref 0148
+@chap 33
+@slug irab-al-muthanna-wal-jam
+@niv niv-b1
+=== NOTE
+# Les cas au duel et aux pluriels sains
+
+**1** Le duel et le pluriel masculin sain n'ont que **deux** formes : nominatif / accusatif-génitif. Elles se voient à l'écrit :
+
+| | nominatif | accusatif et génitif |
+| --- | --- | --- |
+| duel | *مُهَنْدِسَانِ* | *مُهَنْدِسَيْنِ* |
+| pluriel masc. sain | *مُهَنْدِسُونَ* | *مُهَنْدِسِينَ* |
+
+**2** Le pluriel féminin sain a _-u_ / _-i_ (et non _-a_) : nominatif *مُهَنْدِسَاتٌ*, accusatif et génitif *مُهَنْدِسَاتٍ*.
+
+> *رَأَيْتُ المُهَنْدِسِينَ فِي المَصْنَعِ.*
+> _raʾaytu l-muhandisīna fī l-maṣnaʿi._
+> J'ai vu les ingénieurs à l'usine.
+
+> *تَكَلَّمْتُ مَعَ المُعَلِّمَيْنِ.*
+> _takallamtu maʿa l-muʿallimayni._
+> J'ai parlé avec les deux instituteurs.
+=== EXO
+title: Choisir la terminaison | الإعراب بالحروف
+wording: Complétez | أكمل
+mode: trou
+رأيت ___ في المصنع. => المهندسين ## les ingénieurs
+المهندس___ في المصنع. => ون ## les ingénieurs
+تكلمت مع المعلم___. => ين ## les deux instituteurs
+جاء المعلم___. => ان ## les deux instituteurs
+الطالب___ مجتهدون. => ون ## les étudiants (pluriel sain)
+=== VOCA
+مَصْنَع | usine:f | noun, mas | niv-b1 | freq-freq | travail, batiment | | | | | مَصَانِع
+@ref 0149
+@chap 33
+@slug al-manqus-wal-maqsur
+@niv niv-b2
+=== NOTE
+# Noms en _-in_ et en *-ā*
+
+**1** Les noms terminés par _-ī_ après consonne simple (participes de verbes défectueux) perdent leur _ي_ à l'indéfini (nominatif et génitif) : ce sont les **_manqūṣ_**.
+
+| indéfini | défini |
+| --- | --- |
+| *قَاضٍ* _qāḍin_ (un juge) | *القَاضِي* _al-qāḍī_ |
+| *نَادٍ* _nādin_ (un club) | *النَّادِي* |
+| *مُحَامٍ* (un avocat) | *المُحَامِي* |
+
+À l'accusatif indéfini, le _ي_ revient : *رَأَيْتُ قَاضِيًا*.
+
+**2** Les noms en _-ā_ (_ى_ ou _ا_), les **_maqṣūr_**, sont **invariables** : *مُسْتَشْفًى*, *المُسْتَشْفَى*, *مَعْنًى*.
+
+> *ذَهَبْتُ إِلَى نَادٍ رِيَاضِيٍّ.*
+> _ḏahabtu ʾilā nādin riyāḍiyyin._
+> Je suis allé dans un club sportif.
+=== EXO
+title: Manqūṣ et maqṣūr | المنقوص والمقصور
+wording: Traduisez | ترجم
+mode: trad
+un juge => قاض
+le juge => القاضي
+le club => النادي
+J'ai vu un juge. => رأيت قاضيا.
+l'hôpital => المستشفى
+=== VOCA
+قَاضٍ | juge:m | noun, mas | niv-b1 | freq-freq | metier, droit | | | | | قُضَاة
+نَادٍ | club:m | noun, mas | niv-a2 | freq-freq | loisir | | | | | أَنْدِيَة
+رِيَاضِيّ | sportif | adj, nisba | niv-a2 | freq-freq | sport

@@ -1,0 +1,43 @@
+{
+  "topic_ref": "0156-1",
+  "source": "source=AR§reference=0156-1",
+  "title": "lang=fr-FR§{Plus / moins + nom}lang=ar-SA§{أكثر وأقل}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§Cette route est plus encombrée}{type=affix§.}",
+      "answer": "{?1§{هذا الطريق أكثر ازدحاما|هذا الطريق اكثر ازدحاما}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Elle est plus active que son frère}{type=affix§.}",
+      "answer": "{?1§{هي أكثر نشاطا من أخيها|هي اكثر نشاطا من اخيها}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§moins cher}",
+      "answer": "{?1§{أقل ثمنا|اقل ثمنا|أرخص|ارخص}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§Je l'aime davantage}{type=affix§.}",
+      "answer": "{?1§{أحبه أكثر|احبه اكثر}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

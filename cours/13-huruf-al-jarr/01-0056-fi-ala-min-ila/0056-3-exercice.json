@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0056-1",
+  "source": "source=AR§reference=0056-1",
+  "title": "lang=fr-FR§{Prépositions de base}lang=ar-SA§{حروف الجر}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§à la maison}",
+      "answer": "{?1§في البيت}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§sur la table}",
+      "answer": "{?1§على الطاولة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§de Tunisie}",
+      "answer": "{?1§من تونس}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§à l'école}",
+      "answer": "{?1§{إلى المدرسة|الى المدرسة}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§du matin au soir}",
+      "answer": "{?1§{من الصباح إلى المساء|من الصباح الى المساء}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§Le livre est dans le sac}{type=affix§.}",
+      "answer": "{?1§الكتاب في الحقيبة}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

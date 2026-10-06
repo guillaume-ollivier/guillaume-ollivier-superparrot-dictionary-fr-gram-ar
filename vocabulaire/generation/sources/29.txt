@@ -1,0 +1,224 @@
+@ref 0125
+@chap 29
+@slug tafaala
+@niv niv-b1
+=== NOTE
+# Forme V : _tafaʿʿala_
+
+**1** La forme V = *تَـ* + forme II. Elle est le **réfléchi** de la forme II : on fait l'action sur soi-même.
+
+| forme II | forme V |
+| --- | --- |
+| *عَلَّمَ* (enseigner) | *تَعَلَّمَ* (apprendre, s'instruire) |
+| *كَلَّمَ* (parler à qqn) | *تَكَلَّمَ* (parler) |
+| *أَخَّرَ* (retarder) | *تَأَخَّرَ* (être en retard) |
+
+**2** Inaccompli : préfixe en _a_, toutes les voyelles en _a_ : *يَتَعَلَّمُ* _yataʿallamu_.
+
+> *أَتَعَلَّمُ العَرَبِيَّةَ مُنْذُ سَنَةٍ.*
+> _ʾataʿallamu l-ʿarabiyyata munḏu sanatin._
+> J'apprends l'arabe depuis un an.
+
+> *هَلْ تَتَكَلَّمِينَ الفَرَنْسِيَّةَ؟*
+> _hal tatakallamīna l-faransiyyata?_
+> Parles-tu français ?
+=== EXO
+title: Forme V | الوزن تفعّل
+wording: Traduisez | ترجم
+mode: trad
+J'apprends l'arabe. => أتعلم العربية.
+Parles-tu français ? (à une femme) => هل تتكلمين الفرنسية؟
+Le train est en retard. => تأخر القطار. | القطار متأخر.
+Il a appris à nager. => تعلم السباحة.
+Nous parlons arabe. => نتكلم العربية.
+=== VOCA
+تَعَلَّمَ | apprendre [s'instruire] | verb, verb-trans, verb-derived | niv-a1 | freq-tres | ecole
+تَكَلَّمَ | parler | verb, verb-intrans, verb-derived | niv-a1 | freq-tres | parole
+تَأَخَّرَ | être en retard | verb, verb-intrans, verb-derived | niv-a2 | freq-tres | temps
+مُنْذُ | depuis | prep | niv-a2 | freq-tres | duree
+@ref 0126
+@chap 29
+@slug tafaala-6
+@niv niv-b1
+=== NOTE
+# Forme VI : _tafāʿala_
+
+**1** La forme VI = *تَـ* + forme III. Elle exprime la **réciprocité** (l'un l'autre) ou le fait de **feindre** :
+
+| forme III | forme VI |
+| --- | --- |
+| *كَاتَبَ* (écrire à) | *تَكَاتَبَ* (s'écrire mutuellement) |
+| *عَاوَنَ* (aider) | *تَعَاوَنَ* (coopérer) |
+| *قَابَلَ* (rencontrer) | *تَقَابَلَ* (se rencontrer) |
+
+**2** Autres : *تَنَاوَلَ* (prendre, consommer un repas), *تَمَارَضَ* (faire semblant d'être malade).
+
+**3** Inaccompli : *يَتَعَاوَنُ* _yataʿāwanu_.
+
+> *تَعَاوَنَ الطُّلَّابُ فِي المَشْرُوعِ.*
+> _taʿāwana ṭ-ṭullābu fī l-mašrūʿi._
+> Les étudiants ont coopéré au projet.
+
+> *نَتَنَاوَلُ الغَدَاءَ فِي الوَاحِدَةِ.*
+> _natanāwalu l-ġadāʾa fī l-wāḥidati._
+> Nous déjeunons à une heure.
+=== EXO
+title: Forme VI | الوزن تفاعل
+wording: Traduisez | ترجم
+mode: trad
+Les étudiants ont coopéré. => تعاون الطلاب.
+Nous nous sommes rencontrés à la gare. => تقابلنا في المحطة.
+Nous déjeunons à une heure. => نتناول الغداء في الواحدة.
+Ils s'écrivent. => يتكاتبون.
+=== VOCA
+تَعَاوَنَ | coopérer | verb, verb-intrans, verb-derived | niv-b1 | freq-freq | echange
+تَقَابَلَ | se rencontrer | verb, verb-intrans, verb-derived | niv-b1 | freq-freq | relation
+تَنَاوَلَ | prendre [repas]; consommer | verb, verb-trans, verb-derived | niv-b1 | freq-freq | repas
+مَشْرُوع | projet:m | noun, mas | niv-a2 | freq-tres | travail |  |  |  |  | مَشَارِيع
+غَدَاء | déjeuner:m | noun, mas | niv-a1 | freq-freq | repas
+@ref 0127
+@chap 29
+@slug infaala
+@niv niv-b1
+=== NOTE
+# Forme VII : _infaʿala_
+
+**1** La forme VII préfixe *اِنْـ* (avec _hamzat al-waṣl_). Elle est le **passif** ou le **moyen** de la forme I : la chose « se fait » :
+
+| forme I | forme VII |
+| --- | --- |
+| *كَسَرَ* (casser) | *اِنْكَسَرَ* (se casser) |
+| *فَتَحَ* (ouvrir) | *اِنْفَتَحَ* (s'ouvrir) |
+| *قَطَعَ* (couper) | *اِنْقَطَعَ* (être coupé, s'interrompre) |
+
+**2** Inaccompli : *يَنْكَسِرُ* _yankasiru_.
+
+> *اِنْقَطَعَتِ الكَهْرَبَاءُ.*
+> _inqaṭaʿati l-kahrabāʾu._
+> L'électricité a été coupée.
+
+**3** On l'emploie souvent à la place du passif (§36.4). Elle n'a jamais de complément d'objet.
+=== EXO
+title: Forme VII | الوزن انفعل
+wording: Traduisez | ترجم
+mode: trad
+Le verre s'est cassé. => انكسرت الكأس.
+La porte s'est ouverte. => انفتح الباب.
+L'électricité a été coupée. => انقطعت الكهرباء.
+=== VOCA
+اِنْكَسَرَ | se casser | verb, verb-intrans, verb-derived | niv-b1 | freq-freq | etat
+اِنْقَطَعَ | être coupé; s'interrompre | verb, verb-intrans, verb-derived | niv-b1 | freq-freq | etat
+كَهْرَبَاء | électricité:f | noun, fem | niv-a2 | freq-freq | habitation
+@ref 0128
+@chap 29
+@slug iftaala
+@niv niv-b1
+=== NOTE
+# Forme VIII : _iftaʿala_
+
+**1** La forme VIII insère un _ت_ après la 1ʳᵉ consonne, avec _hamzat al-waṣl_ : *اِفْتَعَلَ*. Valeurs variées (réfléchi, effort pour soi) :
+
+| forme I | forme VIII |
+| --- | --- |
+| *جَمَعَ* (rassembler) | *اِجْتَمَعَ* (se réunir) |
+| *سَمِعَ* (entendre) | *اِسْتَمَعَ* (écouter attentivement) |
+| *نَظَرَ* (regarder) | *اِنْتَظَرَ* (attendre) |
+
+**2** Le _ت_ s'assimile après certaines consonnes :
+- après _ص ض ط ظ_, il devient _ط_ : *اِصْطَدَمَ* (heurter) ;
+- après _د ذ ز_, il devient _د_ : *اِزْدَحَمَ* (être encombré).
+
+**3** Inaccompli : *يَجْتَمِعُ* _yaǧtamiʿu_.
+
+> *اِجْتَمَعَ الوُزَرَاءُ أَمْسِ.*
+> _iǧtamaʿa l-wuzarāʾu ʾamsi._
+> Les ministres se sont réunis hier.
+=== EXO
+title: Forme VIII | الوزن افتعل
+wording: Traduisez | ترجم
+mode: trad
+Les ministres se sont réunis hier. => اجتمع الوزراء أمس.
+J'écoute la radio. => أستمع إلى الراديو. | أستمع إلى المذياع.
+La rue est encombrée. => الشارع مزدحم.
+La voiture a heurté un arbre. => اصطدمت السيارة بشجرة.
+=== VOCA
+اِجْتَمَعَ | se réunir | verb, verb-intrans, verb-derived | niv-b1 | freq-tres | relation
+اِسْتَمَعَ | écouter | verb, verb-intrans, verb-derived | niv-a2 | freq-tres | perception
+اِصْطَدَمَ | heurter; entrer en collision | verb, verb-intrans, verb-derived | niv-b2 | freq-freq | transport
+مُزْدَحِم | encombré; bondé | adj | niv-b1 | freq-freq | ville
+أَمْسِ | hier | adv | niv-a1 | freq-tres | moment
+شَجَرَة | arbre:m | noun, fem | niv-a1 | freq-tres | vegetal |  |  |  |  | أَشْجَار
+@ref 0129
+@chap 29
+@slug istafala
+@niv niv-b1
+=== NOTE
+# Forme X : _istafʿala_
+
+**1** La forme X préfixe *اِسْتَـ*. Elle exprime le fait de **demander** quelque chose, ou de **considérer** comme :
+
+| forme I | forme X |
+| --- | --- |
+| *عَمِلَ* (faire) | *اِسْتَعْمَلَ* (utiliser) |
+| *قَبِلَ* (accepter) | *اِسْتَقْبَلَ* (accueillir) |
+| *خَدَمَ* (servir) | *اِسْتَخْدَمَ* (employer) |
+| *غَفَرَ* (pardonner) | *اِسْتَغْفَرَ* (demander pardon) |
+
+**2** Inaccompli : *يَسْتَعْمِلُ* _yastaʿmilu_.
+
+> *نَسْتَعْمِلُ الحَاسُوبَ كُلَّ يَوْمٍ.*
+> _nastaʿmilu l-ḥāsūba kulla yawmin._
+> Nous utilisons l'ordinateur tous les jours.
+
+**3** Le nom verbal *اِسْتِفْعَال* est très productif : *اِسْتِعْمَال* (usage), *اِسْتِقْبَال* (accueil).
+=== EXO
+title: Forme X | الوزن استفعل
+wording: Traduisez | ترجم
+mode: trad
+Nous utilisons l'ordinateur. => نستعمل الحاسوب. | نستخدم الحاسوب.
+Il a accueilli les invités. => استقبل الضيوف.
+J'utilise un stylo. => أستعمل قلما. | أستخدم قلما.
+=== VOCA
+اِسْتَعْمَلَ ; اِسْتَخْدَمَ | utiliser; employer | verb, verb-trans, verb-derived | niv-a2 | freq-tres | action
+اِسْتَقْبَلَ | accueillir; recevoir | verb, verb-trans, verb-derived | niv-b1 | freq-tres | echange
+@ref 0130
+@chap 29
+@slug jadwal-al-awzan
+@niv niv-b2
+=== NOTE
+# Tableau des formes, et la forme IX
+
+**1** Récapitulatif sur la racine _f-ʿ-l_ :
+
+| forme | accompli | inaccompli | nom verbal |
+| --- | --- | --- | --- |
+| I | *فَعَلَ* | *يَفْعَلُ* | (variable) (§32.1) |
+| II | *فَعَّلَ* | *يُفَعِّلُ* | *تَفْعِيل* |
+| III | *فَاعَلَ* | *يُفَاعِلُ* | *مُفَاعَلَة* |
+| IV | *أَفْعَلَ* | *يُفْعِلُ* | *إِفْعَال* |
+| V | *تَفَعَّلَ* | *يَتَفَعَّلُ* | *تَفَعُّل* |
+| VI | *تَفَاعَلَ* | *يَتَفَاعَلُ* | *تَفَاعُل* |
+| VII | *اِنْفَعَلَ* | *يَنْفَعِلُ* | *اِنْفِعَال* |
+| VIII | *اِفْتَعَلَ* | *يَفْتَعِلُ* | *اِفْتِعَال* |
+| IX | *اِفْعَلَّ* | *يَفْعَلُّ* | *اِفْعِلَال* |
+| X | *اِسْتَفْعَلَ* | *يَسْتَفْعِلُ* | *اِسْتِفْعَال* |
+
+**2** La forme **IX** sert aux couleurs et défauts : *اِحْمَرَّ* (rougir), *اِصْفَرَّ* (jaunir).
+
+> *اِحْمَرَّ وَجْهُهُ.*
+> _iḥmarra waǧhuhu._
+> Son visage a rougi.
+=== EXO
+title: Racine + forme | الجذر والوزن
+wording: Formez l'accompli (هو) | صُغ الماضي
+mode: transfo
+علم + V => تعلم
+خدم + X => استخدم
+جمع + VIII => اجتمع
+كسر + VII => انكسر
+عون + VI => تعاون
+خرج + IV => أخرج
+سفر + III => سافر
+حمر + IX => احمر
+=== VOCA
+وَجْه | visage:m | noun, mas | niv-a1 | freq-tres | corps |  |  |  |  | وُجُوه

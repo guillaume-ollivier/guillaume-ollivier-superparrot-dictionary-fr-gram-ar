@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0059-1",
+  "source": "source=AR§reference=0059-1",
+  "title": "lang=fr-FR§{Il y a}lang=ar-SA§{هناك}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§Il y a un restaurant proche}{type=affix§.}",
+      "answer": "{?1§هناك مطعم قريب}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Dans la chambre, il y a un lit}{type=affix§.}",
+      "answer": "{?1§في الغرفة سرير}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Il y a un problème}{type=affix§.}",
+      "answer": "{?1§هناك مشكلة}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§ici}",
+      "answer": "{?1§هنا}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§Dans la ville, il y a un grand marché}{type=affix§.}",
+      "answer": "{?1§في المدينة سوق كبير}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+@ref 0087
+@chap 19
+@slug ma-al-madi
+@niv niv-a1
+=== NOTE
+# _Mā_ + accompli
+
+**1** La façon la plus simple de nier le passé : *مَا* _mā_ devant l'accompli.
+
+> *مَا ذَهَبْتُ إِلَى المَدْرَسَةِ.*
+> _mā ḏahabtu ʾilā l-madrasati._
+> Je ne suis pas allé à l'école.
+
+**2** Cette tournure est vivante à l'oral et fréquente dans les récits ; elle est un peu emphatique en arabe écrit, qui préfère *لَمْ* (§19.2).
+
+**3** Le verbe ne change pas : on ajoute simplement _ما_.
+=== EXO
+title: Nier avec mā | النفي بما
+wording: Mettez à la forme négative avec ما | انفِ بما
+mode: transfo
+ذهبت => ما ذهبت
+كتب => ما كتب
+شربنا => ما شربنا
+خرجوا => ما خرجوا
+درست => ما درست
+=== VOCA
+@ref 0088
+@chap 19
+@slug lam
+@niv niv-a2
+=== NOTE
+# _Lam_ + apocopé : la négation écrite du passé
+
+**1** En arabe écrit, on nie le passé avec *لَمْ* _lam_ suivi de l'**inaccompli apocopé** (§25.1) — un inaccompli dont :
+- la voyelle finale _-u_ devient _sukūn_ : *يَكْتُبُ* → *لَمْ يَكْتُبْ* ;
+- les « formes à _n_ » perdent leur _n_ : *يَكْتُبُونَ* → *لَمْ يَكْتُبُوا* (avec alif muet), *تَكْتُبِينَ* → *لَمْ تَكْتُبِي*.
+
+> *لَمْ أَفْهَمِ السُّؤَالَ.*
+> _lam ʾafhami s-suʾāla._
+> Je n'ai pas compris la question.
+
+**2** Le sens est **passé**, bien que le verbe ait la forme du présent.
+
+**3** Sans voyelles, *لم يكتب* ; seules les formes à _n_ changent à l'écrit : *لم يكتبوا*, *لم تكتبي*.
+=== EXO
+title: De mā à lam | من ما إلى لم
+wording: Reformulez avec لم | انفِ بلم
+mode: transfo
+ما ذهبت (أنا) => لم أذهب
+ما كتب (هو) => لم يكتب
+ما فهمنا (نحن) => لم نفهم
+ما خرجوا (هم) => لم يخرجوا
+ما شربت (أنتِ) => لم تشربي
+ما درستم (أنتم) => لم تدرسوا
+=== EXO
+title: Nier le passé | نفي الماضي
+wording: Traduisez avec لم | ترجم بلم
+mode: trad
+Je n'ai pas compris. => لم أفهم.
+Il n'est pas sorti. => لم يخرج.
+Ils ne sont pas allés au marché. => لم يذهبوا إلى السوق.
+=== VOCA
+فَهِمَ | comprendre | verb, verb-trans | niv-a1 | freq-ultra | pensee
+لَمْ | ne… pas::locution, adv | particle | niv-a2 | freq-ultra | | | | lam | fr-FR§au passé
+@ref 0089
+@chap 19
+@slug lam-bad-qatt
+@niv niv-b1
+=== NOTE
+# « Pas encore », « jamais »
+
+**1** « Pas encore » : *لَمْ … بَعْدُ* ou *لَمَّا* + apocopé.
+
+> *لَمْ يَصِلِ القِطَارُ بَعْدُ.*
+> _lam yaṣili l-qiṭāru baʿdu._
+> Le train n'est pas encore arrivé.
+
+> *لَمَّا يَصِلْ.*
+> _lammā yaṣil._
+> Il n'est pas encore arrivé.
+
+**2** « Jamais » (dans le passé) : *لَمْ … قَطُّ* ; « jamais » (futur ou général) : *أَبَدًا*.
+
+> *لَمْ أُسَافِرْ إِلَى مِصْرَ قَطُّ.*
+> _lam ʾusāfir ʾilā miṣra qaṭṭu._
+> Je ne suis jamais allé en Égypte.
+
+**3** *بَعْدُ* seul (avec _u_) = « encore » ; *بَعْدَ* (avec _a_) = « après » (§38.4).
+=== EXO
+title: Pas encore, jamais | لم بعد، قط
+wording: Traduisez | ترجم
+mode: trad
+Le train n'est pas encore arrivé. => لم يصل القطار بعد.
+Il n'est pas encore sorti. => لم يخرج بعد.
+Je n'ai jamais voyagé en Égypte. => لم أسافر إلى مصر قط.
+Nous n'avons pas encore compris. => لم نفهم بعد.
+=== VOCA
+قَطُّ | jamais | adv | niv-b1 | freq-freq | frequence | | | | fr-FR§dans le passé, après une négation
+أَبَدًا | jamais | adv | niv-a2 | freq-tres | frequence | | | | fr-FR§au présent ou au futur
+سَافَرَ | voyager | verb, verb-intrans, verb-derived | niv-a1 | freq-tres | voyage

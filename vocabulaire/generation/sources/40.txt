@@ -1,0 +1,168 @@
+@ref 0178
+@chap 40
+@slug al-fusha-wal-ammiyya
+@niv niv-b1
+=== NOTE
+# Arabe standard et dialectes
+
+**1** Le monde arabe vit en **diglossie** : deux variétés coexistent.
+- L'**arabe standard** (_al-fuṣḥā_), enseigné dans ce cours : écrit, presse, livres, discours, journal télévisé. Il est commun à tous les pays arabes, mais n'est la langue maternelle de personne.
+- Les **dialectes** (_al-ʿāmmiyya_, _ad-dāriǧa_ au Maghreb) : la langue parlée au quotidien, variable d'un pays à l'autre.
+
+**2** Grandes familles de dialectes : maghrébins (Maroc, Algérie, Tunisie, Libye), égyptien et soudanais, levantins (Syrie, Liban, Palestine, Jordanie), mésopotamien (Irak), du Golfe et de la péninsule.
+
+**3** Différences typiques des dialectes : pas de déclinaison ni de duel verbal, négation en *مَا … ش* (Égypte, Maghreb), futur en *رَاح* / *حَـ* / *بَاشْ*, vocabulaire propre.
+
+> *أُرِيدُ أَنْ أَشْرَبَ قَهْوَةً.*
+> _ʾurīdu ʾan ʾašraba qahwatan._
+> Je veux boire un café. (standard)
+
+**4** L'arabe standard est compris partout ; maîtrisé, il permet d'apprendre un dialecte bien plus vite.
+=== EXO
+title: Standard et dialecte | الفصحى والعامية
+wording: Traduisez | ترجم
+mode: trad
+l'arabe standard => الفصحى | العربية الفصحى
+le dialecte => العامية | اللهجة
+Je veux boire un café. => أريد أن أشرب قهوة.
+=== VOCA
+الفُصْحَى | arabe standard:m | noun, fem | niv-b1 | freq-freq | langue-ecrit
+لَهْجَة | dialecte:m | noun, fem | niv-b1 | freq-freq | parole | | | | | لَهَجَات
+العَامِّيَّة | arabe dialectal:m | noun, fem | niv-b1 | freq-freq | parole
+@ref 0179
+@chap 40
+@slug amthila-min-al-lahajat
+@niv niv-b2
+=== NOTE
+# Quelques dialectes en exemple
+
+**1** « Je veux » et « qu'est-ce que tu veux ? » dans quatre dialectes (en caractères arabes et en transcription usuelle) :
+
+| région | « je veux » | « que veux-tu ? » |
+| --- | --- | --- |
+| standard | *أُرِيدُ* _ʾurīdu_ | *مَاذَا تُرِيدُ؟* |
+| Égypte | *عَايِز* _ʿāyiz_ | *عَايِز إِيه؟* _ʿāyiz ʾēh?_ |
+| Levant | *بِدِّي* _biddī_ | *شُو بِدَّك؟* _šū biddak?_ |
+| Maroc | *بْغِيت* _bġīt_ | *آش بْغِيتِي؟* _āš bġītī?_ |
+| Golfe | *أَبِي* _ʾabī_ | *شُو تَبِي؟* _šū tabī?_ |
+
+**2** « Maintenant » : standard *الآنَ* ; Égypte *دِلْوَقْتِي* ; Levant *هَلَّق* ; Maroc *دَابَا*.
+
+**3** Les dialectes se comprennent plus ou moins entre eux ; le dialecte égyptien, porté par le cinéma, est le plus largement compris.
+=== EXO
+title: Reconnaître le standard | الفصحى
+wording: Donnez l'équivalent en arabe standard | اكتب بالفصحى
+mode: transfo
+عايز (مصر) => أريد
+بدي (الشام) => أريد
+دابا (المغرب) => الآن
+دلوقتي (مصر) => الآن
+هلق (الشام) => الآن
+=== VOCA
+الآنَ | maintenant | adv | niv-a1 | freq-ultra | moment
+@ref 0180
+@chap 40
+@slug al-khatt
+@niv niv-b1
+=== NOTE
+# L'écriture : styles et usages
+
+**1** La calligraphie est un art majeur. Styles principaux :
+- **_nasḫ_** : l'écriture des livres imprimés, claire et ronde ;
+- **_ruqʿa_** : l'écriture manuscrite courante, rapide, aux points souvent liés ;
+- **_ṯuluṯ_** : monumental, pour les titres et les mosquées ;
+- **_kūfī_** : anguleux, le plus ancien ;
+- **_dīwānī_** et **_maġribī_**.
+
+**2** L'alphabet arabe sert aussi d'autres langues, avec des lettres supplémentaires : persan, ourdou, pachto… ; turc (jusqu'en 1928) et malais l'ont longtemps employé.
+
+**3** Sur un téléphone, l'**arabizi** transcrit l'arabe en lettres latines et chiffres : *3* = _ع_, *7* = _ح_, *2* = _ء_, *5* = _خ_ : _mar7aba_ = *مرحبا*.
+=== EXO
+title: Déchiffrer l'arabizi | العربيزي
+wording: Écrivez en caractères arabes | اكتب بالحروف العربية
+mode: trad
+mar7aba => مرحبا
+7abibi => حبيبي
+3arabi => عربي
+sa7 => صح
+5alas => خلاص
+=== VOCA
+خَطّ | écriture [calligraphie]:f | noun, mas | niv-b1 | freq-tres | art | | كِتَابَة
+حَبِيب | chéri:m; bien-aimé:m | noun, mas | niv-a2 | freq-tres | relation |  |  |  |  | أَحِبَّاء:bien-aimés
+خَلَاص | ça suffit; c'est fini | interj | niv-a2 | freq-freq | communication-orale | reg-familier
+@ref 0181
+@chap 40
+@slug amthal
+@niv niv-b2
+=== NOTE
+# Proverbes et expressions
+
+**1** Quelques proverbes très connus :
+
+> *الصَّبْرُ مِفْتَاحُ الفَرَجِ.*
+> _aṣ-ṣabru miftāḥu l-faraǧi._
+> La patience est la clé du soulagement.
+
+> *العَقْلُ السَّلِيمُ فِي الجِسْمِ السَّلِيمِ.*
+> _al-ʿaqlu s-salīmu fī l-ǧismi s-salīmi._
+> Un esprit sain dans un corps sain.
+
+> *فِي التَّأَنِّي السَّلَامَةُ وَفِي العَجَلَةِ النَّدَامَةُ.*
+> _fī t-taʾannī s-salāmatu wa-fī l-ʿaǧalati n-nadāmatu._
+> Dans la lenteur, la sûreté ; dans la hâte, le regret.
+
+> *اُطْلُبُوا العِلْمَ وَلَوْ فِي الصِّينِ.*
+> _uṭlubū l-ʿilma wa-law fī ṣ-ṣīni._
+> Cherchez le savoir, fût-ce en Chine.
+
+**2** Les proverbes emploient beaucoup la phrase nominale et le parallélisme : un bon terrain pour revoir les cas.
+=== EXO
+title: Compléter un proverbe | أكمل المثل
+wording: Complétez le proverbe | أكمل المثل
+mode: trou
+الصبر ___ الفرج. => مفتاح ## La patience est la clé du soulagement.
+العقل السليم في ___ السليم. => الجسم ## Un esprit sain dans un corps sain.
+اطلبوا العلم ولو في ___. => الصين ## Cherchez le savoir, fût-ce en Chine.
+في التأني ___ وفي العجلة الندامة. => السلامة ## Dans la lenteur, la sûreté…
+=== VOCA
+صَبْر | patience:f | noun, mas | niv-b1 | freq-freq | caractere
+عَقْل | esprit [intellect]:m; raison [faculté]:f | noun, mas | niv-b1 | freq-tres | pensee | | | | | عُقُول:esprits
+جِسْم | corps:m | noun, mas | niv-a2 | freq-tres | corps |  |  |  |  | أَجْسَام
+الصِّين | Chine:f | noun, noun-pro | niv-a2 | freq-freq | geographie
+@ref 0182
+@chap 40
+@slug ibarat-yawmiyya
+@niv niv-a2
+=== NOTE
+# Formules de la vie quotidienne
+
+**1** Beaucoup de formules courantes mentionnent Dieu ; elles sont employées par tous, croyants ou non, chrétiens comme musulmans, comme des tournures figées :
+
+| formule | sens littéral | emploi |
+| --- | --- | --- |
+| *إِنْ شَاءَ اللّٰهُ* | si Dieu le veut | pour tout projet futur : « j'espère », « sans doute » |
+| *مَا شَاءَ اللّٰهُ* | ce que Dieu a voulu | admiration (un enfant, une réussite) |
+| *الحَمْدُ لِلّٰهِ* | louange à Dieu | « Dieu merci », « ça va » |
+| *بِسْمِ اللّٰهِ* | au nom de Dieu | avant de commencer, de manger |
+| *اللّٰهُ أَعْلَمُ* | Dieu sait mieux | « je ne sais pas trop » |
+| *مَبْرُوك* | béni | « félicitations » ; réponse *اللّٰهُ يُبَارِكُ فِيكَ* |
+
+> *أَرَاكَ غَدًا، إِنْ شَاءَ اللّٰهُ.*
+> _ʾarāka ġadan, ʾin šāʾa llāh._
+> À demain, j'espère. (litt. je te verrai demain, si Dieu le veut)
+
+**2** Pour souhaiter bon appétit : *بِالهَنَاءِ وَالشِّفَاءِ* ; bon rétablissement : *سَلَامَتُكَ*.
+=== EXO
+title: Formules courantes | العبارات اليومية
+wording: Traduisez | ترجم
+mode: trad
+si Dieu le veut => إن شاء الله
+Félicitations ! => مبروك!
+au nom de Dieu => بسم الله
+Dieu merci => الحمد لله
+À demain, j'espère. => أراك غدا إن شاء الله. | أراك غدا، إن شاء الله.
+=== VOCA
+إِنْ شَاءَ اللّٰهُ | si Dieu le veut | locution, interj | niv-a1 | freq-ultra | religion, communication-orale
+مَا شَاءَ اللّٰهُ | formule d'admiration::locution, interj, defi | locution, interj | niv-a2 | freq-tres | religion, communication-orale
+مَبْرُوك | félicitations | interj | niv-a1 | freq-tres | fete
+بِسْمِ اللّٰهِ | au nom de Dieu | locution, interj | niv-a1 | freq-tres | religion, communication-orale

@@ -1,0 +1,64 @@
+{
+  "topic_ref": "0119-1",
+  "source": "source=AR§reference=0119-1",
+  "title": "lang=fr-FR§{Trouver la racine}lang=ar-SA§{استخراج الجذر}",
+  "wording": "lang=fr-FR§{Donnez la racine (trois lettres collées)}lang=ar-SA§{اكتب الجذر}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§استقبال}",
+      "answer": "{?1§قبل}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§ملعب}",
+      "answer": "{?1§لعب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§مسجد}",
+      "answer": "{?1§سجد}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§معلومات}",
+      "answer": "{?1§علم}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§استعمال}",
+      "answer": "{?1§عمل}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§تجارة}",
+      "answer": "{?1§تجر}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "7",
+      "question": "{?1§مفتاح}",
+      "answer": "{?1§فتح}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

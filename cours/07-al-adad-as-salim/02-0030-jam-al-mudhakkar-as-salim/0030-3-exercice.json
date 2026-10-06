@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0030-1",
+  "source": "source=AR§reference=0030-1",
+  "title": "lang=fr-FR§{Pluriel masculin sain}lang=ar-SA§{جمع المذكر السالم}",
+  "wording": "lang=fr-FR§{Donnez le pluriel sujet (-ūna)}lang=ar-SA§{اكتب الجمع المرفوع}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§مهندس}",
+      "answer": "{?1§مهندسون}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§معلم}",
+      "answer": "{?1§معلمون}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§مسلم}",
+      "answer": "{?1§مسلمون}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§متعب}",
+      "answer": "{?1§متعبون}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§موظف}",
+      "answer": "{?1§موظفون}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

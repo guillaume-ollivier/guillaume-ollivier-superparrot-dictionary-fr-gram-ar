@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0140-1",
+  "source": "source=AR§reference=0140-1",
+  "title": "lang=fr-FR§{Nom verbal (forme I)}lang=ar-SA§{مصدر الثلاثي}",
+  "wording": "lang=fr-FR§{Donnez le nom verbal}lang=ar-SA§{اكتب المصدر}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§كتب}",
+      "answer": "{?1§كتابة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§درس}",
+      "answer": "{?1§دراسة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§خرج}",
+      "answer": "{?1§خروج}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§دخل}",
+      "answer": "{?1§دخول}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§عمل}",
+      "answer": "{?1§عمل}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§شرب}",
+      "answer": "{?1§شرب}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

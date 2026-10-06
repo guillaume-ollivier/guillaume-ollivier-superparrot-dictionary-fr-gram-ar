@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0076-1",
+  "source": "source=AR§reference=0076-1",
+  "title": "lang=fr-FR§{L'accompli au singulier}lang=ar-SA§{الماضي المفرد}",
+  "wording": "lang=fr-FR§{Conjuguez à l'accompli}lang=ar-SA§{صرّف في الماضي}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§أنا (كتب)}",
+      "answer": "{?1§كتبت}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§هو (ذهب)}",
+      "answer": "{?1§ذهب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§هي (شرب)}",
+      "answer": "{?1§شربت}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§أنا (درس)}",
+      "answer": "{?1§درست}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§هو (جلس)}",
+      "answer": "{?1§جلس}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§أنت (خرج)}",
+      "answer": "{?1§خرجت}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

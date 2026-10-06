@@ -1,0 +1,71 @@
+{
+  "topic_ref": "0013-1",
+  "source": "source=AR§reference=0013-1",
+  "title": "lang=fr-FR§{Solaire ou lunaire}lang=ar-SA§{شمسية أو قمرية}",
+  "wording": "lang=fr-FR§{Le l de l'article se prononce-t-il ? Écrivez « نعم » ou « لا »}lang=ar-SA§{هل تُنطق اللام؟}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§القمر}",
+      "answer": "{?1§نعم}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§الشمس}",
+      "answer": "{?1§لا}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§الكتاب}",
+      "answer": "{?1§نعم}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§الرجل}",
+      "answer": "{?1§لا}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§البيت}",
+      "answer": "{?1§نعم}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§السوق}",
+      "answer": "{?1§لا}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "7",
+      "question": "{?1§الأم}",
+      "answer": "{?1§نعم}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "8",
+      "question": "{?1§النور}",
+      "answer": "{?1§لا}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

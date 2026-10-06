@@ -1,0 +1,43 @@
+{
+  "topic_ref": "0176-1",
+  "source": "source=AR§reference=0176-1",
+  "title": "lang=fr-FR§{Discours rapporté}lang=ar-SA§{الكلام المنقول}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§Il a dit qu'il viendrait demain}{type=affix§.}",
+      "answer": "{?1§{قال إنه سيأتي غدا|قال انه سياتي غدا}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Il m'a demandé si j'étais étudiant}{type=affix§.}",
+      "answer": "{?1§{سألني هل أنا طالب|سالني هل انا طالب|سألني إذا كنت طالبا|سالني اذا كنت طالبا}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Il m'a demandé de partir}{type=affix§.}",
+      "answer": "{?1§{طلب مني أن أذهب|طلب مني ان اذهب}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§Le ministère a annoncé que les écoles seraient fermées}{type=affix§.}",
+      "answer": "{?1§{أعلنت الوزارة أن المدارس ستغلق|اعلنت الوزارة ان المدارس ستغلق}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0175-1",
+  "source": "source=AR§reference=0175-1",
+  "title": "lang=fr-FR§{Connecteurs}lang=ar-SA§{أدوات الربط}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§Il est entré et s'est assis}{type=affix§.}",
+      "answer": "{?1§دخل فجلس}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Il a étudié puis il a dormi}{type=affix§.}",
+      "answer": "{?1§درس ثم نام}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Du thé ou du café}{type=affix§?}",
+      "answer": "{?1§{شاي أم قهوة|شاي ام قهوة|أشاي أم قهوة|اشاي ام قهوة}}{type=affix§؟}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§Il n'est pas médecin mais ingénieur}{type=affix§.}",
+      "answer": "{?1§ليس طبيبا بل مهندس}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§Je veux mais je ne peux pas}{type=affix§.}",
+      "answer": "{?1§{أريد لكن لا أستطيع|اريد لكن لا استطيع|أريد ولكن لا أستطيع|اريد ولكن لا استطيع}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

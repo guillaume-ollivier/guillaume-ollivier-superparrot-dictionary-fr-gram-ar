@@ -1,0 +1,201 @@
+@ref 0006
+@chap 02
+@slug fatha-damma-kasra-sukun
+@niv niv-a1
+=== NOTE
+# Les voyelles brèves et le _sukūn_
+
+**1** Les voyelles brèves ne sont pas des lettres : ce sont de petits signes posés au-dessus ou au-dessous de la consonne qu'elles suivent.
+
+| signe | nom | son | exemple |
+| --- | --- | --- | --- |
+| *[ar] بَ /ba/* | _fatḥa_ | a | *[ar] كَتَبَ /kataba/* _kataba_ (il a écrit) |
+| *[ar] بُ /bu/* | _ḍamma_ | u (ou) | *[ar] كُتُب /kutub/* _kutub_ (des livres) |
+| *[ar] بِ /bi/* | _kasra_ | i | *[ar] بِنْت /bint/* _bint_ (fille) |
+| *[ar] بْ /b/* | _sukūn_ | absence de voyelle | *بِنْت* : le _n_ porte un _sukūn_ |
+
+**2** Le même squelette _كتب_ se lit _kataba_, _kutiba_ ou _kutub_ selon les voyelles : c'est le contexte qui tranche.
+
+> *كَتَبَ الوَلَدُ دَرْسًا.*
+> _kataba l-waladu darsan._
+> Le garçon a écrit une leçon.
+
+**3** Dans les journaux et les livres pour adultes, les voyelles brèves **ne sont pas écrites**. On les trouve dans le Coran, les livres d'enfants, les manuels — et dans ce cours.
+
+**4** On tape donc _كتب_ : les exercices n'attendent jamais de voyelles brèves.
+=== EXO
+title: Écrire sans voyelles | الكتابة بدون حركات
+wording: Écrivez en arabe, sans voyelles brèves | اكتب بالعربية
+mode: trad
+kataba (il a écrit) => كتب
+kutub (des livres) => كتب
+bint (une fille) => بنت
+walad (un garçon) => ولد
+qalam (un stylo) => قلم
+ǧamal (un chameau) => جمل
+=== VOCA
+كَتَبَ | écrire | verb, verb-trans | niv-a1 | freq-ultra | langue-ecrit
+بِنْت | fille:f | noun, fem | niv-a1 | freq-tres | famille |  |  |  |  | بَنَات
+وَلَد | garçon [enfant]:m | noun, mas | niv-a1 | freq-tres | famille | | | | | أَوْلَاد
+جَمَل | chameau:m | noun, mas | niv-a2 | freq-freq | animal |  |  |  |  | جِمَال
+@ref 0007
+@chap 02
+@slug al-mudud
+@niv niv-a1
+=== NOTE
+# Les voyelles longues
+
+**1** Les voyelles longues, elles, **s'écrivent toujours**, avec trois lettres :
+
+| voyelle | lettre | exemple |
+| --- | --- | --- |
+| _ā_ | _ا_ précédé de _fatḥa_ | *[ar] بَاب /baːb/* _bāb_ (porte) |
+| _ū_ | _و_ précédé de _ḍamma_ | *[ar] نُور /nuːr/* _nūr_ (lumière) |
+| _ī_ | _ي_ précédé de _kasra_ | *[ar] كَبِير /kabiːr/* _kabīr_ (grand) |
+
+**2** La durée compte : *[ar] كَتَبَ /kataba/* _kataba_ (il a écrit) / *[ar] كَاتِب /kaːtib/* _kātib_ (écrivain).
+
+**3** _و_ et _ي_ sont aussi des consonnes (_w_, _y_). Avec _fatḥa_ devant et _sukūn_ dessus, elles forment des diphtongues : *[ar] بَيْت /bajt/* _bayt_ (maison), *[ar] يَوْم /jawm/* _yawm_ (jour).
+
+> *البَيْتُ كَبِيرٌ.*
+> _al-baytu kabīrun._
+> La maison est grande.
+=== EXO
+title: Voyelles longues | حروف المد
+wording: Écrivez en arabe | اكتب بالعربية
+mode: trad
+kātib (écrivain) => كاتب
+kabīr (grand) => كبير
+ṣaġīr (petit) => صغير
+sūq (marché) => سوق
+ǧamīl (beau) => جميل
+bayt (maison) => بيت
+nūr (lumière) => نور
+=== VOCA
+كَاتِب | écrivain:m | noun, mas | niv-a2 | freq-freq | metier |  |  |  |  | كُتَّاب
+كَبِير | grand; âgé | adj | niv-a1 | freq-ultra | dimension
+صَغِير | petit | adj | niv-a1 | freq-ultra | dimension
+سُوق | marché [lieu de vente]:m | noun, fem | niv-a1 | freq-tres | commerce, ville | | | | | أَسْوَاق
+جَمِيل | beau; joli | adj | niv-a1 | freq-tres | qualite
+@ref 0008
+@chap 02
+@slug shadda-tanwin
+@niv niv-a1
+=== NOTE
+# La _šadda_ et le _tanwīn_
+
+**1** La **_šadda_** _ّ_ double la consonne : *[ar] دَرَسَ /darasa/* _darasa_ (il a étudié) / *[ar] دَرَّسَ /darrasa/* _darrasa_ (il a enseigné). On prononce réellement deux consonnes, comme dans « il l'a ».
+
+**2** Le **_tanwīn_** ajoute un _n_ final sur un nom **indéfini** — c'est en quelque sorte l'article « un » :
+
+| signe | son | exemple |
+| --- | --- | --- |
+| ـٌ | _-un_ | *[ar] كِتَابٌ /kitaːbun/* _kitābun_ (un livre) |
+| ـٍ | _-in_ | *[ar] فِي بَيْتٍ /fiː bajtin/* _fī baytin_ (dans une maison) |
+| ـً | _-an_ | *[ar] كِتَابًا /kitaːban/* _kitāban_ (un livre, complément) |
+
+**3** Le _tanwīn_ _-an_ s'écrit avec un **alif** supplémentaire (_ـًا_), sauf après _ة_ : *شُكْرًا* _šukran_ (merci), mais *مَدْرَسَةً* _madrasatan_.
+
+> *شُكْرًا جَزِيلًا.*
+> _šukran ǧazīlan._
+> Merci beaucoup.
+
+**4** Ces terminaisons marquent le **cas** (§33.1). À la pause, en fin de phrase, on ne les prononce pas : _kitāb_. L'alif de _-an_ s'écrit même sans voyelles : on tape *شكرا*.
+=== EXO
+title: Šadda et tanwīn | الشدة والتنوين
+wording: Écrivez en arabe, sans voyelles | اكتب بالعربية
+mode: trad
+šukran (merci) => شكرا
+ǧiddan (très) => جدا
+ahlan (bienvenue) => اهلا | أهلا
+darrasa (il a enseigné) => درس
+kitābun (un livre) => كتاب
+ʿafwan (de rien) => عفوا
+=== VOCA
+شُكْرًا | merci | interj | niv-a1 | freq-ultra | communication-orale
+جِدًّا | très | adv | niv-a1 | freq-ultra | quantite
+عَفْوًا | de rien | interj | niv-a1 | freq-tres | communication-orale | | رَدّ الشُّكْر
+عَفْوًا | pardon | interj | niv-a1 | freq-tres | communication-orale | | اِعْتِذَار
+دَرَسَ | étudier | verb, verb-trans | niv-a1 | freq-tres | ecole
+دَرَّسَ | enseigner | verb, verb-trans, verb-derived | niv-a2 | freq-freq | ecole | | | | fr-FR§une matière, comme professeur
+@ref 0009
+@chap 02
+@slug al-hamza
+@niv niv-a1
+=== NOTE
+# La _hamza_ et ses supports
+
+**1** La **_hamza_** _ء_ note un coup de glotte (la petite pause de « la | ananas »). Translittérée _ʾ_. Elle se pose le plus souvent sur un **support** :
+
+| support | quand | exemple |
+| --- | --- | --- |
+| _أ_ | voyelle _a_ ou _u_ en début de mot | *[ar] أَب /ʔab/* _ʾab_ (père), *[ar] أُمّ /ʔumm/* _ʾumm_ (mère) |
+| _إ_ | voyelle _i_ en début de mot | *[ar] إِسْلَام /ʔislaːm/* _ʾislām_ |
+| _ؤ_ | après ou avec _u_ au milieu | *[ar] سُؤَال /suʔaːl/* _suʾāl_ (question) |
+| _ئ_ | après ou avec _i_ au milieu | *[ar] رَئِيس /raʔiːs/* _raʾīs_ (président) |
+| _ء_ | seule, souvent en fin de mot après voyelle longue | *[ar] مَاء /maːʔ/* _māʾ_ (eau) |
+
+**2** _آ_ (_ʾalif madda_) = _hamza_ + _ā_ : *آخِر* _ʾāḫir_ (dernier).
+
+**3** Au clavier, on tape la _hamza_ sur son support : _أ_ est une touche à part. Dans les exercices, _ا_ nu est toléré à l'initiale (_اب_ pour _أب_), comme dans beaucoup de textes courants.
+
+> *أَيْنَ المَاءُ؟*
+> _ʾayna l-māʾu?_
+> Où est l'eau ?
+=== EXO
+title: La hamza | الهمزة
+wording: Écrivez en arabe | اكتب بالعربية
+mode: trad
+ʾab (père) => أب
+ʾumm (mère) => أم
+suʾāl (question) => سؤال
+raʾīs (président) => رئيس
+māʾ (eau) => ماء
+samāʾ (ciel) => سماء
+ʾāḫir (dernier) => آخر
+=== VOCA
+أَب | père:m | noun, mas | niv-a1 | freq-ultra | famille |  |  |  |  | آبَاء
+أُمّ | mère:f | noun, fem | niv-a1 | freq-ultra | famille |  |  |  |  | أُمَّهَات
+سُؤَال | question:f | noun, mas | niv-a1 | freq-tres | communication |  |  |  |  | أَسْئِلَة
+رَئِيس | président:m; chef [dirigeant]:m | noun, mas | niv-a2 | freq-tres | institution | | | | | رُؤَسَاء
+مَاء | eau:f | noun, mas | niv-a1 | freq-ultra | boisson
+سَمَاء | ciel:m | noun, fem | niv-a1 | freq-tres | nature
+آخِر | dernier | adj | niv-a2 | freq-tres | moment
+@ref 0010
+@chap 02
+@slug ta-marbuta-alif-maqsura
+@niv niv-a1
+=== NOTE
+# _Tāʾ marbūṭa_ et _alif maqṣūra_
+
+**1** La **_tāʾ marbūṭa_** _ة_ (« t liée ») est un _ه_ coiffé des deux points du _ت_. Elle n'apparaît qu'**en fin de mot**, presque toujours pour marquer le **féminin** (§6.1).
+
+| lecture | quand | exemple |
+| --- | --- | --- |
+| _-a_ | à la pause, en fin de phrase | *مَدْرَسَة* _madrasa_ (école) |
+| _-at-_ | suivie d'une terminaison ou d'un autre nom | *مَدْرَسَةٌ* _madrasatun_ ; *مَدْرَسَةُ البَنَات* _madrasatu l-banāt_ |
+
+**2** L'**_alif maqṣūra_** _ى_ (« alif court ») ressemble à un _ي_ final sans points. Elle se lit _ā_ en fin de mot : *عَلَى* _ʿalā_ (sur), *مُسْتَشْفَى* _mustašfā_ (hôpital).
+
+> *المَدْرَسَةُ عَلَى اليَمِينِ.*
+> _al-madrasatu ʿalā l-yamīni._
+> L'école est à droite.
+
+**3** Ne confondez pas _ـى_ (_ā_) et _ـي_ (_ī_) : *[ar] عَلَى /ʕalaː/* _ʿalā_ (sur), *[ar] عَلِي /ʕaliː/* _ʿalī_ (Ali). En Égypte, on écrit souvent _ي_ final sans points : lisez d'après le sens.
+=== EXO
+title: Tāʾ marbūṭa et alif maqṣūra | التاء المربوطة والألف المقصورة
+wording: Écrivez en arabe | اكتب بالعربية
+mode: trad
+madrasa (école) => مدرسة
+sayyāra (voiture) => سيارة
+ʿalā (sur) => على
+mustašfā (hôpital) => مستشفى
+ṭāwila (table) => طاولة
+maʿnā (sens) => معنى
+=== VOCA
+مَدْرَسَة | école:f | noun, fem | niv-a1 | freq-ultra | ecole, batiment | | | | | مَدَارِس
+سَيَّارَة | voiture:f | noun, fem | niv-a1 | freq-tres | transport
+عَلَى | sur | prep | niv-a1 | freq-ultra | lieu
+مُسْتَشْفَى | hôpital:m | noun, mas | niv-a1 | freq-tres | sante, batiment | | | | | مُسْتَشْفَيَات
+طَاوِلَة | table:f | noun, fem | niv-a1 | freq-tres | mobilier
+مَعْنَى | sens [signification]:m; signification:f | noun, mas | niv-a2 | freq-tres | langue-ecrit | | | | | مَعَانٍ

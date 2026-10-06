@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0053-1",
+  "source": "source=AR§reference=0053-1",
+  "title": "lang=fr-FR§{Suffixes sur un féminin}lang=ar-SA§{ة مع الضمير}",
+  "wording": "lang=fr-FR§{Ajoutez le suffixe}lang=ar-SA§{أضف الضمير}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§سيارة + ي}",
+      "answer": "{?1§سيارتي}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§مدرسة + هم}",
+      "answer": "{?1§مدرستهم}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§غرفة + ك}",
+      "answer": "{?1§غرفتك}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§جامعة + نا}",
+      "answer": "{?1§جامعتنا}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§لغة + ه}",
+      "answer": "{?1§لغته}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

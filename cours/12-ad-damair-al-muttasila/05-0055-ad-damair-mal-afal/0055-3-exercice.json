@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0055-1",
+  "source": "source=AR§reference=0055-1",
+  "title": "lang=fr-FR§{Verbe + suffixe}lang=ar-SA§{الفعل والضمير}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§Il me connaît}{type=affix§.}",
+      "answer": "{?1§يعرفني}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Il la connaît}{type=affix§.}",
+      "answer": "{?1§يعرفها}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Il les connaît}{type=affix§.}",
+      "answer": "{?1§يعرفهم}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§Je t'aime}{type=affix§.}",
+      "answer": "{?1§{أحبك|احبك}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§Il nous connaît}{type=affix§.}",
+      "answer": "{?1§يعرفنا}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

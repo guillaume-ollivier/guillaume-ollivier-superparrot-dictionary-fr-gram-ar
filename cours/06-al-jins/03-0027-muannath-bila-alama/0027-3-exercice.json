@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0027-1",
+  "source": "source=AR§reference=0027-1",
+  "title": "lang=fr-FR§{Genre caché}lang=ar-SA§{المؤنث المعنوي}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§La terre est grande}{type=affix§.}",
+      "answer": "{?1§{الأرض كبيرة|الارض كبيرة}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Le soleil est beau}{type=affix§.}",
+      "answer": "{?1§الشمس جميلة}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§La main est petite}{type=affix§.}",
+      "answer": "{?1§اليد صغيرة}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§L'œil est beau}{type=affix§.}",
+      "answer": "{?1§العين جميلة}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§Le feu est grand}{type=affix§.}",
+      "answer": "{?1§النار كبيرة}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§La Tunisie est belle}{type=affix§.}",
+      "answer": "{?1§تونس جميلة}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

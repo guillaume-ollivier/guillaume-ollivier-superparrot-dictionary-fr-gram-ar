@@ -1,0 +1,71 @@
+{
+  "topic_ref": "0003-1",
+  "source": "source=AR§reference=0003-1",
+  "title": "lang=fr-FR§{Assembler les lettres}lang=ar-SA§{تركيب الحروف}",
+  "wording": "lang=fr-FR§{Écrivez le mot en liant les lettres}lang=ar-SA§{اكتب الكلمة}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§ش + م + س}{type=clue§lang=fr-FR§soleil}",
+      "answer": "{?1§شمس}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§ص + ي + ف}{type=clue§lang=fr-FR§été}",
+      "answer": "{?1§صيف}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§س + ي + ف}{type=clue§lang=fr-FR§épée}",
+      "answer": "{?1§سيف}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§ط + ب + ي + ب}{type=clue§lang=fr-FR§médecin}",
+      "answer": "{?1§طبيب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§ع + ر + ب + ي}{type=clue§lang=fr-FR§arabe}",
+      "answer": "{?1§عربي}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§غ + ر + ب}{type=clue§lang=fr-FR§ouest}",
+      "answer": "{?1§غرب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "7",
+      "question": "{?1§ظ + ه + ر}{type=clue§lang=fr-FR§dos}",
+      "answer": "{?1§ظهر}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "8",
+      "question": "{?1§ض + ي + ف}{type=clue§lang=fr-FR§invité}",
+      "answer": "{?1§ضيف}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

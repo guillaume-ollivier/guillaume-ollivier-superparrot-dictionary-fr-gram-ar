@@ -1,0 +1,29 @@
+{
+  "topic_ref": "0030-2",
+  "source": "source=AR§reference=0030-2",
+  "title": "lang=fr-FR§{Phrases au pluriel}lang=ar-SA§{جمل}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§Les ingénieurs sont fatigués}{type=affix§.}",
+      "answer": "{?1§المهندسون متعبون}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Les instituteurs sont à l'école}{type=affix§.}",
+      "answer": "{?1§المعلمون في المدرسة}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

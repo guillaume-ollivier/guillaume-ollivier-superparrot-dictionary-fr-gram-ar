@@ -1,0 +1,43 @@
+{
+  "topic_ref": "0116-1",
+  "source": "source=AR§reference=0116-1",
+  "title": "lang=fr-FR§{Demandes polies}lang=ar-SA§{الطلب المهذب}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§Pourrais-tu ouvrir la fenêtre}{type=affix§?}",
+      "answer": "{?1§{هل يمكن أن تفتح النافذة|هل يمكن ان تفتح النافذة}}{type=affix§؟}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Attendez un peu, je vous prie}{type=affix§.}",
+      "answer": "{?1§{أرجو أن تنتظر قليلا|ارجو ان تنتظر قليلا}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Interdit de fumer}{type=affix§.}",
+      "answer": "{?1§ممنوع التدخين}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§Ouvre la fenêtre, s'il te plaît}{type=affix§.}",
+      "answer": "{?1§{افتح النافذة من فضلك|افتح النافذة، من فضلك}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

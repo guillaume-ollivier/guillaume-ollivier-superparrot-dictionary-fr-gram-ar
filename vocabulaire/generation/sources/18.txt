@@ -1,0 +1,218 @@
+@ref 0081
+@chap 18
+@slug mabda-al-mudari
+@niv niv-a1
+=== NOTE
+# L'inaccompli : principe
+
+**1** L'inaccompli (_al-muḍāriʿ_) exprime le **présent** (et, avec une particule, le futur) (§23.1). Il se forme avec des **préfixes** (et des suffixes au pluriel) autour d'un radical :
+
+> *يَكْتُبُ*
+> _yaktubu_
+> il écrit
+
+**2** Le radical *ـكْتُبُ* porte une voyelle propre à chaque verbe : *يَكْتُبُ* (_u_), *يَذْهَبُ* (_a_), *يَجْلِسُ* (_i_) (§18.4).
+
+**3** Le préfixe indique la personne : *يَـ* (il), *تَـ* (tu, elle), *أَ* (je), *نَـ* (nous).
+
+> *يَذْهَبُ أَحْمَدُ إِلَى المَدْرَسَةِ كُلَّ يَوْمٍ.*
+> _yaḏhabu ʾaḥmadu ʾilā l-madrasati kulla yawmin._
+> Ahmed va à l'école tous les jours.
+=== EXO
+title: Il au présent | هو في المضارع
+wording: Conjuguez à l'inaccompli | صرّف في المضارع
+mode: transfo
+هو (يكتب) => يكتب
+هي (يذهب) => تذهب
+أنا (يشرب) => أشرب
+نحن (يجلس) => نجلس
+هو (يخرج) => يخرج
+=== VOCA
+كُلّ | chaque; tout | det | niv-a1 | freq-ultra | quantite
+@ref 0082
+@chap 18
+@slug al-mudari-al-mufrad
+@niv niv-a1
+=== NOTE
+# L'inaccompli : le singulier
+
+| pronom | forme | translittération |
+| --- | --- | --- |
+| *أَنَا* | *أَكْتُبُ* | _ʾaktubu_ |
+| *أَنْتَ* | *تَكْتُبُ* | _taktubu_ |
+| *أَنْتِ* | *تَكْتُبِينَ* | _taktubīna_ |
+| *هُوَ* | *يَكْتُبُ* | _yaktubu_ |
+| *هِيَ* | *تَكْتُبُ* | _taktubu_ |
+
+**1** *تَكْتُبُ* sert pour « tu » (masc.) et « elle ». *أَنْتِ* a une terminaison propre, *ـِينَ*.
+
+> *هَلْ تَشْرَبِينَ القَهْوَةَ؟*
+> _hal tašrabīna l-qahwata?_
+> Bois-tu du café ? (à une femme)
+
+**2** Le complément suit le verbe, à l'accusatif : *أَكْتُبُ رِسَالَةً* (j'écris une lettre).
+=== EXO
+title: Inaccompli au singulier | المضارع المفرد
+wording: Conjuguez à l'inaccompli | صرّف في المضارع
+mode: transfo
+أنا (يكتب) => أكتب
+أنت، مذكر (يكتب) => تكتب
+أنت، مؤنث (يكتب) => تكتبين
+هي (يشرب) => تشرب
+أنت، مؤنث (يشرب) => تشربين
+أنا (يذهب) => أذهب
+=== EXO
+title: Phrases au présent | جمل في المضارع
+wording: Traduisez | ترجم
+mode: trad
+J'écris une lettre. => أكتب رسالة.
+Bois-tu du café ? (à une femme) => هل تشربين القهوة؟
+Elle va à l'école. => تذهب إلى المدرسة.
+Il sort. => يخرج.
+=== VOCA
+رِسَالَة | lettre [courrier]:f; message:m | noun, fem | niv-a1 | freq-tres | langue-ecrit |  |  |  |  | رَسَائِل
+@ref 0083
+@chap 18
+@slug al-mudari-al-jam
+@niv niv-a1
+=== NOTE
+# L'inaccompli : le pluriel
+
+| pronom | forme | translittération |
+| --- | --- | --- |
+| *نَحْنُ* | *نَكْتُبُ* | _naktubu_ |
+| *أَنْتُمْ* | *تَكْتُبُونَ* | _taktubūna_ |
+| *أَنْتُنَّ* | *تَكْتُبْنَ* | _taktubna_ |
+| *هُمْ* | *يَكْتُبُونَ* | _yaktubūna_ |
+| *هُنَّ* | *يَكْتُبْنَ* | _yaktubna_ |
+
+**1** Les formes en *ـُونَ* (et *ـِينَ* de *أَنْتِ*) perdent leur _n_ au subjonctif et à l'apocopé (§24.1) (§25.1) : retenez-les comme les « formes à _n_ ».
+
+> *يَدْرُسُونَ فِي الجَامِعَةِ.*
+> _yadrusūna fī l-ǧāmiʿati._
+> Ils étudient à l'université.
+
+**2** Tableau complet : 13 formes, comme l'accompli (duel) (§18.5).
+=== EXO
+title: Inaccompli au pluriel | المضارع الجمع
+wording: Conjuguez à l'inaccompli | صرّف في المضارع
+mode: transfo
+نحن (يكتب) => نكتب
+أنتم (يكتب) => تكتبون
+هم (يدرس) => يدرسون
+هن (يدرس) => يدرسن
+أنتن (يشرب) => تشربن
+هم (يذهب) => يذهبون
+=== EXO
+title: Phrases au présent | جمل في المضارع
+wording: Traduisez | ترجم
+mode: trad
+Ils étudient à l'université. => يدرسون في الجامعة.
+Nous buvons du thé. => نشرب الشاي.
+Vous sortez ? (à des hommes) => هل تخرجون؟ | تخرجون؟
+=== VOCA
+شَاي | thé:m | noun, mas | niv-a1 | freq-tres | boisson
+@ref 0084
+@chap 18
+@slug harakat-al-ayn
+@niv niv-a2
+=== NOTE
+# La voyelle du radical
+
+**1** Chaque verbe a une voyelle de radical à l'inaccompli, notée dans le dictionnaire. Trois cas :
+
+| accompli | inaccompli | voyelle |
+| --- | --- | --- |
+| *كَتَبَ* | *يَكْتُبُ* | _u_ |
+| *دَرَسَ* | *يَدْرُسُ* | _u_ |
+| *جَلَسَ* | *يَجْلِسُ* | _i_ |
+| *عَرَفَ* | *يَعْرِفُ* | _i_ |
+| *ذَهَبَ* | *يَذْهَبُ* | _a_ |
+| *فَتَحَ* | *يَفْتَحُ* | _a_ |
+| *شَرِبَ* | *يَشْرَبُ* | _a_ |
+
+**2** Tendances : un verbe en _a-i-a_ (*شَرِبَ*) a presque toujours _a_ ; un verbe dont la 2ᵉ ou 3ᵉ consonne est gutturale (_ح ع ه_…) a souvent _a_ (*فَتَحَ يَفْتَحُ*).
+
+**3** Sans voyelles, la différence ne se voit pas — mais elle s'entend, et elle compte pour l'impératif (§26.1).
+
+> *يَفْتَحُ البَابَ وَيَجْلِسُ.*
+> _yaftaḥu l-bāba wa-yaǧlisu._
+> Il ouvre la porte et s'assied.
+=== EXO
+title: Inaccompli de verbes variés | المضارع
+wording: Conjuguez à l'inaccompli (هو) | صرّف في المضارع
+mode: transfo
+فتح => يفتح
+جلس => يجلس
+عرف => يعرف
+دخل => يدخل
+سمع => يسمع
+لعب => يلعب
+=== VOCA
+فَتَحَ | ouvrir | verb, verb-trans | niv-a1 | freq-tres | geste
+دَخَلَ | entrer | verb, verb-intrans | niv-a1 | freq-ultra | deplacement
+سَمِعَ | entendre | verb, verb-trans | niv-a1 | freq-ultra | perception
+لَعِبَ | jouer | verb, verb-intrans | niv-a1 | freq-tres | loisir
+@ref 0085
+@chap 18
+@slug al-mudari-al-muthanna
+@niv niv-b1
+=== NOTE
+# L'inaccompli : le duel
+
+| pronom | forme | translittération |
+| --- | --- | --- |
+| *أَنْتُمَا* | *تَكْتُبَانِ* | _taktubāni_ |
+| *هُمَا* (masc.) | *يَكْتُبَانِ* | _yaktubāni_ |
+| *هُمَا* (fém.) | *تَكْتُبَانِ* | _taktubāni_ |
+
+**1** Une seule terminaison, *ـَانِ* ; le préfixe distingue *يَـ* (eux deux) et *تَـ* (elles deux, vous deux).
+
+> *البِنْتَانِ تَلْعَبَانِ فِي الحَدِيقَةِ.*
+> _al-bintāni talʿabāni fī l-ḥadīqati._
+> Les deux filles jouent dans le jardin.
+
+**2** Ces formes perdent aussi leur _n_ au subjonctif et à l'apocopé.
+=== EXO
+title: Inaccompli au duel | المضارع المثنى
+wording: Conjuguez à l'inaccompli | صرّف في المضارع
+mode: transfo
+هما، مذكر (يكتب) => يكتبان
+هما، مؤنث (يلعب) => تلعبان
+أنتما (يشرب) => تشربان
+هما، مذكر (يدرس) => يدرسان
+=== VOCA
+حَدِيقَة | jardin:m; parc:m | noun, fem | niv-a1 | freq-tres | vegetal, ville | | | | | حَدَائِق
+@ref 0086
+@chap 18
+@slug maani-al-mudari
+@niv niv-a2
+=== NOTE
+# Les valeurs de l'inaccompli
+
+**1** L'inaccompli couvre le présent **actuel**, l'**habitude** et les **vérités générales** :
+
+> *أَشْرَبُ القَهْوَةَ كُلَّ صَبَاحٍ.*
+> _ʾašrabu l-qahwata kulla ṣabāḥin._
+> Je bois du café tous les matins.
+
+**2** Il peut aussi exprimer le futur proche, selon le contexte : *أُسَافِرُ غَدًا* (je pars demain).
+
+**3** Après un verbe au passé, il exprime une action **simultanée** :
+
+> *دَخَلَ يَضْحَكُ.*
+> _daḫala yaḍḥaku._
+> Il est entré en riant.
+
+**4** *قَدْ* + inaccompli = « il arrive que, peut-être » : *قَدْ يَتَأَخَّرُ القِطَارُ* (il se peut que le train soit en retard).
+=== EXO
+title: Habitudes | العادات
+wording: Traduisez | ترجم
+mode: trad
+Je bois du café tous les matins. => أشرب القهوة كل صباح.
+Il va à l'école tous les jours. => يذهب إلى المدرسة كل يوم.
+Il est entré en riant. => دخل يضحك.
+Nous jouons tous les vendredis. => نلعب كل جمعة. | نلعب كل يوم جمعة.
+=== VOCA
+ضَحِكَ | rire | verb, verb-intrans | niv-a1 | freq-tres | emotion
+غَدًا | demain | adv | niv-a1 | freq-tres | moment

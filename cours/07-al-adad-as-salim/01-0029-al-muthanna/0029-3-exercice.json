@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0029-1",
+  "source": "source=AR§reference=0029-1",
+  "title": "lang=fr-FR§{Former le duel}lang=ar-SA§{المثنى}",
+  "wording": "lang=fr-FR§{Donnez le duel sujet (-āni)}lang=ar-SA§{اكتب المثنى المرفوع}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§كتاب}",
+      "answer": "{?1§كتابان}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§ولد}",
+      "answer": "{?1§ولدان}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§مدرسة}",
+      "answer": "{?1§مدرستان}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§بنت}",
+      "answer": "{?1§بنتان}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§يوم}",
+      "answer": "{?1§يومان}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§سيارة}",
+      "answer": "{?1§سيارتان}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

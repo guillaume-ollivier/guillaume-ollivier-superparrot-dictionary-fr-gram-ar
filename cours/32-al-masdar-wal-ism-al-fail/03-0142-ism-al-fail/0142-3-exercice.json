@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0142-1",
+  "source": "source=AR§reference=0142-1",
+  "title": "lang=fr-FR§{Participe actif}lang=ar-SA§{اسم الفاعل}",
+  "wording": "lang=fr-FR§{Formez le participe actif}lang=ar-SA§{اكتب اسم الفاعل}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§ذهب}",
+      "answer": "{?1§ذاهب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§سكن}",
+      "answer": "{?1§ساكن}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§فهم}",
+      "answer": "{?1§فاهم}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§درّس}",
+      "answer": "{?1§مدرس}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§ساعد}",
+      "answer": "{?1§مساعد}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§استعمل}",
+      "answer": "{?1§مستعمل}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

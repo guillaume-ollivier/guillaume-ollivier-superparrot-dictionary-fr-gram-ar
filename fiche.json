@@ -1,0 +1,16 @@
+{
+  "contenus": [
+    "cours"
+  ],
+  "titre": "lang=ar§{قواعد اللغة العربية}lang=fr§{Grammaire arabe}lang=en§{Arabic grammar}lang=de§{Arabische Grammatik}lang=es§{Gramática árabe}lang=pt§{Gramática árabe}lang=it§{Grammatica araba}",
+  "reference_repository": "fr-gram-ar",
+  "repository_id": "repo@680C3D0D-F818-48C3-9DC6-A0B5E12A136C",
+  "type": "WORKBOOK",
+  "version": "1",
+  "date_reference": "2026-10-05T00:00:00.000",
+  "langues_corpus": [
+    "ar"
+  ],
+  "titre_lecon": "h1",
+  "source_code": "AR"
+}

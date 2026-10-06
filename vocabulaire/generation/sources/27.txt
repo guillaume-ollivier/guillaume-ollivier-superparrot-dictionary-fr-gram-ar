@@ -1,0 +1,152 @@
+@ref 0117
+@chap 27
+@slug al-jidr
+@niv niv-a2
+=== NOTE
+# La racine
+
+**1** La plupart des mots arabes se ramènent à une **racine** de trois consonnes, porteuse d'un sens général. Les voyelles et les lettres ajoutées précisent ce sens.
+
+**2** La racine _ك ت ب_ (k-t-b) : l'idée d'écrire.
+
+| mot | sens |
+| --- | --- |
+| *كَتَبَ* | il a écrit |
+| *كِتَاب* | livre |
+| *كَاتِب* | écrivain |
+| *مَكْتَب* | bureau |
+| *مَكْتَبَة* | bibliothèque |
+| *مَكْتُوب* | écrit, lettre |
+
+**3** La racine _د ر س_ (d-r-s) : l'idée d'étudier : *دَرَسَ* (il a étudié), *دَرْس* (leçon), *مَدْرَسَة* (école), *مُدَرِّس* (professeur), *دِرَاسَة* (études).
+
+> *المُدَرِّسُ فِي المَدْرَسَةِ يَشْرَحُ الدَّرْسَ.*
+> _al-mudarrisu fī l-madrasati yašraḥu d-darsa._
+> Le professeur, à l'école, explique la leçon.
+
+**4** Connaître les racines permet de **deviner** le sens de mots nouveaux.
+=== EXO
+title: Mots d'une même racine | أسرة الكلمة
+wording: Donnez la racine (trois lettres collées) | اكتب الجذر
+mode: transfo
+مكتبة => كتب
+مدرسة => درس
+كاتب => كتب
+مدرس => درس
+مكتوب => كتب
+دراسة => درس
+=== VOCA
+مُدَرِّس | professeur:m | noun, mas | niv-a1 | freq-tres | metier, ecole | | | | fr-FR§dans l'enseignement scolaire | مُدَرِّسُون
+دِرَاسَة | études:fpl | noun, fem, masdar | niv-a2 | freq-tres | ecole
+شَرَحَ | expliquer | verb, verb-trans | niv-a2 | freq-tres | communication
+جِذْر | racine [d'un mot]:f | noun, mas | niv-b1 | freq-freq | langue-ecrit | | لُغَة | | | جُذُور
+@ref 0118
+@chap 27
+@slug awzan-al-asma
+@niv niv-b1
+=== NOTE
+# Les schèmes nominaux
+
+**1** On représente un schème avec les consonnes _ف ع ل_. Chaque schème a une valeur typique :
+
+| schème | valeur | exemples |
+| --- | --- | --- |
+| *فَاعِل* _fāʿil_ | celui qui fait | *كَاتِب* (écrivain), *لَاعِب* (joueur) |
+| *مَفْعُول* _mafʿūl_ | ce qui est fait | *مَكْتُوب* (écrit), *مَعْرُوف* (connu) |
+| *مَفْعَل* / *مَفْعَلَة* _mafʿal(a)_ | lieu | *مَلْعَب* (stade), *مَدْرَسَة* (école) |
+| *فِعَالَة* _fiʿāla_ | métier, activité | *كِتَابَة* (écriture), *تِجَارَة* (commerce) |
+| *فَعَّال* _faʿʿāl_ | métier, intensif | *خَبَّاز* (boulanger), *نَجَّار* (menuisier) |
+
+> *اللَّاعِبُ فِي المَلْعَبِ.*
+> _al-lāʿibu fī l-malʿabi._
+> Le joueur est au stade.
+=== EXO
+title: Appliquer un schème | الأوزان
+wording: Formez le mot sur le schème indiqué | صُغ على الوزن
+mode: transfo
+لعب ← فاعل => لاعب
+كتب ← مفعول => مكتوب
+لعب ← مفعل => ملعب
+عرف ← مفعول => معروف
+خبز ← فعال => خباز
+كتب ← فعالة => كتابة
+=== VOCA
+لَاعِب | joueur:m | noun, mas | niv-a1 | freq-freq | sport, personne | | | | | لَاعِبُون
+مَعْرُوف | connu | adj | niv-a2 | freq-tres | qualite
+مَلْعَب | stade:m; terrain [de sport]:m | noun, mas | niv-a1 | freq-freq | sport |  |  |  |  | مَلَاعِب
+تِجَارَة | commerce:m | noun, fem | niv-a2 | freq-tres | commerce
+خَبَّاز | boulanger:m | noun, mas | niv-a2 | freq-peu | metier, aliment
+نَجَّار | menuisier:m | noun, mas | niv-b1 | freq-peu | metier
+@ref 0119
+@chap 27
+@slug al-mujam
+@niv niv-b1
+=== NOTE
+# Chercher un mot dans le dictionnaire
+
+**1** Les dictionnaires classiques sont rangés **par racine** : pour trouver *مَكْتَبَة*, on cherche _ك ت ب_.
+
+**2** Il faut donc retirer les lettres **ajoutées** (préfixes, suffixes, voyelles longues de schème). Elles sont toutes dans le mot mnémotechnique *سَأَلْتُمُونِيهَا* : _س أ ل ت م و ن ي ه ا_.
+
+| mot | lettres ajoutées | racine |
+| --- | --- | --- |
+| *اِسْتِقْبَال* (accueil) | _ا س ت ا_ | _ق ب ل_ |
+| *مُسْتَشْفَى* (hôpital) | _م س ت ى_ | _ش ف ي_ |
+| *مَطَار* (aéroport) | _م_ (le _ā_ cache le _ي_) | _ط ي ر_ |
+
+**3** Attention aux racines faibles (§30.1, §31.1) : une lettre _و_ ou _ي_ de la racine peut se cacher dans un _ā_.
+
+> *أَبْحَثُ عَنِ الكَلِمَةِ فِي القَامُوسِ.*
+> _ʾabḥaṯu ʿani l-kalimati fī l-qāmūsi._
+> Je cherche le mot dans le dictionnaire.
+=== EXO
+title: Trouver la racine | استخراج الجذر
+wording: Donnez la racine (trois lettres collées) | اكتب الجذر
+mode: transfo
+استقبال => قبل
+ملعب => لعب
+مسجد => سجد
+معلومات => علم
+استعمال => عمل
+تجارة => تجر
+مفتاح => فتح
+=== VOCA
+اِسْتِقْبَال | accueil:m | noun, mas, masdar | niv-b1 | freq-tres | echange
+كَلِمَة | mot:m | noun, fem | niv-a1 | freq-ultra | langue-ecrit |  |  |  |  | كَلِمَات
+قَامُوس | dictionnaire:m | noun, mas | niv-a2 | freq-freq | langue-ecrit |  |  |  |  | قَوَامِيس
+بَحَثَ | chercher | verb, verb-intrans | niv-a2 | freq-tres | action
+@ref 0120
+@chap 27
+@slug ar-rubai
+@niv niv-b2
+=== NOTE
+# Racines de quatre consonnes et emprunts
+
+**1** Quelques racines ont **quatre** consonnes : *تَرْجَمَ* (traduire), *زَلْزَلَ* (secouer), *سَيْطَرَ* (dominer). Inaccompli en _yu-_ : *يُتَرْجِمُ*.
+
+> *أُتَرْجِمُ النَّصَّ إِلَى الفَرَنْسِيَّةِ.*
+> _ʾutarǧimu n-naṣṣa ʾilā l-faransiyyati._
+> Je traduis le texte en français.
+
+**2** Les racines redoublées (deux syllabes identiques) expriment souvent un son ou un mouvement répété : *زَلْزَلَ* → *زِلْزَال* (séisme).
+
+**3** Les **emprunts** n'ont pas de vraie racine : *تِلِفُون* / *هَاتِف* (téléphone), *كُمْبِيُوتَر* / *حَاسُوب* (ordinateur). L'arabe standard propose souvent un mot formé sur une racine arabe (*هَاتِف*, *حَاسُوب*), à côté de l'emprunt de l'usage courant.
+=== EXO
+title: Emprunts et mots arabes | الدخيل
+wording: Donnez le mot formé sur une racine arabe | اكتب الكلمة العربية
+mode: transfo
+تلفون => هاتف
+كمبيوتر => حاسوب
+=== EXO
+title: Quadrilitères | الرباعي
+wording: Traduisez | ترجم
+mode: trad
+Je traduis le texte. => أترجم النص.
+Il a traduit le livre. => ترجم الكتاب.
+un séisme => زلزال
+=== VOCA
+تَرْجَمَ | traduire | verb, verb-trans | niv-b1 | freq-freq | langue-ecrit
+زِلْزَال | séisme:m | noun, mas | niv-b2 | freq-freq | nature |  |  |  |  | زَلَازِل
+نَصّ | texte:m | noun, mas | niv-a2 | freq-tres | langue-ecrit |  |  |  |  | نُصُوص
+هَاتِف | téléphone:m | noun, mas | niv-a1 | freq-tres | communication, objet | | | | | هَوَاتِف
+حَاسُوب ; كَمْبْيُوتَر +loanword | ordinateur:m | noun, mas | niv-a2 | freq-freq | objet | | | | | حَوَاسِيب

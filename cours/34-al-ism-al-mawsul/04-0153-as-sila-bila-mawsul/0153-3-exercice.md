@@ -1,0 +1,43 @@
+# Exercice
+
+## Description
+| attribute   | section | index | lang  | value                      |
+| ----------- | ------- | ----- | ----- | -------------------------- |
+| ref         |         |       |       | 0153-1                     |
+| title       |         |       | fr-FR | Relative après un indéfini |
+|             |         |       | ar-SA | الجملة الصفة               |
+| wording     |         |       | fr-FR | Traduisez                  |
+|             |         |       | ar-SA | ترجم                       |
+| categories* |         |       |       | niv-b2                     |
+| tags*       |         |       |       |                            |
+
+## Items
+### Common
+| attribute | section | index | lang  |
+| --------- | ------- | ----- | ----- |
+| question  | 1       |       | fr-FR |
+| answer    | 1       |       | ar-SA |
+
+### 1
+| attribute | section | index | lang | value                                             |
+| --------- | ------- | ----- | ---- | ------------------------------------------------- |
+| question  |         |       |      | {?1§J'ai un ami qui habite à Damas}{type=affix§.} |
+| answer    |         |       |      | {?1§عندي صديق يسكن في دمشق}{type=affix§.}         |
+
+### 2
+| attribute | section | index | lang | value                                     |
+| --------- | ------- | ----- | ---- | ----------------------------------------- |
+| question  |         |       |      | {?1§un livre que j'ai acheté hier}        |
+| answer    |         |       |      | {?1§{كتاب اشتريته أمس\|كتاب اشتريته امس}} |
+
+### 3
+| attribute | section | index | lang | value                                            |
+| --------- | ------- | ----- | ---- | ------------------------------------------------ |
+| question  |         |       |      | {?1§J'ai compris ce que tu as dit}{type=affix§.} |
+| answer    |         |       |      | {?1§فهمت ما قلت}{type=affix§.}                   |
+
+### 4
+| attribute | section | index | lang | value                           |
+| --------- | ------- | ----- | ---- | ------------------------------- |
+| question  |         |       |      | {?1§un homme qui travaille ici} |
+| answer    |         |       |      | {?1§رجل يعمل هنا}               |

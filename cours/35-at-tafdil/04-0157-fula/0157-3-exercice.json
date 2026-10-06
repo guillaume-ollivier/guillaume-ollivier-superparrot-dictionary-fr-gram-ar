@@ -1,0 +1,43 @@
+{
+  "topic_ref": "0157-1",
+  "source": "source=AR§reference=0157-1",
+  "title": "lang=fr-FR§{Fuʿlā}lang=ar-SA§{فعلى}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§mon frère aîné}",
+      "answer": "{?1§{أخي الأكبر|اخي الاكبر}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§ma petite sœur}",
+      "answer": "{?1§{أختي الصغرى|اختي الصغرى}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§la Première Guerre mondiale}",
+      "answer": "{?1§{الحرب العالمية الأولى|الحرب العالمية الاولى}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§le Moyen-Orient}",
+      "answer": "{?1§{الشرق الأوسط|الشرق الاوسط}}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

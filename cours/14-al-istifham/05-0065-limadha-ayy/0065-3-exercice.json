@@ -1,0 +1,43 @@
+{
+  "topic_ref": "0065-1",
+  "source": "source=AR§reference=0065-1",
+  "title": "lang=fr-FR§{Pourquoi, quel}lang=ar-SA§{لماذا، أي}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§Pourquoi es-tu ici}{type=affix§?}",
+      "answer": "{?1§{لماذا أنت هنا|لماذا انت هنا}}{type=affix§؟}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Quel livre veux-tu}{type=affix§?}",
+      "answer": "{?1§{أي كتاب تريد|اي كتاب تريد}}{type=affix§؟}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Quelle voiture}{type=affix§?}",
+      "answer": "{?1§{أي سيارة|اي سيارة|أية سيارة|اية سيارة}}{type=affix§؟}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§Dans quelle ville}{type=affix§?}",
+      "answer": "{?1§{في أي مدينة|في اي مدينة}}{type=affix§؟}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

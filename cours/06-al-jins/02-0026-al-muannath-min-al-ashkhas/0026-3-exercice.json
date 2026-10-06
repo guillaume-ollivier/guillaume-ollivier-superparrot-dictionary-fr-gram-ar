@@ -1,0 +1,64 @@
+{
+  "topic_ref": "0026-1",
+  "source": "source=AR§reference=0026-1",
+  "title": "lang=fr-FR§{Féminin des personnes}lang=ar-SA§{المؤنث}",
+  "wording": "lang=fr-FR§{Donnez le féminin}lang=ar-SA§{اكتب المؤنث}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§معلم}",
+      "answer": "{?1§معلمة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§طبيب}",
+      "answer": "{?1§طبيبة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§صديق}",
+      "answer": "{?1§صديقة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§أب}",
+      "answer": "{?1§{أم|ام}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§أخ}",
+      "answer": "{?1§{أخت|اخت}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§رجل}",
+      "answer": "{?1§{امرأة|امراة}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "7",
+      "question": "{?1§ولد}",
+      "answer": "{?1§بنت}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

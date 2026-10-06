@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0135-1",
+  "source": "source=AR§reference=0135-1",
+  "title": "lang=fr-FR§{Défectueux à l'accompli}lang=ar-SA§{الناقص في الماضي}",
+  "wording": "lang=fr-FR§{Conjuguez à l'accompli}lang=ar-SA§{صرّف في الماضي}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§أنا (دعا)}",
+      "answer": "{?1§دعوت}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§أنا (مشى)}",
+      "answer": "{?1§مشيت}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§أنا (نسي)}",
+      "answer": "{?1§نسيت}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§هي (مشى)}",
+      "answer": "{?1§مشت}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§هم (دعا)}",
+      "answer": "{?1§دعوا}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§أنا (اشترى)}",
+      "answer": "{?1§اشتريت}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "topic_ref": "0068-1",
+  "source": "source=AR§reference=0068-1",
+  "title": "lang=fr-FR§{Nombre et nom}lang=ar-SA§{العدد والمعدود}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§trois livres}",
+      "answer": "{?1§ثلاثة كتب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§trois voitures}",
+      "answer": "{?1§ثلاث سيارات}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§cinq garçons}",
+      "answer": "{?1§{خمسة أولاد|خمسة اولاد}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§quatre filles}",
+      "answer": "{?1§{أربع بنات|اربع بنات}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§sept jours}",
+      "answer": "{?1§{سبعة أيام|سبعة ايام}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§dix étudiantes}",
+      "answer": "{?1§عشر طالبات}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "7",
+      "question": "{?1§six hommes}",
+      "answer": "{?1§ستة رجال}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

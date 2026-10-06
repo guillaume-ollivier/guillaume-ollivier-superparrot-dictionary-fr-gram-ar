@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0155-1",
+  "source": "source=AR§reference=0155-1",
+  "title": "lang=fr-FR§{Superlatif}lang=ar-SA§{التفضيل المطلق}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§la plus grande ville}",
+      "answer": "{?1§{أكبر مدينة|اكبر مدينة}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§la plus grande des villes}",
+      "answer": "{?1§{أكبر المدن|اكبر المدن}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§le plus beau jour}",
+      "answer": "{?1§{أجمل يوم|اجمل يوم}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§le plus âgé d'entre eux}",
+      "answer": "{?1§{أكبرهم|اكبرهم}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§l'étudiante la plus intelligente}",
+      "answer": "{?1§{أذكى طالبة|اذكى طالبة}}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0114-1",
+  "source": "source=AR§reference=0114-1",
+  "title": "lang=fr-FR§{L'impératif par personne}lang=ar-SA§{الأمر}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§Écris ! (à une femme)}",
+      "answer": "{?1§اكتبي}{type=affix§!}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Asseyez-vous ! (à des hommes)}",
+      "answer": "{?1§اجلسوا}{type=affix§!}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Ouvrez les livres ! (à des hommes)}",
+      "answer": "{?1§افتحوا الكتب}{type=affix§!}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§Bois ! (à une femme)}",
+      "answer": "{?1§اشربي}{type=affix§!}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§Sortez ! (à des femmes)}",
+      "answer": "{?1§اخرجن}{type=affix§!}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§Écoutez ! (à deux personnes)}",
+      "answer": "{?1§اسمعا}{type=affix§!}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

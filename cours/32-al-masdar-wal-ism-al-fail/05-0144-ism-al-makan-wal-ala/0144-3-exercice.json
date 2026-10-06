@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0144-1",
+  "source": "source=AR§reference=0144-1",
+  "title": "lang=fr-FR§{Lieu et instrument}lang=ar-SA§{اسم المكان والآلة}",
+  "wording": "lang=fr-FR§{Formez le nom sur le schème indiqué}lang=ar-SA§{صُغ على الوزن}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§طبخ ← مفعل}",
+      "answer": "{?1§مطبخ}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§لعب ← مفعل}",
+      "answer": "{?1§ملعب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§فتح ← مفعال}",
+      "answer": "{?1§مفتاح}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§كنس ← مفعلة}",
+      "answer": "{?1§مكنسة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§جلس ← مفعِل}",
+      "answer": "{?1§مجلس}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

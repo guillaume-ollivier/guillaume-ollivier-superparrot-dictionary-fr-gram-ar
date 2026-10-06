@@ -1,0 +1,137 @@
+@ref 0159
+@chap 36
+@slug al-majhul-al-madi
+@niv niv-b1
+=== NOTE
+# Le passif à l'accompli
+
+**1** Le passif arabe ne se forme pas avec un auxiliaire, mais en **changeant les voyelles** : _u_ – _i_ – _a_ à l'accompli :
+
+| actif | passif |
+| --- | --- |
+| *كَتَبَ* (il a écrit) | *كُتِبَ* _kutiba_ (il a été écrit) |
+| *فَتَحَ* (il a ouvert) | *فُتِحَ* _futiḥa_ (il a été ouvert) |
+| *قَتَلَ* (il a tué) | *قُتِلَ* _qutila_ (il a été tué) |
+
+**2** On n'exprime généralement **pas** l'agent : le passif sert justement à le taire.
+
+> *كُتِبَ هٰذَا الكِتَابُ فِي القَرْنِ العَاشِرِ.*
+> _kutiba hāḏā l-kitābu fī l-qarni l-ʿāširi._
+> Ce livre a été écrit au Xᵉ siècle.
+
+**3** Sans voyelles, *كتب* = actif ou passif : le contexte (et la presse) tranche. D'où l'importance du passif dans la lecture.
+=== EXO
+title: Passif à l'accompli | المبني للمجهول
+wording: Traduisez | ترجم
+mode: trad
+Ce livre a été écrit au dixième siècle. => كتب هذا الكتاب في القرن العاشر.
+La porte a été ouverte. => فتح الباب.
+La lettre a été envoyée. => أرسلت الرسالة.
+Je suis né à Paris. => ولدت في باريس.
+=== VOCA
+قَرْن | siècle:m | noun, mas | niv-b1 | freq-tres | temps | | مِائَة سَنَة | | | قُرُون
+بَارِيس | Paris | noun, noun-pro | niv-a1 | freq-freq | ville
+وُلِدَ | naître | verb, verb-intrans | niv-a1 | freq-tres | vie
+@ref 0160
+@chap 36
+@slug al-majhul-al-mudari
+@niv niv-b1
+=== NOTE
+# Le passif à l'inaccompli
+
+**1** À l'inaccompli, le passif a les voyelles _u_ (préfixe) – _a_ (radical) :
+
+| actif | passif |
+| --- | --- |
+| *يَكْتُبُ* | *يُكْتَبُ* _yuktabu_ (il est écrit) |
+| *يَفْتَحُ* | *يُفْتَحُ* _yuftaḥu_ (il est ouvert) |
+| *يَقُولُ* | *يُقَالُ* _yuqālu_ (on dit) |
+
+> *يُقَالُ إِنَّهُ مَرِيضٌ.*
+> _yuqālu ʾinnahu marīḍun._
+> On dit qu'il est malade.
+
+> *يُفْتَحُ المَتْحَفُ فِي التَّاسِعَةِ.*
+> _yuftaḥu l-matḥafu fī t-tāsiʿati._
+> Le musée ouvre (est ouvert) à neuf heures.
+
+**2** *يُقَالُ*, *يُمْكِنُ* (il est possible), *يُوجَدُ* (il se trouve, il y a) sont très fréquents.
+=== EXO
+title: Passif à l'inaccompli | المضارع المبني للمجهول
+wording: Traduisez | ترجم
+mode: trad
+On dit qu'il est malade. => يقال إنه مريض.
+Le musée ouvre à neuf heures. => يفتح المتحف في التاسعة.
+Il y a un problème. => توجد مشكلة. | هناك مشكلة.
+Ce livre est lu partout. => يقرأ هذا الكتاب في كل مكان.
+=== VOCA
+يُوجَدُ | se trouver; exister | verb | niv-b1 | freq-tres | etat
+مَكَان | lieu:m; endroit:m | noun, mas | niv-a1 | freq-ultra | lieu | | | | | أَمَاكِن
+@ref 0161
+@chap 36
+@slug majhul-al-mazid
+@niv niv-b2
+=== NOTE
+# Passif des formes dérivées et passif impersonnel
+
+**1** Toutes les formes ont un passif sur le même principe (_u_… _i_ à l'accompli, _u_… _a_ à l'inaccompli) :
+
+| forme | actif | passif |
+| --- | --- | --- |
+| II | *عَلَّمَ* | *عُلِّمَ* / *يُعَلَّمُ* |
+| III | *شَاهَدَ* | *شُوهِدَ* / *يُشَاهَدُ* |
+| IV | *أَرْسَلَ* | *أُرْسِلَ* / *يُرْسَلُ* |
+| VIII | *اِحْتَرَمَ* | *اُحْتُرِمَ* / *يُحْتَرَمُ* |
+| X | *اِسْتَعْمَلَ* | *اُسْتُعْمِلَ* / *يُسْتَعْمَلُ* |
+
+**2** Un verbe intransitif + préposition donne un **passif impersonnel** (verbe au masculin singulier) :
+
+> *اُتُّفِقَ عَلَى المَوْعِدِ.*
+> _uttufiqa ʿalā l-mawʿidi._
+> On s'est mis d'accord sur la date.
+
+**3** Le participe passif (§32.4) est l'adjectif correspondant : *مُرْسَل*, *مُسْتَعْمَل*.
+=== EXO
+title: Passif des formes dérivées | مجهول المزيد
+wording: Traduisez | ترجم
+mode: trad
+La lettre est envoyée demain. => ترسل الرسالة غدا.
+Ce mot est utilisé souvent. => تستعمل هذه الكلمة كثيرا.
+Il a été vu au marché. => شوهد في السوق.
+=== VOCA
+اِحْتَرَمَ | respecter | verb, verb-trans, verb-derived | niv-b1 | freq-freq | relation
+اِتَّفَقَ | se mettre d'accord | verb, verb-intrans, verb-derived | niv-b1 | freq-tres | echange
+مَوْعِد | rendez-vous:m | noun, mas | niv-a2 | freq-tres | moment |  |  |  |  | مَوَاعِيد
+@ref 0162
+@chap 36
+@slug badail-al-majhul
+@niv niv-b2
+=== NOTE
+# Les alternatives au passif
+
+**1** La forme VII (§29.3) exprime souvent le passif d'un verbe de forme I : *اِنْكَسَرَ الكَأْسُ* (le verre s'est cassé).
+
+**2** La presse emploie *تَمَّ* (il a été achevé) + **nom verbal**, ce qui évite le passif à voyelles invisibles :
+
+> *تَمَّ افْتِتَاحُ المَعْرِضِ.*
+> _tamma ftitāḥu l-maʿriḍi._
+> L'exposition a été inaugurée. (litt. l'inauguration a été achevée)
+
+> *سَيَتِمُّ بِنَاءُ جِسْرٍ جَدِيدٍ.*
+> _sayatimmu bināʾu ǧisrin ǧadīdin._
+> Un nouveau pont sera construit.
+
+**3** L'agent s'exprime (calque des langues européennes) par *مِنْ قِبَلِ* : *تَمَّ اسْتِقْبَالُهُ مِنْ قِبَلِ الرَّئِيسِ* (il a été reçu par le président). Les puristes le déconseillent.
+=== EXO
+title: Tamma + nom verbal | تمّ والمصدر
+wording: Traduisez avec تم | ترجم بتم
+mode: trad
+L'exposition a été inaugurée. => تم افتتاح المعرض.
+Un nouveau pont sera construit. => سيتم بناء جسر جديد.
+Il a été reçu par le président. => تم استقباله من قبل الرئيس.
+=== VOCA
+تَمَّ | être achevé; avoir lieu | verb, verb-intrans | niv-b2 | freq-tres | action
+مَعْرِض | exposition:f; salon [foire]:m | noun, mas | niv-b1 | freq-freq | art |  |  |  |  | مَعَارِض
+جِسْر | pont:m | noun, mas | niv-a2 | freq-freq | ville |  |  |  |  | جُسُور
+بِنَاء | construction:f | noun, mas, masdar | niv-b1 | freq-tres | batiment
+اِفْتِتَاح | inauguration:f | noun, mas, masdar | niv-b1 | freq-freq | fete

@@ -1,0 +1,194 @@
+@ref 0029
+@chap 07
+@slug al-muthanna
+@niv niv-a1
+=== NOTE
+# Le duel
+
+**1** Pour **deux** êtres ou choses, l'arabe emploie le **duel** et non le pluriel. On ajoute *ـَانِ* _-āni_ (sujet) ou *ـَيْنِ* _-ayni_ (après préposition, complément) :
+
+| singulier | duel sujet | duel complément |
+| --- | --- | --- |
+| *كِتَابٌ* | *كِتَابَانِ* _kitābāni_ | *كِتَابَيْنِ* _kitābayni_ |
+| *وَلَدٌ* | *وَلَدَانِ* _waladāni_ | *وَلَدَيْنِ* _waladayni_ |
+
+**2** La _ة_ redevient _ت_ : *مَدْرَسَةٌ* → *مَدْرَسَتَانِ* _madrasatāni_, *مَدْرَسَتَيْنِ* _madrasatayni_.
+
+**3** Le duel suffit : « deux » ne s'ajoute que pour insister.
+
+> *عِنْدِي أُخْتَانِ.*
+> _ʿindī ʾuḫtāni._
+> J'ai deux sœurs.
+
+> *دَرَسْتُ فِي مَدْرَسَتَيْنِ.*
+> _darastu fī madrasatayni._
+> J'ai étudié dans deux écoles.
+
+**4** Au quotidien, la forme en *ـَيْن* domine à l'oral ; à l'écrit, on applique la règle (§33.4).
+=== EXO
+title: Former le duel | المثنى
+wording: Donnez le duel sujet (-āni) | اكتب المثنى المرفوع
+mode: transfo
+كتاب => كتابان
+ولد => ولدان
+مدرسة => مدرستان
+بنت => بنتان
+يوم => يومان
+سيارة => سيارتان
+=== EXO
+title: Duel après préposition | المثنى المجرور
+wording: Traduisez | ترجم
+mode: trad
+dans deux écoles => في مدرستين
+J'ai deux sœurs. => عندي أختان.
+J'ai deux frères. => عندي أخوان.
+=== VOCA
+فِي | dans; en | prep | niv-a1 | freq-ultra | lieu
+@ref 0030
+@chap 07
+@slug jam-al-mudhakkar-as-salim
+@niv niv-a1
+=== NOTE
+# Le pluriel masculin sain
+
+**1** Certains noms d'**êtres humains masculins** (surtout les participes et les métiers) (§32.3) font leur pluriel en ajoutant *ـُونَ* _-ūna_ (sujet) ou *ـِينَ* _-īna_ (complément) :
+
+| singulier | pluriel sujet | pluriel complément |
+| --- | --- | --- |
+| *مُهَنْدِسٌ* | *مُهَنْدِسُونَ* _muhandisūna_ | *مُهَنْدِسِينَ* _muhandisīna_ |
+| *مُعَلِّمٌ* | *مُعَلِّمُونَ* _muʿallimūna_ | *مُعَلِّمِينَ* _muʿallimīna_ |
+| *مُسْلِمٌ* | *مُسْلِمُونَ* | *مُسْلِمِينَ* |
+
+**2** On l'appelle « sain » parce que le mot reste intact : on ne fait qu'ajouter.
+
+> *المُعَلِّمُونَ فِي المَدْرَسَةِ.*
+> _al-muʿallimūna fī l-madrasati._
+> Les instituteurs sont à l'école.
+
+**3** Les adjectifs qualifiant des hommes prennent aussi ce pluriel : *مُتْعَبُونَ* (fatigués).
+=== EXO
+title: Pluriel masculin sain | جمع المذكر السالم
+wording: Donnez le pluriel sujet (-ūna) | اكتب الجمع المرفوع
+mode: transfo
+مهندس => مهندسون
+معلم => معلمون
+مسلم => مسلمون
+متعب => متعبون
+موظف => موظفون
+=== EXO
+title: Phrases au pluriel | جمل
+wording: Traduisez | ترجم
+mode: trad
+Les ingénieurs sont fatigués. => المهندسون متعبون.
+Les instituteurs sont à l'école. => المعلمون في المدرسة.
+=== VOCA
+مُسْلِم | musulman:m | noun, mas | niv-a2 | freq-tres | religion | | | | | مُسْلِمُون
+مُوَظَّف | employé:m; fonctionnaire:m | noun, mas | niv-a1 | freq-tres | travail, metier | | | | | مُوَظَّفُون
+@ref 0031
+@chap 07
+@slug jam-al-muannath-as-salim
+@niv niv-a1
+=== NOTE
+# Le pluriel féminin sain
+
+**1** Le pluriel en *ـَات* _-āt_ sert aux féminins en _ة_ (qui tombe) et à de nombreux noms de choses :
+
+| singulier | pluriel |
+| --- | --- |
+| *مُهَنْدِسَةٌ* | *مُهَنْدِسَاتٌ* _muhandisātun_ |
+| *سَيَّارَةٌ* | *سَيَّارَاتٌ* _sayyārātun_ |
+| *طَاوِلَةٌ* | *طَاوِلَاتٌ* _ṭāwilātun_ |
+| *مَطَارٌ* (aéroport) | *مَطَارَاتٌ* _maṭārātun_ |
+| *اِمْتِحَانٌ* (examen) | *اِمْتِحَانَاتٌ* _imtiḥānātun_ |
+
+**2** Le complément prend *ـَاتٍ* _-ātin_ (et non _-ātan_) : *رَأَيْتُ سَيَّارَاتٍ* _raʾaytu sayyārātin_ (j'ai vu des voitures) (§33.4). Sans voyelles, rien ne change.
+
+> *المُهَنْدِسَاتُ فِي المَطَارِ.*
+> _al-muhandisātu fī l-maṭāri._
+> Les ingénieures sont à l'aéroport.
+=== EXO
+title: Pluriel féminin sain | جمع المؤنث السالم
+wording: Donnez le pluriel | اكتب الجمع
+mode: transfo
+مهندسة => مهندسات
+سيارة => سيارات
+طاولة => طاولات
+مطار => مطارات
+امتحان => امتحانات
+طالبة => طالبات
+=== VOCA
+مَطَار | aéroport:m | noun, mas | niv-a1 | freq-tres | transport, voyage | | | | | مَطَارَات
+اِمْتِحَان | examen:m | noun, mas | niv-a1 | freq-tres | ecole
+@ref 0032
+@chap 07
+@slug jam-ghayr-al-aqil
+@niv niv-a2
+=== NOTE
+# Le pluriel des choses s'accorde au féminin singulier
+
+**1** Règle capitale : le pluriel d'un nom de **chose ou d'animal** (non humain) s'accorde comme un **féminin singulier** — adjectif, pronom, verbe.
+
+> *السَّيَّارَاتُ جَدِيدَةٌ.*
+> _as-sayyārātu ǧadīdatun._
+> Les voitures sont neuves.
+
+> *الكُتُبُ عَلَى الطَّاوِلَةِ.*
+> _al-kutubu ʿalā ṭ-ṭāwilati._
+> Les livres sont sur la table.
+
+> *هِيَ كُتُبٌ قَدِيمَةٌ.*
+> _hiya kutubun qadīmatun._
+> Ce sont de vieux livres.
+
+**2** Les pluriels d'**êtres humains** gardent l'accord au pluriel : *المُعَلِّمُونَ مُتْعَبُونَ*.
+
+**3** Le duel, lui, s'accorde toujours au duel : *السَّيَّارَتَانِ جَدِيدَتَانِ*.
+=== EXO
+title: Accord des pluriels de choses | مطابقة جمع غير العاقل
+wording: Traduisez | ترجم
+mode: trad
+Les voitures sont neuves. => السيارات جديدة.
+Les livres sont vieux. => الكتب قديمة.
+Les examens sont faciles. => الامتحانات سهلة.
+Les maisons sont grandes. => البيوت كبيرة.
+Les ingénieurs sont fatigués. => المهندسون متعبون.
+=== VOCA
+قَدِيم | ancien; vieux [chose] | adj | niv-a1 | freq-tres | qualite
+سَهْل | facile | adj | niv-a1 | freq-tres | qualite
+@ref 0033
+@chap 07
+@slug mutabaqat-al-muthanna
+@niv niv-a2
+=== NOTE
+# Accorder avec un duel
+
+**1** L'adjectif qui qualifie un duel prend lui aussi le duel, avec la même terminaison :
+
+> *البِنْتَانِ جَمِيلَتَانِ.*
+> _al-bintāni ǧamīlatāni._
+> Les deux filles sont belles.
+
+> *عِنْدِي سَيَّارَتَانِ قَدِيمَتَانِ.*
+> _ʿindī sayyāratāni qadīmatāni._
+> J'ai deux vieilles voitures.
+
+**2** Le pronom de reprise est *هُمَا* (§5.3), et le verbe a ses formes duelles (§17.4).
+
+**3** Récapitulatif de l'accord :
+
+| nom | accord |
+| --- | --- |
+| singulier | singulier, même genre |
+| duel | duel, même genre |
+| pluriel humain | pluriel, même genre |
+| pluriel non humain | féminin singulier |
+=== EXO
+title: Accord au duel | مطابقة المثنى
+wording: Traduisez | ترجم
+mode: trad
+Les deux filles sont belles. => البنتان جميلتان.
+Les deux livres sont nouveaux. => الكتابان جديدان.
+Les deux voitures sont vieilles. => السيارتان قديمتان.
+Les deux maisons sont petites. => البيتان صغيران.
+=== VOCA
+عِنْدَ | chez | prep | niv-a1 | freq-ultra | echange

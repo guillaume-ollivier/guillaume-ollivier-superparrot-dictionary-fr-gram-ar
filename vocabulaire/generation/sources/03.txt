@@ -1,0 +1,147 @@
+@ref 0011
+@chap 03
+@slug al-tarif
+@niv niv-a1
+=== NOTE
+# L'article _al-_ : défini et indéfini
+
+**1** L'arabe a **un seul article**, défini : _الـ_ (_al-_), invariable, soudé au nom. Il vaut « le, la, les ».
+
+**2** Il n'y a **pas d'article indéfini** : le nom sans article est indéfini, et porte le _tanwīn_ (§2.3).
+
+| indéfini | défini |
+| --- | --- |
+| *كِتَابٌ* _kitābun_ (un livre) | *الكِتَابُ* _al-kitābu_ (le livre) |
+| *بِنْتٌ* _bintun_ (une fille) | *البِنْتُ* _al-bintu_ (la fille) |
+
+**3** Un nom n'a jamais à la fois l'article et le _tanwīn_.
+
+> *الوَلَدُ فِي البَيْتِ.*
+> _al-waladu fī l-bayti._
+> Le garçon est dans la maison.
+
+**4** On l'écrit toujours _ال_, collé au mot : on tape *الكتاب*.
+=== EXO
+title: Rendre défini | التعريف
+wording: Ajoutez l'article | أضف أداة التعريف
+mode: transfo
+كتاب => الكتاب
+بنت => البنت
+ولد => الولد
+باب => الباب
+قلم => القلم
+مدرسة => المدرسة
+=== EXO
+title: Défini ou indéfini | معرفة أو نكرة
+wording: Traduisez | ترجم
+mode: trad
+le livre => الكتاب
+une maison => بيت
+l'école => المدرسة
+un stylo => قلم
+la mère => الأم
+=== VOCA
+الـ | le [article]; la [article]; les [article] | det | niv-a1 | freq-ultra | | | | al-
+@ref 0012
+@chap 03
+@slug al-huruf-ash-shamsiyya
+@niv niv-a1
+=== NOTE
+# Les lettres solaires
+
+**1** Devant certaines consonnes, le _l_ de l'article **ne se prononce pas** : il s'assimile à la consonne, qui se double (_šadda_). On les appelle **lettres solaires**, d'après *الشَّمْس* _aš-šams_ (le soleil).
+
+**2** Ce sont les consonnes prononcées avec le bout de la langue : _ت ث د ذ ر ز س ش ص ض ط ظ ل ن_.
+
+| écrit | prononcé |
+| --- | --- |
+| *[ar] الشَّمْس /aʃʃams/* | _aš-šams_ (le soleil) |
+| *[ar] الرَّجُل /arrad͡ʒul/* | _ar-raǧul_ (l'homme) |
+| *[ar] النُّور /annuːr/* | _an-nūr_ (la lumière) |
+| *[ar] الدَّرْس /addars/* | _ad-dars_ (la leçon) |
+
+**3** L'écriture ne change pas : le _ل_ reste écrit. On tape toujours *الشمس*.
+
+> *الشَّمْسُ جَمِيلَةٌ.*
+> _aš-šamsu ǧamīlatun._
+> Le soleil est beau.
+=== EXO
+title: Lettres solaires | الحروف الشمسية
+wording: Écrivez le mot avec l'article | اكتب الكلمة
+mode: trad
+aš-šams (le soleil) => الشمس
+ar-raǧul (l'homme) => الرجل
+an-nūr (la lumière) => النور
+as-sayyāra (la voiture) => السيارة
+aṭ-ṭabīb (le médecin) => الطبيب
+ad-dars (la leçon) => الدرس
+=== VOCA
+رَجُل | homme [adulte]:m | noun, mas | niv-a1 | freq-ultra | personne | | | | | رِجَال
+@ref 0013
+@chap 03
+@slug al-huruf-al-qamariyya
+@niv niv-a1
+=== NOTE
+# Les lettres lunaires et la _hamzat al-waṣl_
+
+**1** Devant les autres consonnes, le _l_ se prononce : ce sont les **lettres lunaires**, d'après *القَمَر* _al-qamar_ (la lune) : _ا ب ج ح خ ع غ ف ق ك م ه و ي_.
+
+| écrit | prononcé |
+| --- | --- |
+| *[ar] القَمَر /alqamar/* | _al-qamar_ (la lune) |
+| *[ar] البَيْت /albajt/* | _al-bayt_ (la maison) |
+| *[ar] الكِتَاب /alkitaːb/* | _al-kitāb_ (le livre) |
+
+**2** Le _a_ de l'article est **instable** (_hamzat al-waṣl_) : il disparaît quand un mot le précède. *فِي البَيْتِ* se dit _fī l-bayti_, *وَالقَمَرُ* _wa-l-qamaru_. Le signe *ٱ* (_waṣla_) le note parfois dans les textes vocalisés.
+
+> *الشَّمْسُ وَالقَمَرُ.*
+> _aš-šamsu wa-l-qamaru._
+> Le soleil et la lune.
+=== EXO
+title: Solaire ou lunaire | شمسية أو قمرية
+wording: Le l de l'article se prononce-t-il ? Écrivez « نعم » ou « لا » | هل تُنطق اللام؟
+mode: transfo
+القمر => نعم
+الشمس => لا
+الكتاب => نعم
+الرجل => لا
+البيت => نعم
+السوق => لا
+الأم => نعم
+النور => لا
+=== VOCA
+نَعَم | oui | particle | niv-a1 | freq-ultra | communication-orale
+@ref 0014
+@chap 03
+@slug qiraa
+@niv niv-a1
+=== NOTE
+# Lire un mot nouveau : méthode
+
+**1** Repérez les **points** pour identifier chaque lettre, puis les **lettres non liantes** (_ا د ذ ر ز و_) qui découpent le mot.
+
+**2** Cherchez l'**article** _ال_ en tête : il est suivi d'une lettre solaire ou lunaire.
+
+**3** Repérez les **voyelles longues** _ا و ي_ ; entre elles, le texte non vocalisé laisse deviner les brèves.
+
+**4** Une _ة_ finale annonce presque toujours un **féminin** (_-a_).
+
+> *السَّيَّارَةُ الجَدِيدَةُ أَمَامَ المَدْرَسَةِ.*
+> _as-sayyāratu l-ǧadīdatu ʾamāma l-madrasati._
+> La voiture neuve est devant l'école.
+
+**5** Lire sans voyelles s'apprend avec le vocabulaire : on reconnaît le mot, puis on sait comment le vocaliser.
+=== EXO
+title: Transcrire en arabe | النسخ
+wording: Écrivez en arabe | اكتب بالعربية
+mode: trad
+al-madīna (la ville) => المدينة
+aš-šāriʿ (la rue) => الشارع
+as-sūq al-kabīr (le grand marché) => السوق الكبير
+al-bint aṣ-ṣaġīra (la petite fille) => البنت الصغيرة
+ad-dār al-ǧamīla (la belle demeure) => الدار الجميلة
+=== VOCA
+مَدِينَة | ville:f | noun, fem | niv-a1 | freq-ultra | ville |  |  |  |  | مُدُن
+شَارِع | rue:f | noun, mas | niv-a1 | freq-tres | ville |  |  |  |  | شَوَارِع
+جَدِيد | nouveau; neuf [récent] | adj | niv-a1 | freq-ultra | qualite
+أَمَامَ | devant | prep | niv-a1 | freq-tres | lieu

@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0182-1",
+  "source": "source=AR§reference=0182-1",
+  "title": "lang=fr-FR§{Formules courantes}lang=ar-SA§{العبارات اليومية}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§si Dieu le veut}",
+      "answer": "{?1§{إن شاء الله|ان شاء الله}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Félicitations}{type=affix§!}",
+      "answer": "{?1§مبروك}{type=affix§!}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§au nom de Dieu}",
+      "answer": "{?1§بسم الله}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§Dieu merci}",
+      "answer": "{?1§الحمد لله}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§À demain, j'espère}{type=affix§.}",
+      "answer": "{?1§{أراك غدا إن شاء الله|اراك غدا ان شاء الله|أراك غدا، إن شاء الله|اراك غدا، ان شاء الله}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

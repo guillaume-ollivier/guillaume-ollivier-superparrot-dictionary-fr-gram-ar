@@ -1,0 +1,36 @@
+{
+  "topic_ref": "0142-2",
+  "source": "source=AR§reference=0142-2",
+  "title": "lang=fr-FR§{Participe en phrase}lang=ar-SA§{اسم الفاعل في جملة}",
+  "wording": "lang=fr-FR§{Traduisez avec un participe}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§Je vais au marché. (homme)}",
+      "answer": "{?1§{أنا ذاهب إلى السوق|انا ذاهب الى السوق}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Je vais au marché. (femme)}",
+      "answer": "{?1§{أنا ذاهبة إلى السوق|انا ذاهبة الى السوق}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Tu as compris ? (à un homme)}",
+      "answer": "{?1§{هل أنت فاهم|هل انت فاهم|أنت فاهم|انت فاهم}}{type=affix§؟}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

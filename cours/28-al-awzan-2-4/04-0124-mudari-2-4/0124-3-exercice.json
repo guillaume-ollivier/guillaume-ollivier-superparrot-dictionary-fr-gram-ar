@@ -1,0 +1,64 @@
+{
+  "topic_ref": "0124-1",
+  "source": "source=AR§reference=0124-1",
+  "title": "lang=fr-FR§{Inaccompli II–IV}lang=ar-SA§{مضارع المزيد}",
+  "wording": "lang=fr-FR§{Conjuguez à l'inaccompli (هو)}lang=ar-SA§{صرّف في المضارع}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§درّس}",
+      "answer": "{?1§يدرس}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§سافر}",
+      "answer": "{?1§يسافر}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§أرسل}",
+      "answer": "{?1§يرسل}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§ساعد}",
+      "answer": "{?1§يساعد}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§أغلق}",
+      "answer": "{?1§يغلق}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§فكّر}",
+      "answer": "{?1§يفكر}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "7",
+      "question": "{?1§شاهد}",
+      "answer": "{?1§يشاهد}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

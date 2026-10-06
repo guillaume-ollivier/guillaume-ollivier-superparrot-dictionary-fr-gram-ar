@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0109-1",
+  "source": "source=AR§reference=0109-1",
+  "title": "lang=fr-FR§{Former l'apocopé}lang=ar-SA§{المضارع المجزوم}",
+  "wording": "lang=fr-FR§{Mettez à l'apocopé après لم}lang=ar-SA§{اجزم بلم}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§يكتب}",
+      "answer": "{?1§لم يكتب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§يكتبون}",
+      "answer": "{?1§لم يكتبوا}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§تكتبين}",
+      "answer": "{?1§لم تكتبي}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§نشرب}",
+      "answer": "{?1§لم نشرب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§يخرجان}",
+      "answer": "{?1§لم يخرجا}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

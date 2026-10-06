@@ -1,0 +1,49 @@
+# Exercice
+
+## Description
+| attribute   | section | index | lang  | value           |
+| ----------- | ------- | ----- | ----- | --------------- |
+| ref         |         |       |       | 0095-1          |
+| title       |         |       | fr-FR | Kāna + attribut |
+|             |         |       | ar-SA | كان وخبرها      |
+| wording     |         |       | fr-FR | Traduisez       |
+|             |         |       | ar-SA | ترجم            |
+| categories* |         |       |       | niv-a2          |
+| tags*       |         |       |       |                 |
+
+## Items
+### Common
+| attribute | section | index | lang  |
+| --------- | ------- | ----- | ----- |
+| question  | 1       |       | fr-FR |
+| answer    | 1       |       | ar-SA |
+
+### 1
+| attribute | section | index | lang | value                                  |
+| --------- | ------- | ----- | ---- | -------------------------------------- |
+| question  |         |       |      | {?1§Le temps était beau}{type=affix§.} |
+| answer    |         |       |      | {?1§كان الجو جميلا}{type=affix§.}      |
+
+### 2
+| attribute | section | index | lang | value                               |
+| --------- | ------- | ----- | ---- | ----------------------------------- |
+| question  |         |       |      | {?1§Il était médecin}{type=affix§.} |
+| answer    |         |       |      | {?1§كان طبيبا}{type=affix§.}        |
+
+### 3
+| attribute | section | index | lang | value                                    |
+| --------- | ------- | ----- | ---- | ---------------------------------------- |
+| question  |         |       |      | {?1§La ville était petite}{type=affix§.} |
+| answer    |         |       |      | {?1§كانت المدينة صغيرة}{type=affix§.}    |
+
+### 4
+| attribute | section | index | lang | value                                                |
+| --------- | ------- | ----- | ---- | ---------------------------------------------------- |
+| question  |         |       |      | {?1§J'avais une voiture}{type=affix§.}               |
+| answer    |         |       |      | {?1§{كان عندي سيارة\|كانت عندي سيارة}}{type=affix§.} |
+
+### 5
+| attribute | section | index | lang | value                                   |
+| --------- | ------- | ----- | ---- | --------------------------------------- |
+| question  |         |       |      | {?1§Ils étaient fatigués}{type=affix§.} |
+| answer    |         |       |      | {?1§كانوا متعبين}{type=affix§.}         |

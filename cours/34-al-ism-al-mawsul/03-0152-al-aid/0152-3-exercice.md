@@ -1,0 +1,49 @@
+# Exercice
+
+## Description
+| attribute   | section | index | lang  | value               |
+| ----------- | ------- | ----- | ----- | ------------------- |
+| ref         |         |       |       | 0152-1              |
+| title       |         |       | fr-FR | Le pronom de rappel |
+|             |         |       | ar-SA | العائد              |
+| wording     |         |       | fr-FR | Traduisez           |
+|             |         |       | ar-SA | ترجم                |
+| categories* |         |       |       | niv-b1              |
+| tags*       |         |       |       |                     |
+
+## Items
+### Common
+| attribute | section | index | lang  |
+| --------- | ------- | ----- | ----- |
+| question  | 1       |       | fr-FR |
+| answer    | 1       |       | ar-SA |
+
+### 1
+| attribute | section | index | lang | value                                       |
+| --------- | ------- | ----- | ---- | ------------------------------------------- |
+| question  |         |       |      | {?1§le livre que j'ai lu}                   |
+| answer    |         |       |      | {?1§{الكتاب الذي قرأته\|الكتاب الذي قراته}} |
+
+### 2
+| attribute | section | index | lang | value                                           |
+| --------- | ------- | ----- | ---- | ----------------------------------------------- |
+| question  |         |       |      | {?1§la maison où j'habite}                      |
+| answer    |         |       |      | {?1§{البيت الذي أسكن فيه\|البيت الذي اسكن فيه}} |
+
+### 3
+| attribute | section | index | lang | value                           |
+| --------- | ------- | ----- | ---- | ------------------------------- |
+| question  |         |       |      | {?1§l'ami avec qui j'ai voyagé} |
+| answer    |         |       |      | {?1§الصديق الذي سافرت معه}      |
+
+### 4
+| attribute | section | index | lang | value                          |
+| --------- | ------- | ----- | ---- | ------------------------------ |
+| question  |         |       |      | {?1§la ville que j'ai visitée} |
+| answer    |         |       |      | {?1§المدينة التي زرتها}        |
+
+### 5
+| attribute | section | index | lang | value                                                 |
+| --------- | ------- | ----- | ---- | ----------------------------------------------------- |
+| question  |         |       |      | {?1§la femme dont j'ai vu la fille}                   |
+| answer    |         |       |      | {?1§{المرأة التي رأيت بنتها\|المراة التي رايت بنتها}} |

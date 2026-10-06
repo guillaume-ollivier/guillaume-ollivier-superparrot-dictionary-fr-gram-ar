@@ -1,0 +1,169 @@
+@ref 0168
+@chap 38
+@slug al-hal
+@niv niv-b2
+=== NOTE
+# Le complément d'état (_ḥāl_)
+
+**1** Le _ḥāl_ décrit l'**état** du sujet ou de l'objet pendant l'action. C'est un participe ou un adjectif **indéfini à l'accusatif** :
+
+> *جَاءَ مُسْرِعًا.*
+> _ǧāʾa musriʿan._
+> Il est venu en se dépêchant.
+
+> *رَجَعَتْ مِنَ العَمَلِ مُتْعَبَةً.*
+> _raǧaʿat mina l-ʿamali mutʿabatan._
+> Elle est rentrée du travail fatiguée.
+
+**2** Il peut aussi être une phrase introduite par *وَ* (« alors que ») : *دَخَلَ وَهُوَ يَضْحَكُ* (il est entré en riant).
+
+**3** Sans voyelles, l'alif du _tanwīn_ le signale au masculin : *مسرعا*.
+=== EXO
+title: Le ḥāl | الحال
+wording: Traduisez | ترجم
+mode: trad
+Il est venu en se dépêchant. => جاء مسرعا.
+Elle est rentrée fatiguée. => رجعت متعبة.
+Il est entré en riant. => دخل ضاحكا. | دخل وهو يضحك.
+Ils sont revenus heureux. => عادوا سعداء. | رجعوا سعداء.
+=== VOCA
+أَسْرَعَ | se dépêcher | verb, verb-intrans, verb-derived | niv-b1 | freq-freq | deplacement
+عَادَ ; رَجَعَ | revenir; rentrer | verb, verb-intrans | niv-a2 | freq-tres | deplacement
+@ref 0169
+@chap 38
+@slug at-tamyiz
+@niv niv-b2
+=== NOTE
+# Le complément de spécification (_tamyīz_)
+
+**1** Le _tamyīz_ précise **en quoi** : un nom **indéfini à l'accusatif** après une quantité, une mesure ou un comparatif :
+
+| contexte | exemple |
+| --- | --- |
+| nombre 11–99 (§16.1) | *عِشْرُونَ طَالِبًا* |
+| *كَمْ* (§14.4) | *كَمْ كِتَابًا؟* |
+| mesure | *اِشْتَرَيْتُ كِيلُو لَحْمًا* (un kilo de viande) |
+| comparatif (§35.3) | *أَكْثَرُ نَشَاطًا* |
+
+> *اِزْدَادَ عَدَدُ السُّكَّانِ مِلْيُونًا.*
+> _izdāda ʿadadu s-sukkāni milyūnan._
+> La population a augmenté d'un million.
+
+**2** Avec « plein de » : *اِمْتَلَأَ الكَأْسُ مَاءً* (le verre s'est rempli d'eau).
+=== EXO
+title: Le tamyīz | التمييز
+wording: Traduisez | ترجم
+mode: trad
+un kilo de viande => كيلوغرام لحما | كيلو لحما | كيلو لحم
+Le verre s'est rempli d'eau. => امتلأ الكأس ماء.
+vingt étudiants => عشرون طالبا
+plus actif => أكثر نشاطا
+=== VOCA
+لَحْم | viande:f | noun, mas | niv-a1 | freq-tres | aliment | | | | | لُحُوم
+كِيلُوغْرَام | kilogramme:m | noun, mas, loanword | niv-a1 | freq-freq | quantite
+اِمْتَلَأَ | se remplir | verb, verb-intrans, verb-derived | niv-b2 | freq-freq | etat
+عَدَد | nombre [quantité]:m | noun, mas | niv-a2 | freq-tres | nombre |  |  |  |  | أَعْدَاد
+سُكَّان | habitants:mpl | noun, mas, plur | niv-b1 | freq-tres | ville
+@ref 0170
+@chap 38
+@slug al-maful-al-mutlaq
+@niv niv-b2
+=== NOTE
+# Le complément absolu (_mafʿūl muṭlaq_)
+
+**1** On renforce un verbe en le faisant suivre de **son propre nom verbal** à l'accusatif — souvent avec un adjectif, qui rend l'adverbe français :
+
+> *فَرِحْتُ فَرَحًا كَبِيرًا.*
+> _fariḥtu faraḥan kabīran._
+> Je me suis beaucoup réjoui. (litt. je me suis réjoui d'une grande joie)
+
+> *ضَحِكَ ضَحِكًا شَدِيدًا.*
+> _ḍaḥika ḍaḥikan šadīdan._
+> Il a ri aux éclats.
+
+**2** Sans adjectif, il insiste : *رَفَضَ رَفْضًا* (il a refusé catégoriquement). Avec un nombre : *زُرْتُهُ زِيَارَتَيْنِ* (je lui ai rendu visite deux fois).
+
+**3** Tournure très fréquente : *شُكْرًا* (merci) est un _mafʿūl muṭlaq_ d'un verbe sous-entendu (« je te remercie d'un remerciement »).
+=== EXO
+title: Le mafʿūl muṭlaq | المفعول المطلق
+wording: Traduisez | ترجم
+mode: trad
+Je me suis beaucoup réjoui. => فرحت فرحا كبيرا.
+Il a ri aux éclats. => ضحك ضحكا شديدا.
+Il a refusé catégoriquement. => رفض رفضا قاطعا. | رفض رفضا.
+=== VOCA
+فَرِحَ | se réjouir | verb, verb-intrans | niv-b1 | freq-freq | emotion
+شَدِيد | intense; violent | adj | niv-a2 | freq-tres | qualite
+قَاطِع | catégorique | adj | niv-b2 | freq-freq | qualite
+رَفَضَ | refuser | verb, verb-trans | niv-a2 | freq-tres | volonte
+@ref 0171
+@chap 38
+@slug zarf-wal-maful-lahu
+@niv niv-b2
+=== NOTE
+# Compléments de temps, de lieu et de cause
+
+**1** Le complément de **temps ou de lieu** sans préposition (_ẓarf_, _mafʿūl fīhi_) est à l'**accusatif** :
+
+| arabe | sens |
+| --- | --- |
+| *صَبَاحًا* | le matin |
+| *مَسَاءً* | le soir |
+| *لَيْلًا* | la nuit |
+| *يَوْمَ الجُمُعَةِ* | vendredi |
+| *أَمَامَ البَيْتِ* | devant la maison |
+
+**2** Le complément de **cause** (_mafʿūl li-ʾaǧlihi_) : nom verbal indéfini à l'accusatif = « par, pour » :
+
+> *وَقَفَ الطُّلَّابُ احْتِرَامًا لِلْمُعَلِّمِ.*
+> _waqafa ṭ-ṭullābu ḥtirāman lil-muʿallimi._
+> Les étudiants se sont levés par respect pour l'instituteur.
+
+> *سَافَرْتُ طَلَبًا لِلْعِلْمِ.*
+> _sāfartu ṭalaban lil-ʿilmi._
+> J'ai voyagé pour chercher le savoir.
+=== EXO
+title: Temps et cause | الظرف والمفعول لأجله
+wording: Traduisez | ترجم
+mode: trad
+le matin => صباحا
+la nuit => ليلا
+Je travaille le soir. => أعمل مساء.
+par respect pour l'instituteur => احتراما للمعلم
+Il est resté par peur. => بقي خوفا.
+=== VOCA
+عِلْم | savoir:m; science:f | noun, mas | niv-a2 | freq-tres | ecole | | | | | عُلُوم:sciences@f
+اِحْتِرَام | respect:m | noun, mas, masdar | niv-b1 | freq-freq | relation
+خَوْف | peur:f | noun, mas, masdar | niv-a2 | freq-tres | emotion
+@ref 0172
+@chap 38
+@slug al-istithna
+@niv niv-b2
+=== NOTE
+# L'exception : _ʾillā_, _ġayr_, _siwā_
+
+**1** *إِلَّا* « sauf » : dans une phrase affirmative complète, le nom qui suit est à l'**accusatif** :
+
+> *حَضَرَ الطُّلَّابُ إِلَّا طَالِبًا.*
+> _ḥaḍara ṭ-ṭullābu ʾillā ṭāliban._
+> Les étudiants sont venus, sauf un.
+
+**2** Après une négation, *لَا … إِلَّا* / *مَا … إِلَّا* = « ne… que » :
+
+> *لَا أَشْرَبُ إِلَّا المَاءَ.*
+> _lā ʾašrabu ʾillā l-māʾa._
+> Je ne bois que de l'eau.
+
+**3** *غَيْرَ* et *سِوَى* « sauf, excepté » sont suivis d'un **génitif** : *حَضَرَ الطُّلَّابُ غَيْرَ أَحْمَدَ* / *سِوَى أَحْمَدَ*.
+=== EXO
+title: L'exception | الاستثناء
+wording: Traduisez | ترجم
+mode: trad
+Je ne bois que de l'eau. => لا أشرب إلا الماء.
+Les étudiants sont venus, sauf Ahmed. => حضر الطلاب إلا أحمد. | حضر الطلاب غير أحمد. | حضر الطلاب سوى أحمد.
+Il n'y a de dieu que Dieu. => لا إله إلا الله.
+Je n'ai qu'un frère. => ليس لي إلا أخ واحد. | ليس عندي إلا أخ واحد.
+=== VOCA
+إِلَّا | sauf; excepté | particle | niv-b1 | freq-ultra | | | | illa | fr-FR§suivi d'un accusatif
+سِوَى | sauf; excepté | noun | niv-b2 | freq-freq | | | | siwa | fr-FR§suivi d'un génitif
+حَضَرَ | être présent; assister | verb, verb-intrans | niv-b1 | freq-tres | deplacement

@@ -1,0 +1,148 @@
+@ref 0163
+@chap 37
+@slug in-ash-shartiyya
+@niv niv-b1
+=== NOTE
+# _ʾIn_ : la condition réalisable
+
+**1** *إِنْ* _ʾin_ (si) introduit une condition possible. Les deux verbes (condition et résultat) se mettent à l'**apocopé**, ou tous deux à l'**accompli** — avec un sens présent ou futur dans les deux cas :
+
+> *إِنْ تَدْرُسْ تَنْجَحْ.*
+> _ʾin tadrus tanǧaḥ._
+> Si tu étudies, tu réussiras.
+
+> *إِنْ دَرَسْتَ نَجَحْتَ.*
+> _ʾin darasta naǧaḥta._
+> Si tu étudies, tu réussiras.
+
+**2** L'accompli après *إِنْ* n'a **pas** de valeur passée.
+
+**3** *إِنْ* est surtout écrit et soutenu ; la langue courante préfère *إِذَا* (§37.2).
+=== EXO
+title: Condition avec in | الشرط بإن
+wording: Traduisez | ترجم
+mode: trad
+Si tu étudies, tu réussiras. => إن تدرس تنجح. | إن درست نجحت.
+Si tu viens, je viendrai. => إن تأت آت. | إن جئت جئت.
+Si tu cherches, tu trouveras. => إن تبحث تجد. | إن بحثت وجدت.
+=== VOCA
+إِنْ | si [condition] | conj | niv-b1 | freq-tres | | reg-soutenu | | in | fr-FR§condition possible, langue soutenue
+@ref 0164
+@chap 37
+@slug idha
+@niv niv-b1
+=== NOTE
+# _ʾIḏā_ : « si, quand »
+
+**1** *إِذَا* _ʾiḏā_ est la conjonction de condition la plus courante. Elle est suivie de l'**accompli**, avec un sens présent ou futur :
+
+> *إِذَا جِئْتَ غَدًا، سَنَذْهَبُ مَعًا.*
+> _ʾiḏā ǧiʾta ġadan, sanaḏhabu maʿan._
+> Si tu viens demain, nous irons ensemble.
+
+> *إِذَا كَانَ الجَوُّ جَمِيلًا، نَخْرُجُ.*
+> _ʾiḏā kāna l-ǧawwu ǧamīlan, naḫruǧu._
+> S'il fait beau, nous sortons.
+
+**2** Le résultat est à l'inaccompli, au futur, à l'impératif… (avec *فَـ* dans certains cas) (§37.4).
+
+**3** *إِذَا* a aussi le sens de « quand, chaque fois que » pour un fait attendu.
+=== EXO
+title: Condition avec idhā | الشرط بإذا
+wording: Traduisez | ترجم
+mode: trad
+Si tu viens demain, nous irons ensemble. => إذا جئت غدا سنذهب معا. | إذا جئت غدا، سنذهب معا.
+S'il fait beau, nous sortons. => إذا كان الجو جميلا نخرج. | إذا كان الجو جميلا، نخرج.
+Si tu as le temps, appelle-moi. => إذا كان عندك وقت فاتصل بي. | إذا كان عندك وقت، فاتصل بي.
+=== VOCA
+إِذَا | si [condition] | conj | niv-a2 | freq-ultra | | | | idha | fr-FR§condition courante
+مَعًا | ensemble | adv | niv-a2 | freq-tres | relation
+اِتَّصَلَ | appeler [téléphone]; contacter | verb, verb-intrans, verb-derived | niv-a2 | freq-tres | communication
+@ref 0165
+@chap 37
+@slug law
+@niv niv-b2
+=== NOTE
+# _Law_ : la condition irréelle
+
+**1** *لَوْ* _law_ introduit une hypothèse **irréelle** ou peu probable. Les deux verbes sont à l'**accompli**, et le résultat est souvent introduit par *لَـ* :
+
+> *لَوْ كُنْتُ غَنِيًّا لَاشْتَرَيْتُ بَيْتًا.*
+> _law kuntu ġaniyyan la-štaraytu baytan._
+> Si j'étais riche, j'achèterais une maison.
+
+> *لَوْ دَرَسْتَ لَنَجَحْتَ.*
+> _law darasta la-naǧaḥta._
+> Si tu avais étudié, tu aurais réussi.
+
+**2** Présent irréel et passé irréel ont la même forme ; le contexte décide (on peut préciser avec *كَانَ قَدْ*).
+
+**3** Négation du résultat : *لَمَا* + accompli : *لَوْ عَرَفْتُ لَمَا جِئْتُ* (si j'avais su, je ne serais pas venu).
+=== EXO
+title: Condition irréelle | الشرط بلو
+wording: Traduisez | ترجم
+mode: trad
+Si j'étais riche, j'achèterais une maison. => لو كنت غنيا لاشتريت بيتا.
+Si tu avais étudié, tu aurais réussi. => لو درست لنجحت.
+Si j'avais su, je ne serais pas venu. => لو عرفت لما جئت.
+=== VOCA
+لَوْ | si [condition] | conj | niv-b1 | freq-tres | | | | law | fr-FR§condition irréelle
+غَنِيّ | riche | adj | niv-a2 | freq-freq | argent
+@ref 0166
+@chap 37
+@slug fa-al-jawab
+@niv niv-b2
+=== NOTE
+# _Fa-_ dans la réponse
+
+**1** Après *إِنْ* et *إِذَا*, le résultat est introduit par *فَـ* quand il **n'est pas** un simple verbe à l'accompli ou à l'apocopé :
+- phrase nominale : *إِذَا تَعِبْتَ فَأَنْتَ حُرٌّ* ;
+- impératif : *إِذَا رَأَيْتَهُ فَسَلِّمْ عَلَيْهِ* (si tu le vois, salue-le) ;
+- futur avec *سَـ* / *سَوْفَ* : *إِنْ جِئْتَ فَسَأَنْتَظِرُكَ* ;
+- négation par *لَا*, *لَنْ*, *لَيْسَ*, ou *قَدْ*.
+
+> *إِذَا كُنْتَ مُتْعَبًا فَنَمْ.*
+> _ʾiḏā kunta mutʿaban fa-nam._
+> Si tu es fatigué, dors.
+
+**2** *فَـ* s'écrit collé au mot qui suit.
+=== EXO
+title: Fa- de réponse | الفاء في جواب الشرط
+wording: Traduisez | ترجم
+mode: trad
+Si tu es fatigué, dors. => إذا كنت متعبا فنم.
+Si tu le vois, salue-le. => إذا رأيته فسلم عليه.
+Si tu viens, je t'attendrai. => إن جئت فسأنتظرك. | إذا جئت فسأنتظرك.
+=== VOCA
+حُرّ | libre | adj | niv-b1 | freq-tres | etat
+@ref 0167
+@chap 37
+@slug lawla-amma
+@niv niv-b2
+=== NOTE
+# _Lawlā_ et _ʾammā… fa-_
+
+**1** *لَوْلَا* + **nom** (nominatif) = « sans, s'il n'y avait pas eu » ; résultat avec *لَـ* :
+
+> *لَوْلَا المَطَرُ لَخَرَجْنَا.*
+> _lawlā l-maṭaru la-ḫaraǧnā._
+> Sans la pluie, nous serions sortis.
+
+**2** *أَمَّا … فَـ* = « quant à… » : met un élément en relief, puis *فَـ* reprend la phrase :
+
+> *أَمَّا أَنَا فَلَا أُحِبُّ القَهْوَةَ.*
+> _ʾammā ʾanā fa-lā ʾuḥibbu l-qahwata._
+> Quant à moi, je n'aime pas le café.
+
+**3** Ne confondez pas *أَمَّا* (quant à) et *إِمَّا … وَإِمَّا* (soit… soit).
+=== EXO
+title: Lawlā, ʾammā | لولا، أما
+wording: Traduisez | ترجم
+mode: trad
+Sans la pluie, nous serions sortis. => لولا المطر لخرجنا.
+Quant à moi, je n'aime pas le café. => أما أنا فلا أحب القهوة.
+Quant à mon frère, il est médecin. => أما أخي فهو طبيب.
+=== VOCA
+لَوْلَا | n'eût été; sans | conj | niv-b2 | freq-freq | | reg-soutenu | | lawla
+أَمَّا | quant à | conj | niv-b1 | freq-tres |  |  |  | amma
+مَطَر | pluie:f | noun, mas | niv-a1 | freq-tres | meteo |  |  |  |  | أَمْطَار

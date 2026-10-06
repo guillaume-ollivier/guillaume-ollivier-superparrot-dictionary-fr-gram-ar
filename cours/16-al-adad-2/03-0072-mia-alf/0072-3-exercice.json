@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0072-1",
+  "source": "source=AR§reference=0072-1",
+  "title": "lang=fr-FR§{Cent et mille}lang=ar-SA§{المئات والآلاف}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§cent dollars}",
+      "answer": "{?1§{مائة دولار|مئة دولار}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§mille nuits}",
+      "answer": "{?1§{ألف ليلة|الف ليلة}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§deux mille}",
+      "answer": "{?1§{ألفان|الفان}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§deux cents}",
+      "answer": "{?1§{مائتان|مئتان}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§trois mille}",
+      "answer": "{?1§{ثلاثة آلاف|ثلاثة الاف}}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

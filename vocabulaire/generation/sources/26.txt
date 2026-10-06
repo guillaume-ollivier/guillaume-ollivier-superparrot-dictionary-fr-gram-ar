@@ -1,0 +1,134 @@
+@ref 0113
+@chap 26
+@slug sighat-al-amr
+@niv niv-a2
+=== NOTE
+# Former l'impératif
+
+**1** On part de l'apocopé de la 2ᵉ personne et on retire le préfixe *تَـ* :
+
+> *تَكْتُبْ* → *كْتُبْ*
+
+**2** Un mot arabe ne commence pas par deux consonnes : on ajoute une voyelle d'appui, écrite avec un alif (_hamzat al-waṣl_) :
+- **_u_** si la voyelle du radical est _u_ : *اُكْتُبْ* _uktub_ (écris), *اُدْرُسْ* _udrus_ ;
+- **_i_** sinon : *اِجْلِسْ* _iǧlis_ (assieds-toi), *اِفْتَحْ* _iftaḥ_ (ouvre), *اِشْرَبْ* _išrab_ (bois).
+
+> *اِفْتَحِ البَابَ، مِنْ فَضْلِكَ.*
+> _iftaḥi l-bāba, min faḍlika._
+> Ouvre la porte, s'il te plaît.
+
+**3** Cet alif ne porte pas de _hamza_ : on tape *اكتب*, *اجلس*. Après un mot, il ne se prononce pas : *وَاكْتُبْ* _wa-ktub_.
+=== EXO
+title: L'impératif (à un homme) | الأمر
+wording: Donnez l'impératif masculin singulier | اكتب الأمر
+mode: transfo
+تكتب => اكتب
+تجلس => اجلس
+تفتح => افتح
+تشرب => اشرب
+تدرس => ادرس
+تخرج => اخرج
+تسمع => اسمع
+=== VOCA
+@ref 0114
+@chap 26
+@slug al-amr-lil-ashkhas
+@niv niv-a2
+=== NOTE
+# L'impératif aux différentes personnes
+
+| à qui | forme | translittération |
+| --- | --- | --- |
+| un homme | *اُكْتُبْ* | _uktub_ |
+| une femme | *اُكْتُبِي* | _uktubī_ |
+| des hommes | *اُكْتُبُوا* | _uktubū_ |
+| des femmes | *اُكْتُبْنَ* | _uktubna_ |
+| deux personnes | *اُكْتُبَا* | _uktubā_ |
+
+**1** Les terminaisons sont celles de l'apocopé, y compris l'**alif muet** de *اُكْتُبُوا*.
+
+> *اِجْلِسُوا وَافْتَحُوا الكُتُبَ.*
+> _iǧlisū wa-ftaḥū l-kutuba._
+> Asseyez-vous et ouvrez les livres.
+
+**2** Les consignes des manuels sont souvent au masculin singulier, parfois au pluriel.
+=== EXO
+title: L'impératif par personne | الأمر
+wording: Traduisez | ترجم
+mode: trad
+Écris ! (à une femme) => اكتبي!
+Asseyez-vous ! (à des hommes) => اجلسوا!
+Ouvrez les livres ! (à des hommes) => افتحوا الكتب!
+Bois ! (à une femme) => اشربي!
+Sortez ! (à des femmes) => اخرجن!
+Écoutez ! (à deux personnes) => اسمعا!
+=== VOCA
+@ref 0115
+@chap 26
+@slug amr-shadh
+@niv niv-b1
+=== NOTE
+# Impératifs particuliers
+
+**1** Trois verbes très courants perdent leur _ʾ_ initial :
+
+| verbe | impératif |
+| --- | --- |
+| *أَكَلَ* (manger) | *كُلْ* _kul_ (mange) |
+| *أَخَذَ* (prendre) | *خُذْ* _ḫuḏ_ (prends) |
+| *أَمَرَ* (ordonner) | *مُرْ* _mur_ |
+
+**2** Les verbes de forme IV (§28.3) ont un alif **avec** _hamza_ : *أَرْسِلْ* _ʾarsil_ (envoie), *أَغْلِقْ* _ʾaġliq_ (ferme).
+
+**3** Les verbes concaves raccourcissent leur voyelle : *قُلْ* _qul_ (dis), *نَمْ* _nam_ (dors) (§30.4).
+
+**4** *تَعَالَ* _taʿāla_ (viens ! — fém. *تَعَالَيْ*, plur. *تَعَالَوْا*) n'a que l'impératif.
+
+> *خُذْ هٰذَا وَكُلْ.*
+> _ḫuḏ hāḏā wa-kul._
+> Prends ceci et mange.
+=== EXO
+title: Impératifs particuliers | أمر خاص
+wording: Traduisez (à un homme) | ترجم
+mode: trad
+Mange ! => كل!
+Prends ! => خذ!
+Envoie la lettre ! => أرسل الرسالة!
+Ferme la porte ! => أغلق الباب!
+Dis ! => قل!
+Viens ! => تعال!
+=== VOCA
+أَخَذَ | prendre | verb, verb-trans | niv-a1 | freq-ultra | geste
+أَرْسَلَ | envoyer | verb, verb-trans, verb-derived | niv-a1 | freq-tres | communication
+أَغْلَقَ | fermer | verb, verb-trans, verb-derived | niv-a1 | freq-tres | geste
+تَعَالَ | viens | interj | niv-a1 | freq-tres | deplacement | | | | fr-FR§à un homme
+@ref 0116
+@chap 26
+@slug at-talab-al-muhadhdhab
+@niv niv-b1
+=== NOTE
+# Demander poliment
+
+**1** L'impératif seul peut sembler brusque. On l'adoucit :
+- avec *مِنْ فَضْلِكَ*, *لَوْ سَمَحْتَ* : *اِفْتَحِ النَّافِذَةَ مِنْ فَضْلِكَ* ;
+- par une question : *هَلْ يُمْكِنُ أَنْ تَفْتَحَ النَّافِذَةَ؟* (pourrais-tu ouvrir la fenêtre ?) ;
+- par *أَرْجُو* (j'espère, je prie) + *أَنْ* : *أَرْجُو أَنْ تَنْتَظِرَ قَلِيلًا* (attendez un peu, je vous prie).
+
+**2** Interdire poliment : *أَرْجُو أَلَّا تُدَخِّنَ* (merci de ne pas fumer) — *أَلَّا* = *أَنْ* + *لَا*.
+
+> *مَمْنُوعٌ التَّدْخِينُ.*
+> _mamnūʿuni t-tadḫīnu._
+> Interdit de fumer.
+=== EXO
+title: Demandes polies | الطلب المهذب
+wording: Traduisez | ترجم
+mode: trad
+Pourrais-tu ouvrir la fenêtre ? => هل يمكن أن تفتح النافذة؟
+Attendez un peu, je vous prie. => أرجو أن تنتظر قليلا.
+Interdit de fumer. => ممنوع التدخين.
+Ouvre la fenêtre, s'il te plaît. => افتح النافذة من فضلك. | افتح النافذة، من فضلك.
+=== VOCA
+نَافِذَة | fenêtre:f | noun, fem | niv-a1 | freq-tres | habitation |  |  |  |  | نَوَافِذ
+رَجَا | prier [demander] | verb, verb-trans | niv-b1 | freq-freq | volonte | reg-soutenu
+قَلِيل | peu nombreux | adj | niv-a1 | freq-tres | quantite
+مَمْنُوع | interdit | adj | niv-a1 | freq-freq | droit

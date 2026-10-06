@@ -1,0 +1,157 @@
+@ref 0131
+@chap 30
+@slug al-mithal
+@niv niv-b1
+=== NOTE
+# Les verbes assimilés (1ʳᵉ consonne _و_)
+
+**1** Une racine contenant _و_ ou _ي_ est dite **faible** : ces lettres se transforment ou disparaissent. Quand la **1ʳᵉ** consonne est _و_, elle **tombe à l'inaccompli** :
+
+| accompli | inaccompli | impératif |
+| --- | --- | --- |
+| *وَصَلَ* (arriver) | *يَصِلُ* | *صِلْ* |
+| *وَجَدَ* (trouver) | *يَجِدُ* | *جِدْ* |
+| *وَقَفَ* (s'arrêter) | *يَقِفُ* | *قِفْ* |
+| *وَضَعَ* (poser) | *يَضَعُ* | *ضَعْ* |
+
+**2** L'accompli est régulier : *وَصَلْتُ* (je suis arrivé).
+
+> *مَتَى يَصِلُ القِطَارُ؟*
+> _matā yaṣilu l-qiṭāru?_
+> Quand le train arrive-t-il ?
+
+> *ضَعِ الكِتَابَ عَلَى الطَّاوِلَةِ.*
+> _ḍaʿi l-kitāba ʿalā ṭ-ṭāwilati._
+> Pose le livre sur la table.
+=== EXO
+title: Verbes assimilés | المثال
+wording: Conjuguez à l'inaccompli (هو) | صرّف في المضارع
+mode: transfo
+وصل => يصل
+وجد => يجد
+وقف => يقف
+وضع => يضع
+ولد => يلد
+=== EXO
+title: Phrases | جمل
+wording: Traduisez | ترجم
+mode: trad
+Quand le train arrive-t-il ? => متى يصل القطار؟
+Pose le livre sur la table ! => ضع الكتاب على الطاولة!
+Je ne trouve pas la clé. => لا أجد المفتاح.
+=== VOCA
+وَجَدَ | trouver | verb, verb-trans | niv-a1 | freq-ultra | action
+وَقَفَ | s'arrêter | verb, verb-intrans | niv-a2 | freq-tres | geste
+وَضَعَ | poser; mettre | verb, verb-trans | niv-a2 | freq-tres | geste
+@ref 0132
+@chap 30
+@slug al-ajwaf-al-madi
+@niv niv-b1
+=== NOTE
+# Les verbes concaves : l'accompli
+
+**1** Quand la consonne **médiane** est _و_ ou _ي_, elle devient _ā_ à la 3ᵉ personne : *قَالَ* (dire, racine _q-w-l_), *بَاعَ* (vendre, _b-y-ʿ_), *نَامَ* (dormir, _n-w-m_).
+
+**2** Devant un suffixe consonantique (_-tu_, _-ta_, _-nā_…), le _ā_ devient voyelle **brève** :
+- _u_ pour les racines en _و_ : *قُلْتُ* (j'ai dit), *زُرْتُ* (j'ai visité) ;
+- _i_ pour les racines en _ي_, et pour *نَامَ*, *خَافَ* : *بِعْتُ* (j'ai vendu), *نِمْتُ* (j'ai dormi).
+
+| pronom | *قَالَ* | *بَاعَ* |
+| --- | --- | --- |
+| *أَنَا* | *قُلْتُ* | *بِعْتُ* |
+| *هُوَ* | *قَالَ* | *بَاعَ* |
+| *هِيَ* | *قَالَتْ* | *بَاعَتْ* |
+| *نَحْنُ* | *قُلْنَا* | *بِعْنَا* |
+| *هُمْ* | *قَالُوا* | *بَاعُوا* |
+
+> *زُرْنَا المَتْحَفَ أَمْسِ.*
+> _zurnā l-matḥafa ʾamsi._
+> Nous avons visité le musée hier.
+=== EXO
+title: Concaves à l'accompli | الأجوف في الماضي
+wording: Conjuguez à l'accompli | صرّف في الماضي
+mode: transfo
+أنا (قال) => قلت
+نحن (زار) => زرنا
+أنا (باع) => بعت
+هي (نام) => نامت
+أنا (نام) => نمت
+هم (قال) => قالوا
+=== VOCA
+بَاعَ | vendre | verb, verb-trans | niv-a2 | freq-tres | commerce
+نَامَ | dormir | verb, verb-intrans | niv-a1 | freq-tres | sommeil
+زَارَ | visiter; rendre visite | verb, verb-trans | niv-a1 | freq-tres | voyage
+مَتْحَف | musée:m | noun, mas | niv-a1 | freq-freq | art, batiment |  |  |  |  | مَتَاحِف
+@ref 0133
+@chap 30
+@slug al-ajwaf-al-mudari
+@niv niv-b1
+=== NOTE
+# Les verbes concaves : l'inaccompli
+
+**1** À l'inaccompli, la voyelle longue réapparaît, selon le type :
+
+| type | accompli | inaccompli |
+| --- | --- | --- |
+| _w_ → _ū_ | *قَالَ* | *يَقُولُ* _yaqūlu_ |
+| _y_ → _ī_ | *بَاعَ* | *يَبِيعُ* _yabīʿu_ |
+| _ā_ | *نَامَ* | *يَنَامُ* _yanāmu_ |
+
+**2** Autres : *زَارَ يَزُورُ* (visiter), *عَادَ يَعُودُ* (revenir), *طَارَ يَطِيرُ* (voler), *خَافَ يَخَافُ* (avoir peur), *كَانَ يَكُونُ*.
+
+> *مَاذَا تَقُولُ؟*
+> _māḏā taqūlu?_
+> Que dis-tu ?
+
+> *أَعُودُ إِلَى البَيْتِ فِي المَسَاءِ.*
+> _ʾaʿūdu ʾilā l-bayti fī l-masāʾi._
+> Je rentre à la maison le soir.
+=== EXO
+title: Concaves à l'inaccompli | الأجوف في المضارع
+wording: Conjuguez à l'inaccompli | صرّف في المضارع
+mode: transfo
+هو (قال) => يقول
+أنا (عاد) => أعود
+هي (باع) => تبيع
+نحن (نام) => ننام
+هم (زار) => يزورون
+هو (طار) => يطير
+=== VOCA
+عَادَ ; رَجَعَ | revenir; rentrer | verb, verb-intrans | niv-a2 | freq-tres | deplacement
+طَارَ | voler [dans les airs] | verb, verb-intrans | niv-b1 | freq-freq | deplacement
+@ref 0134
+@chap 30
+@slug al-ajwaf-al-majzum
+@niv niv-b1
+=== NOTE
+# Concaves : apocopé et impératif
+
+**1** Quand la dernière consonne prend le _sukūn_, la voyelle longue se **raccourcit** (une syllabe ne peut pas être longue et fermée) :
+
+| inaccompli | apocopé | impératif |
+| --- | --- | --- |
+| *يَقُولُ* | *لَمْ يَقُلْ* | *قُلْ* (dis) |
+| *يَبِيعُ* | *لَمْ يَبِعْ* | *بِعْ* (vends) |
+| *يَنَامُ* | *لَمْ يَنَمْ* | *نَمْ* (dors) |
+| *يَكُونُ* | *لَمْ يَكُنْ* | *كُنْ* (sois) |
+
+**2** Devant une terminaison vocalique, la longue revient : *قُولِي* (dis, à une femme), *قُولُوا*, *لَمْ يَقُولُوا*.
+
+> *لَمْ يَكُنْ فِي البَيْتِ.*
+> _lam yakun fī l-bayti._
+> Il n'était pas à la maison.
+
+> *لَا تَخَفْ.*
+> _lā taḫaf._
+> N'aie pas peur.
+=== EXO
+title: Concaves raccourcis | الأجوف المجزوم
+wording: Traduisez | ترجم
+mode: trad
+Dis ! (à un homme) => قل!
+Dis ! (à une femme) => قولي!
+Il n'a pas dit. => لم يقل.
+Il n'était pas à la maison. => لم يكن في البيت.
+Dors ! (à un homme) => نم!
+Ils n'ont pas vendu la maison. => لم يبيعوا البيت.
+=== VOCA

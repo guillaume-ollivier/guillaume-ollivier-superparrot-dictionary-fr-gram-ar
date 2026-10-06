@@ -1,0 +1,129 @@
+@ref 0098
+@chap 22
+@slug inna
+@niv niv-b1
+=== NOTE
+# _ʾInna_ : « certes »
+
+**1** *إِنَّ* _ʾinna_ ouvre une phrase nominale pour l'affirmer avec force (« certes, vraiment »). Son **sujet passe à l'accusatif**, l'attribut reste au nominatif — l'inverse de *كَانَ* :
+
+| sans *إِنَّ* | avec *إِنَّ* |
+| --- | --- |
+| *البَيْتُ كَبِيرٌ* | *إِنَّ البَيْتَ كَبِيرٌ* |
+| *اللُّغَةُ صَعْبَةٌ* | *إِنَّ اللُّغَةَ صَعْبَةٌ* |
+
+> *إِنَّ اللّٰهَ غَفُورٌ رَحِيمٌ.*
+> _ʾinna llāha ġafūrun raḥīmun._
+> Certes, Dieu est pardonneur et miséricordieux.
+
+**2** Dans la presse, *إِنَّ* n'a souvent plus de valeur d'insistance : il introduit simplement la phrase, surtout après *قَالَ* (§22.2).
+
+**3** Un sujet indéfini suit l'attribut prépositionnel : *إِنَّ فِي البَيْتِ رَجُلًا* (il y a un homme dans la maison).
+=== EXO
+title: Introduire par inna | إن
+wording: Ajoutez إن au début (sans voyelles) | أدخل إن
+mode: transfo
+البيت كبير. => إن البيت كبير.
+اللغة صعبة. => إن اللغة صعبة.
+الطالب مجتهد. => إن الطالب مجتهد.
+في البيت رجل. => إن في البيت رجلا.
+=== VOCA
+إِنَّ | certes | particle | niv-b1 | freq-ultra | | | | inna
+صَعْب | difficile | adj | niv-a1 | freq-tres | qualite
+مُجْتَهِد | studieux; assidu | adj | niv-a2 | freq-freq | caractere
+@ref 0099
+@chap 22
+@slug anna
+@niv niv-b1
+=== NOTE
+# _ʾAnna_ : « que »
+
+**1** *أَنَّ* _ʾanna_ = « que » introduisant une phrase complétive (« je sais que… »). Même construction : sujet à l'**accusatif**.
+
+> *أَعْرِفُ أَنَّ الامْتِحَانَ صَعْبٌ.*
+> _ʾaʿrifu ʾanna l-imtiḥāna ṣaʿbun._
+> Je sais que l'examen est difficile.
+
+**2** Après *قَالَ* (dire), on emploie *إِنَّ* et non *أَنَّ* :
+
+> *قَالَ إِنَّ الطَّقْسَ جَمِيلٌ.*
+> _qāla ʾinna ṭ-ṭaqsa ǧamīlun._
+> Il a dit qu'il faisait beau.
+
+**3** Ne confondez pas *أَنَّ* (+ nom) et *أَنْ* (+ verbe au subjonctif) (§24.2).
+=== EXO
+title: Anna, que | أن
+wording: Traduisez | ترجم
+mode: trad
+Je sais que l'examen est difficile. => أعرف أن الامتحان صعب.
+Il a dit que la ville était belle. => قال إن المدينة جميلة.
+Je sais que la maison est grande. => أعرف أن البيت كبير.
+=== VOCA
+أَنَّ | que [conjonction] | conj | niv-b1 | freq-ultra | | | | anna | fr-FR§devant un nom ou un pronom
+قَالَ | dire | verb, verb-trans | niv-a1 | freq-ultra | parole
+طَقْس ; جَوّ [طَقْس] | temps [météo]:m | noun, mas | niv-a1 | freq-tres | meteo
+@ref 0100
+@chap 22
+@slug lakinna-laalla
+@niv niv-b1
+=== NOTE
+# Les autres sœurs de _ʾinna_
+
+**1** Même construction (sujet à l'accusatif) :
+
+| particule | sens | exemple |
+| --- | --- | --- |
+| *لٰكِنَّ* _lākinna_ | mais | *البَيْتُ قَدِيمٌ لٰكِنَّ الحَدِيقَةَ جَمِيلَةٌ* |
+| *لَعَلَّ* _laʿalla_ | peut-être, il se peut que | *لَعَلَّ المُدِيرَ مَشْغُولٌ* |
+| *كَأَنَّ* _kaʾanna_ | comme si | *كَأَنَّ الأَرْضَ بَحْرٌ* |
+| *لَيْتَ* _layta_ | si seulement | *لَيْتَ الشَّبَابَ يَعُودُ* |
+
+**2** *لٰكِنْ* _lākin_ (sans _šadda_) se construit sans changement de cas : *لٰكِنِ الحَدِيقَةُ جَمِيلَةٌ*. Sans voyelles, les deux s'écrivent *لكن* (le premier alif n'est jamais écrit).
+
+> *لَيْتَ الشَّبَابَ يَعُودُ يَوْمًا.*
+> _layta š-šabāba yaʿūdu yawman._
+> Si seulement la jeunesse revenait un jour. (vers célèbre)
+=== EXO
+title: Les sœurs de inna | أخوات إن
+wording: Traduisez | ترجم
+mode: trad
+Peut-être que le directeur est occupé. => لعل المدير مشغول.
+La maison est vieille mais le jardin est beau. => البيت قديم لكن الحديقة جميلة.
+Si seulement le temps était beau ! => ليت الجو جميل!
+=== VOCA
+لٰكِنَّ | mais | conj | niv-a2 | freq-ultra |  |  |  | lakinna
+لَعَلَّ | peut-être::adv | particle | niv-b1 | freq-freq | pensee
+لَيْتَ | si seulement::locution, adv | particle | niv-b2 | freq-peu | volonte | reg-soutenu
+مَشْغُول | occupé | adj | niv-a1 | freq-tres | etat
+@ref 0101
+@chap 22
+@slug inna-mal-damair
+@niv niv-b1
+=== NOTE
+# _ʾInna_ et ses sœurs avec un pronom
+
+**1** Le sujet peut être un **pronom suffixe** :
+
+| forme | sens |
+| --- | --- |
+| *إِنَّنِي* / *إِنِّي* | certes je |
+| *إِنَّهُ* | certes il |
+| *أَنَّكَ* | que tu |
+| *لٰكِنَّهَا* | mais elle |
+| *لِأَنَّهُ* | parce qu'il |
+
+> *أَعْرِفُ أَنَّكَ مَشْغُولٌ.*
+> _ʾaʿrifu ʾannaka mašġūlun._
+> Je sais que tu es occupé.
+
+**2** Devant un verbe, on insère le pronom « de la situation » *ـهُ* : *إِنَّهُ يَعْمَلُ* (il travaille, certes) ; *لِأَنَّهُ لَمْ يَأْتِ* (parce qu'il n'est pas venu).
+=== EXO
+title: Inna + pronom | إن والضمير
+wording: Traduisez | ترجم
+mode: trad
+Je sais que tu es occupé. => أعرف أنك مشغول.
+parce qu'il est malade => لأنه مريض
+Elle est belle mais elle est fatiguée. => هي جميلة لكنها متعبة.
+Il a dit qu'il était fatigué. => قال إنه متعب.
+=== VOCA
+مَرِيض | malade | adj | niv-a1 | freq-tres | sante

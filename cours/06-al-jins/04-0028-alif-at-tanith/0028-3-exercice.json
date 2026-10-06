@@ -1,0 +1,71 @@
+{
+  "topic_ref": "0028-1",
+  "source": "source=AR§reference=0028-1",
+  "title": "lang=fr-FR§{Masculin ou féminin ?}lang=ar-SA§{مذكر أم مؤنث؟}",
+  "wording": "lang=fr-FR§{Écrivez « مذكر » (masculin) ou « مؤنث » (féminin)}lang=ar-SA§{مذكر أم مؤنث؟}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§صحراء}",
+      "answer": "{?1§مؤنث}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§خليفة}",
+      "answer": "{?1§مذكر}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§ذكرى}",
+      "answer": "{?1§مؤنث}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§شمس}",
+      "answer": "{?1§مؤنث}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§كتاب}",
+      "answer": "{?1§مذكر}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§سيارة}",
+      "answer": "{?1§مؤنث}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "7",
+      "question": "{?1§يد}",
+      "answer": "{?1§مؤنث}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "8",
+      "question": "{?1§بيت}",
+      "answer": "{?1§مذكر}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

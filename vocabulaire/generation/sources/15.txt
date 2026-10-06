@@ -1,0 +1,147 @@
+@ref 0066
+@chap 15
+@slug al-adad-1-10
+@niv niv-a1
+=== NOTE
+# Compter de 0 à 10
+
+| chiffre | nombre | translittération |
+| --- | --- | --- |
+| ٠ | *صِفْر* | _ṣifr_ |
+| ١ | *وَاحِد* | _wāḥid_ |
+| ٢ | *اِثْنَان* | _iṯnān_ |
+| ٣ | *ثَلَاثَة* | _ṯalāṯa_ |
+| ٤ | *أَرْبَعَة* | _ʾarbaʿa_ |
+| ٥ | *خَمْسَة* | _ḫamsa_ |
+| ٦ | *سِتَّة* | _sitta_ |
+| ٧ | *سَبْعَة* | _sabʿa_ |
+| ٨ | *ثَمَانِيَة* | _ṯamāniya_ |
+| ٩ | *تِسْعَة* | _tisʿa_ |
+| ١٠ | *عَشَرَة* | _ʿašara_ |
+
+**1** Ce sont les formes employées pour **compter** (un, deux, trois…) et pour les numéros.
+
+**2** Le mot *صِفْر* a donné « chiffre » et « zéro » en français, par l'italien et le latin médiéval.
+
+> *رَقْمُ البَيْتِ سَبْعَةٌ.*
+> _raqmu l-bayti sabʿatun._
+> Le numéro de la maison est sept.
+=== EXO
+title: Les nombres de 0 à 10 | الأعداد
+wording: Écrivez le nombre en lettres | اكتب العدد
+mode: transfo
+١ => واحد
+٢ => اثنان
+٣ => ثلاثة
+٤ => أربعة
+٥ => خمسة
+٦ => ستة
+٧ => سبعة
+٨ => ثمانية
+٩ => تسعة
+١٠ => عشرة
+٠ => صفر
+=== VOCA
+صِفْر | zéro:m | num | niv-a1 | freq-freq | nombre
+وَاحِد | un [nombre] | num | niv-a1 | freq-ultra | nombre
+اِثْنَان | deux | num | niv-a1 | freq-ultra | nombre
+ثَلَاثَة | trois | num | niv-a1 | freq-tres | nombre
+أَرْبَعَة | quatre | num | niv-a1 | freq-tres | nombre
+خَمْسَة | cinq | num | niv-a1 | freq-tres | nombre
+سِتَّة | six | num | niv-a1 | freq-tres | nombre
+سَبْعَة | sept | num | niv-a1 | freq-tres | nombre
+ثَمَانِيَة | huit | num | niv-a1 | freq-tres | nombre
+تِسْعَة | neuf [nombre] | num | niv-a1 | freq-tres | nombre
+عَشَرَة | dix | num | niv-a1 | freq-tres | nombre
+رَقْم | numéro:m; chiffre:m | noun, mas | niv-a1 | freq-tres | nombre |  |  |  |  | أَرْقَام
+@ref 0067
+@chap 15
+@slug wahid-ithnan
+@niv niv-a1
+=== NOTE
+# « Un » et « deux » avec un nom
+
+**1** Le singulier indéfini veut déjà dire « un » ; *وَاحِد* se place **après** le nom, comme un adjectif, pour insister :
+
+> *عِنْدِي سُؤَالٌ وَاحِدٌ.*
+> _ʿindī suʾālun wāḥidun._
+> J'ai une seule question.
+
+Féminin : *وَاحِدَة* — *سَيَّارَةٌ وَاحِدَةٌ*.
+
+**2** Le duel veut déjà dire « deux » (§7.1). *اِثْنَانِ* (masc.) / *اِثْنَتَانِ* (fém.) se placent après, pour insister : *كِتَابَانِ اثْنَانِ* (deux livres, pas trois).
+
+**3** Seuls, pour compter des choses connues : *كَمْ أُخْتًا لَكِ؟ — اِثْنَتَانِ.* (Combien de sœurs as-tu ? — Deux.)
+=== EXO
+title: Un et deux | واحد واثنان
+wording: Traduisez | ترجم
+mode: trad
+une seule question => سؤال واحد
+une seule voiture => سيارة واحدة
+deux livres => كتابان
+deux voitures => سيارتان
+deux jours => يومان
+=== VOCA
+@ref 0068
+@chap 15
+@slug 3-10
+@niv niv-a2
+=== NOTE
+# De 3 à 10 : la règle de polarité
+
+**1** De 3 à 10, le nombre se place **avant** le nom, qui est au **pluriel** et au **génitif** (annexion).
+
+**2** Le nombre prend le genre **inverse** de celui du nom (au singulier) :
+
+| nom (singulier) | nombre | exemple |
+| --- | --- | --- |
+| masculin : *كِتَاب* | avec _ة_ | *ثَلَاثَةُ كُتُبٍ* (trois livres) |
+| féminin : *سَيَّارَة* | sans _ة_ | *ثَلَاثُ سَيَّارَاتٍ* (trois voitures) |
+
+**3** Formes sans _ة_ : *ثَلَاث، أَرْبَع، خَمْس، سِتّ، سَبْع، ثَمَانٍ، تِسْع، عَشْر*. *ثَمَانٍ* devient *ثَمَانِي* en annexion : *ثَمَانِي سَاعَاتٍ*.
+
+> *عِنْدِي خَمْسَةُ أَوْلَادٍ وَثَلَاثُ بَنَاتٍ.*
+> _ʿindī ḫamsatu ʾawlādin wa-ṯalāṯu banātin._
+> J'ai cinq garçons et trois filles.
+
+**4** C'est le genre du **singulier** qui compte : *بِنْت* est féminin → *ثَلَاثُ بَنَاتٍ*.
+=== EXO
+title: Nombre et nom | العدد والمعدود
+wording: Traduisez | ترجم
+mode: trad
+trois livres => ثلاثة كتب
+trois voitures => ثلاث سيارات
+cinq garçons => خمسة أولاد
+quatre filles => أربع بنات
+sept jours => سبعة أيام
+dix étudiantes => عشر طالبات
+six hommes => ستة رجال
+=== VOCA
+@ref 0069
+@chap 15
+@slug al-arqam
+@niv niv-a1
+=== NOTE
+# Les chiffres
+
+**1** Au Proche-Orient, on écrit avec les chiffres dits « indiens » : *٠ ١ ٢ ٣ ٤ ٥ ٦ ٧ ٨ ٩*. Au Maghreb, on emploie les chiffres dits « arabes » de l'Europe, *0 1 2 3…* — qui viennent en effet du Maghreb.
+
+**2** Les nombres s'écrivent **de gauche à droite**, même au milieu d'un texte écrit de droite à gauche : *١٩٨٥* = 1985.
+
+> *وُلِدْتُ سَنَةَ ١٩٩٠.*
+> _wulidtu sanata ʾalfin wa-tisʿimiʾatin wa-tisʿīna._
+> Je suis né en 1990.
+
+**3** Ne confondez pas *٥* (5) avec un zéro, ni *٦* (6) avec un 7 : *٠* (0) n'est qu'un point.
+=== EXO
+title: Lire les chiffres | الأرقام
+wording: Écrivez le nombre en lettres | اكتب العدد
+mode: transfo
+٧ => سبعة
+٤ => أربعة
+٥ => خمسة
+٩ => تسعة
+٦ => ستة
+٨ => ثمانية
+=== VOCA
+سَنَة | année:f; an:m | noun, fem | niv-a1 | freq-ultra | calendrier, duree | | | | | سَنَوَات

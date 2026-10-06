@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0152-1",
+  "source": "source=AR§reference=0152-1",
+  "title": "lang=fr-FR§{Le pronom de rappel}lang=ar-SA§{العائد}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§le livre que j'ai lu}",
+      "answer": "{?1§{الكتاب الذي قرأته|الكتاب الذي قراته}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§la maison où j'habite}",
+      "answer": "{?1§{البيت الذي أسكن فيه|البيت الذي اسكن فيه}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§l'ami avec qui j'ai voyagé}",
+      "answer": "{?1§الصديق الذي سافرت معه}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§la ville que j'ai visitée}",
+      "answer": "{?1§المدينة التي زرتها}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§la femme dont j'ai vu la fille}",
+      "answer": "{?1§{المرأة التي رأيت بنتها|المراة التي رايت بنتها}}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

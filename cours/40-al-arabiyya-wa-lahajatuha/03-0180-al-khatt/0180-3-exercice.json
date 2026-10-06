@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0180-1",
+  "source": "source=AR§reference=0180-1",
+  "title": "lang=fr-FR§{Déchiffrer l'arabizi}lang=ar-SA§{العربيزي}",
+  "wording": "lang=fr-FR§{Écrivez en caractères arabes}lang=ar-SA§{اكتب بالحروف العربية}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§mar7aba}",
+      "answer": "{?1§مرحبا}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§7abibi}",
+      "answer": "{?1§حبيبي}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§3arabi}",
+      "answer": "{?1§عربي}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§sa7}",
+      "answer": "{?1§صح}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§5alas}",
+      "answer": "{?1§خلاص}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

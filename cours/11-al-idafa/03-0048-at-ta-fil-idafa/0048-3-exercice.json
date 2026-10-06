@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0048-1",
+  "source": "source=AR§reference=0048-1",
+  "title": "lang=fr-FR§{Annexion au féminin}lang=ar-SA§{الإضافة}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§la ville de Beyrouth}",
+      "answer": "{?1§مدينة بيروت}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§la voiture de mon père}",
+      "answer": "{?1§{سيارة أبي|سيارة ابي}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§le centre-ville}",
+      "answer": "{?1§وسط المدينة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§la chambre de la fille}",
+      "answer": "{?1§غرفة البنت}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§la table de la cuisine}",
+      "answer": "{?1§طاولة المطبخ}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0110-1",
+  "source": "source=AR§reference=0110-1",
+  "title": "lang=fr-FR§{Interdire}lang=ar-SA§{النهي}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§N'écris pas ! (à un homme)}",
+      "answer": "{?1§لا تكتب}{type=affix§!}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Ne pars pas ! (à une femme)}",
+      "answer": "{?1§لا تذهبي}{type=affix§!}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Ne sortez pas ! (à des hommes)}",
+      "answer": "{?1§لا تخرجوا}{type=affix§!}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§Ne bois pas le café ! (à un homme)}",
+      "answer": "{?1§لا تشرب القهوة}{type=affix§!}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§N'oublie pas ! (à une femme)}",
+      "answer": "{?1§لا تنسي}{type=affix§!}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

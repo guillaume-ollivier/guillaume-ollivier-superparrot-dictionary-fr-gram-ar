@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0067-1",
+  "source": "source=AR§reference=0067-1",
+  "title": "lang=fr-FR§{Un et deux}lang=ar-SA§{واحد واثنان}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§une seule question}",
+      "answer": "{?1§سؤال واحد}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§une seule voiture}",
+      "answer": "{?1§سيارة واحدة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§deux livres}",
+      "answer": "{?1§كتابان}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§deux voitures}",
+      "answer": "{?1§سيارتان}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§deux jours}",
+      "answer": "{?1§يومان}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0057-1",
+  "source": "source=AR§reference=0057-1",
+  "title": "lang=fr-FR§{Bi-, li-, maʿa, ʿan}lang=ar-SA§{حروف الجر}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§en voiture}",
+      "answer": "{?1§بالسيارة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§pour l'étudiant}",
+      "answer": "{?1§للطالب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§avec mon ami}",
+      "answer": "{?1§مع صديقي}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§au sujet de la leçon}",
+      "answer": "{?1§عن الدرس}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§Ce cadeau est pour l'institutrice}{type=affix§.}",
+      "answer": "{?1§هذه الهدية للمعلمة}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§pour mon frère}",
+      "answer": "{?1§{لأخي|لاخي}}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

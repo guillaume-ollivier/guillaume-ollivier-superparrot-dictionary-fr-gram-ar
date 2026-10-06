@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0154-1",
+  "source": "source=AR§reference=0154-1",
+  "title": "lang=fr-FR§{Former le comparatif}lang=ar-SA§{اسم التفضيل}",
+  "wording": "lang=fr-FR§{Donnez le comparatif}lang=ar-SA§{اكتب اسم التفضيل}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§كبير}",
+      "answer": "{?1§{أكبر|اكبر}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§صغير}",
+      "answer": "{?1§{أصغر|اصغر}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§جميل}",
+      "answer": "{?1§{أجمل|اجمل}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§قريب}",
+      "answer": "{?1§{أقرب|اقرب}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§سهل}",
+      "answer": "{?1§{أسهل|اسهل}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§بعيد}",
+      "answer": "{?1§{أبعد|ابعد}}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

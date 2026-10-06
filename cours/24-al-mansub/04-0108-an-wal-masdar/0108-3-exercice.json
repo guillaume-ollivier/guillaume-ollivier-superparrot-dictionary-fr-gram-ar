@@ -1,0 +1,43 @@
+{
+  "topic_ref": "0108-1",
+  "source": "source=AR§reference=0108-1",
+  "title": "lang=fr-FR§{Avant, après}lang=ar-SA§{قبل أن، بعد أن}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§avant de sortir (nous)}",
+      "answer": "{?1§{قبل أن نخرج|قبل ان نخرج}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§après qu'il est sorti}",
+      "answer": "{?1§{بعد أن خرج|بعد ان خرج}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Je veux voyager. (nom verbal)}",
+      "answer": "{?1§{أريد السفر|اريد السفر}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§avant son départ}",
+      "answer": "{?1§{قبل خروجه|قبل سفره}}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

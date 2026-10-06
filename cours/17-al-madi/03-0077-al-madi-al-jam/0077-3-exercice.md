@@ -1,0 +1,55 @@
+# Exercice
+
+## Description
+| attribute   | section | index | lang  | value                  |
+| ----------- | ------- | ----- | ----- | ---------------------- |
+| ref         |         |       |       | 0077-1                 |
+| title       |         |       | fr-FR | L'accompli au pluriel  |
+|             |         |       | ar-SA | الماضي الجمع           |
+| wording     |         |       | fr-FR | Conjuguez à l'accompli |
+|             |         |       | ar-SA | صرّف في الماضي         |
+| categories* |         |       |       | niv-a1                 |
+| tags*       |         |       |       |                        |
+
+## Items
+### Common
+| attribute | section | index | lang  |
+| --------- | ------- | ----- | ----- |
+| question  | 1       |       | ar-SA |
+| answer    | 1       |       | ar-SA |
+
+### 1
+| attribute | section | index | lang | value          |
+| --------- | ------- | ----- | ---- | -------------- |
+| question  |         |       |      | {?1§نحن (كتب)} |
+| answer    |         |       |      | {?1§كتبنا}     |
+
+### 2
+| attribute | section | index | lang | value         |
+| --------- | ------- | ----- | ---- | ------------- |
+| question  |         |       |      | {?1§هم (ذهب)} |
+| answer    |         |       |      | {?1§ذهبوا}    |
+
+### 3
+| attribute | section | index | lang | value           |
+| --------- | ------- | ----- | ---- | --------------- |
+| question  |         |       |      | {?1§أنتم (شرب)} |
+| answer    |         |       |      | {?1§شربتم}      |
+
+### 4
+| attribute | section | index | lang | value         |
+| --------- | ------- | ----- | ---- | ------------- |
+| question  |         |       |      | {?1§هن (درس)} |
+| answer    |         |       |      | {?1§درسن}     |
+
+### 5
+| attribute | section | index | lang | value          |
+| --------- | ------- | ----- | ---- | -------------- |
+| question  |         |       |      | {?1§نحن (خرج)} |
+| answer    |         |       |      | {?1§خرجنا}     |
+
+### 6
+| attribute | section | index | lang | value         |
+| --------- | ------- | ----- | ---- | ------------- |
+| question  |         |       |      | {?1§هم (جلس)} |
+| answer    |         |       |      | {?1§جلسوا}    |

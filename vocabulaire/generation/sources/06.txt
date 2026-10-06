@@ -1,0 +1,174 @@
+@ref 0025
+@chap 06
+@slug ta-at-tanith
+@niv niv-a1
+=== NOTE
+# Le féminin en _-a_ (_ة_)
+
+**1** Deux genres seulement : masculin et féminin. Le masculin n'a pas de marque ; le féminin se forme le plus souvent en ajoutant **_tāʾ marbūṭa_** _ة_ (§2.5) :
+
+| masculin | féminin |
+| --- | --- |
+| *طَالِبٌ* _ṭālibun_ (étudiant) | *طَالِبَةٌ* _ṭālibatun_ (étudiante) |
+| *كَبِيرٌ* _kabīrun_ (grand) | *كَبِيرَةٌ* _kabīratun_ (grande) |
+| *جَدِيدٌ* _ǧadīdun_ (neuf) | *جَدِيدَةٌ* _ǧadīdatun_ (neuve) |
+
+**2** Un nom en _ة_ est féminin, même s'il désigne une chose : *سَيَّارَةٌ* (voiture), *مَدِينَةٌ* (ville), *غُرْفَةٌ* (chambre).
+
+**3** L'adjectif s'accorde en genre avec le nom :
+
+> *الغُرْفَةُ صَغِيرَةٌ.*
+> _al-ġurfatu ṣaġīratun._
+> La chambre est petite.
+=== EXO
+title: Mettre au féminin | التأنيث
+wording: Donnez le féminin | اكتب المؤنث
+mode: transfo
+طالب => طالبة
+كبير => كبيرة
+جديد => جديدة
+صغير => صغيرة
+جميل => جميلة
+مهندس => مهندسة
+=== EXO
+title: Accorder l'adjectif | المطابقة
+wording: Traduisez | ترجم
+mode: trad
+La chambre est petite. => الغرفة صغيرة.
+La voiture est neuve. => السيارة جديدة.
+La ville est belle. => المدينة جميلة.
+Le marché est grand. => السوق كبير. | السوق كبيرة.
+=== VOCA
+غُرْفَة | pièce [maison]:f; chambre [maison]:f | noun, fem | niv-a1 | freq-tres | piece | | | | | غُرَف
+@ref 0026
+@chap 06
+@slug al-muannath-min-al-ashkhas
+@niv niv-a1
+=== NOTE
+# Le féminin des noms de personnes
+
+**1** Les noms de métier et de fonction forment régulièrement leur féminin en _ة_ :
+
+| masculin | féminin |
+| --- | --- |
+| *مُعَلِّمٌ* _muʿallimun_ (instituteur) | *مُعَلِّمَةٌ* _muʿallimatun_ |
+| *طَبِيبٌ* _ṭabībun_ (médecin) | *طَبِيبَةٌ* _ṭabībatun_ |
+| *صَدِيقٌ* _ṣadīqun_ (ami) | *صَدِيقَةٌ* _ṣadīqatun_ (amie) |
+
+**2** Les noms de parenté ont souvent deux mots différents :
+
+| masculin | féminin |
+| --- | --- |
+| *أَبٌ* _ʾabun_ (père) | *أُمٌّ* _ʾummun_ (mère) |
+| *أَخٌ* _ʾaḫun_ (frère) | *أُخْتٌ* _ʾuḫtun_ (sœur) |
+| *رَجُلٌ* _raǧulun_ (homme) | *اِمْرَأَةٌ* _imraʾatun_ (femme) |
+| *وَلَدٌ* _waladun_ (garçon) | *بِنْتٌ* _bintun_ (fille) |
+
+> *أُخْتِي طَبِيبَةٌ.*
+> _ʾuḫtī ṭabībatun._
+> Ma sœur est médecin.
+
+**3** *اِمْرَأَة* devient *المَرْأَة* _al-marʾa_ avec l'article.
+=== EXO
+title: Féminin des personnes | المؤنث
+wording: Donnez le féminin | اكتب المؤنث
+mode: transfo
+معلم => معلمة
+طبيب => طبيبة
+صديق => صديقة
+أب => أم
+أخ => أخت
+رجل => امرأة
+ولد => بنت
+=== VOCA
+مُعَلِّم | instituteur:m; maître d'école:m | noun, mas | niv-a1 | freq-tres | metier, ecole | | | | | مُعَلِّمُون
+صَدِيق | ami:m | noun, mas | niv-a1 | freq-ultra | relation |  |  |  |  | أَصْدِقَاء
+أُخْت | sœur:f | noun, fem | niv-a1 | freq-ultra | famille |  |  |  |  | أَخَوَات
+اِمْرَأَة | femme [adulte]:f | noun, fem | niv-a1 | freq-tres | personne | | | | | نِسَاء
+@ref 0027
+@chap 06
+@slug muannath-bila-alama
+@niv niv-a2
+=== NOTE
+# Les féminins sans marque
+
+**1** Certains noms sont féminins **sans** _ة_. Il faut les apprendre :
+
+| nom | sens |
+| --- | --- |
+| *شَمْسٌ* _šamsun_ | soleil |
+| *أَرْضٌ* _ʾarḍun_ | terre |
+| *نَارٌ* _nārun_ | feu |
+| *حَرْبٌ* _ḥarbun_ | guerre |
+| *رِيحٌ* _rīḥun_ | vent |
+| *نَفْسٌ* _nafsun_ | âme, soi |
+
+**2** Les **parties du corps qui vont par paires** sont féminines : *يَدٌ* (main), *عَيْنٌ* (œil), *أُذُنٌ* (oreille), *رِجْلٌ* (jambe, pied).
+
+**3** Les noms de **pays et de villes** sont féminins :
+
+> *مِصْرُ كَبِيرَةٌ وَتُونِسُ صَغِيرَةٌ.*
+> _miṣru kabīratun wa-tūnisu ṣaġīratun._
+> L'Égypte est grande et la Tunisie est petite.
+
+**4** Quelques noms acceptent les deux genres : *سُوقٌ* (marché), *طَرِيقٌ* (chemin).
+=== EXO
+title: Genre caché | المؤنث المعنوي
+wording: Traduisez | ترجم
+mode: trad
+La terre est grande. => الأرض كبيرة.
+Le soleil est beau. => الشمس جميلة.
+La main est petite. => اليد صغيرة.
+L'œil est beau. => العين جميلة.
+Le feu est grand. => النار كبيرة.
+La Tunisie est belle. => تونس جميلة.
+=== VOCA
+أَرْض | terre:f; sol:m | noun, fem | niv-a1 | freq-tres | geographie | | | | | أَرَاضٍ:terres
+نَار | feu [flamme]:m | noun, fem | niv-a2 | freq-freq | nature
+حَرْب | guerre:f | noun, fem | niv-a2 | freq-tres | institution |  |  |  |  | حُرُوب
+رِيح | vent:m | noun, fem | niv-a2 | freq-freq | meteo |  |  |  |  | رِيَاح
+يَد | main:f | noun, fem | niv-a1 | freq-tres | corps | | | | | أَيْدٍ
+عَيْن | œil:m | noun, fem | niv-a1 | freq-tres | corps | | لِلنَّظَر | | | عُيُون:yeux
+أُذُن | oreille:f | noun, fem | niv-a1 | freq-freq | corps |  |  |  |  | آذَان
+رِجْل | jambe:f | noun, fem | niv-a1 | freq-freq | corps | | | | | أَرْجُل
+تُونِس | Tunisie:f | noun, noun-pro | niv-a1 | freq-freq | geographie
+طَرِيق | chemin:m; route:f | noun, mas | niv-a1 | freq-tres | transport |  |  |  |  | طُرُق
+@ref 0028
+@chap 06
+@slug alif-at-tanith
+@niv niv-b1
+=== NOTE
+# Les féminins en *-āʾ* et *-ā*, et les masculins en _ة_
+
+**1** Deux autres terminaisons marquent le féminin :
+
+| terminaison | exemple |
+| --- | --- |
+| *ـَاء* _-āʾ_ | *صَحْرَاءُ* _ṣaḥrāʾu_ (désert), *حَمْرَاءُ* _ḥamrāʾu_ (rouge, fém.) (§9.4) |
+| *ـَى* _-ā_ | *ذِكْرَى* _ḏikrā_ (souvenir), *كُبْرَى* _kubrā_ (la plus grande) (§35.4) |
+
+> *الصَّحْرَاءُ كَبِيرَةٌ.*
+> _aṣ-ṣaḥrāʾu kabīratun._
+> Le désert est grand.
+
+**2** Inversement, quelques noms en _ة_ désignent des hommes et restent masculins : *خَلِيفَةٌ* (calife), *رَحَّالَةٌ* (grand voyageur), *عَلَّامَةٌ* (grand savant).
+
+**3** Le genre grammatical se vérifie dans le dictionnaire quand la forme ne suffit pas.
+=== EXO
+title: Masculin ou féminin ? | مذكر أم مؤنث؟
+wording: Écrivez « مذكر » (masculin) ou « مؤنث » (féminin) | مذكر أم مؤنث؟
+mode: transfo
+صحراء => مؤنث
+خليفة => مذكر
+ذكرى => مؤنث
+شمس => مؤنث
+كتاب => مذكر
+سيارة => مؤنث
+يد => مؤنث
+بيت => مذكر
+=== VOCA
+صَحْرَاء | désert:m | noun, fem | niv-a2 | freq-freq | geographie |  |  |  |  | صَحَارٍ
+ذِكْرَى | souvenir:m | noun, fem | niv-b1 | freq-freq | pensee |  |  |  |  | ذِكْرَيَات
+خَلِيفَة | calife:m | noun, mas | niv-b2 | freq-peu | institution |  |  |  |  | خُلَفَاء
+مُذَكَّر | masculin | adj | niv-a2 | freq-peu | langue-ecrit
+مُؤَنَّث | féminin | adj | niv-a2 | freq-peu | langue-ecrit

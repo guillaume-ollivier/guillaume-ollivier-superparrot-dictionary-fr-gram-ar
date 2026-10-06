@@ -1,0 +1,36 @@
+{
+  "topic_ref": "0162-1",
+  "source": "source=AR§reference=0162-1",
+  "title": "lang=fr-FR§{Tamma + nom verbal}lang=ar-SA§{تمّ والمصدر}",
+  "wording": "lang=fr-FR§{Traduisez avec تم}lang=ar-SA§{ترجم بتم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§L'exposition a été inaugurée}{type=affix§.}",
+      "answer": "{?1§تم افتتاح المعرض}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Un nouveau pont sera construit}{type=affix§.}",
+      "answer": "{?1§سيتم بناء جسر جديد}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Il a été reçu par le président}{type=affix§.}",
+      "answer": "{?1§تم استقباله من قبل الرئيس}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

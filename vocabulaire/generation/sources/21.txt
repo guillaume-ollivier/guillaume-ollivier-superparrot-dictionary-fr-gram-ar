@@ -1,0 +1,139 @@
+@ref 0094
+@chap 21
+@slug kana
+@niv niv-a2
+=== NOTE
+# _Kāna_ : « être » au passé
+
+**1** La phrase nominale n'a pas de verbe au présent, mais au passé on emploie *كَانَ* _kāna_ (il était, il a été). Son _ā_ devient _u_ bref quand une consonne suit (verbe « concave ») (§30.2) :
+
+| pronom | forme | pronom | forme |
+| --- | --- | --- | --- |
+| *أَنَا* | *كُنْتُ* | *نَحْنُ* | *كُنَّا* |
+| *أَنْتَ* | *كُنْتَ* | *أَنْتُمْ* | *كُنْتُمْ* |
+| *أَنْتِ* | *كُنْتِ* | *أَنْتُنَّ* | *كُنْتُنَّ* |
+| *هُوَ* | *كَانَ* | *هُمْ* | *كَانُوا* |
+| *هِيَ* | *كَانَتْ* | *هُنَّ* | *كُنَّ* |
+
+**2** Inaccompli : *يَكُونُ* (il sera, il est habituellement).
+
+> *كُنْتُ فِي البَيْتِ.*
+> _kuntu fī l-bayti._
+> J'étais à la maison.
+=== EXO
+title: Conjuguer kāna | تصريف كان
+wording: Conjuguez كان à l'accompli | صرّف كان
+mode: transfo
+أنا => كنت
+هي => كانت
+نحن => كنا
+هم => كانوا
+هن => كن
+أنتم => كنتم
+=== EXO
+title: Phrases avec kāna | جمل بكان
+wording: Traduisez | ترجم
+mode: trad
+J'étais à la maison. => كنت في البيت.
+Nous étions au marché. => كنا في السوق.
+Où étais-tu ? => أين كنت؟
+=== VOCA
+كَانَ | être | verb, verb-intrans | niv-a1 | freq-ultra | etat | | | | fr-FR§au passé
+@ref 0095
+@chap 21
+@slug khabar-kana
+@niv niv-a2
+=== NOTE
+# L'attribut de _kāna_ à l'accusatif
+
+**1** Comme après *لَيْسَ*, l'attribut de *كَانَ* passe à l'**accusatif** :
+
+| présent | passé |
+| --- | --- |
+| *الجَوُّ جَمِيلٌ* | *كَانَ الجَوُّ جَمِيلًا* |
+| *هُوَ طَبِيبٌ* | *كَانَ طَبِيبًا* |
+
+> *كَانَتِ المَدِينَةُ صَغِيرَةً.*
+> _kānati l-madīnatu ṣaġīratan._
+> La ville était petite.
+
+**2** Un attribut prépositionnel ne change pas : *كَانَ فِي البَيْتِ*.
+
+**3** Au passé, « avoir » : *كَانَ عِنْدِي* (j'avais) ; la négation : *لَمْ يَكُنْ* (il n'était pas).
+=== EXO
+title: Kāna + attribut | كان وخبرها
+wording: Traduisez | ترجم
+mode: trad
+Le temps était beau. => كان الجو جميلا.
+Il était médecin. => كان طبيبا.
+La ville était petite. => كانت المدينة صغيرة.
+J'avais une voiture. => كان عندي سيارة. | كانت عندي سيارة.
+Ils étaient fatigués. => كانوا متعبين.
+=== VOCA
+طَقْس ; جَوّ [طَقْس] | temps [météo]:m | noun, mas | niv-a1 | freq-tres | meteo
+@ref 0096
+@chap 21
+@slug kana-yafal
+@niv niv-b1
+=== NOTE
+# _Kāna_ + inaccompli : l'imparfait
+
+**1** *كَانَ* + **inaccompli** exprime une action **en cours** ou **habituelle** dans le passé — l'imparfait français :
+
+> *كَانَ يَدْرُسُ عِنْدَمَا دَخَلْتُ.*
+> _kāna yadrusu ʿindamā daḫaltu._
+> Il étudiait quand je suis entré.
+
+> *كُنَّا نَلْعَبُ كُلَّ يَوْمٍ.*
+> _kunnā nalʿabu kulla yawmin._
+> Nous jouions tous les jours.
+
+**2** Les deux verbes se conjuguent chacun à la même personne : *كُنْتُ أَكْتُبُ* (j'écrivais).
+
+**3** *كَانَ قَدْ* + accompli = plus-que-parfait : *كَانَ قَدْ خَرَجَ* (il était sorti).
+=== EXO
+title: L'imparfait | الماضي المستمر
+wording: Traduisez | ترجم
+mode: trad
+Il étudiait. => كان يدرس.
+J'écrivais. => كنت أكتب.
+Nous jouions tous les jours. => كنا نلعب كل يوم.
+Elle buvait du thé. => كانت تشرب الشاي.
+Il était sorti. => كان قد خرج.
+=== VOCA
+عِنْدَمَا | quand; lorsque | conj | niv-a2 | freq-tres | moment
+@ref 0097
+@chap 21
+@slug akhawat-kana
+@niv niv-b1
+=== NOTE
+# Les sœurs de _kāna_
+
+**1** Plusieurs verbes se construisent comme *كَانَ*, avec un attribut à l'accusatif :
+
+| verbe | sens | exemple |
+| --- | --- | --- |
+| *صَارَ* | devenir | *صَارَ الجَوُّ بَارِدًا* (il s'est mis à faire froid) |
+| *أَصْبَحَ* | devenir (litt. au matin) | *أَصْبَحَ طَبِيبًا* (il est devenu médecin) |
+| *مَا زَالَ* | être encore | *مَا زَالَ صَغِيرًا* (il est encore petit) |
+| *ظَلَّ* | rester | *ظَلَّ صَامِتًا* (il est resté silencieux) |
+| *لَيْسَ* | ne pas être | (§20.2) |
+
+**2** *مَا زَالَ* / *لَا يَزَالُ* « toujours, encore » se construit aussi avec un inaccompli :
+
+> *مَا زَالَ يَعْمَلُ فِي البَنْكِ.*
+> _mā zāla yaʿmalu fī l-banki._
+> Il travaille toujours à la banque.
+=== EXO
+title: Les sœurs de kāna | أخوات كان
+wording: Traduisez | ترجم
+mode: trad
+Il est devenu médecin. => أصبح طبيبا. | صار طبيبا.
+Il est encore petit. => ما زال صغيرا. | لا يزال صغيرا.
+Il fait de plus en plus froid. => صار الجو باردا.
+Il travaille toujours à la banque. => ما زال يعمل في البنك. | لا يزال يعمل في البنك.
+=== VOCA
+صَارَ ; أَصْبَحَ +verb-derived | devenir | verb, verb-intrans | niv-b1 | freq-tres | etat
+مَا زَالَ | être encore | locution, verb | niv-b1 | freq-tres | duree
+بَارِد | froid | adj | niv-a1 | freq-tres | meteo
+عَمِلَ | travailler | verb, verb-intrans | niv-a1 | freq-ultra | travail

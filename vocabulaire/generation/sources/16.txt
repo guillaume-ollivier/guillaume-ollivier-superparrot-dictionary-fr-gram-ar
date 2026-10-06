@@ -1,0 +1,232 @@
+@ref 0070
+@chap 16
+@slug 11-19
+@niv niv-a2
+=== NOTE
+# De 11 à 19
+
+**1** Les nombres de 11 à 19 sont composés de deux mots, invariables (toujours en _-a_), suivis d'un nom **singulier à l'accusatif** :
+
+| avec un nom masculin | avec un nom féminin |
+| --- | --- |
+| *أَحَدَ عَشَرَ* _ʾaḥada ʿašara_ (11) | *إِحْدَى عَشْرَةَ* _ʾiḥdā ʿašrata_ |
+| *اِثْنَا عَشَرَ* _iṯnā ʿašara_ (12) | *اِثْنَتَا عَشْرَةَ* _iṯnatā ʿašrata_ |
+| *ثَلَاثَةَ عَشَرَ* _ṯalāṯata ʿašara_ (13) | *ثَلَاثَ عَشْرَةَ* _ṯalāṯa ʿašrata_ |
+
+**2** De 13 à 19, l'unité garde la **polarité** (§15.3), mais _ʿašar_ s'accorde normalement.
+
+> *فِي الصَّفِّ خَمْسَةَ عَشَرَ طَالِبًا.*
+> _fī ṣ-ṣaffi ḫamsata ʿašara ṭāliban._
+> Dans la classe, il y a quinze étudiants.
+
+**3** À l'oral, on simplifie beaucoup (_ḫamasṭāšar_ en Égypte) ; l'écrit garde ces formes.
+=== EXO
+title: De 11 à 19 | من ١١ إلى ١٩
+wording: Traduisez | ترجم
+mode: trad
+onze livres => أحد عشر كتابا
+douze étudiants => اثنا عشر طالبا
+quinze étudiants => خمسة عشر طالبا
+treize voitures => ثلاث عشرة سيارة
+dix-neuf jours => تسعة عشر يوما
+=== VOCA
+@ref 0071
+@chap 16
+@slug al-uqud
+@niv niv-a2
+=== NOTE
+# Les dizaines
+
+**1** Les dizaines se terminent en *ـُونَ* (sujet) / *ـِينَ* (complément) :
+
+| | | |
+| --- | --- | --- |
+| 20 *عِشْرُونَ* | 30 *ثَلَاثُونَ* | 40 *أَرْبَعُونَ* |
+| 50 *خَمْسُونَ* | 60 *سِتُّونَ* | 70 *سَبْعُونَ* |
+| 80 *ثَمَانُونَ* | 90 *تِسْعُونَ* | |
+
+**2** L'**unité vient d'abord**, reliée par *وَ*, comme dans « quatre-vingt » à l'envers : 25 = *خَمْسَةٌ وَعِشْرُونَ* (« cinq et vingt »).
+
+**3** Le nom compté est au **singulier accusatif** :
+
+> *عُمْرِي ثَلَاثُونَ سَنَةً.*
+> _ʿumrī ṯalāṯūna sanatan._
+> J'ai trente ans.
+
+> *فِي المَدْرَسَةِ وَاحِدٌ وَعِشْرُونَ مُعَلِّمًا.*
+> _fī l-madrasati wāḥidun wa-ʿišrūna muʿalliman._
+> Il y a vingt et un instituteurs dans l'école.
+=== EXO
+title: Les dizaines | العقود
+wording: Écrivez le nombre en lettres (forme sujet) | اكتب العدد
+mode: transfo
+٢٠ => عشرون
+٣٠ => ثلاثون
+٤٠ => أربعون
+٥٠ => خمسون
+٢٥ => خمسة وعشرون
+٤٣ => ثلاثة وأربعون
+=== EXO
+title: L'âge | العمر
+wording: Traduisez | ترجم
+mode: trad
+J'ai trente ans. => عمري ثلاثون سنة.
+J'ai vingt ans. => عمري عشرون سنة.
+cinquante étudiants => خمسون طالبا
+=== VOCA
+عِشْرُونَ | vingt | num | niv-a1 | freq-tres | nombre
+عُمْر | âge:m | noun, mas | niv-a1 | freq-tres | age-etat |  |  |  |  | أَعْمَار
+@ref 0072
+@chap 16
+@slug mia-alf
+@niv niv-b1
+=== NOTE
+# Cent, mille, million
+
+**1** Cent : *مِائَة* (lu _miʾa_ ; le _ا_ ne se prononce pas), aussi écrit *مِئَة*. Mille : *أَلْف*. Million : *مِلْيُون*.
+
+| | |
+| --- | --- |
+| 100 *مِائَة* | 1000 *أَلْف* |
+| 200 *مِائَتَانِ* (duel) | 2000 *أَلْفَانِ* |
+| 300 *ثَلَاثُمِائَةٍ* | 3000 *ثَلَاثَةُ آلَافٍ* |
+
+**2** Après cent et mille, le nom est au **singulier génitif** :
+
+> *أَلْفُ لَيْلَةٍ وَلَيْلَةٌ*
+> _ʾalfu laylatin wa-laylatun_
+> Les Mille et Une Nuits
+
+> *مِائَةُ دُولَارٍ*
+> _miʾatu dūlārin_
+> cent dollars
+
+**3** Dans un nombre composé, c'est le **dernier** élément qui décide de la forme du nom.
+=== EXO
+title: Cent et mille | المئات والآلاف
+wording: Traduisez | ترجم
+mode: trad
+cent dollars => مائة دولار | مئة دولار
+mille nuits => ألف ليلة
+deux mille => ألفان
+deux cents => مائتان | مئتان
+trois mille => ثلاثة آلاف
+=== VOCA
+مِائَة ; مِئَة | cent | num | niv-a1 | freq-tres | nombre
+أَلْف | mille | num | niv-a1 | freq-tres | nombre
+مِلْيُون | million:m | num | niv-a2 | freq-freq | nombre
+لَيْلَة | nuit:f | noun, fem | niv-a1 | freq-tres | moment |  |  |  |  | لَيَالٍ
+دُولَار | dollar:m | noun, mas, loanword | niv-a1 | freq-freq | argent | | | | | دُولَارَات
+@ref 0073
+@chap 16
+@slug at-tartib-wal-ayyam
+@niv niv-a2
+=== NOTE
+# Les ordinaux et les jours de la semaine
+
+**1** Les ordinaux de 2 à 10 suivent le schème *فَاعِل* et s'accordent normalement (pas de polarité) :
+
+| masculin | féminin | sens |
+| --- | --- | --- |
+| *أَوَّل* | *أُولَى* | premier |
+| *ثَانٍ* (*الثَّانِي*) | *ثَانِيَة* | deuxième |
+| *ثَالِث* | *ثَالِثَة* | troisième |
+| *رَابِع* | *رَابِعَة* | quatrième |
+| *خَامِس* | *خَامِسَة* | cinquième |
+| *عَاشِر* | *عَاشِرَة* | dixième |
+
+> *الدَّرْسُ الأَوَّلُ وَالحِصَّةُ الثَّانِيَةُ*
+> _ad-darsu l-ʾawwalu wa-l-ḥiṣṣatu ṯ-ṯāniyatu_
+> la première leçon et le deuxième cours
+
+**2** Les jours de la semaine sont, pour la plupart, des ordinaux : la semaine commence le dimanche.
+
+| jour | sens littéral |
+| --- | --- |
+| *الأَحَد* (dimanche) | le un |
+| *الاِثْنَيْن* (lundi) | le deux |
+| *الثُّلَاثَاء* (mardi) | le trois |
+| *الأَرْبِعَاء* (mercredi) | le quatre |
+| *الخَمِيس* (jeudi) | le cinq |
+| *الجُمُعَة* (vendredi) | le jour du rassemblement |
+| *السَّبْت* (samedi) | le sabbat |
+
+« Le dimanche » se dit *يَوْمَ الأَحَدِ*.
+=== EXO
+title: Ordinaux | الأعداد الترتيبية
+wording: Traduisez | ترجم
+mode: trad
+la première leçon => الدرس الأول
+la deuxième leçon => الدرس الثاني
+la troisième année => السنة الثالثة
+la première fois => المرة الأولى
+=== EXO
+title: Jours de la semaine | أيام الأسبوع
+wording: Traduisez | ترجم
+mode: trad
+dimanche => الأحد
+lundi => الاثنين
+mardi => الثلاثاء
+mercredi => الأربعاء
+jeudi => الخميس
+vendredi => الجمعة
+samedi => السبت
+=== VOCA
+أَوَّل | premier | adj | niv-a1 | freq-ultra | nombre
+ثَانٍ | deuxième; second | adj | niv-a1 | freq-tres | nombre
+مَرَّة | fois:f | noun, fem | niv-a1 | freq-ultra | frequence |  |  |  |  | مَرَّات
+الأَحَد | dimanche:m | noun, mas | niv-a1 | freq-tres | calendrier
+الاِثْنَيْن | lundi:m | noun, mas | niv-a1 | freq-tres | calendrier
+الثُّلَاثَاء | mardi:m | noun, mas | niv-a1 | freq-tres | calendrier
+الأَرْبِعَاء | mercredi:m | noun, mas | niv-a1 | freq-tres | calendrier
+الخَمِيس | jeudi:m | noun, mas | niv-a1 | freq-tres | calendrier
+الجُمُعَة | vendredi:m | noun, fem | niv-a1 | freq-tres | calendrier
+السَّبْت | samedi:m | noun, mas | niv-a1 | freq-tres | calendrier
+أُسْبُوع | semaine:f | noun, mas | niv-a1 | freq-tres | calendrier, duree | | | | | أَسَابِيع
+حِصَّة | cours [séance]:m | noun, fem | niv-a1 | freq-freq | ecole |  |  |  |  | حِصَص
+@ref 0074
+@chap 16
+@slug as-saa
+@niv niv-a2
+=== NOTE
+# L'heure
+
+**1** On demande : *كَمِ السَّاعَةُ؟* _kami s-sāʿatu?_ (quelle heure est-il ?). On répond avec l'**ordinal féminin** (sauf pour 1 h) :
+
+| arabe | heure |
+| --- | --- |
+| *السَّاعَةُ الوَاحِدَةُ* | une heure |
+| *السَّاعَةُ الثَّانِيَةُ* | deux heures |
+| *السَّاعَةُ الثَّالِثَةُ* | trois heures |
+| *السَّاعَةُ العَاشِرَةُ* | dix heures |
+
+**2** Les fractions :
+
+| arabe | sens |
+| --- | --- |
+| *وَالرُّبْعُ* | et quart |
+| *وَالنِّصْفُ* | et demie |
+| *إِلَّا رُبْعًا* | moins le quart |
+| *وَعَشْرُ دَقَائِقَ* | et dix (minutes) |
+
+> *السَّاعَةُ الخَامِسَةُ وَالنِّصْفُ.*
+> _as-sāʿatu l-ḫāmisatu wa-n-niṣfu._
+> Il est cinq heures et demie.
+
+**3** *السَّاعَة* veut dire à la fois « l'heure » et « la montre ».
+=== EXO
+title: Dire l'heure | الساعة
+wording: Traduisez | ترجم
+mode: trad
+Quelle heure est-il ? => كم الساعة؟
+Il est trois heures. => الساعة الثالثة.
+Il est une heure. => الساعة الواحدة.
+Il est cinq heures et demie. => الساعة الخامسة والنصف.
+Il est quatre heures et quart. => الساعة الرابعة والربع.
+Il est dix heures moins le quart. => الساعة العاشرة إلا ربعا.
+=== VOCA
+سَاعَة | heure:f | noun, fem | niv-a1 | freq-ultra | duree | | زَمَن | | | سَاعَات
+سَاعَة | montre:f | noun, fem | niv-a1 | freq-freq | objet | | يَد
+نِصْف | moitié:f; demi:m | noun, mas | niv-a1 | freq-tres | quantite
+رُبْع | quart:m | noun, mas | niv-a1 | freq-freq | quantite
+دَقِيقَة | minute:f | noun, fem | niv-a1 | freq-tres | duree |  |  |  |  | دَقَائِق

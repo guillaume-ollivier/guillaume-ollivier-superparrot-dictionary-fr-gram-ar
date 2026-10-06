@@ -1,0 +1,36 @@
+{
+  "topic_ref": "0167-1",
+  "source": "source=AR§reference=0167-1",
+  "title": "lang=fr-FR§{Lawlā, ʾammā}lang=ar-SA§{لولا، أما}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§Sans la pluie, nous serions sortis}{type=affix§.}",
+      "answer": "{?1§لولا المطر لخرجنا}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Quant à moi, je n'aime pas le café}{type=affix§.}",
+      "answer": "{?1§{أما أنا فلا أحب القهوة|اما انا فلا احب القهوة}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Quant à mon frère, il est médecin}{type=affix§.}",
+      "answer": "{?1§{أما أخي فهو طبيب|اما اخي فهو طبيب}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+@ref 0038
+@chap 09
+@slug an-nat
+@niv niv-a1
+=== NOTE
+# L'adjectif épithète
+
+**1** L'adjectif se place **après** le nom et s'accorde avec lui en **genre**, en **nombre**, en **définition** et en **cas** :
+
+| indéfini | défini |
+| --- | --- |
+| *بَيْتٌ كَبِيرٌ* _baytun kabīrun_ (une grande maison) | *البَيْتُ الكَبِيرُ* _al-baytu l-kabīru_ (la grande maison) |
+| *سَيَّارَةٌ جَدِيدَةٌ* (une voiture neuve) | *السَّيَّارَةُ الجَدِيدَةُ* (la voiture neuve) |
+
+**2** Si le nom a l'article, l'adjectif le prend aussi : on répète _ال_.
+
+**3** Plusieurs adjectifs se suivent simplement, sans « et » :
+
+> *عِنْدِي سَيَّارَةٌ صَغِيرَةٌ قَدِيمَةٌ.*
+> _ʿindī sayyāratun ṣaġīratun qadīmatun._
+> J'ai une petite vieille voiture.
+=== EXO
+title: Nom et adjectif | الصفة والموصوف
+wording: Traduisez | ترجم
+mode: trad
+une grande maison => بيت كبير
+la grande maison => البيت الكبير
+une voiture neuve => سيارة جديدة
+la voiture neuve => السيارة الجديدة
+la belle ville => المدينة الجميلة
+un long chemin => طريق طويل
+le petit garçon => الولد الصغير
+=== VOCA
+@ref 0039
+@chap 09
+@slug jumla-am-tarkib
+@niv niv-a1
+=== NOTE
+# Phrase ou groupe nominal ?
+
+**1** Tout se joue sur l'article de l'adjectif :
+
+| arabe | structure | sens |
+| --- | --- | --- |
+| *البَيْتُ الكَبِيرُ* | nom défini + adjectif défini | la grande maison (groupe) |
+| *البَيْتُ كَبِيرٌ* | nom défini + adjectif indéfini | la maison est grande (phrase) |
+| *بَيْتٌ كَبِيرٌ* | nom indéfini + adjectif indéfini | une grande maison (groupe) |
+
+**2** On peut combiner les deux :
+
+> *البَيْتُ الجَدِيدُ كَبِيرٌ.*
+> _al-baytu l-ǧadīdu kabīrun._
+> La maison neuve est grande.
+
+**3** Quand l'attribut est lui-même défini, on insère le pronom de séparation (_ḍamīr al-faṣl_) : *هَذَا هُوَ الطَّرِيقُ* « c'est le chemin ».
+=== EXO
+title: Phrase ou groupe | جملة أم مركب
+wording: Traduisez | ترجم
+mode: trad
+la grande maison => البيت الكبير
+La maison est grande. => البيت كبير.
+La maison neuve est grande. => البيت الجديد كبير.
+La petite chambre est belle. => الغرفة الصغيرة جميلة.
+La vieille voiture est petite. => السيارة القديمة صغيرة.
+=== VOCA
+@ref 0040
+@chap 09
+@slug an-nisba
+@niv niv-a2
+=== NOTE
+# L'adjectif de relation (_nisba_)
+
+**1** En ajoutant *ـِيّ* _-iyy_ à un nom, on forme un adjectif « qui se rapporte à » — nationalités, matières, domaines :
+
+| nom | adjectif masc. | adjectif fém. |
+| --- | --- | --- |
+| *مِصْر* (Égypte) | *مِصْرِيّ* _miṣriyy_ | *مِصْرِيَّة* _miṣriyya_ |
+| *لُبْنَان* (Liban) | *لُبْنَانِيّ* | *لُبْنَانِيَّة* |
+| *عَرَب* (Arabes) | *عَرَبِيّ* (arabe) | *عَرَبِيَّة* |
+| *المَغْرِب* (Maroc) | *مَغْرِبِيّ* | *مَغْرِبِيَّة* |
+| *تَارِيخ* (histoire) | *تَارِيخِيّ* (historique) | *تَارِيخِيَّة* |
+
+**2** L'article et le _ة_ final du nom tombent : *المَغْرِب* → *مَغْرِبِيّ* ; *فَرَنْسَا* → *فَرَنْسِيّ*.
+
+**3** Pluriels : *ـِيُّونَ* _-iyyūna_ (hommes), *ـِيَّات* _-iyyāt_ (femmes) ; « arabe » fait *عَرَب* : *هُمْ عَرَبٌ*.
+
+> *اللُّغَةُ العَرَبِيَّةُ جَمِيلَةٌ.*
+> _al-luġatu l-ʿarabiyyatu ǧamīlatun._
+> La langue arabe est belle.
+=== EXO
+title: Former la nisba | النسبة
+wording: Donnez l'adjectif masculin | اكتب النسبة
+mode: transfo
+مصر => مصري
+لبنان => لبناني
+المغرب => مغربي
+تاريخ => تاريخي
+سوريا => سوري
+=== EXO
+title: Nationalités | الجنسيات
+wording: Traduisez | ترجم
+mode: trad
+Je suis marocaine. => أنا مغربية.
+la langue arabe => اللغة العربية
+Il est libanais. => هو لبناني.
+Elles sont égyptiennes. => هن مصريات.
+=== VOCA
+عَرَبِيّ | arabe | adj, nisba | niv-a1 | freq-ultra | nationalite
+مِصْرِيّ | égyptien | adj, nisba | niv-a1 | freq-freq | nationalite
+لُبْنَانِيّ | libanais | adj, nisba | niv-a1 | freq-freq | nationalite
+المَغْرِب | Maroc:m | noun, noun-pro | niv-a1 | freq-freq | geographie
+مَغْرِبِيّ | marocain | adj, nisba | niv-a1 | freq-freq | nationalite
+تَارِيخ | histoire [passé]:f | noun, mas | niv-a2 | freq-tres | temps | | المَاضِي
+لُغَة | langue [idiome]:f | noun, fem | niv-a1 | freq-tres | parole |  |  |  |  | لُغَات
+سُورِيَا | Syrie:f | noun, noun-pro | niv-a1 | freq-freq | geographie
+@ref 0041
+@chap 09
+@slug al-alwan
+@niv niv-a2
+=== NOTE
+# Les couleurs
+
+**1** Les couleurs de base suivent un schème propre : *أَفْعَل* (masc.), *فَعْلَاء* (fém.), *فُعْل* (pluriel) :
+
+| masculin | féminin | pluriel | sens |
+| --- | --- | --- | --- |
+| *أَحْمَر* _ʾaḥmar_ | *حَمْرَاء* _ḥamrāʾ_ | *حُمْر* _ḥumr_ | rouge |
+| *أَبْيَض* _ʾabyaḍ_ | *بَيْضَاء* _bayḍāʾ_ | *بِيض* _bīḍ_ | blanc |
+| *أَسْوَد* _ʾaswad_ | *سَوْدَاء* _sawdāʾ_ | *سُود* _sūd_ | noir |
+| *أَزْرَق* _ʾazraq_ | *زَرْقَاء* _zarqāʾ_ | *زُرْق* _zurq_ | bleu |
+| *أَخْضَر* _ʾaḫḍar_ | *خَضْرَاء* _ḫaḍrāʾ_ | *خُضْر* _ḫuḍr_ | vert |
+| *أَصْفَر* _ʾaṣfar_ | *صَفْرَاء* _ṣafrāʾ_ | *صُفْر* _ṣufr_ | jaune |
+
+**2** Les autres couleurs sont des _nisba_ régulières : *بُنِّيّ* (marron), *رَمَادِيّ* (gris), *بُرْتُقَالِيّ* (orange).
+
+**3** Rappel : un pluriel de choses s'accorde au féminin singulier — *سَيَّارَاتٌ حَمْرَاءُ* (des voitures rouges).
+
+> *البَحْرُ أَزْرَقُ وَالسَّمَاءُ زَرْقَاءُ.*
+> _al-baḥru ʾazraqu wa-s-samāʾu zarqāʾu._
+> La mer est bleue et le ciel est bleu.
+=== EXO
+title: Féminin des couleurs | ألوان
+wording: Donnez le féminin | اكتب المؤنث
+mode: transfo
+أحمر => حمراء
+أبيض => بيضاء
+أسود => سوداء
+أزرق => زرقاء
+أخضر => خضراء
+أصفر => صفراء
+=== EXO
+title: Les couleurs en phrase | الألوان
+wording: Traduisez | ترجم
+mode: trad
+une voiture rouge => سيارة حمراء
+La mer est bleue. => البحر أزرق.
+le livre vert => الكتاب الأخضر
+des maisons blanches => بيوت بيضاء
+=== VOCA
+أَحْمَر | rouge | adj | niv-a1 | freq-tres | couleur
+أَبْيَض | blanc | adj | niv-a1 | freq-tres | couleur
+أَسْوَد | noir | adj | niv-a1 | freq-tres | couleur
+أَزْرَق | bleu | adj | niv-a1 | freq-tres | couleur
+أَخْضَر | vert | adj | niv-a1 | freq-tres | couleur
+أَصْفَر | jaune | adj | niv-a1 | freq-tres | couleur
+رَمَادِيّ | gris | adj, nisba | niv-a2 | freq-freq | couleur

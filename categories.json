@@ -1,0 +1,825 @@
+{
+  "tag_id": "tag@e4643aa1-719f-5680-b583-c8c89f817e34",
+  "text": "lang=fr§{catégories}lang=en§{categories}lang=de§{Kategorien}lang=es§{categorías}lang=it§{categorie}",
+  "optional": false,
+  "selectable": false,
+  "reference": "category-root",
+  "creation_date": "2026-08-22T00:00:00.000",
+  "tags": [
+    {
+      "tag_id": "tag@a785cd7d-73a9-5b2b-b9d7-092ae2d8a218",
+      "text": "lang=fr§{grammaire}lang=en§{grammar}lang=de§{Grammatik}lang=es§{gramática}lang=it§{grammatica}",
+      "optional": false,
+      "selectable": false,
+      "reference": "grammar",
+      "creation_date": "2026-08-22T00:00:00.000",
+      "tags": [
+        {
+          "tag_id": "tag@197cf557-8e52-5039-9325-09b5f3b7ca97",
+          "text": "lang=fr§{nature du mot}lang=en§{part of speech}lang=de§{Wortart}lang=es§{categoría gramatical}lang=it§{categoria grammaticale}",
+          "optional": false,
+          "selectable": false,
+          "reference": "pos",
+          "creation_date": "2026-08-22T00:00:00.000",
+          "tags": [
+            {
+              "tag_id": "tag@faf70dc6-b60c-51d7-88bc-05a9856209e7",
+              "text": "lang=en§{noun}lang=fr§{nom}lang=de§{Substantiv}lang=es§{sustantivo}lang=it§{sostantivo}",
+              "optional": false,
+              "selectable": true,
+              "reference": "noun",
+              "creation_date": "2026-08-22T00:00:00.000",
+              "tags": [
+                {
+                  "tag_id": "tag@19a6cd97-9ca8-5798-8d2c-0e4e836bdf4f",
+                  "text": "lang=en§{proper noun}lang=fr§{nom propre}lang=de§{Eigenname}lang=es§{nombre propio}lang=it§{nome proprio}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "noun-pro",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                }
+              ]
+            },
+            {
+              "tag_id": "tag@0c0dd9bc-7b35-58f5-95c2-1b961ab5c95a",
+              "text": "lang=en§{verb}lang=fr§{verbe}lang=de§{Verb}lang=es§{verbo}lang=it§{verbo}",
+              "optional": false,
+              "selectable": true,
+              "reference": "verb",
+              "creation_date": "2026-08-22T00:00:00.000",
+              "tags": [
+                {
+                  "tag_id": "tag@91569c05-8428-521d-b902-9635bd838d26",
+                  "text": "lang=en§{transitivity}lang=fr§{transitivité}lang=de§{Transitivität}lang=es§{transitividad}lang=it§{transitività}",
+                  "optional": true,
+                  "selectable": false,
+                  "reference": "verb-transitivity",
+                  "creation_date": "2026-08-22T00:00:00.000",
+                  "tags": [
+                    {
+                      "tag_id": "tag@5aff3b1f-db2d-5bc2-968e-543e6e286120",
+                      "text": "lang=en§{transitive}lang=fr§{transitif}lang=de§{transitiv}lang=es§{transitivo}lang=it§{transitivo}",
+                      "optional": true,
+                      "selectable": true,
+                      "reference": "verb-trans",
+                      "creation_date": "2026-08-22T00:00:00.000"
+                    },
+                    {
+                      "tag_id": "tag@277e4d47-9ce3-5de2-8cd2-ec1368765fbf",
+                      "text": "lang=en§{intransitive}lang=fr§{intransitif}lang=de§{intransitiv}lang=es§{intransitivo}lang=it§{intransitivo}",
+                      "optional": true,
+                      "selectable": true,
+                      "reference": "verb-intrans",
+                      "creation_date": "2026-08-22T00:00:00.000"
+                    }
+                  ]
+                },
+                {
+                  "tag_id": "tag@8698ffea-7cfa-54e0-ab9d-bd90c301cded",
+                  "text": "lang=en§{phrasal verb}lang=fr§{verbe à particule}lang=de§{Partikelverb}lang=es§{verbo con partícula}lang=it§{verbo frasale}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "verb-ph",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@d1a4cafc-c6f9-546d-a6a5-8b68fd235df2",
+                  "text": "lang=fr§{verbe pronominal}lang=en§{pronominal verb}lang=de§{reflexives Verb}lang=es§{verbo pronominal}lang=it§{verbo pronominale}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "verb-pron",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@51dfe159-9544-5038-83be-b0037c8c73cb",
+                  "text": "lang=fr§{auxiliaire}lang=en§{auxiliary}lang=de§{Hilfsverb}lang=es§{verbo auxiliar}lang=it§{verbo ausiliare}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "verb-aux",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@cc7a3c6a-9877-582b-acb0-f8d834ffea47",
+                  "text": "lang=fr§{verbe modal}lang=en§{modal verb}lang=de§{Modalverb}lang=es§{verbo modal}lang=it§{verbo modale}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "verb-modal",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "text": "lang=fr§{verbe de forme dérivée (II–X)}lang=en§{derived verb form}lang=de§{abgeleiteter Verbstamm}lang=es§{verbo de forma derivada}lang=it§{verbo di forma derivata}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "verb-derived",
+                  "creation_date": "2026-10-05T00:00:00.000"
+                }
+              ]
+            },
+            {
+              "tag_id": "tag@ff7cd34a-2d98-591a-829c-7549f0c60eb3",
+              "text": "lang=en§{adjective}lang=fr§{adjectif}lang=de§{Adjektiv}lang=es§{adjetivo}lang=it§{aggettivo}",
+              "optional": false,
+              "selectable": true,
+              "reference": "adj",
+              "creation_date": "2026-08-22T00:00:00.000"
+            },
+            {
+              "tag_id": "tag@5a57d9a2-dee5-536f-9a2f-a7ecc31bb8ee",
+              "text": "lang=en§{adverb}lang=fr§{adverbe}lang=de§{Adverb}lang=es§{adverbio}lang=it§{avverbio}",
+              "optional": false,
+              "selectable": true,
+              "reference": "adv",
+              "creation_date": "2026-08-22T00:00:00.000"
+            },
+            {
+              "tag_id": "tag@bd0775d1-1eee-5ecb-a9f1-9543ca35e942",
+              "text": "lang=en§{pronoun}lang=fr§{pronom}lang=de§{Pronomen}lang=es§{pronombre}lang=it§{pronome}",
+              "optional": false,
+              "selectable": true,
+              "reference": "pron",
+              "creation_date": "2026-08-22T00:00:00.000"
+            },
+            {
+              "tag_id": "tag@c0ce9e17-f95a-57e4-999c-993a7b590998",
+              "text": "lang=en§{preposition}lang=fr§{préposition}lang=de§{Präposition}lang=es§{preposición}lang=it§{preposizione}",
+              "optional": false,
+              "selectable": true,
+              "reference": "prep",
+              "creation_date": "2026-08-22T00:00:00.000"
+            },
+            {
+              "tag_id": "tag@41d18d3c-b154-5f88-8009-62b384653226",
+              "text": "lang=en§{conjunction}lang=fr§{conjonction}lang=de§{Konjunktion}lang=es§{conjunción}lang=it§{congiunzione}",
+              "optional": false,
+              "selectable": true,
+              "reference": "conj",
+              "creation_date": "2026-08-22T00:00:00.000"
+            },
+            {
+              "tag_id": "tag@558ec264-147a-5f4a-b90d-79760f816e3b",
+              "text": "lang=fr§{déterminant}lang=en§{determiner}lang=de§{Determinativ}lang=es§{determinante}lang=it§{determinante}",
+              "optional": true,
+              "selectable": true,
+              "reference": "det",
+              "creation_date": "2026-08-22T00:00:00.000"
+            },
+            {
+              "tag_id": "tag@45561414-7bf6-591f-9e75-2633d1c03e37",
+              "text": "lang=fr§{interjection}lang=en§{interjection}lang=de§{Interjektion}lang=es§{interjección}lang=it§{interiezione}",
+              "optional": true,
+              "selectable": true,
+              "reference": "interj",
+              "creation_date": "2026-08-22T00:00:00.000"
+            },
+            {
+              "tag_id": "tag@6fc3ad97-5448-514d-94d8-3d7d1d40e0fb",
+              "text": "lang=fr§{numéral}lang=en§{numeral}lang=de§{Numerale}lang=es§{numeral}lang=it§{numerale}",
+              "optional": true,
+              "selectable": true,
+              "reference": "num",
+              "creation_date": "2026-08-22T00:00:00.000"
+            },
+            {
+              "tag_id": "tag@f96850c9-c6af-5eb7-8393-83f6f825a2ff",
+              "text": "lang=en§{locution}lang=fr§{locution}lang=de§{Wortverbindung}lang=es§{locución}lang=it§{locuzione}",
+              "optional": false,
+              "selectable": true,
+              "reference": "locution",
+              "creation_date": "2026-08-22T00:00:00.000",
+              "tags": [
+                {
+                  "tag_id": "tag@bdc4091d-868d-5abf-a153-2220b46778ab",
+                  "text": "lang=en§{idiom}lang=fr§{idiome}lang=de§{Redewendung}lang=es§{modismo}lang=it§{idioma}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "idiom",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@15dd673a-c782-5636-b528-b031d8124ed4",
+                  "text": "lang=fr§{proverbe}lang=en§{proverb}lang=de§{Sprichwort}lang=es§{proverbio}lang=it§{proverbio}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "proverb",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@6f453c33-7f0e-5c07-8acf-07a3cc89db1c",
+                  "text": "lang=fr§{collocation}lang=en§{collocation}lang=de§{Kollokation}lang=es§{colocación}lang=it§{collocazione}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "collocation",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                }
+              ]
+            },
+            {
+              "text": "lang=fr§{particule}lang=en§{particle}lang=de§{Partikel}lang=es§{partícula}lang=it§{particella}",
+              "optional": true,
+              "selectable": true,
+              "reference": "particle",
+              "creation_date": "2026-10-05T00:00:00.000"
+            }
+          ]
+        },
+        {
+          "tag_id": "tag@fc2f72c5-abae-5e5a-aeba-1935d6d60d63",
+          "text": "lang=fr§{flexion}lang=en§{inflection}lang=de§{Flexion}lang=es§{flexión}lang=it§{flessione}",
+          "optional": false,
+          "selectable": false,
+          "reference": "flexion",
+          "creation_date": "2026-08-22T00:00:00.000",
+          "tags": [
+            {
+              "tag_id": "tag@c64eba1a-00d9-5289-b75b-b76f3a94b9c3",
+              "text": "lang=en§{gender}lang=fr§{genre}lang=de§{Genus}lang=es§{género}lang=it§{genere}",
+              "optional": true,
+              "selectable": false,
+              "reference": "genre",
+              "creation_date": "2026-08-22T00:00:00.000",
+              "tags": [
+                {
+                  "tag_id": "tag@6fd8dac3-f6e5-5e21-9164-32a35aa0b97a",
+                  "text": "lang=en§{masculine}lang=fr§{masculin}lang=de§{maskulin}lang=es§{masculino}lang=it§{maschile}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "mas",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@e329f730-1235-5131-a8fe-15a269eee4df",
+                  "text": "lang=en§{feminine}lang=fr§{féminin}lang=de§{feminin}lang=es§{femenino}lang=it§{femminile}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "fem",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@52ccde99-58be-5e7a-b5bf-505c49dfa7ff",
+                  "text": "lang=en§{neutral}lang=fr§{neutre}lang=de§{neutral}lang=es§{neutro}lang=it§{neutro}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "neu",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                }
+              ]
+            },
+            {
+              "tag_id": "tag@cadda638-e3c1-5bde-9fd6-8623ea097f82",
+              "text": "lang=en§{number}lang=fr§{cardinalité}lang=de§{Numerus}lang=es§{número}lang=it§{numero}",
+              "optional": true,
+              "selectable": false,
+              "reference": "numb",
+              "creation_date": "2026-08-22T00:00:00.000",
+              "tags": [
+                {
+                  "tag_id": "tag@580d179b-2013-50ce-8f18-44a02aae24e2",
+                  "text": "lang=en§{singular}lang=fr§{singulier}lang=de§{Singular}lang=es§{singular}lang=it§{singolare}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "sing",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@42c2f04b-9e90-5170-a334-6cdde28ba23c",
+                  "text": "lang=en§{plural}lang=fr§{pluriel}lang=de§{Plural}lang=es§{plural}lang=it§{plurale}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "plur",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@d328f112-5222-5cd4-b117-dab8b7c997c5",
+                  "text": "lang=fr§{pluriel irrégulier}lang=en§{irregular plural}lang=de§{unregelmäßiger Plural}lang=es§{plural irregular}lang=it§{plurale irregolare}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "plur-irr",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "text": "lang=fr§{duel}lang=en§{dual}lang=de§{Dual}lang=es§{dual}lang=it§{duale}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "dual",
+                  "creation_date": "2026-10-05T00:00:00.000"
+                },
+                {
+                  "text": "lang=fr§{pluriel brisé}lang=en§{broken plural}lang=de§{gebrochener Plural}lang=es§{plural fracto}lang=it§{plurale fratto}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "plur-broken",
+                  "creation_date": "2026-10-05T00:00:00.000"
+                }
+              ]
+            },
+            {
+              "tag_id": "tag@6b551004-aadf-5190-b230-9ad6f4639a82",
+              "text": "lang=en§{irregular verb}lang=fr§{verbe irrégulier}lang=de§{unregelmäßiges Verb}lang=es§{verbo irregular}lang=it§{verbo irregolare}",
+              "optional": true,
+              "selectable": true,
+              "reference": "verb-irr",
+              "creation_date": "2026-08-22T00:00:00.000"
+            },
+            {
+              "tag_id": "tag@a340486d-2bff-5daa-868c-c320a8edb30b",
+              "text": "lang=fr§{temps}lang=en§{tense}lang=de§{Zeitform}lang=es§{tiempo}lang=it§{tempo}",
+              "optional": true,
+              "selectable": false,
+              "reference": "tense",
+              "creation_date": "2026-08-22T00:00:00.000",
+              "tags": [
+                {
+                  "tag_id": "tag@371253bc-7e79-5dd6-95a0-5f59c0227b51",
+                  "text": "lang=fr§{présent}lang=en§{present}lang=de§{Präsens}lang=es§{presente}lang=it§{presente}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "tense-present",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@bf6e8471-14d3-5bea-9e80-b93cc99a47f1",
+                  "text": "lang=fr§{passé}lang=en§{past}lang=de§{Vergangenheit}lang=es§{pasado}lang=it§{passato}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "tense-past",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@d666f520-9abb-5334-aaa5-0fdf56f75226",
+                  "text": "lang=fr§{futur}lang=en§{future}lang=de§{Futur}lang=es§{futuro}lang=it§{futuro}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "tense-future",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@2c08f12e-2956-57c9-998f-22d881add436",
+                  "text": "lang=fr§{infinitif}lang=en§{infinitive}lang=de§{Infinitiv}lang=es§{infinitivo}lang=it§{infinito}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "tense-inf",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@6a5b39c1-609e-5fcd-a489-3e8185e2f4dc",
+                  "text": "lang=fr§{participe passé}lang=en§{past participle}lang=de§{Partizip Perfekt}lang=es§{participio pasado}lang=it§{participio passato}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "tense-part-past",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@af806ebe-530e-55c3-9d51-ce02db5dd7d0",
+                  "text": "lang=fr§{participe présent / gérondif}lang=en§{present participle / gerund}lang=de§{Partizip Präsens / Gerundium}lang=es§{participio presente / gerundio}lang=it§{participio presente / gerundio}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "tense-part-pres",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                }
+              ]
+            },
+            {
+              "tag_id": "tag@8958d33d-e21f-5e17-a35e-6442310d3346",
+              "text": "lang=fr§{mode}lang=en§{mood}lang=de§{Modus}lang=es§{modo}lang=it§{modo}",
+              "optional": true,
+              "selectable": false,
+              "reference": "mode",
+              "creation_date": "2026-08-22T00:00:00.000",
+              "tags": [
+                {
+                  "tag_id": "tag@6ce99c4a-ccb9-56e7-9c24-e8d050f51ab2",
+                  "text": "lang=fr§{indicatif}lang=en§{indicative}lang=de§{Indikativ}lang=es§{indicativo}lang=it§{indicativo}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "mode-ind",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@bbcb4dda-48ee-5a41-bb2a-13b412a37ef5",
+                  "text": "lang=fr§{subjonctif}lang=en§{subjunctive}lang=de§{Konjunktiv}lang=es§{subjuntivo}lang=it§{congiuntivo}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "mode-subj",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@25e39d7e-04e5-5053-9d5d-107b3c64cab2",
+                  "text": "lang=fr§{conditionnel}lang=en§{conditional}lang=de§{Konditional}lang=es§{condicional}lang=it§{condizionale}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "mode-cond",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@319202aa-4b0d-51f5-b054-c0e17f7824f4",
+                  "text": "lang=fr§{impératif}lang=en§{imperative}lang=de§{Imperativ}lang=es§{imperativo}lang=it§{imperativo}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "mode-imper",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "text": "lang=fr§{apocopé (jussif)}lang=en§{jussive}lang=de§{Apokopat (Jussiv)}lang=es§{yusivo}lang=it§{iussivo}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "mode-juss",
+                  "creation_date": "2026-10-05T00:00:00.000"
+                }
+              ]
+            },
+            {
+              "tag_id": "tag@bbca83ec-9a1e-55b5-ba62-7dd11d546fda",
+              "text": "lang=fr§{personne}lang=en§{person}lang=de§{Person}lang=es§{persona}lang=it§{persona}",
+              "optional": true,
+              "selectable": false,
+              "reference": "person",
+              "creation_date": "2026-08-22T00:00:00.000",
+              "tags": [
+                {
+                  "tag_id": "tag@3b01f588-7bd4-5ce6-bc41-77bcebe15fb9",
+                  "text": "lang=fr§{1re personne}lang=en§{1st person}lang=de§{1. Person}lang=es§{1.ª persona}lang=it§{1ª persona}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "person-1",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@86ea534f-a65f-5ff6-831b-a12b8d9b8d09",
+                  "text": "lang=fr§{2e personne}lang=en§{2nd person}lang=de§{2. Person}lang=es§{2.ª persona}lang=it§{2ª persona}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "person-2",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@3d97c9a2-3de7-55f2-933e-81f83e77afce",
+                  "text": "lang=fr§{3e personne}lang=en§{3rd person}lang=de§{3. Person}lang=es§{3.ª persona}lang=it§{3ª persona}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "person-3",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                }
+              ]
+            },
+            {
+              "tag_id": "tag@00430d9c-8091-5200-985f-875ff5e087d4",
+              "text": "lang=fr§{cas grammatical}lang=en§{grammatical case}lang=de§{Kasus}lang=es§{caso gramatical}lang=it§{caso grammaticale}",
+              "optional": true,
+              "selectable": false,
+              "reference": "gram-case",
+              "creation_date": "2026-08-22T00:00:00.000",
+              "tags": [
+                {
+                  "tag_id": "tag@13f292ad-d7b7-5533-990e-3f876fe70875",
+                  "text": "lang=fr§{nominatif}lang=en§{nominative}lang=de§{Nominativ}lang=es§{nominativo}lang=it§{nominativo}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "case-nom",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@e97b15b0-e19d-5b8c-9dd1-63aa2fd9fc22",
+                  "text": "lang=fr§{accusatif}lang=en§{accusative}lang=de§{Akkusativ}lang=es§{acusativo}lang=it§{accusativo}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "case-acc",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@3d7fc58c-0b51-562d-b1b4-c72cae536418",
+                  "text": "lang=fr§{datif}lang=en§{dative}lang=de§{Dativ}lang=es§{dativo}lang=it§{dativo}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "case-dat",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@d040558e-3da4-50c9-9015-dc794e1efa1c",
+                  "text": "lang=fr§{génitif}lang=en§{genitive}lang=de§{Genitiv}lang=es§{genitivo}lang=it§{genitivo}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "case-gen",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                }
+              ]
+            },
+            {
+              "tag_id": "tag@105fe706-f38d-5c68-9a9c-51bd0618b201",
+              "text": "lang=fr§{degré de comparaison}lang=en§{degree of comparison}lang=de§{Steigerung}lang=es§{grado de comparación}lang=it§{grado di comparazione}",
+              "optional": true,
+              "selectable": false,
+              "reference": "degree",
+              "creation_date": "2026-08-22T00:00:00.000",
+              "tags": [
+                {
+                  "tag_id": "tag@833c9889-f5e7-5188-a5a1-28fddee57ee3",
+                  "text": "lang=fr§{comparatif}lang=en§{comparative}lang=de§{Komparativ}lang=es§{comparativo}lang=it§{comparativo}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "deg-comp",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@bbfd4532-79a8-5dfe-8ea2-9b0c462a7472",
+                  "text": "lang=fr§{superlatif}lang=en§{superlative}lang=de§{Superlativ}lang=es§{superlativo}lang=it§{superlativo}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "deg-super",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                },
+                {
+                  "tag_id": "tag@acfeaf1d-79ab-5626-aa8e-2e8d91bd3c4a",
+                  "text": "lang=fr§{comparaison irrégulière}lang=en§{irregular comparison}lang=de§{unregelmäßige Steigerung}lang=es§{comparación irregular}lang=it§{comparazione irregolare}",
+                  "optional": true,
+                  "selectable": true,
+                  "reference": "deg-irr",
+                  "creation_date": "2026-08-22T00:00:00.000"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag_id": "tag@3f9c1f67-f671-5d5d-ae30-a899585e82af",
+      "text": "lang=fr§{formation du mot}lang=en§{word formation}lang=de§{Wortbildung}lang=es§{formación de palabras}lang=it§{formazione delle parole}",
+      "optional": false,
+      "selectable": false,
+      "reference": "formation",
+      "creation_date": "2026-08-22T00:00:00.000",
+      "tags": [
+        {
+          "tag_id": "tag@2667cd1a-0140-5473-9423-317d64768892",
+          "text": "lang=fr§{abréviation}lang=en§{abbreviation}lang=de§{Abkürzung}lang=es§{abreviatura}lang=it§{abbreviazione}",
+          "optional": false,
+          "selectable": true,
+          "reference": "abr",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@3e229891-69c5-57ad-b1b1-a8f33ba25b23",
+          "text": "lang=en§{acronym}lang=fr§{acronyme}lang=de§{Akronym}lang=es§{acrónimo}lang=it§{acronimo}",
+          "optional": false,
+          "selectable": true,
+          "reference": "acro",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@12b337e5-efb3-539c-b334-7d61086c1a7d",
+          "text": "lang=fr§{sigle}lang=en§{initialism}lang=de§{Initialwort}lang=es§{sigla}lang=it§{sigla}",
+          "optional": true,
+          "selectable": true,
+          "reference": "sigle",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@582a717c-7f24-568c-96f7-1853e38f9d77",
+          "text": "lang=fr§{mot composé}lang=en§{compound}lang=de§{Kompositum}lang=es§{palabra compuesta}lang=it§{parola composta}",
+          "optional": true,
+          "selectable": true,
+          "reference": "compound",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@fbcb40ff-cea4-5495-bc2f-2c9341fca20a",
+          "text": "lang=fr§{emprunt}lang=en§{loanword}lang=de§{Lehnwort}lang=es§{préstamo}lang=it§{prestito linguistico}",
+          "optional": true,
+          "selectable": true,
+          "reference": "loanword",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@21e0f773-48b8-548a-a3e3-3521284cdb1c",
+          "text": "lang=fr§{diminutif}lang=en§{diminutive}lang=de§{Diminutiv}lang=es§{diminutivo}lang=it§{diminutivo}",
+          "optional": true,
+          "selectable": true,
+          "reference": "diminutive",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "text": "lang=fr§{nom verbal (maṣdar)}lang=en§{verbal noun (masdar)}lang=de§{Verbalnomen (Masdar)}lang=es§{nombre verbal (masdar)}lang=it§{nome verbale (masdar)}",
+          "optional": true,
+          "selectable": true,
+          "reference": "masdar",
+          "creation_date": "2026-10-05T00:00:00.000"
+        },
+        {
+          "text": "lang=fr§{adjectif de relation (nisba)}lang=en§{relational adjective (nisba)}lang=de§{Nisba-Adjektiv}lang=es§{adjetivo de relación (nisba)}lang=it§{aggettivo di relazione (nisba)}",
+          "optional": true,
+          "selectable": true,
+          "reference": "nisba",
+          "creation_date": "2026-10-05T00:00:00.000"
+        }
+      ]
+    },
+    {
+      "tag_id": "tag@880f2459-8b99-584a-ac1c-8bb6245f6c6c",
+      "text": "lang=fr§{type de contenu}lang=en§{content type}lang=de§{Inhaltstyp}lang=es§{tipo de contenido}lang=it§{tipo di contenuto}",
+      "optional": false,
+      "selectable": false,
+      "reference": "content",
+      "creation_date": "2026-08-22T00:00:00.000",
+      "tags": [
+        {
+          "tag_id": "tag@11effe53-17ce-5ac2-93c9-46437f401c8d",
+          "text": "lang=en§{question}lang=fr§{question}lang=de§{Frage}lang=es§{pregunta}lang=it§{domanda}",
+          "optional": true,
+          "selectable": true,
+          "reference": "question",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@e094bc5d-7af9-579b-8318-cf493eb9ffb0",
+          "text": "lang=en§{definition}lang=fr§{définition}lang=de§{Definition}lang=es§{definición}lang=it§{definizione}",
+          "optional": true,
+          "selectable": true,
+          "reference": "defi",
+          "creation_date": "2026-08-22T00:00:00.000"
+        }
+      ]
+    },
+    {
+      "tag_id": "tag@b6b9d035-fef6-505e-854e-5f8058858639",
+      "text": "lang=fr§{registre de langue}lang=en§{language register}lang=de§{Sprachregister}lang=es§{registro lingüístico}lang=it§{registro linguistico}",
+      "optional": false,
+      "selectable": false,
+      "reference": "registre",
+      "creation_date": "2026-08-22T00:00:00.000",
+      "tags": [
+        {
+          "tag_id": "tag@b0c5ec06-e91b-5935-9a6b-1e1de8444d4a",
+          "text": "lang=fr§{courant}lang=en§{common}lang=de§{gebräuchlich}lang=es§{común}lang=it§{comune}",
+          "optional": true,
+          "selectable": true,
+          "reference": "reg-courant",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@e5d06e78-818d-5484-a3af-ddbbb1e13bcb",
+          "text": "lang=fr§{familier}lang=en§{colloquial}lang=de§{umgangssprachlich}lang=es§{coloquial}lang=it§{colloquiale}",
+          "optional": true,
+          "selectable": true,
+          "reference": "reg-familier",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@7a204a32-e67c-5fd3-8ad3-e6c57af1a1d7",
+          "text": "lang=fr§{soutenu}lang=en§{formal}lang=de§{gehoben}lang=es§{formal}lang=it§{formale}",
+          "optional": true,
+          "selectable": true,
+          "reference": "reg-soutenu",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@bc06892e-12b2-5230-83e6-74b9dc54fbc9",
+          "text": "lang=fr§{technique}lang=en§{technical}lang=de§{fachsprachlich}lang=es§{técnico}lang=it§{tecnico}",
+          "optional": true,
+          "selectable": true,
+          "reference": "reg-technique",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@cc8675b8-f087-5d68-bca6-e85a0e78b0d2",
+          "text": "lang=fr§{argot}lang=en§{slang}lang=de§{Slang}lang=es§{argot}lang=it§{gergo}",
+          "optional": true,
+          "selectable": true,
+          "reference": "reg-argot",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@922cd3ef-8753-5e4f-a49f-55b176d896b3",
+          "text": "lang=fr§{vulgaire}lang=en§{vulgar}lang=de§{vulgär}lang=es§{vulgar}lang=it§{volgare}",
+          "optional": true,
+          "selectable": true,
+          "reference": "reg-vulgaire",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@225897ec-6528-5675-8e2c-352b5daa8762",
+          "text": "lang=fr§{régional}lang=en§{regional}lang=de§{regional}lang=es§{regional}lang=it§{regionale}",
+          "optional": true,
+          "selectable": true,
+          "reference": "reg-regional",
+          "creation_date": "2026-08-22T00:00:00.000"
+        }
+      ]
+    },
+    {
+      "tag_id": "tag@aec6dd9c-860f-5d12-bf72-22ab43893bd0",
+      "text": "lang=fr§{fréquence d'utilisation}lang=en§{usage frequency}lang=de§{Gebrauchshäufigkeit}lang=es§{frecuencia de uso}lang=it§{frequenza d'uso}",
+      "optional": false,
+      "selectable": false,
+      "reference": "frequence",
+      "creation_date": "2026-08-22T00:00:00.000",
+      "tags": [
+        {
+          "tag_id": "tag@7d6b13c9-0ffa-52f1-957a-5d9e108468f8",
+          "text": "lang=fr§{ultra-fréquent}lang=en§{ultra-frequent}lang=de§{ultrahäufig}lang=es§{ultrafrecuente}lang=it§{ultrafrequente}",
+          "optional": true,
+          "selectable": true,
+          "reference": "freq-ultra",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@448802fd-2372-58a6-89af-9704bcb9a621",
+          "text": "lang=fr§{très fréquent}lang=en§{very frequent}lang=de§{sehr häufig}lang=es§{muy frecuente}lang=it§{molto frequente}",
+          "optional": true,
+          "selectable": true,
+          "reference": "freq-tres",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@782a66d9-7a17-5904-8434-42b1e196efcd",
+          "text": "lang=fr§{fréquent}lang=en§{frequent}lang=de§{häufig}lang=es§{frecuente}lang=it§{frequente}",
+          "optional": true,
+          "selectable": true,
+          "reference": "freq-freq",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@be1bcefc-98e9-50c8-900c-d1b948f6e8bc",
+          "text": "lang=fr§{peu fréquent}lang=en§{infrequent}lang=de§{wenig häufig}lang=es§{poco frecuente}lang=it§{poco frequente}",
+          "optional": true,
+          "selectable": true,
+          "reference": "freq-peu",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@f7faf4b4-a075-5ce8-b34c-49fafcabeaeb",
+          "text": "lang=fr§{rare}lang=en§{rare}lang=de§{selten}lang=es§{raro}lang=it§{raro}",
+          "optional": true,
+          "selectable": true,
+          "reference": "freq-rare",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@24356103-05df-5539-a8e9-86361e4a3848",
+          "text": "lang=fr§{très rare}lang=en§{very rare}lang=de§{sehr selten}lang=es§{muy raro}lang=it§{molto raro}",
+          "optional": true,
+          "selectable": true,
+          "reference": "freq-tres-rare",
+          "creation_date": "2026-08-22T00:00:00.000"
+        }
+      ]
+    },
+    {
+      "tag_id": "tag@7b7d9f0c-3e4e-5b4d-a958-27d9bd89ad33",
+      "text": "lang=fr§{niveau de maîtrise}lang=en§{proficiency level}lang=de§{Niveaustufe}lang=es§{nivel de dominio}lang=it§{livello di padronanza}",
+      "optional": false,
+      "selectable": false,
+      "reference": "niveau",
+      "creation_date": "2026-08-22T00:00:00.000",
+      "tags": [
+        {
+          "tag_id": "tag@335806c5-9971-57f1-8da7-73c2db84ae7b",
+          "text": "lang=fr§{A1}lang=en§{A1}lang=de§{A1}lang=es§{A1}lang=it§{A1}",
+          "optional": true,
+          "selectable": true,
+          "reference": "niv-a1",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@c1c0651e-859f-5da7-9d7b-1ad7d74ce61a",
+          "text": "lang=fr§{A2}lang=en§{A2}lang=de§{A2}lang=es§{A2}lang=it§{A2}",
+          "optional": true,
+          "selectable": true,
+          "reference": "niv-a2",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@6e101d61-4743-551e-985e-af90799cbdfb",
+          "text": "lang=fr§{B1}lang=en§{B1}lang=de§{B1}lang=es§{B1}lang=it§{B1}",
+          "optional": true,
+          "selectable": true,
+          "reference": "niv-b1",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@4fd87147-e40a-5373-a966-a4b9ca140b74",
+          "text": "lang=fr§{B2}lang=en§{B2}lang=de§{B2}lang=es§{B2}lang=it§{B2}",
+          "optional": true,
+          "selectable": true,
+          "reference": "niv-b2",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@f63e651c-3032-5d89-a6d6-78804b13554d",
+          "text": "lang=fr§{C1}lang=en§{C1}lang=de§{C1}lang=es§{C1}lang=it§{C1}",
+          "optional": true,
+          "selectable": true,
+          "reference": "niv-c1",
+          "creation_date": "2026-08-22T00:00:00.000"
+        },
+        {
+          "tag_id": "tag@dd976edb-39d7-5721-8a23-872ad4490e3c",
+          "text": "lang=fr§{C2}lang=en§{C2}lang=de§{C2}lang=es§{C2}lang=it§{C2}",
+          "optional": true,
+          "selectable": true,
+          "reference": "niv-c2",
+          "creation_date": "2026-08-22T00:00:00.000"
+        }
+      ]
+    }
+  ]
+}

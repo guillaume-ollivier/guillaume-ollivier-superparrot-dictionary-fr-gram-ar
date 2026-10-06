@@ -1,0 +1,43 @@
+{
+  "topic_ref": "0073-1",
+  "source": "source=AR§reference=0073-1",
+  "title": "lang=fr-FR§{Ordinaux}lang=ar-SA§{الأعداد الترتيبية}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§la première leçon}",
+      "answer": "{?1§{الدرس الأول|الدرس الاول}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§la deuxième leçon}",
+      "answer": "{?1§الدرس الثاني}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§la troisième année}",
+      "answer": "{?1§السنة الثالثة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§la première fois}",
+      "answer": "{?1§{المرة الأولى|المرة الاولى}}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+# Exercice
+
+## Description
+| attribute   | section | index | lang  | value               |
+| ----------- | ------- | ----- | ----- | ------------------- |
+| ref         |         |       |       | 0159-1              |
+| title       |         |       | fr-FR | Passif à l'accompli |
+|             |         |       | ar-SA | المبني للمجهول      |
+| wording     |         |       | fr-FR | Traduisez           |
+|             |         |       | ar-SA | ترجم                |
+| categories* |         |       |       | niv-b1              |
+| tags*       |         |       |       |                     |
+
+## Items
+### Common
+| attribute | section | index | lang  |
+| --------- | ------- | ----- | ----- |
+| question  | 1       |       | fr-FR |
+| answer    | 1       |       | ar-SA |
+
+### 1
+| attribute | section | index | lang | value                                                     |
+| --------- | ------- | ----- | ---- | --------------------------------------------------------- |
+| question  |         |       |      | {?1§Ce livre a été écrit au dixième siècle}{type=affix§.} |
+| answer    |         |       |      | {?1§كتب هذا الكتاب في القرن العاشر}{type=affix§.}         |
+
+### 2
+| attribute | section | index | lang | value                                     |
+| --------- | ------- | ----- | ---- | ----------------------------------------- |
+| question  |         |       |      | {?1§La porte a été ouverte}{type=affix§.} |
+| answer    |         |       |      | {?1§فتح الباب}{type=affix§.}              |
+
+### 3
+| attribute | section | index | lang | value                                             |
+| --------- | ------- | ----- | ---- | ------------------------------------------------- |
+| question  |         |       |      | {?1§La lettre a été envoyée}{type=affix§.}        |
+| answer    |         |       |      | {?1§{أرسلت الرسالة\|ارسلت الرسالة}}{type=affix§.} |
+
+### 4
+| attribute | section | index | lang | value                                 |
+| --------- | ------- | ----- | ---- | ------------------------------------- |
+| question  |         |       |      | {?1§Je suis né à Paris}{type=affix§.} |
+| answer    |         |       |      | {?1§ولدت في باريس}{type=affix§.}      |

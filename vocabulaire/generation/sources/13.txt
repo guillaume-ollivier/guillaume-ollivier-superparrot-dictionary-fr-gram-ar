@@ -1,0 +1,183 @@
+@ref 0056
+@chap 13
+@slug fi-ala-min-ila
+@niv niv-a1
+=== NOTE
+# _Fī_, _ʿalā_, _min_, _ʾilā_
+
+**1** Les prépositions sont suivies du **génitif** (_-i_, _-in_) :
+
+| préposition | sens | exemple |
+| --- | --- | --- |
+| *فِي* _fī_ | dans, en, à | *فِي البَيْتِ* (à la maison) |
+| *عَلَى* _ʿalā_ | sur | *عَلَى الطَّاوِلَةِ* (sur la table) |
+| *مِنْ* _min_ | de, depuis | *مِنْ تُونِسَ* (de Tunisie) |
+| *إِلَى* _ʾilā_ | vers, à, jusqu'à | *إِلَى المَدْرَسَةِ* (à l'école) |
+
+**2** *مِنْ* prend un _a_ de liaison devant l'article : *مِنَ البَيْتِ* _mina l-bayti_. Sans voyelles : *من البيت*.
+
+> *الكِتَابُ فِي الحَقِيبَةِ عَلَى الكُرْسِيِّ.*
+> _al-kitābu fī l-ḥaqībati ʿalā l-kursiyyi._
+> Le livre est dans le sac sur la chaise.
+
+**3** *مِنْ … إِلَى* : de … à. *مِنَ الصَّبَاحِ إِلَى المَسَاءِ* (du matin au soir).
+=== EXO
+title: Prépositions de base | حروف الجر
+wording: Traduisez | ترجم
+mode: trad
+à la maison => في البيت
+sur la table => على الطاولة
+de Tunisie => من تونس
+à l'école => إلى المدرسة
+du matin au soir => من الصباح إلى المساء
+Le livre est dans le sac. => الكتاب في الحقيبة.
+=== VOCA
+حَقِيبَة | sac:m | noun, fem | niv-a1 | freq-tres | objet, voyage | | | | | حَقَائِب
+كُرْسِيّ | chaise:f | noun, mas | niv-a1 | freq-tres | mobilier |  |  |  |  | كَرَاسِيّ
+@ref 0057
+@chap 13
+@slug bi-li-maa-an
+@niv niv-a1
+=== NOTE
+# _Bi-_, _li-_, _maʿa_, _ʿan_
+
+**1** *بِـ* et *لِـ* s'écrivent **collées** au mot suivant :
+
+| préposition | sens | exemple |
+| --- | --- | --- |
+| *بِـ* _bi-_ | avec (instrument), par, en | *بِالقَلَمِ* (au stylo), *بِالسَّيَّارَةِ* (en voiture) |
+| *لِـ* _li-_ | pour, à (appartenance) | *لِأَخِي* (pour mon frère) |
+| *مَعَ* _maʿa_ | avec (accompagnement) | *مَعَ صَدِيقِي* (avec mon ami) |
+| *عَنْ* _ʿan_ | au sujet de | *عَنِ الدَّرْسِ* (au sujet de la leçon) |
+
+**2** Règle d'écriture : *لِـ* + *الـ* perd l'alif → *لِلْـ* : *لِلطَّالِبِ* _li-ṭ-ṭālibi_ (pour l'étudiant). On tape *للطالب*.
+
+**3** *بِـ* (instrument) ≠ *مَعَ* (compagnie) : *أَكْتُبُ بِالقَلَمِ* (j'écris au stylo), *أَدْرُسُ مَعَ صَدِيقِي* (j'étudie avec mon ami).
+
+> *هٰذِهِ الهَدِيَّةُ لِلْمُعَلِّمَةِ.*
+> _hāḏihi l-hadiyyatu lil-muʿallimati._
+> Ce cadeau est pour l'institutrice.
+=== EXO
+title: Bi-, li-, maʿa, ʿan | حروف الجر
+wording: Traduisez | ترجم
+mode: trad
+en voiture => بالسيارة
+pour l'étudiant => للطالب
+avec mon ami => مع صديقي
+au sujet de la leçon => عن الدرس
+Ce cadeau est pour l'institutrice. => هذه الهدية للمعلمة.
+pour mon frère => لأخي
+=== VOCA
+بِـ | avec [instrument]; par | prep | niv-a1 | freq-ultra |  |  |  | bi-
+هَدِيَّة | cadeau:m | noun, fem | niv-a1 | freq-freq | fete |  |  |  |  | هَدَايَا
+@ref 0058
+@chap 13
+@slug zuruf-al-makan
+@niv niv-a2
+=== NOTE
+# Les adverbes de lieu
+
+**1** Ces mots s'emploient comme des prépositions, suivis du **génitif** (ils sont en annexion, et finissent en _-a_) :
+
+| mot | sens |
+| --- | --- |
+| *فَوْقَ* _fawqa_ | au-dessus de |
+| *تَحْتَ* _taḥta_ | sous |
+| *أَمَامَ* _ʾamāma_ | devant |
+| *خَلْفَ* _ḫalfa_ / *وَرَاءَ* _warāʾa_ | derrière |
+| *بَيْنَ* _bayna_ | entre |
+| *بِجَانِبِ* _bi-ǧānibi_ | à côté de |
+| *عِنْدَ* _ʿinda_ | chez |
+
+> *القِطَّةُ تَحْتَ السَّرِيرِ.*
+> _al-qiṭṭatu taḥta s-sarīri._
+> La chatte est sous le lit.
+
+**2** Ils prennent aussi les suffixes : *أَمَامَكَ* (devant toi), *بَيْنَنَا* (entre nous).
+=== EXO
+title: Localiser | ظروف المكان
+wording: Traduisez | ترجم
+mode: trad
+sous le lit => تحت السرير
+au-dessus de la porte => فوق الباب
+derrière la maison => خلف البيت | وراء البيت
+entre la maison et l'école => بين البيت والمدرسة
+à côté de la banque => بجانب البنك
+La chatte est sous le lit. => القطة تحت السرير.
+=== VOCA
+فَوْقَ | au-dessus de | prep | niv-a1 | freq-tres | lieu
+تَحْتَ | sous | prep | niv-a1 | freq-tres | lieu
+خَلْفَ ; وَرَاءَ | derrière | prep | niv-a1 | freq-tres | lieu
+بَيْنَ | entre | prep | niv-a1 | freq-ultra | lieu
+بِجَانِبِ | à côté de | locution, prep | niv-a1 | freq-freq | lieu
+قِطَّة | chatte:f; chat:m | noun, fem | niv-a1 | freq-freq | animal | | | | | قِطَط
+سَرِير | lit:m | noun, mas | niv-a1 | freq-freq | mobilier |  |  |  |  | أَسِرَّة
+بَنْك | banque:f | noun, mas, loanword | niv-a1 | freq-freq | argent, batiment | | | | | بُنُوك
+@ref 0059
+@chap 13
+@slug hunaka
+@niv niv-a1
+=== NOTE
+# « Il y a » : _hunāka_ et l'inversion
+
+**1** *هُنَاكَ* _hunāka_ (litt. « là-bas ») + nom **indéfini** = « il y a » :
+
+> *هُنَاكَ مَطْعَمٌ قَرِيبٌ.*
+> _hunāka maṭʿamun qarībun._
+> Il y a un restaurant proche.
+
+**2** Avec un complément de lieu, on met le **lieu en tête** et le sujet indéfini ensuite (un indéfini ne peut pas commencer une phrase nominale) :
+
+> *فِي الغُرْفَةِ سَرِيرٌ وَطَاوِلَةٌ.*
+> _fī l-ġurfati sarīrun wa-ṭāwilatun._
+> Dans la chambre, il y a un lit et une table.
+
+**3** *هُنَا* _hunā_ = ici ; *هُنَاكَ* = là-bas. Négation : *لَيْسَ هُنَاكَ* (il n'y a pas) (§20.2).
+=== EXO
+title: Il y a | هناك
+wording: Traduisez | ترجم
+mode: trad
+Il y a un restaurant proche. => هناك مطعم قريب.
+Dans la chambre, il y a un lit. => في الغرفة سرير.
+Il y a un problème. => هناك مشكلة.
+ici => هنا
+Dans la ville, il y a un grand marché. => في المدينة سوق كبير.
+=== VOCA
+هُنَاكَ | là-bas | adv | niv-a1 | freq-ultra | lieu | | مَكَان
+هُنَاكَ | il y a::locution, verb | adv | niv-a1 | freq-ultra | | | وُجُود
+هُنَا | ici | adv | niv-a1 | freq-ultra | lieu
+مَطْعَم | restaurant:m | noun, mas | niv-a1 | freq-tres | commerce, repas | | | | | مَطَاعِم
+مُشْكِلَة | problème:m | noun, fem | niv-a1 | freq-tres | etat |  |  |  |  | مَشَاكِل
+@ref 0060
+@chap 13
+@slug al-milkiyya
+@niv niv-a1
+=== NOTE
+# « Avoir » : _ʿinda_, _li-_, _maʿa_
+
+**1** L'arabe n'a pas de verbe « avoir ». On dit « chez moi (il y a) » :
+
+> *عِنْدِي سَيَّارَةٌ.*
+> _ʿindī sayyāratun._
+> J'ai une voiture.
+
+**2** Trois tournures, trois nuances :
+
+| tournure | nuance | exemple |
+| --- | --- | --- |
+| *عِنْدَ* + suffixe | possession courante | *عِنْدَهُ بَيْتٌ* (il a une maison) |
+| *لِـ* + suffixe | lien durable, parenté | *لِي أَخٌ* (j'ai un frère) |
+| *مَعَ* + suffixe | sur soi, en ce moment | *مَعِي قَلَمٌ* (j'ai un stylo sur moi) |
+
+**3** Avec un nom possesseur : *عِنْدَ أَحْمَدَ سَيَّارَةٌ* (Ahmed a une voiture). Au passé : *كَانَ عِنْدِي* (§21.1). Négation : *لَيْسَ عِنْدِي* (je n'ai pas) (§20.2).
+=== EXO
+title: Avoir | الملكية
+wording: Traduisez | ترجم
+mode: trad
+J'ai une voiture. => عندي سيارة.
+Il a une maison. => عنده بيت.
+J'ai un frère. => لي أخ. | عندي أخ.
+J'ai un stylo sur moi. => معي قلم.
+Nous avons un problème. => عندنا مشكلة.
+Elle a deux sœurs. => عندها أختان. | لها أختان.
+=== VOCA

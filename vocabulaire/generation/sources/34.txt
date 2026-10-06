@@ -1,0 +1,136 @@
+@ref 0150
+@chap 34
+@slug alladhi-allati
+@niv niv-b1
+=== NOTE
+# _Allaḏī_, _allatī_ : qui, que
+
+**1** Le pronom relatif s'accorde en genre et en nombre avec son antécédent, qui doit être **défini** :
+
+| | masculin | féminin |
+| --- | --- | --- |
+| singulier | *الَّذِي* _allaḏī_ | *الَّتِي* _allatī_ |
+
+**2** On les tape *الذي*, *التي* (un seul _ل_).
+
+> *الرَّجُلُ الَّذِي يَعْمَلُ هُنَا مِصْرِيٌّ.*
+> _ar-raǧulu llaḏī yaʿmalu hunā miṣriyyun._
+> L'homme qui travaille ici est égyptien.
+
+> *السَّيَّارَةُ الَّتِي اشْتَرَيْتُهَا جَدِيدَةٌ.*
+> _as-sayyāratu llatī štaraytuhā ǧadīdatun._
+> La voiture que j'ai achetée est neuve.
+
+**3** Le relatif vaut « qui » et « que » à la fois. Un pluriel de choses prend *الَّتِي* (accord au féminin singulier).
+=== EXO
+title: Alladhī ou allatī | الذي أم التي
+wording: Complétez avec le relatif | أكمل بالاسم الموصول
+mode: trou
+الرجل ___ يعمل هنا مصري. => الذي
+السيارة ___ اشتريتها جديدة. => التي
+الكتاب ___ قرأته مفيد. => الذي
+المدينة ___ زرتها جميلة. => التي
+الكتب ___ اشتريتها قديمة. => التي
+=== VOCA
+الَّذِي | qui [relatif]; que [relatif] | pron | niv-b1 | freq-ultra | | | | alladhi | fr-FR§masculin singulier
+الَّتِي | qui [relatif]; que [relatif] | pron | niv-b1 | freq-ultra | | | | allati | fr-FR§féminin singulier, ou pluriel de choses
+مُفِيد | utile | adj | niv-a2 | freq-tres | qualite
+@ref 0151
+@chap 34
+@slug alladhina
+@niv niv-b1
+=== NOTE
+# Le relatif au pluriel et au duel
+
+| | masculin | féminin |
+| --- | --- | --- |
+| pluriel | *الَّذِينَ* _allaḏīna_ | *اللَّوَاتِي* / *اللَّاتِي* _allawātī_ |
+| duel sujet | *اللَّذَانِ* | *اللَّتَانِ* |
+| duel compl. | *اللَّذَيْنِ* | *اللَّتَيْنِ* |
+
+**1** *الَّذِينَ* (pour des personnes) s'écrit avec un seul _ل_ ; les duels et *اللَّوَاتِي* avec deux.
+
+> *الطُّلَّابُ الَّذِينَ نَجَحُوا سُعَدَاءُ.*
+> _aṭ-ṭullābu llaḏīna naǧaḥū suʿadāʾu._
+> Les étudiants qui ont réussi sont heureux.
+
+**2** Dans la langue courante, *الَّذِينَ* remplace souvent *اللَّوَاتِي* ; l'arabe écrit les distingue.
+=== EXO
+title: Relatifs pluriels | الموصول الجمع
+wording: Traduisez | ترجم
+mode: trad
+les étudiants qui ont réussi => الطلاب الذين نجحوا
+les hommes qui travaillent ici => الرجال الذين يعملون هنا
+les femmes qui travaillent ici => النساء اللواتي يعملن هنا | النساء اللاتي يعملن هنا
+les deux garçons qui jouent => الولدان اللذان يلعبان
+=== VOCA
+الَّذِينَ | qui [relatif]; que [relatif] | pron | niv-b1 | freq-tres | | | | alladhina | fr-FR§masculin pluriel
+سَعِيد | heureux | adj | niv-a1 | freq-tres | emotion
+@ref 0152
+@chap 34
+@slug al-aid
+@niv niv-b1
+=== NOTE
+# Le pronom de rappel
+
+**1** Quand l'antécédent n'est **pas sujet** de la relative, on le rappelle par un **pronom suffixe** dans la relative (le _ʿāʾid_) :
+
+> *الكِتَابُ الَّذِي قَرَأْتُهُ*
+> _al-kitābu llaḏī qaraʾtuhu_
+> le livre que j'ai lu (litt. que je l'ai lu)
+
+> *البَيْتُ الَّذِي أَسْكُنُ فِيهِ*
+> _al-baytu llaḏī ʾaskunu fīhi_
+> la maison dans laquelle j'habite (litt. que j'habite dedans)
+
+> *الصَّدِيقُ الَّذِي سَافَرْتُ مَعَهُ*
+> _aṣ-ṣadīqu llaḏī sāfartu maʿahu_
+> l'ami avec qui j'ai voyagé
+
+**2** C'est ainsi que l'arabe rend « dont, où, avec qui, auquel » : préposition + suffixe dans la relative.
+=== EXO
+title: Le pronom de rappel | العائد
+wording: Traduisez | ترجم
+mode: trad
+le livre que j'ai lu => الكتاب الذي قرأته
+la maison où j'habite => البيت الذي أسكن فيه
+l'ami avec qui j'ai voyagé => الصديق الذي سافرت معه
+la ville que j'ai visitée => المدينة التي زرتها
+la femme dont j'ai vu la fille => المرأة التي رأيت بنتها
+=== VOCA
+@ref 0153
+@chap 34
+@slug as-sila-bila-mawsul
+@niv niv-b2
+=== NOTE
+# Relative sans relatif ; _man_ et _mā_
+
+**1** Si l'antécédent est **indéfini**, on n'emploie **pas** de pronom relatif : la relative suit directement (le pronom de rappel reste) :
+
+> *عِنْدِي صَدِيقٌ يَسْكُنُ فِي دِمَشْقَ.*
+> _ʿindī ṣadīqun yaskunu fī dimašqa._
+> J'ai un ami qui habite à Damas.
+
+> *قَرَأْتُ كِتَابًا اشْتَرَيْتُهُ أَمْسِ.*
+> _qaraʾtu kitāban štaraytuhu ʾamsi._
+> J'ai lu un livre que j'ai acheté hier.
+
+**2** Sans antécédent : *مَنْ* (celui qui, pour des personnes), *مَا* (ce que) :
+
+> *مَنْ يَدْرُسْ يَنْجَحْ.*
+> _man yadrus yanǧaḥ._
+> Qui étudie réussit.
+
+> *فَهِمْتُ مَا قُلْتَ.*
+> _fahimtu mā qulta._
+> J'ai compris ce que tu as dit.
+=== EXO
+title: Relative après un indéfini | الجملة الصفة
+wording: Traduisez | ترجم
+mode: trad
+J'ai un ami qui habite à Damas. => عندي صديق يسكن في دمشق.
+un livre que j'ai acheté hier => كتاب اشتريته أمس
+J'ai compris ce que tu as dit. => فهمت ما قلت.
+un homme qui travaille ici => رجل يعمل هنا
+=== VOCA
+دِمَشْق | Damas | noun, noun-pro | niv-a1 | freq-freq | ville

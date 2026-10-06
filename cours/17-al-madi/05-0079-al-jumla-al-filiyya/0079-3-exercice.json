@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0079-1",
+  "source": "source=AR§reference=0079-1",
+  "title": "lang=fr-FR§{Verbe en tête}lang=ar-SA§{الجملة الفعلية}",
+  "wording": "lang=fr-FR§{Traduisez en commençant par le verbe}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§L'étudiant a écrit la leçon}{type=affix§.}",
+      "answer": "{?1§كتب الطالب الدرس}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Les étudiants sont allés au marché}{type=affix§.}",
+      "answer": "{?1§{ذهب الطلاب إلى السوق|ذهب الطلاب الى السوق}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§Les étudiantes sont sorties}{type=affix§.}",
+      "answer": "{?1§خرجت الطالبات}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§La fille a bu le café}{type=affix§.}",
+      "answer": "{?1§شربت البنت القهوة}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§Les hommes se sont assis}{type=affix§.}",
+      "answer": "{?1§جلس الرجال}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

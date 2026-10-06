@@ -1,0 +1,181 @@
+@ref 0020
+@chap 05
+@slug ad-damair-al-munfasila-1
+@niv niv-a1
+=== NOTE
+# Les pronoms personnels : le singulier
+
+**1** L'arabe distingue le **masculin** et le **féminin** dès la 2ᵉ personne :
+
+| pronom | translittération | sens |
+| --- | --- | --- |
+| *أَنَا* | _ʾanā_ | je, moi |
+| *أَنْتَ* | _ʾanta_ | tu, toi (homme) |
+| *أَنْتِ* | _ʾanti_ | tu, toi (femme) |
+| *هُوَ* | _huwa_ | il, lui |
+| *هِيَ* | _hiya_ | elle |
+
+**2** Il n'existe pas de « vous » de politesse en arabe standard : on tutoie tout le monde, y compris un inconnu ou un ministre ; la politesse passe par des formules (*حَضْرَتُكَ* _ḥaḍratuka_ « Votre Excellence », à l'oral).
+
+**3** *أَنْتَ* et *أَنْتِ* s'écrivent pareil sans voyelles : *أنت*.
+
+> *أَنَا طَالِبٌ وَهِيَ طَالِبَةٌ.*
+> _ʾanā ṭālibun wa-hiya ṭālibatun._
+> Je suis étudiant et elle est étudiante.
+=== EXO
+title: Pronoms singuliers | الضمائر المفردة
+wording: Traduisez | ترجم
+mode: trad
+je => أنا
+tu (à un homme) => أنت
+tu (à une femme) => أنت
+il => هو
+elle => هي
+Je suis étudiant. => أنا طالب.
+Elle est étudiante. => هي طالبة.
+=== VOCA
+أَنَا | je; moi | pron | niv-a1 | freq-ultra | personne
+أَنْتَ | tu; toi | pron | niv-a1 | freq-ultra | personne | | | | fr-FR§à un homme
+أَنْتِ | tu; toi | pron | niv-a1 | freq-ultra | personne | | | | fr-FR§à une femme
+هُوَ | il; lui | pron | niv-a1 | freq-ultra | personne
+هِيَ | elle | pron | niv-a1 | freq-ultra | personne
+طَالِب | étudiant:m; élève:m | noun, mas | niv-a1 | freq-tres | ecole, personne | | دِرَاسَة | | | طُلَّاب
+@ref 0021
+@chap 05
+@slug ad-damair-al-munfasila-2
+@niv niv-a1
+=== NOTE
+# Les pronoms personnels : le pluriel
+
+**1** Au pluriel aussi, masculin et féminin se distinguent à la 2ᵉ et à la 3ᵉ personne :
+
+| pronom | translittération | sens |
+| --- | --- | --- |
+| *نَحْنُ* | _naḥnu_ | nous |
+| *أَنْتُمْ* | _ʾantum_ | vous (hommes, ou groupe mixte) |
+| *أَنْتُنَّ* | _ʾantunna_ | vous (femmes seulement) |
+| *هُمْ* | _hum_ | ils |
+| *هُنَّ* | _hunna_ | elles |
+
+**2** Comme en français, un groupe mixte prend le **masculin** : *هُمْ* pour un homme et dix femmes.
+
+> *نَحْنُ مِنْ مِصْرَ، وَأَنْتُمْ؟*
+> _naḥnu min miṣra, wa-ʾantum?_
+> Nous sommes d'Égypte, et vous ?
+
+**3** *أَنْتُنَّ* et *هُنَّ* sont rares à l'oral, où le masculin pluriel tend à les remplacer ; l'écrit les respecte.
+=== EXO
+title: Pronoms pluriels | الضمائر الجمع
+wording: Traduisez | ترجم
+mode: trad
+nous => نحن
+vous (des hommes) => أنتم
+vous (des femmes) => أنتن
+ils => هم
+elles => هن
+Nous sommes d'Égypte. => نحن من مصر.
+=== VOCA
+نَحْنُ | nous | pron | niv-a1 | freq-ultra | personne
+أَنْتُمْ | vous | pron | niv-a1 | freq-tres | personne | | | | fr-FR§à des hommes, ou à un groupe mixte
+أَنْتُنَّ | vous | pron | niv-a2 | freq-peu | personne | | | | fr-FR§à des femmes
+هُمْ | ils; eux | pron | niv-a1 | freq-ultra | personne
+هُنَّ | elles | pron | niv-a2 | freq-freq | personne
+مِصْر | Égypte:f | noun, noun-pro | niv-a1 | freq-freq | geographie
+@ref 0022
+@chap 05
+@slug al-muthanna
+@niv niv-a2
+=== NOTE
+# Les pronoms du duel
+
+**1** L'arabe a un **duel** : un nombre pour exactement deux (§7.1). Il a ses pronoms, sans distinction de genre :
+
+| pronom | translittération | sens |
+| --- | --- | --- |
+| *أَنْتُمَا* | _ʾantumā_ | vous deux |
+| *هُمَا* | _humā_ | eux deux, elles deux |
+
+**2** Pas de pronom duel à la 1ʳᵉ personne : *نَحْنُ* vaut aussi pour « nous deux ».
+
+> *هُمَا أَخَوَانِ.*
+> _humā ʾaḫawāni._
+> Ils sont deux frères.
+
+**3** Le duel est bien vivant à l'écrit ; à l'oral, il se maintient surtout pour les noms (deux jours, deux livres).
+=== EXO
+title: Le duel | المثنى
+wording: Traduisez | ترجم
+mode: trad
+vous deux => أنتما
+eux deux => هما
+elles deux => هما
+Ils sont deux frères. => هما أخوان.
+=== VOCA
+أَنْتُمَا | vous deux | pron, dual | niv-a2 | freq-peu | personne
+هُمَا | eux deux; elles deux | pron, dual | niv-a2 | freq-freq | personne
+أَخ | frère:m | noun, mas | niv-a1 | freq-ultra | famille |  |  |  |  | إِخْوَة
+@ref 0023
+@chap 05
+@slug al-jumla-al-ismiyya
+@niv niv-a1
+=== NOTE
+# La phrase nominale : « être » sans verbe
+
+**1** Au présent, l'arabe **n'exprime pas** le verbe « être ». On juxtapose un **sujet** (_mubtadaʾ_, souvent défini) et un **attribut** (_ḫabar_, souvent indéfini) :
+
+> *البَيْتُ كَبِيرٌ.*
+> _al-baytu kabīrun._
+> La maison est grande.
+
+> *أَنَا مُهَنْدِسٌ.*
+> _ʾanā muhandisun._
+> Je suis ingénieur.
+
+**2** L'attribut peut être un nom, un adjectif, ou un complément de lieu :
+
+> *الكِتَابُ عَلَى الطَّاوِلَةِ.*
+> _al-kitābu ʿalā ṭ-ṭāwilati._
+> Le livre est sur la table.
+
+**3** Le contraste **défini / indéfini** distingue la phrase du groupe : *البَيْتُ كَبِيرٌ* « la maison est grande » / *البَيْتُ الكَبِيرُ* « la grande maison » (§9.2).
+
+**4** Au passé et au futur, le verbe « être » réapparaît (*كَانَ*) (§21.1).
+=== EXO
+title: Phrase nominale | الجملة الاسمية
+wording: Traduisez | ترجم
+mode: trad
+La maison est grande. => البيت كبير.
+Je suis ingénieur. => أنا مهندس.
+Le livre est sur la table. => الكتاب على الطاولة.
+Le marché est grand. => السوق كبير.
+Il est médecin. => هو طبيب.
+L'école est petite. => المدرسة صغيرة.
+=== VOCA
+مُهَنْدِس | ingénieur:m | noun, mas | niv-a1 | freq-freq | metier | | | | | مُهَنْدِسُون
+@ref 0024
+@chap 05
+@slug al-mudhakkar-wal-muannath
+@niv niv-a1
+=== NOTE
+# S'adresser à un homme ou à une femme
+
+**1** Le genre de l'**interlocuteur** est partout marqué : pronoms (*أَنْتَ* / *أَنْتِ*), suffixes (*حَالُكَ* / *حَالُكِ*), verbes (§18.2) et adjectifs.
+
+> *أَنْتِ طَالِبَةٌ؟ — نَعَمْ، أَنَا طَالِبَةٌ.*
+> _ʾanti ṭālibatun? — naʿam, ʾanā ṭālibatun._
+> Tu es étudiante ? — Oui, je suis étudiante.
+
+**2** La 1ʳᵉ personne n'est **pas** marquée au pronom (*أَنَا*), mais l'attribut s'accorde : *أَنَا مُتْعَبٌ* (homme), *أَنَا مُتْعَبَةٌ* (femme), « je suis fatigué(e) ».
+
+**3** Dans les consignes, manuels et formulaires, le masculin est utilisé par défaut, parfois avec une barre : *اُكْتُبْ* / *اُكْتُبِي* (écris) (§26.2).
+=== EXO
+title: Masculin et féminin | المذكر والمؤنث
+wording: Traduisez | ترجم
+mode: trad
+Je suis fatigué. => أنا متعب.
+Je suis fatiguée. => أنا متعبة.
+Tu es étudiante ? => أنت طالبة؟
+Oui, je suis étudiante. => نعم، أنا طالبة. | نعم أنا طالبة.
+Elle est ingénieure. => هي مهندسة.
+=== VOCA
+مُتْعَب | fatigué | adj | niv-a1 | freq-freq | etat

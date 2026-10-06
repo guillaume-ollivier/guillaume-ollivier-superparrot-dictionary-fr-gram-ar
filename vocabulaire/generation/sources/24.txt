@@ -1,0 +1,142 @@
+@ref 0105
+@chap 24
+@slug sighat-al-mansub
+@niv niv-b1
+=== NOTE
+# La forme du subjonctif
+
+**1** Le subjonctif (_al-manṣūb_) se forme sur l'inaccompli :
+- la voyelle finale _-u_ devient _-a_ : *يَكْتُبُ* → *يَكْتُبَ* ;
+- les formes à _n_ perdent leur _n_ : *يَكْتُبُونَ* → *يَكْتُبُوا* (alif muet), *تَكْتُبِينَ* → *تَكْتُبِي*, *يَكْتُبَانِ* → *يَكْتُبَا*.
+
+**2** Les formes en *ـنَ* du féminin pluriel (*يَكْتُبْنَ*) ne changent jamais.
+
+| indicatif | subjonctif |
+| --- | --- |
+| *أَكْتُبُ* | *أَكْتُبَ* |
+| *تَكْتُبِينَ* | *تَكْتُبِي* |
+| *يَكْتُبُونَ* | *يَكْتُبُوا* |
+| *يَكْتُبْنَ* | *يَكْتُبْنَ* |
+
+**3** Il apparaît après *أَنْ* (que), *لَنْ* (§23.2), *لِـ* / *كَيْ* (pour que) et *حَتَّى* (jusqu'à ce que).
+=== EXO
+title: Former le subjonctif | المضارع المنصوب
+wording: Mettez au subjonctif après أن | انصب بأن
+mode: transfo
+يكتب => أن يكتب
+يكتبون => أن يكتبوا
+تكتبين => أن تكتبي
+يكتبان => أن يكتبا
+يكتبن => أن يكتبن
+نذهب => أن نذهب
+=== VOCA
+@ref 0106
+@chap 24
+@slug an-al-masdariyya
+@niv niv-b1
+=== NOTE
+# _ʾAn_ + subjonctif après un verbe
+
+**1** Pour dire « vouloir faire », « pouvoir faire », l'arabe n'a pas d'infinitif : il emploie *أَنْ* + subjonctif, conjugué à la personne voulue :
+
+> *أُرِيدُ أَنْ أَذْهَبَ.*
+> _ʾurīdu ʾan ʾaḏhaba._
+> Je veux partir. (litt. je veux que je parte)
+
+**2** Tournures fréquentes :
+
+| tournure | sens |
+| --- | --- |
+| *أُرِيدُ أَنْ…* | je veux… |
+| *أُحِبُّ أَنْ…* | j'aime… |
+| *أَسْتَطِيعُ أَنْ…* | je peux… |
+| *يَجِبُ أَنْ…* | il faut que… |
+| *يُمْكِنُ أَنْ…* | il est possible de… |
+
+> *يَجِبُ أَنْ تَدْرُسُوا.*
+> _yaǧibu ʾan tadrusū._
+> Vous devez étudier.
+
+**3** Le sujet peut différer : *أُرِيدُ أَنْ تَذْهَبَ* (je veux que tu partes).
+=== EXO
+title: Vouloir, pouvoir, devoir | أن والمضارع
+wording: Traduisez | ترجم
+mode: trad
+Je veux partir. => أريد أن أذهب.
+Je peux écrire. => أستطيع أن أكتب.
+Vous devez étudier. => يجب أن تدرسوا.
+J'aime voyager. => أحب أن أسافر.
+Je veux que tu partes. => أريد أن تذهب.
+Elle veut boire du thé. => تريد أن تشرب الشاي.
+=== VOCA
+أَنْ | que [conjonction] | conj | niv-a2 | freq-ultra | | | | an | fr-FR§devant un verbe
+اِسْتَطَاعَ | pouvoir [capacité] | verb, verb-trans, verb-derived | niv-a2 | freq-tres | volonte
+وَجَبَ | falloir; être obligatoire | verb, verb-intrans | niv-a2 | freq-tres | volonte
+@ref 0107
+@chap 24
+@slug li-kay-hatta
+@niv niv-b1
+=== NOTE
+# But et limite : _li-_, _kay_, _ḥattā_
+
+**1** « Pour (que) » : *لِـ*, *كَيْ* ou *لِكَيْ* + subjonctif :
+
+> *جِئْتُ لِأَدْرُسَ العَرَبِيَّةَ.*
+> _ǧiʾtu li-ʾadrusa l-ʿarabiyyata._
+> Je suis venu pour étudier l'arabe.
+
+**2** « Pour ne pas » : *لِئَلَّا* ou *لِكَيْ لَا* : *أَسْرَعْتُ لِكَيْ لَا أَتَأَخَّرَ* (je me suis dépêché pour ne pas être en retard).
+
+**3** *حَتَّى* + subjonctif = « jusqu'à ce que, afin que » :
+
+> *اِنْتَظِرْ حَتَّى يَصِلَ القِطَارُ.*
+> _intaẓir ḥattā yaṣila l-qiṭāru._
+> Attends que le train arrive.
+
+**4** *حَتَّى* + nom = « jusqu'à » : *حَتَّى المَسَاءِ* (jusqu'au soir).
+=== EXO
+title: But | التعليل
+wording: Traduisez | ترجم
+mode: trad
+pour étudier l'arabe => لأدرس العربية
+Je suis venu pour étudier. => جئت لأدرس. | جئت كي أدرس. | جئت لكي أدرس.
+jusqu'au soir => حتى المساء
+Attends que le train arrive. => انتظر حتى يصل القطار.
+=== VOCA
+كَيْ | pour que; afin de | conj | niv-b1 | freq-freq | volonte
+حَتَّى | jusqu'à ce que::locution, conj | conj | niv-a2 | freq-ultra | moment | | غَايَة
+جَاءَ ; أَتَى @reg-soutenu | venir | verb, verb-intrans | niv-a1 | freq-ultra | deplacement
+اِنْتَظَرَ | attendre | verb, verb-trans, verb-derived | niv-a1 | freq-tres | temps
+@ref 0108
+@chap 24
+@slug an-wal-masdar
+@niv niv-b2
+=== NOTE
+# _ʾAn_ + accompli, et le nom verbal
+
+**1** *أَنْ* peut aussi précéder un **accompli** pour un fait passé : *بَعْدَ أَنْ خَرَجَ* (après qu'il est sorti), *قَبْلَ أَنْ يَخْرُجَ* (avant qu'il sorte — subjonctif, car non réalisé).
+
+**2** *أَنْ* + verbe équivaut souvent à un **nom verbal** (_maṣdar_) (§32.1), plus fréquent dans la presse :
+
+| avec *أَنْ* | avec le nom verbal |
+| --- | --- |
+| *أُرِيدُ أَنْ أُسَافِرَ* | *أُرِيدُ السَّفَرَ* |
+| *قَبْلَ أَنْ يَخْرُجَ* | *قَبْلَ خُرُوجِهِ* |
+
+> *أَكَلْنَا قَبْلَ أَنْ نَخْرُجَ.*
+> _ʾakalnā qabla ʾan naḫruǧa._
+> Nous avons mangé avant de sortir.
+
+**3** Rappel : *أَنْ* + verbe, *أَنَّ* + nom ou pronom (§22.2).
+=== EXO
+title: Avant, après | قبل أن، بعد أن
+wording: Traduisez | ترجم
+mode: trad
+avant de sortir (nous) => قبل أن نخرج
+après qu'il est sorti => بعد أن خرج
+Je veux voyager. (nom verbal) => أريد السفر.
+avant son départ => قبل خروجه | قبل سفره
+=== VOCA
+قَبْلَ | avant | prep | niv-a1 | freq-ultra | moment
+أَكَلَ | manger | verb, verb-trans | niv-a1 | freq-ultra | repas
+سَفَر | voyage:m | noun, mas, masdar | niv-a1 | freq-tres | voyage | | | | | أَسْفَار

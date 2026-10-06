@@ -1,0 +1,64 @@
+{
+  "topic_ref": "0073-2",
+  "source": "source=AR§reference=0073-2",
+  "title": "lang=fr-FR§{Jours de la semaine}lang=ar-SA§{أيام الأسبوع}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§dimanche}",
+      "answer": "{?1§{الأحد|الاحد}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§lundi}",
+      "answer": "{?1§الاثنين}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§mardi}",
+      "answer": "{?1§الثلاثاء}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§mercredi}",
+      "answer": "{?1§{الأربعاء|الاربعاء}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§jeudi}",
+      "answer": "{?1§الخميس}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§vendredi}",
+      "answer": "{?1§الجمعة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "7",
+      "question": "{?1§samedi}",
+      "answer": "{?1§السبت}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

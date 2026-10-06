@@ -1,0 +1,50 @@
+{
+  "topic_ref": "0061-1",
+  "source": "source=AR§reference=0061-1",
+  "title": "lang=fr-FR§{Hal}lang=ar-SA§{هل}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§Es-tu étudiant}{type=affix§?}",
+      "answer": "{?1§{هل أنت طالب|هل انت طالب}}{type=affix§؟}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§Est-ce que la maison est grande}{type=affix§?}",
+      "answer": "{?1§هل البيت كبير}{type=affix§؟}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§As-tu une voiture}{type=affix§?}",
+      "answer": "{?1§هل عندك سيارة}{type=affix§؟}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§Y a-t-il un restaurant ici}{type=affix§?}",
+      "answer": "{?1§هل هناك مطعم هنا}{type=affix§؟}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§Est-elle égyptienne}{type=affix§?}",
+      "answer": "{?1§هل هي مصرية}{type=affix§؟}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0088-1",
+  "source": "source=AR§reference=0088-1",
+  "title": "lang=fr-FR§{De mā à lam}lang=ar-SA§{من ما إلى لم}",
+  "wording": "lang=fr-FR§{Reformulez avec لم}lang=ar-SA§{انفِ بلم}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§ما ذهبت (أنا)}",
+      "answer": "{?1§{لم أذهب|لم اذهب}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§ما كتب (هو)}",
+      "answer": "{?1§لم يكتب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§ما فهمنا (نحن)}",
+      "answer": "{?1§لم نفهم}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§ما خرجوا (هم)}",
+      "answer": "{?1§لم يخرجوا}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§ما شربت (أنتِ)}",
+      "answer": "{?1§لم تشربي}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§ما درستم (أنتم)}",
+      "answer": "{?1§لم تدرسوا}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

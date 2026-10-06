@@ -1,0 +1,29 @@
+{
+  "topic_ref": "0120-1",
+  "source": "source=AR§reference=0120-1",
+  "title": "lang=fr-FR§{Emprunts et mots arabes}lang=ar-SA§{الدخيل}",
+  "wording": "lang=fr-FR§{Donnez le mot formé sur une racine arabe}lang=ar-SA§{اكتب الكلمة العربية}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§تلفون}",
+      "answer": "{?1§هاتف}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§كمبيوتر}",
+      "answer": "{?1§حاسوب}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

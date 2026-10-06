@@ -1,0 +1,161 @@
+@ref 0061
+@chap 14
+@slug hal
+@niv niv-a1
+=== NOTE
+# Questions fermées : _hal_ et _ʾa-_
+
+**1** On transforme une affirmation en question en plaçant *هَلْ* _hal_ en tête — l'ordre des mots ne change pas :
+
+> *هَلْ أَنْتَ طَالِبٌ؟*
+> _hal ʾanta ṭālibun?_
+> Es-tu étudiant ?
+
+**2** *أَ* _ʾa-_, collé au premier mot, a le même sens, plus littéraire : *أَأَنْتَ طَالِبٌ؟*
+
+**3** Réponses : *نَعَمْ* _naʿam_ (oui), *لَا* _lā_ (non). Pour répondre « si » à une question négative : *بَلَى* _balā_.
+
+**4** Le point d'interrogation arabe est retourné : *؟*.
+=== EXO
+title: Hal | هل
+wording: Traduisez | ترجم
+mode: trad
+Es-tu étudiant ? => هل أنت طالب؟
+Est-ce que la maison est grande ? => هل البيت كبير؟
+As-tu une voiture ? => هل عندك سيارة؟
+Y a-t-il un restaurant ici ? => هل هناك مطعم هنا؟
+Est-elle égyptienne ? => هل هي مصرية؟
+=== VOCA
+هَلْ | est-ce que | particle | niv-a1 | freq-ultra | communication
+بَلَى | si [réponse] | particle | niv-b1 | freq-peu | communication-orale | reg-soutenu
+@ref 0062
+@chap 14
+@slug man-ma-madha
+@niv niv-a1
+=== NOTE
+# _Man_, _mā_, _māḏā_ : qui, que
+
+**1** *مَنْ* _man_ = qui :
+
+> *مَنْ هٰذَا؟ — هٰذَا أَخِي.*
+> _man hāḏā? — hāḏā ʾaḫī._
+> Qui est-ce ? — C'est mon frère.
+
+**2** « Que, quoi » se dit :
+
+| mot | emploi | exemple |
+| --- | --- | --- |
+| *مَا* _mā_ | devant un nom | *مَا هٰذَا؟* (qu'est-ce que c'est ?), *مَا اسْمُكَ؟* |
+| *مَاذَا* _māḏā_ | devant un verbe | *مَاذَا تَدْرُسُ؟* (qu'étudies-tu ?) |
+
+**3** *مَا* est aussi la négation du passé (§18.1) : le contexte tranche.
+=== EXO
+title: Qui, que | من، ما، ماذا
+wording: Traduisez | ترجم
+mode: trad
+Qui est-ce ? => من هذا؟
+Qu'est-ce que c'est ? => ما هذا؟
+Quel est ton nom ? => ما اسمك؟
+Qu'étudies-tu ? => ماذا تدرس؟
+Qui est le directeur ? => من المدير؟
+=== VOCA
+مَنْ | qui [interrogatif] | pron | niv-a1 | freq-ultra | communication | | اِسْتِفْهَام
+مَا | que [interrogatif]; quoi | pron | niv-a1 | freq-ultra | communication | | اِسْتِفْهَام | | fr-FR§devant un nom
+مَاذَا | que [interrogatif]; quoi | pron | niv-a1 | freq-ultra | communication | | | | fr-FR§devant un verbe
+@ref 0063
+@chap 14
+@slug ayna-mata-kayfa
+@niv niv-a1
+=== NOTE
+# _ʾAyna_, _matā_, _kayfa_ : où, quand, comment
+
+| mot | sens | exemple |
+| --- | --- | --- |
+| *أَيْنَ* _ʾayna_ | où | *أَيْنَ المَحَطَّةُ؟* (où est la gare ?) |
+| *مِنْ أَيْنَ* | d'où | *مِنْ أَيْنَ أَنْتِ؟* |
+| *إِلَى أَيْنَ* | où (direction) | *إِلَى أَيْنَ تَذْهَبُ؟* (où vas-tu ?) |
+| *مَتَى* _matā_ | quand | *مَتَى الامْتِحَانُ؟* (quand est l'examen ?) |
+| *كَيْفَ* _kayfa_ | comment | *كَيْفَ حَالُكَ؟* |
+
+> *مَتَى تَبْدَأُ الحِصَّةُ؟*
+> _matā tabdaʾu l-ḥiṣṣatu?_
+> Quand le cours commence-t-il ?
+
+L'interrogatif est **toujours en tête**, sans inversion du sujet.
+=== EXO
+title: Où, quand, comment | أين، متى، كيف
+wording: Traduisez | ترجم
+mode: trad
+Où est la gare ? => أين المحطة؟
+D'où es-tu ? => من أين أنت؟
+Quand est l'examen ? => متى الامتحان؟
+Comment est la ville ? => كيف المدينة؟
+Où vas-tu ? => إلى أين تذهب؟
+=== VOCA
+مَتَى | quand | adv | niv-a1 | freq-tres | moment
+مَحَطَّة | gare:f; station:f | noun, fem | niv-a1 | freq-tres | transport | | | | | مَحَطَّات
+ذَهَبَ | aller | verb, verb-intrans | niv-a1 | freq-ultra | deplacement
+@ref 0064
+@chap 14
+@slug kam
+@niv niv-a2
+=== NOTE
+# _Kam_ : combien
+
+**1** *كَمْ* _kam_ est suivi d'un nom **singulier indéfini à l'accusatif** (_-an_) :
+
+> *كَمْ أَخًا لَكَ؟*
+> _kam ʾaḫan laka?_
+> Combien de frères as-tu ?
+
+> *كَمْ طَالِبًا فِي الصَّفِّ؟*
+> _kam ṭāliban fī ṣ-ṣaffi?_
+> Combien d'étudiants y a-t-il dans la classe ?
+
+Attention : singulier (*طَالِبًا*), jamais pluriel. Sans voyelles, on écrit l'alif du _tanwīn_ : *طالبا*.
+
+**2** Le prix : *بِكَمْ هٰذَا؟* _bi-kam hāḏā?_ (combien ça coûte ?). L'heure : *كَمِ السَّاعَةُ؟* (quelle heure est-il ?) (§16.5).
+=== EXO
+title: Combien | كم
+wording: Traduisez | ترجم
+mode: trad
+Combien d'étudiants ? => كم طالبا؟
+Combien de frères as-tu ? => كم أخا لك؟ | كم أخا عندك؟
+Combien ça coûte ? => بكم هذا؟
+Combien de livres ? => كم كتابا؟
+Combien de jours ? => كم يوما؟
+=== VOCA
+كَمْ | combien | adv | niv-a1 | freq-tres | quantite
+@ref 0065
+@chap 14
+@slug limadha-ayy
+@niv niv-a2
+=== NOTE
+# _Limāḏā_, _ʾayy_ : pourquoi, quel
+
+**1** *لِمَاذَا* _limāḏā_ = pourquoi ; réponse avec *لِأَنَّ* _li-ʾanna_ (parce que) + pronom suffixe ou nom à l'accusatif (§22.2) :
+
+> *لِمَاذَا أَنْتَ هُنَا؟ — لِأَنَّ عِنْدِي دَرْسًا.*
+> _limāḏā ʾanta hunā? — li-ʾanna ʿindī darsan._
+> Pourquoi es-tu ici ? — Parce que j'ai un cours.
+
+**2** *أَيّ* _ʾayy_ = quel, quelle : il est suivi d'un nom au génitif, en annexion.
+
+> *أَيُّ كِتَابٍ تُرِيدُ؟*
+> _ʾayyu kitābin turīdu?_
+> Quel livre veux-tu ?
+
+**3** *أَيَّة* est la forme féminine, facultative : *أَيُّ سَيَّارَةٍ* ou *أَيَّةُ سَيَّارَةٍ*.
+=== EXO
+title: Pourquoi, quel | لماذا، أي
+wording: Traduisez | ترجم
+mode: trad
+Pourquoi es-tu ici ? => لماذا أنت هنا؟
+Quel livre veux-tu ? => أي كتاب تريد؟
+Quelle voiture ? => أي سيارة؟ | أية سيارة؟
+Dans quelle ville ? => في أي مدينة؟
+=== VOCA
+لِمَاذَا | pourquoi | adv | niv-a1 | freq-tres | pensee
+لِأَنَّ | parce que | conj | niv-a1 | freq-ultra | pensee
+أَيّ | quel; lequel | pron | niv-a1 | freq-tres | communication
+أَرَادَ | vouloir | verb, verb-trans, verb-derived | niv-a1 | freq-ultra | volonte

@@ -1,0 +1,115 @@
+@ref 0109
+@chap 25
+@slug sighat-al-majzum
+@niv niv-b1
+=== NOTE
+# La forme de l'apocopé
+
+**1** L'apocopé (_al-maǧzūm_) se forme sur l'inaccompli :
+- la voyelle finale tombe (_sukūn_) : *يَكْتُبُ* → *يَكْتُبْ* ;
+- les formes à _n_ perdent leur _n_, comme au subjonctif : *يَكْتُبُوا*, *تَكْتُبِي*.
+
+**2** Devant un mot à _hamzat al-waṣl_ (l'article), le _sukūn_ devient _i_ de liaison : *لَمْ يَكْتُبِ الدَّرْسَ* _lam yaktubi d-darsa_.
+
+**3** Emplois : après *لَمْ* (§19.2), *لَمَّا*, *لَا* de défense (§25.2), *لِـ* d'injonction (§25.3), et dans la condition (§37.1).
+
+| indicatif | subjonctif | apocopé |
+| --- | --- | --- |
+| *يَكْتُبُ* | *يَكْتُبَ* | *يَكْتُبْ* |
+| *يَكْتُبُونَ* | *يَكْتُبُوا* | *يَكْتُبُوا* |
+| *تَكْتُبِينَ* | *تَكْتُبِي* | *تَكْتُبِي* |
+=== EXO
+title: Former l'apocopé | المضارع المجزوم
+wording: Mettez à l'apocopé après لم | اجزم بلم
+mode: transfo
+يكتب => لم يكتب
+يكتبون => لم يكتبوا
+تكتبين => لم تكتبي
+نشرب => لم نشرب
+يخرجان => لم يخرجا
+=== VOCA
+@ref 0110
+@chap 25
+@slug la-an-nahiya
+@niv niv-b1
+=== NOTE
+# _Lā_ + apocopé : la défense
+
+**1** « Ne… pas ! » se dit *لَا* + **apocopé** à la 2ᵉ personne :
+
+| à un homme | à une femme | à plusieurs |
+| --- | --- | --- |
+| *لَا تَكْتُبْ* | *لَا تَكْتُبِي* | *لَا تَكْتُبُوا* |
+| *لَا تَذْهَبْ* | *لَا تَذْهَبِي* | *لَا تَذْهَبُوا* |
+
+> *لَا تَخَفْ.*
+> _lā taḫaf._
+> N'aie pas peur.
+
+**2** Comparez : *لَا تَكْتُبُ* (tu n'écris pas — indicatif) / *لَا تَكْتُبْ* (n'écris pas — apocopé). Sans voyelles, au masculin singulier, rien ne les distingue : le contexte tranche.
+=== EXO
+title: Interdire | النهي
+wording: Traduisez | ترجم
+mode: trad
+N'écris pas ! (à un homme) => لا تكتب!
+Ne pars pas ! (à une femme) => لا تذهبي!
+Ne sortez pas ! (à des hommes) => لا تخرجوا!
+Ne bois pas le café ! (à un homme) => لا تشرب القهوة!
+N'oublie pas ! (à une femme) => لا تنسي!
+=== VOCA
+خَافَ | avoir peur; craindre | verb, verb-intrans | niv-a2 | freq-tres | emotion
+@ref 0111
+@chap 25
+@slug lam-al-amr
+@niv niv-b2
+=== NOTE
+# _Li-_ + apocopé : « qu'il… »
+
+**1** *لِـ* + apocopé à la 3ᵉ (ou 1ʳᵉ) personne exprime un ordre indirect, une exhortation :
+
+> *لِيَدْخُلْ.*
+> _li-yadḫul._
+> Qu'il entre.
+
+**2** Après *وَ* ou *فَ*, le _i_ s'efface : *فَلْيَذْهَبْ* _fa-l-yaḏhab_ (qu'il parte donc).
+
+**3** À la 1ʳᵉ personne du pluriel, c'est « allons… ! » — tournure soutenue ; l'usage courant préfère *هَيَّا* + nom verbal ou *دَعْنَا* + inaccompli :
+
+> *لِنَبْدَأْ.*
+> _li-nabdaʾ._
+> Commençons.
+=== EXO
+title: Exhorter | لام الأمر
+wording: Traduisez | ترجم
+mode: trad
+Qu'il entre. => ليدخل.
+Qu'il parte donc. => فليذهب.
+Commençons. => لنبدأ.
+Qu'ils écrivent. => ليكتبوا.
+=== VOCA
+بَدَأَ | commencer | verb, verb-trans | niv-a1 | freq-ultra | action
+@ref 0112
+@chap 25
+@slug jawab-at-talab
+@niv niv-b2
+=== NOTE
+# L'apocopé en réponse à un ordre
+
+**1** Après un impératif, un second verbe à l'**apocopé**, sans conjonction, exprime la conséquence (« et alors… ») :
+
+> *اُدْرُسْ تَنْجَحْ.*
+> _udrus tanǧaḥ._
+> Étudie, (et) tu réussiras.
+
+**2** La même construction se trouve après une défense ou une question : *لَا تَتَأَخَّرْ تَنْدَمْ* — rare hors de la langue soutenue.
+
+**3** C'est la même logique que la phrase conditionnelle (§37.1) : *إِنْ تَدْرُسْ تَنْجَحْ* (si tu étudies, tu réussiras).
+=== EXO
+title: Conséquence d'un ordre | جواب الطلب
+wording: Traduisez | ترجم
+mode: trad
+Étudie, tu réussiras. => ادرس تنجح.
+Viens, tu verras. => تعال تر.
+Si tu étudies, tu réussiras. => إن تدرس تنجح.
+=== VOCA
+نَجَحَ | réussir | verb, verb-intrans | niv-a2 | freq-tres | ecole

@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0021-1",
+  "source": "source=AR§reference=0021-1",
+  "title": "lang=fr-FR§{Pronoms pluriels}lang=ar-SA§{الضمائر الجمع}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§nous}",
+      "answer": "{?1§نحن}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§vous (des hommes)}",
+      "answer": "{?1§{أنتم|انتم}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§vous (des femmes)}",
+      "answer": "{?1§{أنتن|انتن}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§ils}",
+      "answer": "{?1§هم}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§elles}",
+      "answer": "{?1§هن}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§Nous sommes d'Égypte}{type=affix§.}",
+      "answer": "{?1§نحن من مصر}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+@ref 0102
+@chap 23
+@slug sa-sawfa
+@niv niv-a2
+=== NOTE
+# _Sa-_ et _sawfa_ : le futur
+
+**1** Le futur se forme avec l'inaccompli précédé de *سَـ* _sa-_ (collé) ou *سَوْفَ* _sawfa_ (séparé, futur plus lointain ou plus solennel) :
+
+> *سَأَكْتُبُ لَكَ رِسَالَةً.*
+> _saʾaktubu laka risālatan._
+> Je t'écrirai une lettre.
+
+> *سَوْفَ نُسَافِرُ فِي الصَّيْفِ.*
+> _sawfa nusāfiru fī ṣ-ṣayfi._
+> Nous voyagerons l'été.
+
+**2** *سَـ* s'écrit soudé au verbe : *سأذهب*, *سيكتب*, *ستخرجين*.
+=== EXO
+title: Le futur | المستقبل
+wording: Mettez au futur avec سـ | حوّل إلى المستقبل
+mode: transfo
+أكتب => سأكتب
+يذهب => سيذهب
+نسافر => سنسافر
+تخرجين => ستخرجين
+يدرسون => سيدرسون
+=== EXO
+title: Phrases au futur | جمل في المستقبل
+wording: Traduisez | ترجم
+mode: trad
+Je t'écrirai une lettre. => سأكتب لك رسالة.
+Nous voyagerons l'été. => سنسافر في الصيف. | سوف نسافر في الصيف.
+Il ira à l'école demain. => سيذهب إلى المدرسة غدا. | سوف يذهب إلى المدرسة غدا.
+=== VOCA
+سَوْفَ | marque du futur::particle, defi | particle | niv-a2 | freq-tres | moment
+@ref 0103
+@chap 23
+@slug lan
+@niv niv-b1
+=== NOTE
+# _Lan_ : nier le futur
+
+**1** On nie le futur avec *لَنْ* _lan_ suivi du **subjonctif** (§24.1) — *سَـ* disparaît :
+
+| affirmatif | négatif |
+| --- | --- |
+| *سَأَذْهَبُ* | *لَنْ أَذْهَبَ* (je n'irai pas) |
+| *سَيَكْتُبُونَ* | *لَنْ يَكْتُبُوا* (ils n'écriront pas) |
+
+**2** Au subjonctif, _-u_ devient _-a_ et les formes à _n_ perdent leur _n_ (avec alif muet au pluriel). À l'écrit, seules ces dernières changent.
+
+> *لَنْ أَنْسَى هٰذَا اليَوْمَ.*
+> _lan ʾansā hāḏā l-yawma._
+> Je n'oublierai pas ce jour.
+
+**3** *لَنْ* est catégorique : « ne… jamais plus, certainement pas ».
+=== EXO
+title: Nier le futur | نفي المستقبل
+wording: Mettez à la forme négative avec لن | انفِ بلن
+mode: transfo
+سأذهب => لن أذهب
+سيكتبون => لن يكتبوا
+ستخرجين => لن تخرجي
+سنسافر => لن نسافر
+سيدرس => لن يدرس
+=== VOCA
+لَنْ | ne… pas::locution, adv | particle | niv-b1 | freq-tres | | | | lan | fr-FR§au futur
+نَسِيَ | oublier | verb, verb-trans | niv-a2 | freq-tres | pensee
+@ref 0104
+@chap 23
+@slug al-mustaqbal-wal-zaman
+@niv niv-b1
+=== NOTE
+# _Sa-yakūnu_ et les repères du futur
+
+**1** Pour « il sera », on met *كَانَ* au futur : *سَيَكُونُ*, avec attribut à l'accusatif :
+
+> *سَيَكُونُ الجَوُّ جَمِيلًا غَدًا.*
+> _sayakūnu l-ǧawwu ǧamīlan ġadan._
+> Il fera beau demain.
+
+**2** Repères de temps :
+
+| expression | sens |
+| --- | --- |
+| *غَدًا* | demain |
+| *بَعْدَ غَدٍ* | après-demain |
+| *الأُسْبُوعَ القَادِمَ* | la semaine prochaine |
+| *فِي المُسْتَقْبَلِ* | à l'avenir |
+| *بَعْدَ سَنَةٍ* | dans un an |
+
+**3** Les repères de temps sans préposition sont à l'**accusatif** (§38.4) : *غَدًا*, *الأُسْبُوعَ القَادِمَ*.
+=== EXO
+title: Il sera | سيكون
+wording: Traduisez | ترجم
+mode: trad
+Il fera beau demain. => سيكون الجو جميلا غدا.
+Je serai à la maison. => سأكون في البيت.
+la semaine prochaine => الأسبوع القادم
+dans un an => بعد سنة
+après-demain => بعد غد
+=== VOCA
+قَادِم | prochain | adj | niv-a2 | freq-tres | moment
+مُسْتَقْبَل | avenir:m; futur:m | noun, mas | niv-a2 | freq-tres | temps
+بَعْدَ | après | prep | niv-a1 | freq-ultra | moment

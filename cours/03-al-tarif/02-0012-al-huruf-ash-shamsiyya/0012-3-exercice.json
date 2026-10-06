@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0012-1",
+  "source": "source=AR§reference=0012-1",
+  "title": "lang=fr-FR§{Lettres solaires}lang=ar-SA§{الحروف الشمسية}",
+  "wording": "lang=fr-FR§{Écrivez le mot avec l'article}lang=ar-SA§{اكتب الكلمة}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§aš-šams (le soleil)}",
+      "answer": "{?1§الشمس}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§ar-raǧul (l'homme)}",
+      "answer": "{?1§الرجل}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§an-nūr (la lumière)}",
+      "answer": "{?1§النور}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§as-sayyāra (la voiture)}",
+      "answer": "{?1§السيارة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§aṭ-ṭabīb (le médecin)}",
+      "answer": "{?1§الطبيب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§ad-dars (la leçon)}",
+      "answer": "{?1§الدرس}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

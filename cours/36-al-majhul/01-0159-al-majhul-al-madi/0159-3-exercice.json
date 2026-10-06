@@ -1,0 +1,43 @@
+{
+  "topic_ref": "0159-1",
+  "source": "source=AR§reference=0159-1",
+  "title": "lang=fr-FR§{Passif à l'accompli}lang=ar-SA§{المبني للمجهول}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§Ce livre a été écrit au dixième siècle}{type=affix§.}",
+      "answer": "{?1§كتب هذا الكتاب في القرن العاشر}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§La porte a été ouverte}{type=affix§.}",
+      "answer": "{?1§فتح الباب}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§La lettre a été envoyée}{type=affix§.}",
+      "answer": "{?1§{أرسلت الرسالة|ارسلت الرسالة}}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§Je suis né à Paris}{type=affix§.}",
+      "answer": "{?1§ولدت في باريس}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0058-1",
+  "source": "source=AR§reference=0058-1",
+  "title": "lang=fr-FR§{Localiser}lang=ar-SA§{ظروف المكان}",
+  "wording": "lang=fr-FR§{Traduisez}lang=ar-SA§{ترجم}",
+  "question_context": "#1§lang=fr-FR§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a2"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§sous le lit}",
+      "answer": "{?1§تحت السرير}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§au-dessus de la porte}",
+      "answer": "{?1§فوق الباب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§derrière la maison}",
+      "answer": "{?1§{خلف البيت|وراء البيت}}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§entre la maison et l'école}",
+      "answer": "{?1§بين البيت والمدرسة}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§à côté de la banque}",
+      "answer": "{?1§بجانب البنك}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§La chatte est sous le lit}{type=affix§.}",
+      "answer": "{?1§القطة تحت السرير}{type=affix§.}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

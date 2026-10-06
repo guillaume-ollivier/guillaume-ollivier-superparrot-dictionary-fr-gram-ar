@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0118-1",
+  "source": "source=AR§reference=0118-1",
+  "title": "lang=fr-FR§{Appliquer un schème}lang=ar-SA§{الأوزان}",
+  "wording": "lang=fr-FR§{Formez le mot sur le schème indiqué}lang=ar-SA§{صُغ على الوزن}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-b1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§لعب ← فاعل}",
+      "answer": "{?1§لاعب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§كتب ← مفعول}",
+      "answer": "{?1§مكتوب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§لعب ← مفعل}",
+      "answer": "{?1§ملعب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§عرف ← مفعول}",
+      "answer": "{?1§معروف}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§خبز ← فعال}",
+      "answer": "{?1§خباز}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§كتب ← فعالة}",
+      "answer": "{?1§كتابة}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

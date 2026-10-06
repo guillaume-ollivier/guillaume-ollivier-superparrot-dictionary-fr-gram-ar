@@ -1,0 +1,148 @@
+@ref 0034
+@chap 08
+@slug mabda-at-taksir
+@niv niv-a2
+=== NOTE
+# Le principe du pluriel brisé
+
+**1** La majorité des noms arabes forment leur pluriel en **modifiant l'intérieur du mot** : les consonnes de la racine restent, les voyelles changent. C'est le **pluriel brisé** (_ǧamʿ at-taksīr_).
+
+| singulier | pluriel |
+| --- | --- |
+| *كِتَابٌ* _kitābun_ | *كُتُبٌ* _kutubun_ (livres) |
+| *وَلَدٌ* _waladun_ | *أَوْلَادٌ* _ʾawlādun_ (enfants) |
+| *رَجُلٌ* _raǧulun_ | *رِجَالٌ* _riǧālun_ (hommes) |
+| *بَيْتٌ* _baytun_ | *بُيُوتٌ* _buyūtun_ (maisons) |
+
+**2** Les consonnes _ك ت ب_ de _kitāb_ se retrouvent dans _kutub_ : c'est la **racine** (§27.1).
+
+> *فِي المَكْتَبَةِ كُتُبٌ كَثِيرَةٌ.*
+> _fī l-maktabati kutubun kaṯīratun._
+> Dans la bibliothèque, il y a beaucoup de livres.
+
+**3** Le pluriel brisé n'est pas prévisible à 100 % : il s'apprend avec chaque mot. Dans ce cours, le vocabulaire le donne après _ج_ (pour *جَمْع* « pluriel »).
+=== EXO
+title: Pluriels brisés courants | جموع التكسير
+wording: Donnez le pluriel | اكتب الجمع
+mode: transfo
+كتاب => كتب
+ولد => أولاد
+رجل => رجال
+بيت => بيوت
+مدينة => مدن
+=== VOCA
+مَكْتَبَة | bibliothèque:f; librairie:f | noun, fem | niv-a1 | freq-tres | langue-ecrit, batiment | | | | | مَكْتَبَات
+كَثِير | nombreux | adj | niv-a1 | freq-ultra | quantite
+@ref 0035
+@chap 08
+@slug awzan-1
+@niv niv-a2
+=== NOTE
+# Les schèmes de pluriel les plus fréquents (1)
+
+**1** Les pluriels brisés suivent des **moules** (schèmes). On les note avec les consonnes conventionnelles _ف ع ل_ (_f ʿ l_) :
+
+| schème | exemples |
+| --- | --- |
+| *أَفْعَال* _ʾafʿāl_ | *قَلَمٌ* → *أَقْلَامٌ* ; *اِسْمٌ* → *أَسْمَاءٌ* ; *بَابٌ* → *أَبْوَابٌ* |
+| *فُعُول* _fuʿūl_ | *دَرْسٌ* → *دُرُوسٌ* ; *قَلْبٌ* → *قُلُوبٌ* ; *بَيْتٌ* → *بُيُوتٌ* |
+| *فِعَال* _fiʿāl_ | *رَجُلٌ* → *رِجَالٌ* ; *كَلْبٌ* → *كِلَابٌ* ; *جَبَلٌ* → *جِبَالٌ* |
+| *فُعُل* _fuʿul_ | *كِتَابٌ* → *كُتُبٌ* ; *مَدِينَةٌ* → *مُدُنٌ* |
+
+**2** Ces schèmes prennent les terminaisons normales (_tanwīn_ quand ils sont indéfinis).
+
+> *فِي لُبْنَانَ جِبَالٌ عَالِيَةٌ.*
+> _fī lubnāna ǧibālun ʿāliyatun._
+> Au Liban, il y a de hautes montagnes.
+=== EXO
+title: Schèmes afʿāl, fuʿūl, fiʿāl | أوزان الجمع
+wording: Donnez le pluriel | اكتب الجمع
+mode: transfo
+قلم => أقلام
+اسم => أسماء
+باب => أبواب
+درس => دروس
+قلب => قلوب
+كلب => كلاب
+جبل => جبال
+=== VOCA
+جَبَل | montagne:f | noun, mas | niv-a1 | freq-tres | geographie |  |  |  |  | جِبَال
+عَالٍ | haut; élevé | adj | niv-a2 | freq-freq | dimension
+لُبْنَان | Liban:m | noun, noun-pro | niv-a1 | freq-freq | geographie
+@ref 0036
+@chap 08
+@slug awzan-2
+@niv niv-b1
+=== NOTE
+# Les schèmes de pluriel les plus fréquents (2)
+
+**1** Pour les personnes :
+
+| schème | exemples |
+| --- | --- |
+| *فُعَلَاء* _fuʿalāʾ_ | *وَزِيرٌ* → *وُزَرَاءُ* ; *رَئِيسٌ* → *رُؤَسَاءُ* |
+| *أَفْعِلَاء* _ʾafʿilāʾ_ | *صَدِيقٌ* → *أَصْدِقَاءُ* ; *طَبِيبٌ* → *أَطِبَّاءُ* |
+| *فُعَّال* _fuʿʿāl_ | *طَالِبٌ* → *طُلَّابٌ* ; *كَاتِبٌ* → *كُتَّابٌ* |
+
+**2** Pour les mots à quatre consonnes ou commençant par _م_ :
+
+| schème | exemples |
+| --- | --- |
+| *مَفَاعِل* _mafāʿil_ | *مَدْرَسَةٌ* → *مَدَارِسُ* ; *مَكْتَبٌ* → *مَكَاتِبُ* ; *مَسْجِدٌ* → *مَسَاجِدُ* |
+| *فَوَاعِل* _fawāʿil_ | *شَارِعٌ* → *شَوَارِعُ* |
+| *مَفَاعِيل* _mafāʿīl_ | *مِفْتَاحٌ* → *مَفَاتِيحُ* (clés) |
+
+**3** Les schèmes _fuʿalāʾ_, _ʾafʿilāʾ_, _mafāʿil_, _fawāʿil_ et _mafāʿīl_ ne prennent **pas** de _tanwīn_ (diptotes) (§33.2) : *مَدَارِسُ*, jamais *مَدَارِسٌ*. _Fuʿʿāl_ le prend : *طُلَّابٌ*.
+
+> *أَصْدِقَائِي طُلَّابٌ.*
+> _ʾaṣdiqāʾī ṭullābun._
+> Mes amis sont étudiants.
+=== EXO
+title: Pluriels de personnes et en ma- | أوزان الجمع
+wording: Donnez le pluriel | اكتب الجمع
+mode: transfo
+وزير => وزراء
+صديق => أصدقاء
+طبيب => أطباء
+طالب => طلاب
+مدرسة => مدارس
+مكتب => مكاتب
+شارع => شوارع
+مفتاح => مفاتيح
+=== VOCA
+مَكْتَب | bureau [lieu de travail]:m | noun, mas | niv-a1 | freq-tres | travail | | | | | مَكَاتِب
+مَسْجِد | mosquée:f | noun, mas | niv-a1 | freq-tres | religion, batiment | | | | | مَسَاجِد
+مِفْتَاح | clé:f | noun, mas | niv-a1 | freq-tres | objet |  |  |  |  | مَفَاتِيح
+@ref 0037
+@chap 08
+@slug mutabaqat-at-taksir
+@niv niv-b1
+=== NOTE
+# Accorder avec un pluriel brisé
+
+**1** La règle de l'accord des pluriels (§7.4) vaut aussi pour les pluriels brisés :
+
+| pluriel | accord |
+| --- | --- |
+| non humain : *كُتُبٌ*, *بُيُوتٌ* | féminin singulier : *كُتُبٌ جَدِيدَةٌ* |
+| humain : *رِجَالٌ*, *طُلَّابٌ* | pluriel : *طُلَّابٌ جُدُدٌ*, *رِجَالٌ كِبَارٌ* |
+
+**2** Les adjectifs ont souvent eux aussi un pluriel brisé : *كَبِيرٌ* → *كِبَارٌ*, *صَغِيرٌ* → *صِغَارٌ*, *جَدِيدٌ* → *جُدُدٌ*, *طَوِيلٌ* → *طِوَالٌ*.
+
+> *الطُّلَّابُ الجُدُدُ فِي الصَّفِّ.*
+> _aṭ-ṭullābu l-ǧududu fī ṣ-ṣaffi._
+> Les nouveaux étudiants sont en classe.
+
+**3** Un pluriel humain féminin s'accorde au féminin pluriel : *البَنَاتُ صَغِيرَاتٌ*.
+=== EXO
+title: Accord avec un pluriel brisé | المطابقة
+wording: Traduisez | ترجم
+mode: trad
+Les maisons sont neuves. => البيوت جديدة.
+Les hommes sont grands. => الرجال كبار.
+Les nouveaux étudiants => الطلاب الجدد
+Les filles sont petites. => البنات صغيرات.
+Les rues sont longues. => الشوارع طويلة.
+=== VOCA
+طَوِيل | long | adj | niv-a1 | freq-tres | dimension
+صَفّ | classe [salle]:f | noun, mas | niv-a1 | freq-tres | ecole | | مَدْرَسَة | | | صُفُوف

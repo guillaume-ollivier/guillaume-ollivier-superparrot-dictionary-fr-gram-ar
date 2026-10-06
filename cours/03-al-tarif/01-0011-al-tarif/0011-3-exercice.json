@@ -1,0 +1,57 @@
+{
+  "topic_ref": "0011-1",
+  "source": "source=AR§reference=0011-1",
+  "title": "lang=fr-FR§{Rendre défini}lang=ar-SA§{التعريف}",
+  "wording": "lang=fr-FR§{Ajoutez l'article}lang=ar-SA§{أضف أداة التعريف}",
+  "question_context": "#1§lang=ar-SA§",
+  "answer_context": "#1§lang=ar-SA§",
+  "language": "ar-SA",
+  "categories": [
+    "niv-a1"
+  ],
+  "tags": [],
+  "items": [
+    {
+      "item_ref": "1",
+      "question": "{?1§كتاب}",
+      "answer": "{?1§الكتاب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "2",
+      "question": "{?1§بنت}",
+      "answer": "{?1§البنت}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "3",
+      "question": "{?1§ولد}",
+      "answer": "{?1§الولد}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "4",
+      "question": "{?1§باب}",
+      "answer": "{?1§الباب}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "5",
+      "question": "{?1§قلم}",
+      "answer": "{?1§القلم}",
+      "categories": [],
+      "tags": []
+    },
+    {
+      "item_ref": "6",
+      "question": "{?1§مدرسة}",
+      "answer": "{?1§المدرسة}",
+      "categories": [],
+      "tags": []
+    }
+  ]
+}

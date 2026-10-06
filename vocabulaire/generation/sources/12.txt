@@ -1,0 +1,180 @@
+@ref 0051
+@chap 12
+@slug ad-damair-al-muttasila-1
+@niv niv-a1
+=== NOTE
+# Les pronoms suffixes : le singulier
+
+**1** Le possessif est un **suffixe** collé au nom, qui devient défini (pas d'article) :
+
+| suffixe | exemple | sens |
+| --- | --- | --- |
+| *ـِي* _-ī_ | *كِتَابِي* _kitābī_ | mon livre |
+| *ـكَ* _-ka_ | *كِتَابُكَ* _kitābuka_ | ton livre (homme) |
+| *ـكِ* _-ki_ | *كِتَابُكِ* _kitābuki_ | ton livre (femme) |
+| *ـهُ* _-hu_ | *كِتَابُهُ* _kitābuhu_ | son livre (à lui) |
+| *ـهَا* _-hā_ | *كِتَابُهَا* _kitābuhā_ | son livre (à elle) |
+
+**2** Le suffixe s'accorde avec le **possesseur**, pas avec l'objet : *كِتَابُهَا* (son livre à elle), *سَيَّارَتُهُ* (sa voiture à lui).
+
+> *بَيْتُهَا قَرِيبٌ وَبَيْتُهُ بَعِيدٌ.*
+> _baytuhā qarībun wa-baytuhu baʿīdun._
+> Sa maison (à elle) est proche et sa maison (à lui) est loin.
+
+**3** Sans voyelles, *كتابك* vaut pour les deux genres.
+=== EXO
+title: Possessifs singuliers | الضمائر المتصلة
+wording: Traduisez | ترجم
+mode: trad
+mon livre => كتابي
+ton livre (à un homme) => كتابك
+son livre (à lui) => كتابه
+son livre (à elle) => كتابها
+mon nom => اسمي
+son nom (à elle) => اسمها
+Sa maison (à elle) est proche. => بيتها قريب.
+=== VOCA
+@ref 0052
+@chap 12
+@slug ad-damair-al-muttasila-2
+@niv niv-a1
+=== NOTE
+# Les pronoms suffixes : pluriel et duel
+
+| suffixe | exemple | sens |
+| --- | --- | --- |
+| *ـنَا* _-nā_ | *بَيْتُنَا* _baytunā_ | notre maison |
+| *ـكُمْ* _-kum_ | *بَيْتُكُمْ* _baytukum_ | votre maison (hommes, mixte) |
+| *ـكُنَّ* _-kunna_ | *بَيْتُكُنَّ* | votre maison (femmes) |
+| *ـهُمْ* _-hum_ | *بَيْتُهُمْ* _baytuhum_ | leur maison (hommes, mixte) |
+| *ـهُنَّ* _-hunna_ | *بَيْتُهُنَّ* | leur maison (femmes) |
+| *ـكُمَا* _-kumā_ | *بَيْتُكُمَا* | votre maison (à vous deux) |
+| *ـهُمَا* _-humā_ | *بَيْتُهُمَا* | leur maison (à eux deux) |
+
+**2** Ces suffixes servent aussi de **compléments** (§12.4, 12.5) : _-nā_ = « nous », _-hum_ = « les »…
+
+> *مَدْرَسَتُنَا قَرِيبَةٌ مِنْ بَيْتِكُمْ.*
+> _madrasatunā qarībatun min baytikum._
+> Notre école est proche de votre maison.
+=== EXO
+title: Possessifs pluriels | الضمائر المتصلة
+wording: Traduisez | ترجم
+mode: trad
+notre maison => بيتنا
+votre maison (à des hommes) => بيتكم
+leur maison (à eux) => بيتهم
+leur maison (à elles) => بيتهن
+leur maison (à eux deux) => بيتهما
+Notre école est proche. => مدرستنا قريبة.
+=== VOCA
+@ref 0053
+@chap 12
+@slug at-ta-wal-hi
+@niv niv-a2
+=== NOTE
+# Deux ajustements : _ة_ → _ت_ et _-hu_ → _-hi_
+
+**1** Devant un suffixe, la _ة_ s'écrit **_ت_** :
+
+| nom | avec suffixe |
+| --- | --- |
+| *سَيَّارَةٌ* | *سَيَّارَتِي* _sayyāratī_ (ma voiture) |
+| *مَدْرَسَةٌ* | *مَدْرَسَتُهُمْ* _madrasatuhum_ (leur école) |
+
+**2** Après _i_ ou _ī_, les suffixes _-hu_, _-hum_, _-hunna_, _-humā_ deviennent _-hi_, _-him_, _-hinna_, _-himā_ :
+
+> *فِي بَيْتِهِ*
+> _fī baytihi_
+> dans sa maison
+
+> *عَلَيْهِمْ*
+> _ʿalayhim_
+> sur eux
+
+L'écriture sans voyelles ne change pas : *بيته*, *عليهم*.
+
+**3** Un nom en _-ī_ avec _-ī_ « mon » : les deux fusionnent en *ـِيَّ* (_-iyya_) : *مُحَامِيَّ* (mon avocat).
+=== EXO
+title: Suffixes sur un féminin | ة مع الضمير
+wording: Ajoutez le suffixe | أضف الضمير
+mode: transfo
+سيارة + ي => سيارتي
+مدرسة + هم => مدرستهم
+غرفة + ك => غرفتك
+جامعة + نا => جامعتنا
+لغة + ه => لغته
+=== VOCA
+مُحَامٍ | avocat [juriste]:m | noun, mas | niv-a2 | freq-freq | metier, droit | | | | | مُحَامُون
+@ref 0054
+@chap 12
+@slug ad-damair-mal-huruf
+@niv niv-a2
+=== NOTE
+# Suffixes après une préposition
+
+**1** Les prépositions prennent les mêmes suffixes, avec quelques formes à retenir :
+
+| préposition | + _ī_ (moi) | + _ka_ (toi) | + _hu_ (lui) |
+| --- | --- | --- | --- |
+| *لِـ* (à, pour) | *لِي* _lī_ | *لَكَ* _laka_ | *لَهُ* _lahu_ |
+| *مَعَ* (avec) | *مَعِي* _maʿī_ | *مَعَكَ* | *مَعَهُ* |
+| *فِي* (dans) | *فِيَّ* _fiyya_ | *فِيكَ* | *فِيهِ* _fīhi_ |
+| *عَلَى* (sur) | *عَلَيَّ* _ʿalayya_ | *عَلَيْكَ* | *عَلَيْهِ* |
+| *إِلَى* (vers) | *إِلَيَّ* | *إِلَيْكَ* | *إِلَيْهِ* |
+| *مِنْ* (de) | *مِنِّي* _minnī_ | *مِنْكَ* | *مِنْهُ* |
+| *عَنْ* (au sujet de) | *عَنِّي* _ʿannī_ | *عَنْكَ* | *عَنْهُ* |
+
+**2** *لِـ* devient *لَـ* devant tout suffixe sauf _-ī_ ; *عَلَى* et *إِلَى* changent leur _ā_ final en *ـَيْـ*.
+
+> *هَلْ هٰذَا لَكَ؟ — نَعَمْ، هُوَ لِي.*
+> _hal hāḏā laka? — naʿam, huwa lī._
+> C'est à toi ? — Oui, c'est à moi.
+=== EXO
+title: Préposition + suffixe | حرف الجر والضمير
+wording: Ajoutez le suffixe | أضف الضمير
+mode: transfo
+مع + ي => معي
+على + ه => عليه
+إلى + ك => إليك
+من + ي => مني
+ل + ه => له
+في + ها => فيها
+عن + نا => عنا
+=== VOCA
+مَعَ | avec | prep | niv-a1 | freq-ultra | relation
+عَنْ | au sujet de; à propos de | prep | niv-a2 | freq-ultra | communication
+إِلَى | vers; à [direction] | prep | niv-a1 | freq-ultra | deplacement
+لِـ | à; pour | prep | niv-a1 | freq-ultra |  |  |  | li-
+@ref 0055
+@chap 12
+@slug ad-damair-mal-afal
+@niv niv-a2
+=== NOTE
+# Suffixes compléments d'un verbe
+
+**1** Le complément d'objet pronom est le même suffixe, collé au verbe. Seule la 1ʳᵉ personne change : *ـنِي* _-nī_ (me) au lieu de _-ī_.
+
+| verbe | + suffixe | sens |
+| --- | --- | --- |
+| *يَعْرِفُ* (il connaît) | *يَعْرِفُنِي* _yaʿrifunī_ | il me connaît |
+| | *يَعْرِفُكَ* | il te connaît |
+| | *يَعْرِفُهَا* | il la connaît |
+| | *يَعْرِفُهُمْ* | il les connaît |
+
+**2** Pour un pronom complément **sans** verbe support, on emploie *إِيَّا* + suffixe : *إِيَّاكَ نَعْبُدُ* (c'est toi que nous adorons).
+
+> *أُحِبُّكِ.*
+> _ʾuḥibbuki._
+> Je t'aime (à une femme).
+=== EXO
+title: Verbe + suffixe | الفعل والضمير
+wording: Traduisez | ترجم
+mode: trad
+Il me connaît. => يعرفني.
+Il la connaît. => يعرفها.
+Il les connaît. => يعرفهم.
+Je t'aime. => أحبك.
+Il nous connaît. => يعرفنا.
+=== VOCA
+عَرَفَ | connaître; savoir | verb, verb-trans | niv-a1 | freq-ultra | pensee
+أَحَبَّ | aimer | verb, verb-trans, verb-derived | niv-a1 | freq-ultra | emotion
