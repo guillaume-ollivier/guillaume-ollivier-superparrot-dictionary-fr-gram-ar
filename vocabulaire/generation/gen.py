@@ -415,11 +415,16 @@ def main():
         erreurs.append(f"références non séquentielles : {sorted(set(attendu) ^ set(refs))}")
     dico_md = CHANTIER / "vocabulaire" / "assemblage" / "dictionnaire.md"
     anciennes = {}
+    # Patterns posés après coup dans le dictionnaire (articles : `parrotdict
+    # articles`) : conservés comme les références, sinon chaque génération les effacerait.
+    anciens_patterns = {}
     if dico_md.exists():
         for ref, entree in dictionnaire_md.lire_dictionnaire(dico_md.parent).items():
             for w in entree["words"]:
                 if w.get("ref") and ":" in w["ref"]:
                     anciennes[(ref, w["lang"], w["mot"])] = w["ref"]
+                if w.get("pattern"):
+                    anciens_patterns[(ref, w["lang"], w["mot"])] = w["pattern"]
     (CHANTIER / "cours").mkdir(exist_ok=True)
     (CHANTIER / "cours" / "chapitres.txt").write_text(
         "slug | titre\n" + "".join(f"{s} | {t}\n" for s, t in sorted(plan.values())), encoding="utf-8")
@@ -523,6 +528,8 @@ def main():
             relations.append(f"{e['singulier']} | INFLECTION | {reference}")
         for w in mots:
             w["ref"] = anciennes.get((reference, w["lang"], w["mot"]), "")
+            if not w.get("pattern") and (reference, w["lang"], w["mot"]) in anciens_patterns:
+                w["pattern"] = anciens_patterns[(reference, w["lang"], w["mot"])]
         sortie[reference] = {"tags": [x.strip() for x in e["tags"].split(",") if x.strip()], "words": mots}
     dico_md.parent.mkdir(parents=True, exist_ok=True)
     dictionnaire_md.ecrire_dictionnaire(dico_md, dict(sorted(sortie.items(), key=lambda kv: kv[0])))

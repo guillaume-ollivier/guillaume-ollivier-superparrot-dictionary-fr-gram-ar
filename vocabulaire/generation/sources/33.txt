@@ -99,7 +99,7 @@ J'ai vu son père. => رأيت أباه.
 Mon frère est ingénieur. => أخي مهندس.
 le père d'Ahmed => أبو أحمد
 === VOCA
-ذُو | doté de; possesseur de | noun | niv-b2 | freq-freq | qualite | reg-soutenu
+ذُو | doté de; possesseur de:m | noun | niv-b2 | freq-freq | qualite | reg-soutenu
 سَلَّمَ | saluer | verb, verb-trans, verb-derived | niv-b1 | freq-freq | relation | | عَلَى شَخْص
 @ref 0148
 @chap 33

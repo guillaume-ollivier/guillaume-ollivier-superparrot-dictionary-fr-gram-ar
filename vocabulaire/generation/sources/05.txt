@@ -80,7 +80,7 @@ Nous sommes d'Égypte. => نحن من مصر.
 أَنْتُنَّ | vous | pron | niv-a2 | freq-peu | personne | | | | fr-FR§à des femmes
 هُمْ | ils; eux | pron | niv-a1 | freq-ultra | personne
 هُنَّ | elles | pron | niv-a2 | freq-freq | personne
-مِصْر | Égypte:f | noun, noun-pro | niv-a1 | freq-freq | geographie
+مِصْر | Égypte:f | noun, noun-pro, fem | niv-a1 | freq-freq | geographie
 @ref 0022
 @chap 05
 @slug al-muthanna

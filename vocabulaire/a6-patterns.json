@@ -1,0 +1,17 @@
+[
+  {
+    "reference": "art-fr-des",
+    "name": "{lang=fr§nom pluriel avec article indéfini}{lang=en§plural noun with indefinite article}{lang=pt§substantivo francês plural com artigo indefinido}{lang=es§sustantivo francés plural con artículo indefinido}",
+    "prefix": "{lang=fr§des }"
+  },
+  {
+    "reference": "art-fr-un",
+    "name": "{lang=fr§nom masculin singulier avec article indéfini}{lang=en§masculine singular noun with indefinite article}{lang=pt§substantivo francês masculino singular com artigo indefinido}{lang=es§sustantivo francés masculino singular con artículo indefinido}",
+    "prefix": "{lang=fr§un }"
+  },
+  {
+    "reference": "art-fr-une",
+    "name": "{lang=fr§nom féminin singulier avec article indéfini}{lang=en§feminine singular noun with indefinite article}{lang=pt§substantivo francês feminino singular com artigo indefinido}{lang=es§sustantivo francés femenino singular con artículo indefinido}",
+    "prefix": "{lang=fr§une }"
+  }
+]

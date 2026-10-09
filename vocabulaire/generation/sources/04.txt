@@ -123,7 +123,7 @@ Enchanté. => تشرفنا.
 اِسْم | nom [d'une personne]:m; prénom:m | noun, mas | niv-a1 | freq-ultra | personne | | لِشَخْص | | | أَسْمَاء
 مِنْ | de [provenance] | prep | niv-a1 | freq-ultra | lieu
 أَيْنَ | où | adv | niv-a1 | freq-ultra | lieu
-فَرَنْسَا | France:f | noun, noun-pro | niv-a1 | freq-freq | geographie
+فَرَنْسَا | France:f | noun, noun-pro, fem | niv-a1 | freq-freq | geographie
 فَرَنْسِيّ | français | adj, nisba | niv-a1 | freq-freq | nationalite
 تَشَرَّفْنَا | enchanté | locution, interj | niv-a1 | freq-freq | communication-orale
 @ref 0018

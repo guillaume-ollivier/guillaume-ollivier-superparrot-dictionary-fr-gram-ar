@@ -128,7 +128,7 @@ mode: trou
 صَبْر | patience:f | noun, mas | niv-b1 | freq-freq | caractere
 عَقْل | esprit [intellect]:m; raison [faculté]:f | noun, mas | niv-b1 | freq-tres | pensee | | | | | عُقُول:esprits
 جِسْم | corps:m | noun, mas | niv-a2 | freq-tres | corps |  |  |  |  | أَجْسَام
-الصِّين | Chine:f | noun, noun-pro | niv-a2 | freq-freq | geographie
+الصِّين | Chine:f | noun, noun-pro, fem | niv-a2 | freq-freq | geographie
 @ref 0182
 @chap 40
 @slug ibarat-yawmiyya

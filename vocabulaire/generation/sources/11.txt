@@ -30,7 +30,7 @@ le football => كرة القدم
 le nom de l'école => اسم المدرسة
 === VOCA
 نَوْم | sommeil:m | noun, mas | niv-a1 | freq-freq | sommeil
-كُرَةُ القَدَمِ | football:m | locution, noun | niv-a1 | freq-freq | sport
+كُرَةُ القَدَمِ | football:m | locution, noun, fem | niv-a1 | freq-freq | sport
 قَدَم | pied:m | noun, fem | niv-a1 | freq-tres | corps | | | | | أَقْدَام
 @ref 0047
 @chap 11
@@ -68,7 +68,7 @@ l'université du Caire => جامعة القاهرة
 une tasse de café => فنجان قهوة
 === VOCA
 جَامِعَة | université:f | noun, fem | niv-a1 | freq-tres | ecole, batiment | | | | | جَامِعَات
-القَاهِرَة | Le Caire | noun, noun-pro | niv-a1 | freq-freq | ville
+القَاهِرَة | Le Caire | noun, noun-pro, fem | niv-a1 | freq-freq | ville
 فِنْجَان | tasse:f | noun, mas | niv-a1 | freq-freq | objet, boisson |  |  |  |  | فَنَاجِين
 @ref 0048
 @chap 11
@@ -100,7 +100,7 @@ le centre-ville => وسط المدينة
 la chambre de la fille => غرفة البنت
 la table de la cuisine => طاولة المطبخ
 === VOCA
-بَيْرُوت | Beyrouth | noun, noun-pro | niv-a1 | freq-freq | ville
+بَيْرُوت | Beyrouth | noun, noun-pro, fem | niv-a1 | freq-freq | ville
 وَسَط | centre:m; milieu:m | noun, mas | niv-a2 | freq-tres | lieu
 مَطْبَخ | cuisine [pièce]:f | noun, mas | niv-a1 | freq-freq | piece, repas | | | | | مَطَابِخ
 @ref 0049

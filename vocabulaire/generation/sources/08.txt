@@ -68,7 +68,7 @@ mode: transfo
 === VOCA
 جَبَل | montagne:f | noun, mas | niv-a1 | freq-tres | geographie |  |  |  |  | جِبَال
 عَالٍ | haut; élevé | adj | niv-a2 | freq-freq | dimension
-لُبْنَان | Liban:m | noun, noun-pro | niv-a1 | freq-freq | geographie
+لُبْنَان | Liban:m | noun, noun-pro, mas | niv-a1 | freq-freq | geographie
 @ref 0036
 @chap 08
 @slug awzan-2

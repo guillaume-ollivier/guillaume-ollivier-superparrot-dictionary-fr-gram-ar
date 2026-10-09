@@ -108,11 +108,11 @@ Elles sont égyptiennes. => هن مصريات.
 عَرَبِيّ | arabe | adj, nisba | niv-a1 | freq-ultra | nationalite
 مِصْرِيّ | égyptien | adj, nisba | niv-a1 | freq-freq | nationalite
 لُبْنَانِيّ | libanais | adj, nisba | niv-a1 | freq-freq | nationalite
-المَغْرِب | Maroc:m | noun, noun-pro | niv-a1 | freq-freq | geographie
+المَغْرِب | Maroc:m | noun, noun-pro, mas | niv-a1 | freq-freq | geographie
 مَغْرِبِيّ | marocain | adj, nisba | niv-a1 | freq-freq | nationalite
 تَارِيخ | histoire [passé]:f | noun, mas | niv-a2 | freq-tres | temps | | المَاضِي
 لُغَة | langue [idiome]:f | noun, fem | niv-a1 | freq-tres | parole |  |  |  |  | لُغَات
-سُورِيَا | Syrie:f | noun, noun-pro | niv-a1 | freq-freq | geographie
+سُورِيَا | Syrie:f | noun, noun-pro, fem | niv-a1 | freq-freq | geographie
 @ref 0041
 @chap 09
 @slug al-alwan

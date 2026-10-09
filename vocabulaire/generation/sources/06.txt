@@ -131,7 +131,7 @@ La Tunisie est belle. => تونس جميلة.
 عَيْن | œil:m | noun, fem | niv-a1 | freq-tres | corps | | لِلنَّظَر | | | عُيُون:yeux
 أُذُن | oreille:f | noun, fem | niv-a1 | freq-freq | corps |  |  |  |  | آذَان
 رِجْل | jambe:f | noun, fem | niv-a1 | freq-freq | corps | | | | | أَرْجُل
-تُونِس | Tunisie:f | noun, noun-pro | niv-a1 | freq-freq | geographie
+تُونِس | Tunisie:f | noun, noun-pro, fem | niv-a1 | freq-freq | geographie
 طَرِيق | chemin:m; route:f | noun, mas | niv-a1 | freq-tres | transport |  |  |  |  | طُرُق
 @ref 0028
 @chap 06

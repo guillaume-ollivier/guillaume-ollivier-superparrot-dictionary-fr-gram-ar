@@ -30,7 +30,7 @@ La lettre a été envoyée. => أرسلت الرسالة.
 Je suis né à Paris. => ولدت في باريس.
 === VOCA
 قَرْن | siècle:m | noun, mas | niv-b1 | freq-tres | temps | | مِائَة سَنَة | | | قُرُون
-بَارِيس | Paris | noun, noun-pro | niv-a1 | freq-freq | ville
+بَارِيس | Paris:m | noun, noun-pro, fem | niv-a1 | freq-freq | ville
 وُلِدَ | naître | verb, verb-intrans | niv-a1 | freq-tres | vie
 @ref 0160
 @chap 36

@@ -1,0 +1,23 @@
+# Article imposé par mot (parrotdict articles), relecture du 2026-10-09 :
+# indénombrables anglais (some), a/an devant u-/h-, sigles, noms sans indéfini (aucun),
+# cas tranchés à la main ; puis « aucun » propagé au sens entier, par cohérence.
+siwa:fr:0 | aucun
+siwa:fr:1 | aucun
+الشَّرْقُ الأَوْسَطُ:fr:0 | aucun
+الصِّين:fr:0 | aucun
+القَاهِرَة:fr:0 | aucun
+المَغْرِب:fr:0 | aucun
+بَارِيس:fr:0 | aucun
+بَيْرُوت:fr:0 | aucun
+تُونِس:fr:0 | aucun
+دِمَشْق:fr:0 | aucun
+ذُو:fr:0 | aucun
+ذُو:fr:1 | aucun
+سَيِّدَة:fr:0 | aucun
+سَيِّدَة:fr:1 | une
+سُورِيَا:fr:0 | aucun
+غَرْب:fr:0 | aucun
+غَيْر:fr:0 | aucun
+فَرَنْسَا:fr:0 | aucun
+لُبْنَان:fr:0 | aucun
+مِصْر:fr:0 | aucun

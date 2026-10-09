@@ -133,4 +133,4 @@ un livre que j'ai acheté hier => كتاب اشتريته أمس
 J'ai compris ce que tu as dit. => فهمت ما قلت.
 un homme qui travaille ici => رجل يعمل هنا
 === VOCA
-دِمَشْق | Damas | noun, noun-pro | niv-a1 | freq-freq | ville
+دِمَشْق | Damas:m | noun, noun-pro, fem | niv-a1 | freq-freq | ville
