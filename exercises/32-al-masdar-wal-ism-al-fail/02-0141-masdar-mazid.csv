@@ -1,0 +1,24 @@
+﻿topic;item;attribute;section;index;locale;value
+0141-1;_;title;;;fr-FR;Nom verbal des formes dérivées
+;;;;;ar-SA;مصدر المزيد
+;;wording;;;fr-FR;Donnez le nom verbal
+;;;;;ar-SA;اكتب المصدر
+;;categories;;;;niv-b1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§درّس}
+;;answer;;;;{?1§تدريس}
+;2;question;;;;{?1§ساعد}
+;;answer;;;;{?1§مساعدة}
+;3;question;;;;{?1§أرسل}
+;;answer;;;;{?1§{إرسال|ارسال}}
+;4;question;;;;{?1§تعلّم}
+;;answer;;;;{?1§تعلم}
+;5;question;;;;{?1§تعاون}
+;;answer;;;;{?1§تعاون}
+;6;question;;;;{?1§اجتمع}
+;;answer;;;;{?1§اجتماع}
+;7;question;;;;{?1§استعمل}
+;;answer;;;;{?1§استعمال}
+;8;question;;;;{?1§استقبل}
+;;answer;;;;{?1§استقبال}

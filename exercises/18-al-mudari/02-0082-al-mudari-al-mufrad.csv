@@ -1,0 +1,35 @@
+﻿topic;item;attribute;section;index;locale;value
+0082-1;_;title;;;fr-FR;Inaccompli au singulier
+;;;;;ar-SA;المضارع المفرد
+;;wording;;;fr-FR;Conjuguez à l'inaccompli
+;;;;;ar-SA;صرّف في المضارع
+;;categories;;;;niv-a1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§أنا (يكتب)}
+;;answer;;;;{?1§{أكتب|اكتب}}
+;2;question;;;;{?1§أنت، مذكر (يكتب)}
+;;answer;;;;{?1§تكتب}
+;3;question;;;;{?1§أنت، مؤنث (يكتب)}
+;;answer;;;;{?1§تكتبين}
+;4;question;;;;{?1§هي (يشرب)}
+;;answer;;;;{?1§تشرب}
+;5;question;;;;{?1§أنت، مؤنث (يشرب)}
+;;answer;;;;{?1§تشربين}
+;6;question;;;;{?1§أنا (يذهب)}
+;;answer;;;;{?1§{أذهب|اذهب}}
+0082-2;_;title;;;fr-FR;Phrases au présent
+;;;;;ar-SA;جمل في المضارع
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-a1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§J'écris une lettre}{type=affix§.}
+;;answer;;;;{?1§{أكتب رسالة|اكتب رسالة}}{type=affix§.}
+;2;question;;;;{?1§Bois-tu du café ? (à une femme)}
+;;answer;;;;{?1§هل تشربين القهوة}{type=affix§؟}
+;3;question;;;;{?1§Elle va à l'école}{type=affix§.}
+;;answer;;;;{?1§{تذهب إلى المدرسة|تذهب الى المدرسة}}{type=affix§.}
+;4;question;;;;{?1§Il sort}{type=affix§.}
+;;answer;;;;{?1§يخرج}{type=affix§.}

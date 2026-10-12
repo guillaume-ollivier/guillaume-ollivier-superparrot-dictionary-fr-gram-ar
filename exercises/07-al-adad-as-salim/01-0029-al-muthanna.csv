@@ -1,0 +1,33 @@
+﻿topic;item;attribute;section;index;locale;value
+0029-1;_;title;;;fr-FR;Former le duel
+;;;;;ar-SA;المثنى
+;;wording;;;fr-FR;Donnez le duel sujet (-āni)
+;;;;;ar-SA;اكتب المثنى المرفوع
+;;categories;;;;niv-a1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§كتاب}
+;;answer;;;;{?1§كتابان}
+;2;question;;;;{?1§ولد}
+;;answer;;;;{?1§ولدان}
+;3;question;;;;{?1§مدرسة}
+;;answer;;;;{?1§مدرستان}
+;4;question;;;;{?1§بنت}
+;;answer;;;;{?1§بنتان}
+;5;question;;;;{?1§يوم}
+;;answer;;;;{?1§يومان}
+;6;question;;;;{?1§سيارة}
+;;answer;;;;{?1§سيارتان}
+0029-2;_;title;;;fr-FR;Duel après préposition
+;;;;;ar-SA;المثنى المجرور
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-a1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§dans deux écoles}
+;;answer;;;;{?1§في مدرستين}
+;2;question;;;;{?1§J'ai deux sœurs}{type=affix§.}
+;;answer;;;;{?1§{عندي أختان|عندي اختان}}{type=affix§.}
+;3;question;;;;{?1§J'ai deux frères}{type=affix§.}
+;;answer;;;;{?1§{عندي أخوان|عندي اخوان}}{type=affix§.}

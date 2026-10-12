@@ -1,0 +1,18 @@
+﻿topic;item;attribute;section;index;locale;value
+0109-1;_;title;;;fr-FR;Former l'apocopé
+;;;;;ar-SA;المضارع المجزوم
+;;wording;;;fr-FR;Mettez à l'apocopé après لم
+;;;;;ar-SA;اجزم بلم
+;;categories;;;;niv-b1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§يكتب}
+;;answer;;;;{?1§لم يكتب}
+;2;question;;;;{?1§يكتبون}
+;;answer;;;;{?1§لم يكتبوا}
+;3;question;;;;{?1§تكتبين}
+;;answer;;;;{?1§لم تكتبي}
+;4;question;;;;{?1§نشرب}
+;;answer;;;;{?1§لم نشرب}
+;5;question;;;;{?1§يخرجان}
+;;answer;;;;{?1§لم يخرجا}

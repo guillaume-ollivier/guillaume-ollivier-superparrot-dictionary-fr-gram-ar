@@ -1,0 +1,18 @@
+﻿topic;item;attribute;section;index;locale;value
+0150-1;_;title;;;fr-FR;Alladhī ou allatī
+;;;;;ar-SA;الذي أم التي
+;;wording;;;fr-FR;Complétez avec le relatif
+;;;;;ar-SA;أكمل بالاسم الموصول
+;;categories;;;;niv-b1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;الرجل {?1§} يعمل هنا مصري{type=affix§.}
+;;answer;;;;{?1§الذي}
+;2;question;;;;السيارة {?1§} اشتريتها جديدة{type=affix§.}
+;;answer;;;;{?1§التي}
+;3;question;;;;الكتاب {?1§} قرأته مفيد{type=affix§.}
+;;answer;;;;{?1§الذي}
+;4;question;;;;المدينة {?1§} زرتها جميلة{type=affix§.}
+;;answer;;;;{?1§التي}
+;5;question;;;;الكتب {?1§} اشتريتها قديمة{type=affix§.}
+;;answer;;;;{?1§التي}

@@ -1,0 +1,35 @@
+﻿topic;item;attribute;section;index;locale;value
+0124-1;_;title;;;fr-FR;Inaccompli II–IV
+;;;;;ar-SA;مضارع المزيد
+;;wording;;;fr-FR;Conjuguez à l'inaccompli (هو)
+;;;;;ar-SA;صرّف في المضارع
+;;categories;;;;niv-b1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§درّس}
+;;answer;;;;{?1§يدرس}
+;2;question;;;;{?1§سافر}
+;;answer;;;;{?1§يسافر}
+;3;question;;;;{?1§أرسل}
+;;answer;;;;{?1§يرسل}
+;4;question;;;;{?1§ساعد}
+;;answer;;;;{?1§يساعد}
+;5;question;;;;{?1§أغلق}
+;;answer;;;;{?1§يغلق}
+;6;question;;;;{?1§فكّر}
+;;answer;;;;{?1§يفكر}
+;7;question;;;;{?1§شاهد}
+;;answer;;;;{?1§يشاهد}
+0124-2;_;title;;;fr-FR;Phrases
+;;;;;ar-SA;جمل
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-b1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§Mon père enseigne à l'université}{type=affix§.}
+;;answer;;;;{?1§{يدرس أبي في الجامعة|يدرس ابي في الجامعة}}{type=affix§.}
+;2;question;;;;{?1§J'envoie une lettre}{type=affix§.}
+;;answer;;;;{?1§{أرسل رسالة|ارسل رسالة}}{type=affix§.}
+;3;question;;;;{?1§Nous voyageons demain}{type=affix§.}
+;;answer;;;;{?1§نسافر غدا}{type=affix§.}

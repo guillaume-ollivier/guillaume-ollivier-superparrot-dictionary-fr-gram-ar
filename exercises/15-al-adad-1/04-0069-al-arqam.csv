@@ -1,0 +1,20 @@
+﻿topic;item;attribute;section;index;locale;value
+0069-1;_;title;;;fr-FR;Lire les chiffres
+;;;;;ar-SA;الأرقام
+;;wording;;;fr-FR;Écrivez le nombre en lettres
+;;;;;ar-SA;اكتب العدد
+;;categories;;;;niv-a1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§٧}
+;;answer;;;;{?1§سبعة}
+;2;question;;;;{?1§٤}
+;;answer;;;;{?1§{أربعة|اربعة}}
+;3;question;;;;{?1§٥}
+;;answer;;;;{?1§خمسة}
+;4;question;;;;{?1§٩}
+;;answer;;;;{?1§تسعة}
+;5;question;;;;{?1§٦}
+;;answer;;;;{?1§ستة}
+;6;question;;;;{?1§٨}
+;;answer;;;;{?1§ثمانية}

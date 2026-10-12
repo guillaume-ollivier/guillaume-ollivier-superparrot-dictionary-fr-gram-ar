@@ -1,0 +1,18 @@
+﻿topic;item;attribute;section;index;locale;value
+0179-1;_;title;;;fr-FR;Reconnaître le standard
+;;;;;ar-SA;الفصحى
+;;wording;;;fr-FR;Donnez l'équivalent en arabe standard
+;;;;;ar-SA;اكتب بالفصحى
+;;categories;;;;niv-b2
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§عايز (مصر)}
+;;answer;;;;{?1§{أريد|اريد}}
+;2;question;;;;{?1§بدي (الشام)}
+;;answer;;;;{?1§{أريد|اريد}}
+;3;question;;;;{?1§دابا (المغرب)}
+;;answer;;;;{?1§{الآن|الان}}
+;4;question;;;;{?1§دلوقتي (مصر)}
+;;answer;;;;{?1§{الآن|الان}}
+;5;question;;;;{?1§هلق (الشام)}
+;;answer;;;;{?1§{الآن|الان}}

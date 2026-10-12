@@ -1,0 +1,18 @@
+﻿topic;item;attribute;section;index;locale;value
+0148-1;_;title;;;fr-FR;Choisir la terminaison
+;;;;;ar-SA;الإعراب بالحروف
+;;wording;;;fr-FR;Complétez
+;;;;;ar-SA;أكمل
+;;categories;;;;niv-b1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;رأيت {?1§} في المصنع{type=affix§.}{type=clue§lang=fr-FR§les ingénieurs}
+;;answer;;;;{?1§المهندسين}
+;2;question;;;;المهندس{?1§} في المصنع{type=affix§.}{type=clue§lang=fr-FR§les ingénieurs}
+;;answer;;;;{?1§ون}
+;3;question;;;;تكلمت مع المعلم{?1§}{type=affix§.}{type=clue§lang=fr-FR§les deux instituteurs}
+;;answer;;;;{?1§ين}
+;4;question;;;;جاء المعلم{?1§}{type=affix§.}{type=clue§lang=fr-FR§les deux instituteurs}
+;;answer;;;;{?1§ان}
+;5;question;;;;الطالب{?1§} مجتهدون{type=affix§.}{type=clue§lang=fr-FR§les étudiants (pluriel sain)}
+;;answer;;;;{?1§ون}

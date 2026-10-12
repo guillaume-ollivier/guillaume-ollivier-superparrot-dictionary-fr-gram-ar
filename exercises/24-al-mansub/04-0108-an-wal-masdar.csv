@@ -1,0 +1,16 @@
+﻿topic;item;attribute;section;index;locale;value
+0108-1;_;title;;;fr-FR;Avant, après
+;;;;;ar-SA;قبل أن، بعد أن
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-b2
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§avant de sortir (nous)}
+;;answer;;;;{?1§{قبل أن نخرج|قبل ان نخرج}}
+;2;question;;;;{?1§après qu'il est sorti}
+;;answer;;;;{?1§{بعد أن خرج|بعد ان خرج}}
+;3;question;;;;{?1§Je veux voyager. (nom verbal)}
+;;answer;;;;{?1§{أريد السفر|اريد السفر}}{type=affix§.}
+;4;question;;;;{?1§avant son départ}
+;;answer;;;;{?1§{قبل خروجه|قبل سفره}}

@@ -1,0 +1,20 @@
+﻿topic;item;attribute;section;index;locale;value
+0075-1;_;title;;;fr-FR;Il ou elle au passé
+;;;;;ar-SA;هو أو هي
+;;wording;;;fr-FR;Mettez à la 3ᵉ personne du féminin
+;;;;;ar-SA;حوّل إلى المؤنث
+;;categories;;;;niv-a1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§كتب}
+;;answer;;;;{?1§كتبت}
+;2;question;;;;{?1§ذهب}
+;;answer;;;;{?1§ذهبت}
+;3;question;;;;{?1§شرب}
+;;answer;;;;{?1§شربت}
+;4;question;;;;{?1§درس}
+;;answer;;;;{?1§درست}
+;5;question;;;;{?1§جلس}
+;;answer;;;;{?1§جلست}
+;6;question;;;;{?1§خرج}
+;;answer;;;;{?1§خرجت}

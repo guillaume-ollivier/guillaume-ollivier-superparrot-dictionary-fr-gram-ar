@@ -1,0 +1,37 @@
+﻿topic;item;attribute;section;index;locale;value
+0011-1;_;title;;;fr-FR;Rendre défini
+;;;;;ar-SA;التعريف
+;;wording;;;fr-FR;Ajoutez l'article
+;;;;;ar-SA;أضف أداة التعريف
+;;categories;;;;niv-a1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§كتاب}
+;;answer;;;;{?1§الكتاب}
+;2;question;;;;{?1§بنت}
+;;answer;;;;{?1§البنت}
+;3;question;;;;{?1§ولد}
+;;answer;;;;{?1§الولد}
+;4;question;;;;{?1§باب}
+;;answer;;;;{?1§الباب}
+;5;question;;;;{?1§قلم}
+;;answer;;;;{?1§القلم}
+;6;question;;;;{?1§مدرسة}
+;;answer;;;;{?1§المدرسة}
+0011-2;_;title;;;fr-FR;Défini ou indéfini
+;;;;;ar-SA;معرفة أو نكرة
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-a1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§le livre}
+;;answer;;;;{?1§الكتاب}
+;2;question;;;;{?1§une maison}
+;;answer;;;;{?1§بيت}
+;3;question;;;;{?1§l'école}
+;;answer;;;;{?1§المدرسة}
+;4;question;;;;{?1§un stylo}
+;;answer;;;;{?1§قلم}
+;5;question;;;;{?1§la mère}
+;;answer;;;;{?1§{الأم|الام}}

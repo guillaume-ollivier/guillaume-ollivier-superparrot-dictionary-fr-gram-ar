@@ -1,0 +1,20 @@
+﻿topic;item;attribute;section;index;locale;value
+0006-1;_;title;;;fr-FR;Écrire sans voyelles
+;;;;;ar-SA;الكتابة بدون حركات
+;;wording;;;fr-FR;Écrivez en arabe, sans voyelles brèves
+;;;;;ar-SA;اكتب بالعربية
+;;categories;;;;niv-a1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§kataba (il a écrit)}
+;;answer;;;;{?1§كتب}
+;2;question;;;;{?1§kutub (des livres)}
+;;answer;;;;{?1§كتب}
+;3;question;;;;{?1§bint (une fille)}
+;;answer;;;;{?1§بنت}
+;4;question;;;;{?1§walad (un garçon)}
+;;answer;;;;{?1§ولد}
+;5;question;;;;{?1§qalam (un stylo)}
+;;answer;;;;{?1§قلم}
+;6;question;;;;{?1§ǧamal (un chameau)}
+;;answer;;;;{?1§جمل}

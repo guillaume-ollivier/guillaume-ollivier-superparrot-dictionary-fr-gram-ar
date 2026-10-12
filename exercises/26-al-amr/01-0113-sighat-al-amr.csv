@@ -1,0 +1,22 @@
+﻿topic;item;attribute;section;index;locale;value
+0113-1;_;title;;;fr-FR;L'impératif (à un homme)
+;;;;;ar-SA;الأمر
+;;wording;;;fr-FR;Donnez l'impératif masculin singulier
+;;;;;ar-SA;اكتب الأمر
+;;categories;;;;niv-a2
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§تكتب}
+;;answer;;;;{?1§اكتب}
+;2;question;;;;{?1§تجلس}
+;;answer;;;;{?1§اجلس}
+;3;question;;;;{?1§تفتح}
+;;answer;;;;{?1§افتح}
+;4;question;;;;{?1§تشرب}
+;;answer;;;;{?1§اشرب}
+;5;question;;;;{?1§تدرس}
+;;answer;;;;{?1§ادرس}
+;6;question;;;;{?1§تخرج}
+;;answer;;;;{?1§اخرج}
+;7;question;;;;{?1§تسمع}
+;;answer;;;;{?1§اسمع}

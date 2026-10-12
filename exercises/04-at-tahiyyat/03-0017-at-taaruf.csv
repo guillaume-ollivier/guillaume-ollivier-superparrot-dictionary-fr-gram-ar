@@ -1,0 +1,22 @@
+﻿topic;item;attribute;section;index;locale;value
+0017-1;_;title;;;fr-FR;Se présenter
+;;;;;ar-SA;التعارف
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-a1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§Je m'appelle Karim}{type=affix§.}
+;;answer;;;;{?1§اسمي كريم}{type=affix§.}
+;2;question;;;;{?1§Comment t'appelles-tu}{type=affix§?}
+;;answer;;;;{?1§ما اسمك}{type=affix§؟}
+;3;question;;;;{?1§D'où es-tu}{type=affix§?}
+;;answer;;;;{?1§{من أين أنت|من اين انت}}{type=affix§؟}
+;4;question;;;;{?1§Je suis de France}{type=affix§.}
+;;answer;;;;{?1§{أنا من فرنسا|انا من فرنسا}}{type=affix§.}
+;5;question;;;;{?1§Je suis français}{type=affix§.}
+;;answer;;;;{?1§{أنا فرنسي|انا فرنسي}}{type=affix§.}
+;6;question;;;;{?1§Je suis française}{type=affix§.}
+;;answer;;;;{?1§{أنا فرنسية|انا فرنسية}}{type=affix§.}
+;7;question;;;;{?1§Enchanté}{type=affix§.}
+;;answer;;;;{?1§تشرفنا}{type=affix§.}

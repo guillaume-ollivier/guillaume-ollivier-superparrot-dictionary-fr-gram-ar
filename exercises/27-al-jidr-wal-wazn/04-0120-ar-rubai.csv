@@ -1,0 +1,25 @@
+﻿topic;item;attribute;section;index;locale;value
+0120-1;_;title;;;fr-FR;Emprunts et mots arabes
+;;;;;ar-SA;الدخيل
+;;wording;;;fr-FR;Donnez le mot formé sur une racine arabe
+;;;;;ar-SA;اكتب الكلمة العربية
+;;categories;;;;niv-b2
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§تلفون}
+;;answer;;;;{?1§هاتف}
+;2;question;;;;{?1§كمبيوتر}
+;;answer;;;;{?1§حاسوب}
+0120-2;_;title;;;fr-FR;Quadrilitères
+;;;;;ar-SA;الرباعي
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-b2
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§Je traduis le texte}{type=affix§.}
+;;answer;;;;{?1§{أترجم النص|اترجم النص}}{type=affix§.}
+;2;question;;;;{?1§Il a traduit le livre}{type=affix§.}
+;;answer;;;;{?1§ترجم الكتاب}{type=affix§.}
+;3;question;;;;{?1§un séisme}
+;;answer;;;;{?1§زلزال}

@@ -1,0 +1,22 @@
+﻿topic;item;attribute;section;index;locale;value
+0054-1;_;title;;;fr-FR;Préposition + suffixe
+;;;;;ar-SA;حرف الجر والضمير
+;;wording;;;fr-FR;Ajoutez le suffixe
+;;;;;ar-SA;أضف الضمير
+;;categories;;;;niv-a2
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§مع + ي}
+;;answer;;;;{?1§معي}
+;2;question;;;;{?1§على + ه}
+;;answer;;;;{?1§عليه}
+;3;question;;;;{?1§إلى + ك}
+;;answer;;;;{?1§{إليك|اليك}}
+;4;question;;;;{?1§من + ي}
+;;answer;;;;{?1§مني}
+;5;question;;;;{?1§ل + ه}
+;;answer;;;;{?1§له}
+;6;question;;;;{?1§في + ها}
+;;answer;;;;{?1§فيها}
+;7;question;;;;{?1§عن + نا}
+;;answer;;;;{?1§عنا}

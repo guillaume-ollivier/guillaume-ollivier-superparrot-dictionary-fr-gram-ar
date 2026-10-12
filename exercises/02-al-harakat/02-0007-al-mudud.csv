@@ -1,0 +1,22 @@
+﻿topic;item;attribute;section;index;locale;value
+0007-1;_;title;;;fr-FR;Voyelles longues
+;;;;;ar-SA;حروف المد
+;;wording;;;fr-FR;Écrivez en arabe
+;;;;;ar-SA;اكتب بالعربية
+;;categories;;;;niv-a1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§kātib (écrivain)}
+;;answer;;;;{?1§كاتب}
+;2;question;;;;{?1§kabīr (grand)}
+;;answer;;;;{?1§كبير}
+;3;question;;;;{?1§ṣaġīr (petit)}
+;;answer;;;;{?1§صغير}
+;4;question;;;;{?1§sūq (marché)}
+;;answer;;;;{?1§سوق}
+;5;question;;;;{?1§ǧamīl (beau)}
+;;answer;;;;{?1§جميل}
+;6;question;;;;{?1§bayt (maison)}
+;;answer;;;;{?1§بيت}
+;7;question;;;;{?1§nūr (lumière)}
+;;answer;;;;{?1§نور}

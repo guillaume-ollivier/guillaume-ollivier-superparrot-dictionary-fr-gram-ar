@@ -1,0 +1,35 @@
+﻿topic;item;attribute;section;index;locale;value
+0041-1;_;title;;;fr-FR;Féminin des couleurs
+;;;;;ar-SA;ألوان
+;;wording;;;fr-FR;Donnez le féminin
+;;;;;ar-SA;اكتب المؤنث
+;;categories;;;;niv-a2
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§أحمر}
+;;answer;;;;{?1§حمراء}
+;2;question;;;;{?1§أبيض}
+;;answer;;;;{?1§بيضاء}
+;3;question;;;;{?1§أسود}
+;;answer;;;;{?1§سوداء}
+;4;question;;;;{?1§أزرق}
+;;answer;;;;{?1§زرقاء}
+;5;question;;;;{?1§أخضر}
+;;answer;;;;{?1§خضراء}
+;6;question;;;;{?1§أصفر}
+;;answer;;;;{?1§صفراء}
+0041-2;_;title;;;fr-FR;Les couleurs en phrase
+;;;;;ar-SA;الألوان
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-a2
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§une voiture rouge}
+;;answer;;;;{?1§سيارة حمراء}
+;2;question;;;;{?1§La mer est bleue}{type=affix§.}
+;;answer;;;;{?1§{البحر أزرق|البحر ازرق}}{type=affix§.}
+;3;question;;;;{?1§le livre vert}
+;;answer;;;;{?1§{الكتاب الأخضر|الكتاب الاخضر}}
+;4;question;;;;{?1§des maisons blanches}
+;;answer;;;;{?1§بيوت بيضاء}

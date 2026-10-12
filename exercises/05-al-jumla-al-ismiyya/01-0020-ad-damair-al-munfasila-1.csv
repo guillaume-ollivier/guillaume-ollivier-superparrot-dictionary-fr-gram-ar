@@ -1,0 +1,22 @@
+﻿topic;item;attribute;section;index;locale;value
+0020-1;_;title;;;fr-FR;Pronoms singuliers
+;;;;;ar-SA;الضمائر المفردة
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-a1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§je}
+;;answer;;;;{?1§{أنا|انا}}
+;2;question;;;;{?1§tu (à un homme)}
+;;answer;;;;{?1§{أنت|انت}}
+;3;question;;;;{?1§tu (à une femme)}
+;;answer;;;;{?1§{أنت|انت}}
+;4;question;;;;{?1§il}
+;;answer;;;;{?1§هو}
+;5;question;;;;{?1§elle}
+;;answer;;;;{?1§هي}
+;6;question;;;;{?1§Je suis étudiant}{type=affix§.}
+;;answer;;;;{?1§{أنا طالب|انا طالب}}{type=affix§.}
+;7;question;;;;{?1§Elle est étudiante}{type=affix§.}
+;;answer;;;;{?1§هي طالبة}{type=affix§.}

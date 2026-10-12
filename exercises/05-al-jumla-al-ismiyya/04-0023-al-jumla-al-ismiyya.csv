@@ -1,0 +1,20 @@
+﻿topic;item;attribute;section;index;locale;value
+0023-1;_;title;;;fr-FR;Phrase nominale
+;;;;;ar-SA;الجملة الاسمية
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-a1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§La maison est grande}{type=affix§.}
+;;answer;;;;{?1§البيت كبير}{type=affix§.}
+;2;question;;;;{?1§Je suis ingénieur}{type=affix§.}
+;;answer;;;;{?1§{أنا مهندس|انا مهندس}}{type=affix§.}
+;3;question;;;;{?1§Le livre est sur la table}{type=affix§.}
+;;answer;;;;{?1§الكتاب على الطاولة}{type=affix§.}
+;4;question;;;;{?1§Le marché est grand}{type=affix§.}
+;;answer;;;;{?1§السوق كبير}{type=affix§.}
+;5;question;;;;{?1§Il est médecin}{type=affix§.}
+;;answer;;;;{?1§هو طبيب}{type=affix§.}
+;6;question;;;;{?1§L'école est petite}{type=affix§.}
+;;answer;;;;{?1§المدرسة صغيرة}{type=affix§.}

@@ -1,0 +1,18 @@
+﻿topic;item;attribute;section;index;locale;value
+0078-1;_;title;;;fr-FR;L'accompli au duel
+;;;;;ar-SA;الماضي المثنى
+;;wording;;;fr-FR;Conjuguez à l'accompli
+;;;;;ar-SA;صرّف في الماضي
+;;categories;;;;niv-b1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§هما، مذكر (كتب)}
+;;answer;;;;{?1§كتبا}
+;2;question;;;;{?1§هما، مؤنث (كتب)}
+;;answer;;;;{?1§كتبتا}
+;3;question;;;;{?1§أنتما (ذهب)}
+;;answer;;;;{?1§ذهبتما}
+;4;question;;;;{?1§هما، مذكر (خرج)}
+;;answer;;;;{?1§خرجا}
+;5;question;;;;{?1§هما، مؤنث (جلس)}
+;;answer;;;;{?1§جلستا}

@@ -1,0 +1,35 @@
+﻿topic;item;attribute;section;index;locale;value
+0025-1;_;title;;;fr-FR;Mettre au féminin
+;;;;;ar-SA;التأنيث
+;;wording;;;fr-FR;Donnez le féminin
+;;;;;ar-SA;اكتب المؤنث
+;;categories;;;;niv-a1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§طالب}
+;;answer;;;;{?1§طالبة}
+;2;question;;;;{?1§كبير}
+;;answer;;;;{?1§كبيرة}
+;3;question;;;;{?1§جديد}
+;;answer;;;;{?1§جديدة}
+;4;question;;;;{?1§صغير}
+;;answer;;;;{?1§صغيرة}
+;5;question;;;;{?1§جميل}
+;;answer;;;;{?1§جميلة}
+;6;question;;;;{?1§مهندس}
+;;answer;;;;{?1§مهندسة}
+0025-2;_;title;;;fr-FR;Accorder l'adjectif
+;;;;;ar-SA;المطابقة
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-a1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§La chambre est petite}{type=affix§.}
+;;answer;;;;{?1§الغرفة صغيرة}{type=affix§.}
+;2;question;;;;{?1§La voiture est neuve}{type=affix§.}
+;;answer;;;;{?1§السيارة جديدة}{type=affix§.}
+;3;question;;;;{?1§La ville est belle}{type=affix§.}
+;;answer;;;;{?1§المدينة جميلة}{type=affix§.}
+;4;question;;;;{?1§Le marché est grand}{type=affix§.}
+;;answer;;;;{?1§{السوق كبير|السوق كبيرة}}{type=affix§.}

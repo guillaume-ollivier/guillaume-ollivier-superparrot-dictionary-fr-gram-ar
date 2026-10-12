@@ -1,0 +1,20 @@
+﻿topic;item;attribute;section;index;locale;value
+0117-1;_;title;;;fr-FR;Mots d'une même racine
+;;;;;ar-SA;أسرة الكلمة
+;;wording;;;fr-FR;Donnez la racine (trois lettres collées)
+;;;;;ar-SA;اكتب الجذر
+;;categories;;;;niv-a2
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§مكتبة}
+;;answer;;;;{?1§كتب}
+;2;question;;;;{?1§مدرسة}
+;;answer;;;;{?1§درس}
+;3;question;;;;{?1§كاتب}
+;;answer;;;;{?1§كتب}
+;4;question;;;;{?1§مدرس}
+;;answer;;;;{?1§درس}
+;5;question;;;;{?1§مكتوب}
+;;answer;;;;{?1§كتب}
+;6;question;;;;{?1§دراسة}
+;;answer;;;;{?1§درس}

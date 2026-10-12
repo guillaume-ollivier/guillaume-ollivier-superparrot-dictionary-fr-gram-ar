@@ -1,0 +1,2759 @@
+﻿type;reference;locale;text;context;translation_context;ipa;register;frequency;level;categories;tags;pattern
+meaning;al-;;;;;;;;;;;
+word;ar:0;ar;الـ;;;;reg-courant;freq-ultra;niv-a1;det;;
+word;ar:1;ar;ال;;;;reg-courant;freq-ultra;niv-a1;det;;
+word;fr:0;fr-FR;le;article;;;reg-courant;;;det;;
+word;fr:1;fr-FR;la;article;;;reg-courant;;;det;;
+word;fr:2;fr-FR;les;article;;;reg-courant;;;det;;
+meaning;alladhi;;;;;;;;;;;
+word;ar:0;ar;الَّذِي;;{lang=fr-FR§masculin singulier};;reg-courant;freq-ultra;niv-b1;pron;;
+word;ar:1;ar;الذي;;{lang=fr-FR§masculin singulier};;reg-courant;freq-ultra;niv-b1;pron;;
+word;fr:0;fr-FR;qui;relatif;;;reg-courant;;;pron;;
+word;fr:1;fr-FR;que;relatif;;;reg-courant;;;pron;;
+meaning;alladhina;;;;;;;;;;;
+word;ar:0;ar;الَّذِينَ;;{lang=fr-FR§masculin pluriel};;reg-courant;freq-tres;niv-b1;pron;;
+word;ar:1;ar;الذين;;{lang=fr-FR§masculin pluriel};;reg-courant;freq-tres;niv-b1;pron;;
+word;fr:0;fr-FR;qui;relatif;;;reg-courant;;;pron;;
+word;fr:1;fr-FR;que;relatif;;;reg-courant;;;pron;;
+meaning;allati;;;;;;;;;;;
+word;ar:0;ar;الَّتِي;;{lang=fr-FR§féminin singulier, ou pluriel de choses};;reg-courant;freq-ultra;niv-b1;pron;;
+word;ar:1;ar;التي;;{lang=fr-FR§féminin singulier, ou pluriel de choses};;reg-courant;freq-ultra;niv-b1;pron;;
+word;fr:0;fr-FR;qui;relatif;;;reg-courant;;;pron;;
+word;fr:1;fr-FR;que;relatif;;;reg-courant;;;pron;;
+meaning;am;;;;;;;;;;;
+word;ar:0;ar;أَمْ;;{lang=fr-FR§dans une question};;reg-courant;freq-freq;niv-b1;conj;;
+word;ar:1;ar;أم;أَمْ;{lang=fr-FR§dans une question};;reg-courant;freq-freq;niv-b1;conj;;
+word;fr:0;fr-FR;ou;;;;reg-courant;;;conj;;
+meaning;amma;;;;;;;;;;;
+word;ar:0;ar;أَمَّا;;;;reg-courant;freq-tres;niv-b1;conj;;
+word;ar:1;ar;أما;;;;reg-courant;freq-tres;niv-b1;conj;;
+word;fr:0;fr-FR;quant à;;;;reg-courant;;;conj;;
+meaning;an;;;;;;;;;;;
+word;ar:0;ar;أَنْ;;{lang=fr-FR§devant un verbe};;reg-courant;freq-ultra;niv-a2;conj;;
+word;ar:1;ar;أن;أَنْ;{lang=fr-FR§devant un verbe};;reg-courant;freq-ultra;niv-a2;conj;;
+word;fr:0;fr-FR;que;conjonction;;;reg-courant;;;conj;;
+meaning;anna;;;;;;;;;;;
+word;ar:0;ar;أَنَّ;;{lang=fr-FR§devant un nom ou un pronom};;reg-courant;freq-ultra;niv-b1;conj;;
+word;ar:1;ar;أن;أَنَّ;{lang=fr-FR§devant un nom ou un pronom};;reg-courant;freq-ultra;niv-b1;conj;;
+word;fr:0;fr-FR;que;conjonction;;;reg-courant;;;conj;;
+meaning;aw;;;;;;;;;;;
+word;ar:0;ar;أَوْ;;;;reg-courant;freq-ultra;niv-a1;conj;;
+word;ar:1;ar;أو;;;;reg-courant;freq-ultra;niv-a1;conj;;
+word;fr:0;fr-FR;ou;;;;reg-courant;;;conj;;
+meaning;bal;;;;;;;;;;;
+word;ar:0;ar;بَلْ;;;;reg-courant;freq-tres;niv-b1;conj;;
+word;ar:1;ar;بل;;;;reg-courant;freq-tres;niv-b1;conj;;
+word;fr:0;fr-FR;mais plutôt;;;;reg-courant;;;conj;;
+word;fr:1;fr-FR;bien plus;;;;reg-courant;;;conj;;
+meaning;bi-;;;;;;;;;;;
+word;ar:0;ar;بِـ;;;;reg-courant;freq-ultra;niv-a1;prep;;
+word;ar:1;ar;ب;;;;reg-courant;freq-ultra;niv-a1;prep;;
+word;fr:0;fr-FR;avec;instrument;;;reg-courant;;;prep;;
+word;fr:1;fr-FR;par;;;;reg-courant;;;prep;;
+meaning;dhalika;;;;;;;;;;;
+word;ar:0;ar;ذٰلِكَ;;{lang=fr-FR§masculin};;reg-courant;freq-ultra;niv-a1;pron;;
+word;ar:1;ar;ذلك;;{lang=fr-FR§masculin};;reg-courant;freq-ultra;niv-a1;pron;;
+word;fr:0;fr-FR;cela;;;;reg-courant;;;pron;;
+word;fr:1;fr-FR;celui-là;;;;reg-courant;;;pron;;
+meaning;haulai;;;;;;;;;;;
+word;ar:0;ar;هٰؤُلَاءِ;;;;reg-courant;freq-tres;niv-a1;pron;;
+word;ar:1;ar;هؤلاء;;;;reg-courant;freq-tres;niv-a1;pron;;
+word;fr:0;fr-FR;ceux-ci;;;;reg-courant;;;pron;;
+word;fr:1;fr-FR;celles-ci;;;;reg-courant;;;pron;;
+meaning;hādhihi;;;;;;;;;;;
+word;ar:0;ar;هٰذِهِ;;{lang=fr-FR§féminin, ou pluriel de choses};;reg-courant;freq-ultra;niv-a1;pron;;
+word;ar:1;ar;هذه;;{lang=fr-FR§féminin, ou pluriel de choses};;reg-courant;freq-ultra;niv-a1;pron;;
+word;fr:0;fr-FR;ceci;;;;reg-courant;;;pron;;
+word;fr:1;fr-FR;celle-ci;;;;reg-courant;;;pron;;
+meaning;hādhā;;;;;;;;;;;
+word;ar:0;ar;هٰذَا;;{lang=fr-FR§masculin};;reg-courant;freq-ultra;niv-a1;pron;;
+word;ar:1;ar;هذا;;{lang=fr-FR§masculin};;reg-courant;freq-ultra;niv-a1;pron;;
+word;fr:0;fr-FR;ceci;;;;reg-courant;;;pron;;
+word;fr:1;fr-FR;celui-ci;;;;reg-courant;;;pron;;
+meaning;idha;;;;;;;;;;;
+word;ar:0;ar;إِذَا;;{lang=fr-FR§condition courante};;reg-courant;freq-ultra;niv-a2;conj;;
+word;ar:1;ar;إذا;;{lang=fr-FR§condition courante};;reg-courant;freq-ultra;niv-a2;conj;;
+word;fr:0;fr-FR;si;condition;;;reg-courant;;;conj;;
+meaning;illa;;;;;;;;;;;
+word;ar:0;ar;إِلَّا;;{lang=fr-FR§suivi d'un accusatif};;reg-courant;freq-ultra;niv-b1;particle;;
+word;ar:1;ar;إلا;;{lang=fr-FR§suivi d'un accusatif};;reg-courant;freq-ultra;niv-b1;particle;;
+word;fr:0;fr-FR;sauf;;;;reg-courant;;;particle;;
+word;fr:1;fr-FR;excepté;;;;reg-courant;;;particle;;
+meaning;in;;;;;;;;;;;
+word;ar:0;ar;إِنْ;;{lang=fr-FR§condition possible, langue soutenue};;reg-soutenu;freq-tres;niv-b1;conj;;
+word;ar:1;ar;إن;إِنْ;{lang=fr-FR§condition possible, langue soutenue};;reg-soutenu;freq-tres;niv-b1;conj;;
+word;fr:0;fr-FR;si;condition;;;reg-courant;;;conj;;
+meaning;inna;;;;;;;;;;;
+word;ar:0;ar;إِنَّ;;;;reg-courant;freq-ultra;niv-b1;particle;;
+word;ar:1;ar;إن;إِنَّ;;;reg-courant;freq-ultra;niv-b1;particle;;
+word;fr:0;fr-FR;certes;;;;reg-courant;;;particle;;
+meaning;lakinna;;;;;;;;;;;
+word;ar:0;ar;لٰكِنَّ;;;;reg-courant;freq-ultra;niv-a2;conj;;
+word;ar:1;ar;لكن;;;;reg-courant;freq-ultra;niv-a2;conj;;
+word;fr:0;fr-FR;mais;;;;reg-courant;;;conj;;
+meaning;lam;;;;;;;;;;;
+word;ar:0;ar;لَمْ;;{lang=fr-FR§au passé};;reg-courant;freq-ultra;niv-a2;particle;;
+word;ar:1;ar;لم;;{lang=fr-FR§au passé};;reg-courant;freq-ultra;niv-a2;particle;;
+word;fr:0;fr-FR;ne… pas;;;;reg-courant;;;locution, adv;;
+meaning;lan;;;;;;;;;;;
+word;ar:0;ar;لَنْ;;{lang=fr-FR§au futur};;reg-courant;freq-tres;niv-b1;particle;;
+word;ar:1;ar;لن;;{lang=fr-FR§au futur};;reg-courant;freq-tres;niv-b1;particle;;
+word;fr:0;fr-FR;ne… pas;;;;reg-courant;;;locution, adv;;
+meaning;law;;;;;;;;;;;
+word;ar:0;ar;لَوْ;;{lang=fr-FR§condition irréelle};;reg-courant;freq-tres;niv-b1;conj;;
+word;ar:1;ar;لو;;{lang=fr-FR§condition irréelle};;reg-courant;freq-tres;niv-b1;conj;;
+word;fr:0;fr-FR;si;condition;;;reg-courant;;;conj;;
+meaning;lawla;;;;;;;;;;;
+word;ar:0;ar;لَوْلَا;;;;reg-soutenu;freq-freq;niv-b2;conj;;
+word;ar:1;ar;لولا;;;;reg-soutenu;freq-freq;niv-b2;conj;;
+word;fr:0;fr-FR;n'eût été;;;;reg-courant;;;conj;;
+word;fr:1;fr-FR;sans;;;;reg-courant;;;conj;;
+meaning;li-;;;;;;;;;;;
+word;ar:0;ar;لِـ;;;;reg-courant;freq-ultra;niv-a1;prep;;
+word;ar:1;ar;ل;;;;reg-courant;freq-ultra;niv-a1;prep;;
+word;fr:0;fr-FR;à;;;;reg-courant;;;prep;;
+word;fr:1;fr-FR;pour;;;;reg-courant;;;prep;;
+meaning;siwa;;;;;;;;;;;
+word;ar:0;ar;سِوَى;;{lang=fr-FR§suivi d'un génitif};;reg-courant;freq-freq;niv-b2;noun;;
+word;ar:1;ar;سوى;;{lang=fr-FR§suivi d'un génitif};;reg-courant;freq-freq;niv-b2;noun;;
+word;fr:0;fr-FR;sauf;;;;reg-courant;;;noun;;
+word;fr:1;fr-FR;excepté;;;;reg-courant;;;noun;;
+meaning;tilka;;;;;;;;;;;
+word;ar:0;ar;تِلْكَ;;{lang=fr-FR§féminin, ou pluriel de choses};;reg-courant;freq-tres;niv-a1;pron;;
+word;ar:1;ar;تلك;;{lang=fr-FR§féminin, ou pluriel de choses};;reg-courant;freq-tres;niv-a1;pron;;
+word;fr:0;fr-FR;cela;;;;reg-courant;;;pron;;
+word;fr:1;fr-FR;celle-là;;;;reg-courant;;;pron;;
+meaning;ulaika;;;;;;;;;;;
+word;ar:0;ar;أُولٰئِكَ;;;;reg-courant;freq-freq;niv-a2;pron;;
+word;ar:1;ar;أولئك;;;;reg-courant;freq-freq;niv-a2;pron;;
+word;fr:0;fr-FR;ceux-là;;;;reg-courant;;;pron;;
+word;fr:1;fr-FR;celles-là;;;;reg-courant;;;pron;;
+meaning;ya;;;;;;;;;;;
+word;ar:0;ar;يَا;;;;reg-courant;freq-tres;niv-a1;particle;;
+word;ar:1;ar;يا;;;;reg-courant;freq-tres;niv-a1;particle;;
+word;fr:0;fr-FR;ô;vocatif;;;reg-courant;;;particle;;
+meaning;آبَاء;;;;;;;;;;;
+word;ar:0;ar;آبَاء;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;famille;
+word;ar:1;ar;آباء;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;famille;
+word;fr:0;fr-FR;pères;;;;reg-courant;;;noun, mas, plur;famille;art-fr-des
+meaning;آخِر;;;;;;;;;;;
+word;ar:0;ar;آخِر;;;;reg-courant;freq-tres;niv-a2;adj;moment;
+word;ar:1;ar;آخر;;;;reg-courant;freq-tres;niv-a2;adj;moment;
+word;fr:0;fr-FR;dernier;;;;reg-courant;;;adj;moment;
+meaning;آذَان;;;;;;;;;;;
+word;ar:0;ar;آذَان;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;corps;
+word;ar:1;ar;آذان;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;corps;
+word;fr:0;fr-FR;oreilles;;;;reg-courant;;;noun, fem, plur;corps;art-fr-des
+meaning;آسِف;;;;;;;;;;;
+word;ar:0;ar;آسِف;;;;reg-courant;freq-tres;niv-a1;adj;emotion;
+word;ar:1;ar;آسف;;;;reg-courant;freq-tres;niv-a1;adj;emotion;
+word;fr:0;fr-FR;désolé;;;;reg-courant;;;adj;emotion;
+meaning;أَب;;;;;;;;;;;
+word;ar:0;ar;أَب;;;;reg-courant;freq-ultra;niv-a1;noun, mas;famille;
+word;ar:1;ar;أب;;;;reg-courant;freq-ultra;niv-a1;noun, mas;famille;
+word;fr:0;fr-FR;père;;;;reg-courant;;;noun, mas;famille;art-fr-un
+meaning;أَبَدًا;;;;;;;;;;;
+word;ar:0;ar;أَبَدًا;;{lang=fr-FR§au présent ou au futur};;reg-courant;freq-tres;niv-a2;adv;frequence;
+word;ar:1;ar;أبدا;;{lang=fr-FR§au présent ou au futur};;reg-courant;freq-tres;niv-a2;adv;frequence;
+word;fr:0;fr-FR;jamais;;;;reg-courant;;;adv;frequence;
+meaning;أَبْوَاب;;;;;;;;;;;
+word;ar:0;ar;أَبْوَاب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;habitation;
+word;ar:1;ar;أبواب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;habitation;
+word;fr:0;fr-FR;portes;;;;reg-courant;;;noun, fem, plur;habitation;art-fr-des
+meaning;أَبْيَض;;;;;;;;;;;
+word;ar:0;ar;أَبْيَض;;;;reg-courant;freq-tres;niv-a1;adj;couleur;
+word;ar:1;ar;أبيض;;;;reg-courant;freq-tres;niv-a1;adj;couleur;
+word;fr:0;fr-FR;blanc;;;;reg-courant;;;adj;couleur;
+meaning;أَثْمَان;;;;;;;;;;;
+word;ar:0;ar;أَثْمَان;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;argent, commerce;
+word;ar:1;ar;أثمان;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;argent, commerce;
+word;fr:0;fr-FR;prix;coût;;;reg-courant;;;noun, mas, plur;argent, commerce;art-fr-des
+meaning;أَجْسَام;;;;;;;;;;;
+word;ar:0;ar;أَجْسَام;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;corps;
+word;ar:1;ar;أجسام;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;corps;
+word;fr:0;fr-FR;corps;;;;reg-courant;;;noun, mas, plur;corps;art-fr-des
+meaning;أَحَبَّ;;;;;;;;;;;
+word;ar:0;ar;أَحَبَّ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans, verb-derived;emotion;
+word;ar:1;ar;أحب;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans, verb-derived;emotion;
+word;fr:0;fr-FR;aimer;;;;reg-courant;;;verb, tense-inf;emotion;
+meaning;أَحِبَّاء;;;;;;;;;;;
+word;ar:0;ar;أَحِبَّاء;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;relation;
+word;ar:1;ar;أحباء;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;relation;
+word;fr:0;fr-FR;bien-aimés;;;;reg-courant;;;noun, mas, plur;relation;art-fr-des
+meaning;أَحْمَر;;;;;;;;;;;
+word;ar:0;ar;أَحْمَر;;;;reg-courant;freq-tres;niv-a1;adj;couleur;
+word;ar:1;ar;أحمر;;;;reg-courant;freq-tres;niv-a1;adj;couleur;
+word;fr:0;fr-FR;rouge;;;;reg-courant;;;adj;couleur;
+meaning;أَحْوَال;;;;;;;;;;;
+word;ar:0;ar;أَحْوَال;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;etat;
+word;ar:1;ar;أحوال;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;etat;
+word;fr:0;fr-FR;états;situation;;;reg-courant;;;noun, mas, plur;etat;art-fr-des
+meaning;أَخ;;;;;;;;;;;
+word;ar:0;ar;أَخ;;;;reg-courant;freq-ultra;niv-a1;noun, mas;famille;
+word;ar:1;ar;أخ;;;;reg-courant;freq-ultra;niv-a1;noun, mas;famille;
+word;fr:0;fr-FR;frère;;;;reg-courant;;;noun, mas;famille;art-fr-un
+meaning;أَخَذَ;;;;;;;;;;;
+word;ar:0;ar;أَخَذَ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;geste;
+word;ar:1;ar;أخذ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;geste;
+word;fr:0;fr-FR;prendre;;;;reg-courant;;;verb, tense-inf;geste;
+meaning;أَخَوَات;;;;;;;;;;;
+word;ar:0;ar;أَخَوَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;famille;
+word;ar:1;ar;أخوات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;famille;
+word;fr:0;fr-FR;sœurs;;;;reg-courant;;;noun, fem, plur;famille;art-fr-des
+meaning;أَخْرَجَ;;;;;;;;;;;
+word;ar:0;ar;أَخْرَجَ;;;;reg-courant;freq-freq;niv-b1;verb, verb-trans, verb-derived;geste;
+word;ar:1;ar;أخرج;;;;reg-courant;freq-freq;niv-b1;verb, verb-trans, verb-derived;geste;
+word;fr:0;fr-FR;sortir;quelque chose;;;reg-courant;;;verb, tense-inf;geste;
+word;fr:1;fr-FR;faire sortir;;;;reg-courant;;;verb, tense-inf;geste;
+meaning;أَخْضَر;;;;;;;;;;;
+word;ar:0;ar;أَخْضَر;;;;reg-courant;freq-tres;niv-a1;adj;couleur;
+word;ar:1;ar;أخضر;;;;reg-courant;freq-tres;niv-a1;adj;couleur;
+word;fr:0;fr-FR;vert;;;;reg-courant;;;adj;couleur;
+meaning;أَرَادَ;;;;;;;;;;;
+word;ar:0;ar;أَرَادَ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans, verb-derived;volonte;
+word;ar:1;ar;أراد;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans, verb-derived;volonte;
+word;fr:0;fr-FR;vouloir;;;;reg-courant;;;verb, tense-inf;volonte;
+meaning;أَرَاضٍ;;;;;;;;;;;
+word;ar:0;ar;أَرَاضٍ;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;geographie;
+word;ar:1;ar;أراض;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;geographie;
+word;fr:0;fr-FR;terres;;;;reg-courant;;;noun, fem, plur;geographie;art-fr-des
+meaning;أَرُزّ;;;;;;;;;;;
+word;ar:0;ar;أَرُزّ;;;;reg-courant;freq-freq;niv-a1;noun, mas;aliment;
+word;ar:1;ar;أرز;;;;reg-courant;freq-freq;niv-a1;noun, mas;aliment;
+word;fr:0;fr-FR;riz;;;;reg-courant;;;noun, mas;aliment;art-fr-un
+meaning;أَرْبَعَة;;;;;;;;;;;
+word;ar:0;ar;أَرْبَعَة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;ar:1;ar;أربعة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;fr:0;fr-FR;quatre;;;;reg-courant;;;num;nombre;
+meaning;أَرْجُل;;;;;;;;;;;
+word;ar:0;ar;أَرْجُل;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;corps;
+word;ar:1;ar;أرجل;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;corps;
+word;fr:0;fr-FR;jambes;;;;reg-courant;;;noun, fem, plur;corps;art-fr-des
+meaning;أَرْسَلَ;;;;;;;;;;;
+word;ar:0;ar;أَرْسَلَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans, verb-derived;communication;
+word;ar:1;ar;أرسل;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans, verb-derived;communication;
+word;fr:0;fr-FR;envoyer;;;;reg-courant;;;verb, tense-inf;communication;
+meaning;أَرْض;;;;;;;;;;;
+word;ar:0;ar;أَرْض;;;;reg-courant;freq-tres;niv-a1;noun, fem;geographie;
+word;ar:1;ar;أرض;;;;reg-courant;freq-tres;niv-a1;noun, fem;geographie;
+word;fr:0;fr-FR;terre;;;;reg-courant;;;noun, fem;geographie;art-fr-une
+word;fr:1;fr-FR;sol;;;;reg-courant;;;noun, mas;geographie;art-fr-un
+meaning;أَرْقَام;;;;;;;;;;;
+word;ar:0;ar;أَرْقَام;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;nombre;
+word;ar:1;ar;أرقام;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;nombre;
+word;fr:0;fr-FR;numéros;;;;reg-courant;;;noun, mas, plur;nombre;art-fr-des
+word;fr:1;fr-FR;chiffres;;;;reg-courant;;;noun, mas, plur;nombre;art-fr-des
+meaning;أَزْرَق;;;;;;;;;;;
+word;ar:0;ar;أَزْرَق;;;;reg-courant;freq-tres;niv-a1;adj;couleur;
+word;ar:1;ar;أزرق;;;;reg-courant;freq-tres;niv-a1;adj;couleur;
+word;fr:0;fr-FR;bleu;;;;reg-courant;;;adj;couleur;
+meaning;أَسَابِيع;;;;;;;;;;;
+word;ar:0;ar;أَسَابِيع;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;calendrier, duree;
+word;ar:1;ar;أسابيع;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;calendrier, duree;
+word;fr:0;fr-FR;semaines;;;;reg-courant;;;noun, fem, plur;calendrier, duree;art-fr-des
+meaning;أَسَاتِذَة;;;;;;;;;;;
+word;ar:0;ar;أَسَاتِذَة;;{lang=fr-FR§pluriel, d'université, ou titre de politesse};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;metier, ecole;
+word;ar:1;ar;أساتذة;;{lang=fr-FR§pluriel, d'université, ou titre de politesse};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;metier, ecole;
+word;fr:0;fr-FR;professeurs;;;;reg-courant;;;noun, mas, plur;metier, ecole;art-fr-des
+meaning;أَسِرَّة;;;;;;;;;;;
+word;ar:0;ar;أَسِرَّة;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;mobilier;
+word;ar:1;ar;أسرة;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;mobilier;
+word;fr:0;fr-FR;lits;;;;reg-courant;;;noun, mas, plur;mobilier;art-fr-des
+meaning;أَسْئِلَة;;;;;;;;;;;
+word;ar:0;ar;أَسْئِلَة;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;communication;
+word;ar:1;ar;أسئلة;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;communication;
+word;fr:0;fr-FR;questions;;;;reg-courant;;;noun, fem, plur;communication;art-fr-des
+meaning;أَسْرَعَ;;;;;;;;;;;
+word;ar:0;ar;أَسْرَعَ;;;;reg-courant;freq-freq;niv-b1;verb, verb-intrans, verb-derived;deplacement;
+word;ar:1;ar;أسرع;;;;reg-courant;freq-freq;niv-b1;verb, verb-intrans, verb-derived;deplacement;
+word;fr:0;fr-FR;se dépêcher;;;;reg-courant;;;verb, tense-inf;deplacement;
+meaning;أَسْفَار;;;;;;;;;;;
+word;ar:0;ar;أَسْفَار;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;voyage;
+word;ar:1;ar;أسفار;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;voyage;
+word;fr:0;fr-FR;voyages;;;;reg-courant;;;noun, mas, plur;voyage;art-fr-des
+meaning;أَسْمَاء;;;;;;;;;;;
+word;ar:0;ar;أَسْمَاء;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;personne;
+word;ar:1;ar;أسماء;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;personne;
+word;fr:0;fr-FR;noms;d'une personne;;;reg-courant;;;noun, mas, plur;personne;art-fr-des
+word;fr:1;fr-FR;prénoms;;;;reg-courant;;;noun, mas, plur;personne;art-fr-des
+meaning;أَسْوَاق;;;;;;;;;;;
+word;ar:0;ar;أَسْوَاق;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;commerce, ville;
+word;ar:1;ar;أسواق;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;commerce, ville;
+word;fr:0;fr-FR;marchés;lieu de vente;;;reg-courant;;;noun, mas, plur;commerce, ville;art-fr-des
+meaning;أَسْوَد;;;;;;;;;;;
+word;ar:0;ar;أَسْوَد;;;;reg-courant;freq-tres;niv-a1;adj;couleur;
+word;ar:1;ar;أسود;;;;reg-courant;freq-tres;niv-a1;adj;couleur;
+word;fr:0;fr-FR;noir;;;;reg-courant;;;adj;couleur;
+meaning;أَشْجَار;;;;;;;;;;;
+word;ar:0;ar;أَشْجَار;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;vegetal;
+word;ar:1;ar;أشجار;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;vegetal;
+word;fr:0;fr-FR;arbres;;;;reg-courant;;;noun, mas, plur;vegetal;art-fr-des
+meaning;أَصْدِقَاء;;;;;;;;;;;
+word;ar:0;ar;أَصْدِقَاء;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;relation;
+word;ar:1;ar;أصدقاء;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;relation;
+word;fr:0;fr-FR;amis;;;;reg-courant;;;noun, mas, plur;relation;art-fr-des
+meaning;أَصْفَر;;;;;;;;;;;
+word;ar:0;ar;أَصْفَر;;;;reg-courant;freq-tres;niv-a1;adj;couleur;
+word;ar:1;ar;أصفر;;;;reg-courant;freq-tres;niv-a1;adj;couleur;
+word;fr:0;fr-FR;jaune;;;;reg-courant;;;adj;couleur;
+meaning;أَطِبَّاء;;;;;;;;;;;
+word;ar:0;ar;أَطِبَّاء;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;metier, sante;
+word;ar:1;ar;أطباء;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;metier, sante;
+word;fr:0;fr-FR;médecins;;;;reg-courant;;;noun, mas, plur;metier, sante;art-fr-des
+meaning;أَطْعِمَة;;;;;;;;;;;
+word;ar:0;ar;أَطْعِمَة;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;aliment;
+word;ar:1;ar;أطعمة;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;aliment;
+word;fr:0;fr-FR;aliments;;;;reg-courant;;;noun, mas, plur;aliment;art-fr-des
+meaning;أَطْفَال;;;;;;;;;;;
+word;ar:0;ar;أَطْفَال;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;famille, age-etat;
+word;ar:1;ar;أطفال;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;famille, age-etat;
+word;fr:0;fr-FR;enfants;;;;reg-courant;;;noun, mas, plur;famille, age-etat;art-fr-des
+meaning;أَعْدَاد;;;;;;;;;;;
+word;ar:0;ar;أَعْدَاد;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;nombre;
+word;ar:1;ar;أعداد;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;nombre;
+word;fr:0;fr-FR;nombres;quantité;;;reg-courant;;;noun, mas, plur;nombre;art-fr-des
+meaning;أَعْلَنَ;;;;;;;;;;;
+word;ar:0;ar;أَعْلَنَ;;;;reg-courant;freq-tres;niv-b1;verb, verb-trans, verb-derived;media;
+word;ar:1;ar;أعلن;;;;reg-courant;freq-tres;niv-b1;verb, verb-trans, verb-derived;media;
+word;fr:0;fr-FR;annoncer;;;;reg-courant;;;verb, tense-inf;media;
+meaning;أَعْمَار;;;;;;;;;;;
+word;ar:0;ar;أَعْمَار;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;age-etat;
+word;ar:1;ar;أعمار;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;age-etat;
+word;fr:0;fr-FR;âges;;;;reg-courant;;;noun, mas, plur;age-etat;art-fr-des
+meaning;أَعْمَال;;;;;;;;;;;
+word;ar:0;ar;أَعْمَال;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;travail;
+word;ar:1;ar;أعمال;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;travail;
+word;fr:0;fr-FR;travaux;;;;reg-courant;;;noun, mas, plur;travail;art-fr-des
+meaning;أَغْلَقَ;;;;;;;;;;;
+word;ar:0;ar;أَغْلَقَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans, verb-derived;geste;
+word;ar:1;ar;أغلق;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans, verb-derived;geste;
+word;fr:0;fr-FR;fermer;;;;reg-courant;;;verb, tense-inf;geste;
+meaning;أَفْلَام;;;;;;;;;;;
+word;ar:0;ar;أَفْلَام;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, loanword, plur, plur-broken;art, media;
+word;ar:1;ar;أفلام;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, loanword, plur, plur-broken;art, media;
+word;fr:0;fr-FR;films;;;;reg-courant;;;noun, mas, plur;art, media;art-fr-des
+meaning;أَفْيَال;;;;;;;;;;;
+word;ar:0;ar;أَفْيَال;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;animal;
+word;ar:1;ar;أفيال;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;animal;
+word;fr:0;fr-FR;éléphants;;;;reg-courant;;;noun, mas, plur;animal;art-fr-des
+meaning;أَقَلّ;;;;;;;;;;;
+word;ar:0;ar;أَقَلّ;;;;reg-courant;freq-tres;niv-a2;adj;quantite;
+word;ar:1;ar;أقل;;;;reg-courant;freq-tres;niv-a2;adj;quantite;
+word;fr:0;fr-FR;moins;;;;reg-courant;;;adv;quantite;
+meaning;أَقْدَام;;;;;;;;;;;
+word;ar:0;ar;أَقْدَام;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;corps;
+word;ar:1;ar;أقدام;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;corps;
+word;fr:0;fr-FR;pieds;;;;reg-courant;;;noun, mas, plur;corps;art-fr-des
+meaning;أَقْلَام;;;;;;;;;;;
+word;ar:0;ar;أَقْلَام;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;ecole, objet;
+word;ar:1;ar;أقلام;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;ecole, objet;
+word;fr:0;fr-FR;stylos;;;;reg-courant;;;noun, mas, plur;ecole, objet;art-fr-des
+word;fr:1;fr-FR;crayons;;;;reg-courant;;;noun, mas, plur;ecole, objet;art-fr-des
+meaning;أَكَلَ;;;;;;;;;;;
+word;ar:0;ar;أَكَلَ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;repas;
+word;ar:1;ar;أكل;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;repas;
+word;fr:0;fr-FR;manger;;;;reg-courant;;;verb, tense-inf;repas;
+meaning;أَكْثَر;;;;;;;;;;;
+word;ar:0;ar;أَكْثَر;;;;reg-courant;freq-ultra;niv-a2;adj;quantite;
+word;ar:1;ar;أكثر;;;;reg-courant;freq-ultra;niv-a2;adj;quantite;
+word;fr:0;fr-FR;plus;;;;reg-courant;;;adv;quantite;
+word;fr:1;fr-FR;davantage;;;;reg-courant;;;adv;quantite;
+meaning;أَكْمَلَ;;;;;;;;;;;
+word;ar:0;ar;أَكْمَلَ;;;;reg-courant;freq-freq;niv-b1;verb, verb-trans, verb-derived;action;
+word;ar:1;ar;أكمل;;;;reg-courant;freq-freq;niv-b1;verb, verb-trans, verb-derived;action;
+word;fr:0;fr-FR;achever;;;;reg-courant;;;verb, tense-inf;action;
+word;fr:1;fr-FR;terminer;;;;reg-courant;;;verb, tense-inf;action;
+meaning;أَلْف;;;;;;;;;;;
+word;ar:0;ar;أَلْف;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;ar:1;ar;ألف;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;fr:0;fr-FR;mille;;;;reg-courant;;;num;nombre;
+meaning;أَمَاكِن;;;;;;;;;;;
+word;ar:0;ar;أَمَاكِن;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;lieu;
+word;ar:1;ar;أماكن;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;lieu;
+word;fr:0;fr-FR;lieux;;;;reg-courant;;;noun, mas, plur;lieu;art-fr-des
+word;fr:1;fr-FR;endroits;;;;reg-courant;;;noun, mas, plur;lieu;art-fr-des
+meaning;أَمَامَ;;;;;;;;;;;
+word;ar:0;ar;أَمَامَ;;;;reg-courant;freq-tres;niv-a1;prep;lieu;
+word;ar:1;ar;أمام;;;;reg-courant;freq-tres;niv-a1;prep;lieu;
+word;fr:0;fr-FR;devant;;;;reg-courant;;;prep;lieu;
+meaning;أَمْسِ;;;;;;;;;;;
+word;ar:0;ar;أَمْسِ;;;;reg-courant;freq-tres;niv-a1;adv;moment;
+word;ar:1;ar;أمس;;;;reg-courant;freq-tres;niv-a1;adv;moment;
+word;fr:0;fr-FR;hier;;;;reg-courant;;;adv;moment;
+meaning;أَمْطَار;;;;;;;;;;;
+word;ar:0;ar;أَمْطَار;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;meteo;
+word;ar:1;ar;أمطار;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;meteo;
+word;fr:0;fr-FR;pluies;;;;reg-courant;;;noun, fem, plur;meteo;art-fr-des
+meaning;أَنَا;;;;;;;;;;;
+word;ar:0;ar;أَنَا;;;;reg-courant;freq-ultra;niv-a1;pron;personne;
+word;ar:1;ar;أنا;;;;reg-courant;freq-ultra;niv-a1;pron;personne;
+word;fr:0;fr-FR;je;;;;reg-courant;;;pron;personne;
+word;fr:1;fr-FR;moi;;;;reg-courant;;;pron;personne;
+meaning;أَنْتَ;;;;;;;;;;;
+word;ar:0;ar;أَنْتَ;;{lang=fr-FR§à un homme};;reg-courant;freq-ultra;niv-a1;pron;personne;
+word;ar:1;ar;أنت;أَنْتَ;{lang=fr-FR§à un homme};;reg-courant;freq-ultra;niv-a1;pron;personne;
+word;fr:0;fr-FR;tu;;;;reg-courant;;;pron;personne;
+word;fr:1;fr-FR;toi;;;;reg-courant;;;pron;personne;
+meaning;أَنْتُمَا;;;;;;;;;;;
+word;ar:0;ar;أَنْتُمَا;;;;reg-courant;freq-peu;niv-a2;pron, dual;personne;
+word;ar:1;ar;أنتما;;;;reg-courant;freq-peu;niv-a2;pron, dual;personne;
+word;fr:0;fr-FR;vous deux;;;;reg-courant;;;pron;personne;
+meaning;أَنْتُمْ;;;;;;;;;;;
+word;ar:0;ar;أَنْتُمْ;;{lang=fr-FR§à des hommes, ou à un groupe mixte};;reg-courant;freq-tres;niv-a1;pron;personne;
+word;ar:1;ar;أنتم;;{lang=fr-FR§à des hommes, ou à un groupe mixte};;reg-courant;freq-tres;niv-a1;pron;personne;
+word;fr:0;fr-FR;vous;;;;reg-courant;;;pron;personne;
+meaning;أَنْتُنَّ;;;;;;;;;;;
+word;ar:0;ar;أَنْتُنَّ;;{lang=fr-FR§à des femmes};;reg-courant;freq-peu;niv-a2;pron;personne;
+word;ar:1;ar;أنتن;;{lang=fr-FR§à des femmes};;reg-courant;freq-peu;niv-a2;pron;personne;
+word;fr:0;fr-FR;vous;;;;reg-courant;;;pron;personne;
+meaning;أَنْتِ;;;;;;;;;;;
+word;ar:0;ar;أَنْتِ;;{lang=fr-FR§à une femme};;reg-courant;freq-ultra;niv-a1;pron;personne;
+word;ar:1;ar;أنت;أَنْتِ;{lang=fr-FR§à une femme};;reg-courant;freq-ultra;niv-a1;pron;personne;
+word;fr:0;fr-FR;tu;;;;reg-courant;;;pron;personne;
+word;fr:1;fr-FR;toi;;;;reg-courant;;;pron;personne;
+meaning;أَنْدِيَة;;;;;;;;;;;
+word;ar:0;ar;أَنْدِيَة;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;loisir;
+word;ar:1;ar;أندية;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;loisir;
+word;fr:0;fr-FR;clubs;;;;reg-courant;;;noun, mas, plur;loisir;art-fr-des
+meaning;أَنْشِطَة;;;;;;;;;;;
+word;ar:0;ar;أَنْشِطَة;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;action;
+word;ar:1;ar;أنشطة;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;action;
+word;fr:0;fr-FR;activités;;;;reg-courant;;;noun, fem, plur;action;art-fr-des
+meaning;أَهْلًا وَسَهْلًا;;;;;;;;;;;
+word;ar:0;ar;أَهْلًا وَسَهْلًا;;;;reg-courant;freq-tres;niv-a1;locution, interj;communication-orale;
+word;ar:1;ar;أهلا وسهلا;;;;reg-courant;freq-tres;niv-a1;locution, interj;communication-orale;
+word;fr:0;fr-FR;bienvenue;;;;reg-courant;;;locution, interj;communication-orale;
+meaning;أَوَّل;;;;;;;;;;;
+word;ar:0;ar;أَوَّل;;;;reg-courant;freq-ultra;niv-a1;adj;nombre;
+word;ar:1;ar;أول;;;;reg-courant;freq-ultra;niv-a1;adj;nombre;
+word;fr:0;fr-FR;premier;;;;reg-courant;;;adj;nombre;
+meaning;أَوْقَات;;;;;;;;;;;
+word;ar:0;ar;أَوْقَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;duree;
+word;ar:1;ar;أوقات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;duree;
+word;fr:0;fr-FR;temps;durée;;;reg-courant;;;noun, mas, plur;duree;art-fr-des
+meaning;أَوْلَاد;;;;;;;;;;;
+word;ar:0;ar;أَوْلَاد;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;famille;
+word;ar:1;ar;أولاد;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;famille;
+word;fr:0;fr-FR;garçons;enfant;;;reg-courant;;;noun, mas, plur;famille;art-fr-des
+meaning;أَيَّام;;;;;;;;;;;
+word;ar:0;ar;أَيَّام;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;calendrier;
+word;ar:1;ar;أيام;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;calendrier;
+word;fr:0;fr-FR;jours;;;;reg-courant;;;noun, mas, plur;calendrier;art-fr-des
+meaning;أَيّ;;;;;;;;;;;
+word;ar:0;ar;أَيّ;;;;reg-courant;freq-tres;niv-a1;pron;communication;
+word;ar:1;ar;أي;;;;reg-courant;freq-tres;niv-a1;pron;communication;
+word;fr:0;fr-FR;quel;;;;reg-courant;;;pron;communication;
+word;fr:1;fr-FR;lequel;;;;reg-courant;;;pron;communication;
+meaning;أَيْدٍ;;;;;;;;;;;
+word;ar:0;ar;أَيْدٍ;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;corps;
+word;ar:1;ar;أيد;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;corps;
+word;fr:0;fr-FR;mains;;;;reg-courant;;;noun, fem, plur;corps;art-fr-des
+meaning;أَيْنَ;;;;;;;;;;;
+word;ar:0;ar;أَيْنَ;;;;reg-courant;freq-ultra;niv-a1;adv;lieu;
+word;ar:1;ar;أين;;;;reg-courant;freq-ultra;niv-a1;adv;lieu;
+word;fr:0;fr-FR;où;;;;reg-courant;;;adv;lieu;
+meaning;أُخْت;;;;;;;;;;;
+word;ar:0;ar;أُخْت;;;;reg-courant;freq-ultra;niv-a1;noun, fem;famille;
+word;ar:1;ar;أخت;;;;reg-courant;freq-ultra;niv-a1;noun, fem;famille;
+word;fr:0;fr-FR;sœur;;;;reg-courant;;;noun, fem;famille;art-fr-une
+meaning;أُذُن;;;;;;;;;;;
+word;ar:0;ar;أُذُن;;;;reg-courant;freq-freq;niv-a1;noun, fem;corps;
+word;ar:1;ar;أذن;;;;reg-courant;freq-freq;niv-a1;noun, fem;corps;
+word;fr:0;fr-FR;oreille;;;;reg-courant;;;noun, fem;corps;art-fr-une
+meaning;أُسْبُوع;;;;;;;;;;;
+word;ar:0;ar;أُسْبُوع;;;;reg-courant;freq-tres;niv-a1;noun, mas;calendrier, duree;
+word;ar:1;ar;أسبوع;;;;reg-courant;freq-tres;niv-a1;noun, mas;calendrier, duree;
+word;fr:0;fr-FR;semaine;;;;reg-courant;;;noun, fem;calendrier, duree;art-fr-une
+meaning;أُسْتَاذ;;;;;;;;;;;
+word;ar:0;ar;أُسْتَاذ;;{lang=fr-FR§d'université, ou titre de politesse};;reg-courant;freq-tres;niv-a1;noun, mas;metier, ecole;
+word;ar:1;ar;أستاذ;;{lang=fr-FR§d'université, ou titre de politesse};;reg-courant;freq-tres;niv-a1;noun, mas;metier, ecole;
+word;fr:0;fr-FR;professeur;;;;reg-courant;;;noun, mas;metier, ecole;art-fr-un
+meaning;أُمَّهَات;;;;;;;;;;;
+word;ar:0;ar;أُمَّهَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;famille;
+word;ar:1;ar;أمهات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;famille;
+word;fr:0;fr-FR;mères;;;;reg-courant;;;noun, fem, plur;famille;art-fr-des
+meaning;أُمّ;;;;;;;;;;;
+word;ar:0;ar;أُمّ;;;;reg-courant;freq-ultra;niv-a1;noun, fem;famille;
+word;ar:1;ar;أم;أُمّ;;;reg-courant;freq-ultra;niv-a1;noun, fem;famille;
+word;fr:0;fr-FR;mère;;;;reg-courant;;;noun, fem;famille;art-fr-une
+meaning;إِخْوَة;;;;;;;;;;;
+word;ar:0;ar;إِخْوَة;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;famille;
+word;ar:1;ar;إخوة;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;famille;
+word;fr:0;fr-FR;frères;;;;reg-courant;;;noun, mas, plur;famille;art-fr-des
+meaning;إِلَى;;;;;;;;;;;
+word;ar:0;ar;إِلَى;;;;reg-courant;freq-ultra;niv-a1;prep;deplacement;
+word;ar:1;ar;إلى;;;;reg-courant;freq-ultra;niv-a1;prep;deplacement;
+word;fr:0;fr-FR;vers;;;;reg-courant;;;prep;deplacement;
+word;fr:1;fr-FR;à;direction;;;reg-courant;;;prep;deplacement;
+meaning;إِنْ شَاءَ اللّٰهُ;;;;;;;;;;;
+word;ar:0;ar;إِنْ شَاءَ اللّٰهُ;;;;reg-courant;freq-ultra;niv-a1;locution, interj;religion, communication-orale;
+word;ar:1;ar;إن شاء الله;;;;reg-courant;freq-ultra;niv-a1;locution, interj;religion, communication-orale;
+word;fr:0;fr-FR;si Dieu le veut;;;;reg-courant;;;locution, interj;religion, communication-orale;
+meaning;الآنَ;;;;;;;;;;;
+word;ar:0;ar;الآنَ;;;;reg-courant;freq-ultra;niv-a1;adv;moment;
+word;ar:1;ar;الآن;;;;reg-courant;freq-ultra;niv-a1;adv;moment;
+word;fr:0;fr-FR;maintenant;;;;reg-courant;;;adv;moment;
+meaning;الأَحَد;;;;;;;;;;;
+word;ar:0;ar;الأَحَد;;;;reg-courant;freq-tres;niv-a1;noun, mas;calendrier;
+word;ar:1;ar;الأحد;;;;reg-courant;freq-tres;niv-a1;noun, mas;calendrier;
+word;fr:0;fr-FR;dimanche;;;;reg-courant;;;noun, mas;calendrier;art-fr-un
+meaning;الأَرْبِعَاء;;;;;;;;;;;
+word;ar:0;ar;الأَرْبِعَاء;;;;reg-courant;freq-tres;niv-a1;noun, mas;calendrier;
+word;ar:1;ar;الأربعاء;;;;reg-courant;freq-tres;niv-a1;noun, mas;calendrier;
+word;fr:0;fr-FR;mercredi;;;;reg-courant;;;noun, mas;calendrier;art-fr-un
+meaning;الاِثْنَيْن;;;;;;;;;;;
+word;ar:0;ar;الاِثْنَيْن;;;;reg-courant;freq-tres;niv-a1;noun, mas;calendrier;
+word;ar:1;ar;الاثنين;;;;reg-courant;freq-tres;niv-a1;noun, mas;calendrier;
+word;fr:0;fr-FR;lundi;;;;reg-courant;;;noun, mas;calendrier;art-fr-un
+meaning;الثُّلَاثَاء;;;;;;;;;;;
+word;ar:0;ar;الثُّلَاثَاء;;;;reg-courant;freq-tres;niv-a1;noun, mas;calendrier;
+word;ar:1;ar;الثلاثاء;;;;reg-courant;freq-tres;niv-a1;noun, mas;calendrier;
+word;fr:0;fr-FR;mardi;;;;reg-courant;;;noun, mas;calendrier;art-fr-un
+meaning;الجُمُعَة;;;;;;;;;;;
+word;ar:0;ar;الجُمُعَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;calendrier;
+word;ar:1;ar;الجمعة;;;;reg-courant;freq-tres;niv-a1;noun, fem;calendrier;
+word;fr:0;fr-FR;vendredi;;;;reg-courant;;;noun, mas;calendrier;art-fr-un
+meaning;الحَمْدُ لِلَّهِ;;;;;;;;;;;
+word;ar:0;ar;الحَمْدُ لِلَّهِ;;;;reg-courant;freq-ultra;niv-a1;locution, interj;religion, communication-orale;
+word;ar:1;ar;الحمد لله;;;;reg-courant;freq-ultra;niv-a1;locution, interj;religion, communication-orale;
+word;fr:0;fr-FR;Dieu merci;;;;reg-courant;;;locution, interj;religion, communication-orale;
+meaning;الخَمِيس;;;;;;;;;;;
+word;ar:0;ar;الخَمِيس;;;;reg-courant;freq-tres;niv-a1;noun, mas;calendrier;
+word;ar:1;ar;الخميس;;;;reg-courant;freq-tres;niv-a1;noun, mas;calendrier;
+word;fr:0;fr-FR;jeudi;;;;reg-courant;;;noun, mas;calendrier;art-fr-un
+meaning;السَّبْت;;;;;;;;;;;
+word;ar:0;ar;السَّبْت;;;;reg-courant;freq-tres;niv-a1;noun, mas;calendrier;
+word;ar:1;ar;السبت;;;;reg-courant;freq-tres;niv-a1;noun, mas;calendrier;
+word;fr:0;fr-FR;samedi;;;;reg-courant;;;noun, mas;calendrier;art-fr-un
+meaning;السَّلَامُ عَلَيْكُمْ;;;;;;;;;;;
+word;ar:0;ar;السَّلَامُ عَلَيْكُمْ;;{lang=fr-FR§à toute heure, formule universelle};;reg-courant;freq-ultra;niv-a1;locution, interj;communication-orale;
+word;ar:1;ar;السلام عليكم;;{lang=fr-FR§à toute heure, formule universelle};;reg-courant;freq-ultra;niv-a1;locution, interj;communication-orale;
+word;fr:0;fr-FR;bonjour;;;;reg-courant;;;locution, interj;communication-orale;
+meaning;الشَّرْقُ الأَوْسَطُ;;;;;;;;;;;
+word;ar:0;ar;الشَّرْقُ الأَوْسَطُ;;;;reg-courant;freq-freq;niv-b1;locution, noun-pro;geographie;
+word;ar:1;ar;الشرق الأوسط;;;;reg-courant;freq-freq;niv-b1;locution, noun-pro;geographie;
+word;fr:0;fr-FR;Moyen-Orient;;;;reg-courant;;;locution, noun, mas;geographie;
+meaning;الصِّين;;;;;;;;;;;
+word;ar:0;ar;الصِّين;;;;reg-courant;freq-freq;niv-a2;noun, noun-pro, fem;geographie;
+word;ar:1;ar;الصين;;;;reg-courant;freq-freq;niv-a2;noun, noun-pro, fem;geographie;
+word;fr:0;fr-FR;Chine;;;;reg-courant;;;noun, fem;geographie;
+meaning;العَامِّيَّة;;;;;;;;;;;
+word;ar:0;ar;العَامِّيَّة;;;;reg-courant;freq-freq;niv-b1;noun, fem;parole;
+word;ar:1;ar;العامية;;;;reg-courant;freq-freq;niv-b1;noun, fem;parole;
+word;fr:0;fr-FR;arabe dialectal;;;;reg-courant;;;noun, mas;parole;art-fr-un
+meaning;الفُصْحَى;;;;;;;;;;;
+word;ar:0;ar;الفُصْحَى;;;;reg-courant;freq-freq;niv-b1;noun, fem;langue-ecrit;
+word;ar:1;ar;الفصحى;;;;reg-courant;freq-freq;niv-b1;noun, fem;langue-ecrit;
+word;fr:0;fr-FR;arabe standard;;;;reg-courant;;;noun, mas;langue-ecrit;art-fr-un
+meaning;القَاهِرَة;;;;;;;;;;;
+word;ar:0;ar;القَاهِرَة;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, fem;ville;
+word;ar:1;ar;القاهرة;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, fem;ville;
+word;fr:0;fr-FR;Le Caire;;;;reg-courant;;;noun;ville;
+meaning;المَغْرِب;;;;;;;;;;;
+word;ar:0;ar;المَغْرِب;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, mas;geographie;
+word;ar:1;ar;المغرب;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, mas;geographie;
+word;fr:0;fr-FR;Maroc;;;;reg-courant;;;noun, mas;geographie;
+meaning;اِتَّصَلَ;;;;;;;;;;;
+word;ar:0;ar;اِتَّصَلَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans, verb-derived;communication;
+word;ar:1;ar;اتصل;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans, verb-derived;communication;
+word;fr:0;fr-FR;appeler;téléphone;;;reg-courant;;;verb, tense-inf;communication;
+word;fr:1;fr-FR;contacter;;;;reg-courant;;;verb, tense-inf;communication;
+meaning;اِتَّفَقَ;;;;;;;;;;;
+word;ar:0;ar;اِتَّفَقَ;;;;reg-courant;freq-tres;niv-b1;verb, verb-intrans, verb-derived;echange;
+word;ar:1;ar;اتفق;;;;reg-courant;freq-tres;niv-b1;verb, verb-intrans, verb-derived;echange;
+word;fr:0;fr-FR;se mettre d'accord;;;;reg-courant;;;verb, tense-inf;echange;
+meaning;اِثْنَان;;;;;;;;;;;
+word;ar:0;ar;اِثْنَان;;;;reg-courant;freq-ultra;niv-a1;num;nombre;
+word;ar:1;ar;اثنان;;;;reg-courant;freq-ultra;niv-a1;num;nombre;
+word;fr:0;fr-FR;deux;;;;reg-courant;;;num;nombre;
+meaning;اِجْتَمَعَ;;;;;;;;;;;
+word;ar:0;ar;اِجْتَمَعَ;;;;reg-courant;freq-tres;niv-b1;verb, verb-intrans, verb-derived;relation;
+word;ar:1;ar;اجتمع;;;;reg-courant;freq-tres;niv-b1;verb, verb-intrans, verb-derived;relation;
+word;fr:0;fr-FR;se réunir;;;;reg-courant;;;verb, tense-inf;relation;
+meaning;اِجْتِمَاع;;;;;;;;;;;
+word;ar:0;ar;اِجْتِمَاع;;;;reg-courant;freq-tres;niv-a2;noun, mas, masdar;travail;
+word;ar:1;ar;اجتماع;;;;reg-courant;freq-tres;niv-a2;noun, mas, masdar;travail;
+word;fr:0;fr-FR;réunion;;;;reg-courant;;;noun, fem;travail;art-fr-une
+meaning;اِجْتِمَاعَات;;;;;;;;;;;
+word;ar:0;ar;اِجْتِمَاعَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur;travail;
+word;ar:1;ar;اجتماعات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur;travail;
+word;fr:0;fr-FR;réunions;;;;reg-courant;;;noun, fem, plur;travail;art-fr-des
+meaning;اِحْتَرَمَ;;;;;;;;;;;
+word;ar:0;ar;اِحْتَرَمَ;;;;reg-courant;freq-freq;niv-b1;verb, verb-trans, verb-derived;relation;
+word;ar:1;ar;احترم;;;;reg-courant;freq-freq;niv-b1;verb, verb-trans, verb-derived;relation;
+word;fr:0;fr-FR;respecter;;;;reg-courant;;;verb, tense-inf;relation;
+meaning;اِحْتِرَام;;;;;;;;;;;
+word;ar:0;ar;اِحْتِرَام;;;;reg-courant;freq-freq;niv-b1;noun, mas, masdar;relation;
+word;ar:1;ar;احترام;;;;reg-courant;freq-freq;niv-b1;noun, mas, masdar;relation;
+word;fr:0;fr-FR;respect;;;;reg-courant;;;noun, mas;relation;art-fr-un
+meaning;اِسْتَطَاعَ;;;;;;;;;;;
+word;ar:0;ar;اِسْتَطَاعَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans, verb-derived;volonte;
+word;ar:1;ar;استطاع;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans, verb-derived;volonte;
+word;fr:0;fr-FR;pouvoir;capacité;;;reg-courant;;;verb, tense-inf;volonte;
+meaning;اِسْتَعْمَلَ;;;;;;;;;;;
+word;ar:0;ar;اِسْتَعْمَلَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans, verb-derived;action;
+word;ar:1;ar;استعمل;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans, verb-derived;action;
+word;ar:2;ar;اِسْتَخْدَمَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans, verb-derived;action;
+word;ar:3;ar;استخدم;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans, verb-derived;action;
+word;fr:0;fr-FR;utiliser;;;;reg-courant;;;verb, tense-inf;action;
+word;fr:1;fr-FR;employer;;;;reg-courant;;;verb, tense-inf;action;
+meaning;اِسْتَقْبَلَ;;;;;;;;;;;
+word;ar:0;ar;اِسْتَقْبَلَ;;;;reg-courant;freq-tres;niv-b1;verb, verb-trans, verb-derived;echange;
+word;ar:1;ar;استقبل;;;;reg-courant;freq-tres;niv-b1;verb, verb-trans, verb-derived;echange;
+word;fr:0;fr-FR;accueillir;;;;reg-courant;;;verb, tense-inf;echange;
+word;fr:1;fr-FR;recevoir;;;;reg-courant;;;verb, tense-inf;echange;
+meaning;اِسْتَمَعَ;;;;;;;;;;;
+word;ar:0;ar;اِسْتَمَعَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans, verb-derived;perception;
+word;ar:1;ar;استمع;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans, verb-derived;perception;
+word;fr:0;fr-FR;écouter;;;;reg-courant;;;verb, tense-inf;perception;
+meaning;اِسْتَيْقَظَ;;;;;;;;;;;
+word;ar:0;ar;اِسْتَيْقَظَ;;;;reg-courant;freq-freq;niv-a2;verb, verb-intrans, verb-derived;sommeil;
+word;ar:1;ar;استيقظ;;;;reg-courant;freq-freq;niv-a2;verb, verb-intrans, verb-derived;sommeil;
+word;fr:0;fr-FR;se réveiller;;;;reg-courant;;;verb, tense-inf;sommeil;
+meaning;اِسْتِقْبَال;;;;;;;;;;;
+word;ar:0;ar;اِسْتِقْبَال;;;;reg-courant;freq-tres;niv-b1;noun, mas, masdar;echange;
+word;ar:1;ar;استقبال;;;;reg-courant;freq-tres;niv-b1;noun, mas, masdar;echange;
+word;fr:0;fr-FR;accueil;;;;reg-courant;;;noun, mas;echange;art-fr-un
+meaning;اِسْم (لِشَخْص);;;;;;;;;;;
+word;ar:0;ar;اِسْم;لِشَخْص;;;reg-courant;freq-ultra;niv-a1;noun, mas;personne;
+word;ar:1;ar;اسم;لِشَخْص;;;reg-courant;freq-ultra;niv-a1;noun, mas;personne;
+word;fr:0;fr-FR;nom;d'une personne;;;reg-courant;;;noun, mas;personne;art-fr-un
+word;fr:1;fr-FR;prénom;;;;reg-courant;;;noun, mas;personne;art-fr-un
+meaning;اِشْتَرَى;;;;;;;;;;;
+word;ar:0;ar;اِشْتَرَى;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans, verb-derived;commerce;
+word;ar:1;ar;اشترى;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans, verb-derived;commerce;
+word;fr:0;fr-FR;acheter;;;;reg-courant;;;verb, tense-inf;commerce;
+meaning;اِصْطَدَمَ;;;;;;;;;;;
+word;ar:0;ar;اِصْطَدَمَ;;;;reg-courant;freq-freq;niv-b2;verb, verb-intrans, verb-derived;transport;
+word;ar:1;ar;اصطدم;;;;reg-courant;freq-freq;niv-b2;verb, verb-intrans, verb-derived;transport;
+word;fr:0;fr-FR;heurter;;;;reg-courant;;;verb, tense-inf;transport;
+word;fr:1;fr-FR;entrer en collision;;;;reg-courant;;;verb, tense-inf;transport;
+meaning;اِفْتِتَاح;;;;;;;;;;;
+word;ar:0;ar;اِفْتِتَاح;;;;reg-courant;freq-freq;niv-b1;noun, mas, masdar;fete;
+word;ar:1;ar;افتتاح;;;;reg-courant;freq-freq;niv-b1;noun, mas, masdar;fete;
+word;fr:0;fr-FR;inauguration;;;;reg-courant;;;noun, fem;fete;art-fr-une
+meaning;اِمْتَلَأَ;;;;;;;;;;;
+word;ar:0;ar;اِمْتَلَأَ;;;;reg-courant;freq-freq;niv-b2;verb, verb-intrans, verb-derived;etat;
+word;ar:1;ar;امتلأ;;;;reg-courant;freq-freq;niv-b2;verb, verb-intrans, verb-derived;etat;
+word;fr:0;fr-FR;se remplir;;;;reg-courant;;;verb, tense-inf;etat;
+meaning;اِمْتِحَان;;;;;;;;;;;
+word;ar:0;ar;اِمْتِحَان;;;;reg-courant;freq-tres;niv-a1;noun, mas;ecole;
+word;ar:1;ar;امتحان;;;;reg-courant;freq-tres;niv-a1;noun, mas;ecole;
+word;fr:0;fr-FR;examen;;;;reg-courant;;;noun, mas;ecole;art-fr-un
+meaning;اِمْرَأَة;;;;;;;;;;;
+word;ar:0;ar;اِمْرَأَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;personne;
+word;ar:1;ar;امرأة;;;;reg-courant;freq-tres;niv-a1;noun, fem;personne;
+word;fr:0;fr-FR;femme;adulte;;;reg-courant;;;noun, fem;personne;art-fr-une
+meaning;اِنْتَظَرَ;;;;;;;;;;;
+word;ar:0;ar;اِنْتَظَرَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans, verb-derived;temps;
+word;ar:1;ar;انتظر;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans, verb-derived;temps;
+word;fr:0;fr-FR;attendre;;;;reg-courant;;;verb, tense-inf;temps;
+meaning;اِنْقَطَعَ;;;;;;;;;;;
+word;ar:0;ar;اِنْقَطَعَ;;;;reg-courant;freq-freq;niv-b1;verb, verb-intrans, verb-derived;etat;
+word;ar:1;ar;انقطع;;;;reg-courant;freq-freq;niv-b1;verb, verb-intrans, verb-derived;etat;
+word;fr:0;fr-FR;être coupé;;;;reg-courant;;;verb, tense-inf;etat;
+word;fr:1;fr-FR;s'interrompre;;;;reg-courant;;;verb, tense-inf;etat;
+meaning;اِنْكَسَرَ;;;;;;;;;;;
+word;ar:0;ar;اِنْكَسَرَ;;;;reg-courant;freq-freq;niv-b1;verb, verb-intrans, verb-derived;etat;
+word;ar:1;ar;انكسر;;;;reg-courant;freq-freq;niv-b1;verb, verb-intrans, verb-derived;etat;
+word;fr:0;fr-FR;se casser;;;;reg-courant;;;verb, tense-inf;etat;
+meaning;بَاب;;;;;;;;;;;
+word;ar:0;ar;بَاب;;;;reg-courant;freq-tres;niv-a1;noun, mas;habitation;
+word;ar:1;ar;باب;;;;reg-courant;freq-tres;niv-a1;noun, mas;habitation;
+word;fr:0;fr-FR;porte;;;;reg-courant;;;noun, fem;habitation;art-fr-une
+meaning;بَارِد;;;;;;;;;;;
+word;ar:0;ar;بَارِد;;;;reg-courant;freq-tres;niv-a1;adj;meteo;
+word;ar:1;ar;بارد;;;;reg-courant;freq-tres;niv-a1;adj;meteo;
+word;fr:0;fr-FR;froid;;;;reg-courant;;;adj;meteo;
+meaning;بَارِيس;;;;;;;;;;;
+word;ar:0;ar;بَارِيس;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, fem;ville;
+word;ar:1;ar;باريس;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, fem;ville;
+word;fr:0;fr-FR;Paris;;;;reg-courant;;;noun, mas;ville;
+meaning;بَاعَ;;;;;;;;;;;
+word;ar:0;ar;بَاعَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans;commerce;
+word;ar:1;ar;باع;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans;commerce;
+word;fr:0;fr-FR;vendre;;;;reg-courant;;;verb, tense-inf;commerce;
+meaning;بَحَثَ;;;;;;;;;;;
+word;ar:0;ar;بَحَثَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans;action;
+word;ar:1;ar;بحث;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans;action;
+word;fr:0;fr-FR;chercher;;;;reg-courant;;;verb, tense-inf;action;
+meaning;بَحْر;;;;;;;;;;;
+word;ar:0;ar;بَحْر;;;;reg-courant;freq-tres;niv-a1;noun, mas;nature;
+word;ar:1;ar;بحر;;;;reg-courant;freq-tres;niv-a1;noun, mas;nature;
+word;fr:0;fr-FR;mer;;;;reg-courant;;;noun, fem;nature;art-fr-une
+meaning;بَدَأَ;;;;;;;;;;;
+word;ar:0;ar;بَدَأَ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;action;
+word;ar:1;ar;بدأ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;action;
+word;fr:0;fr-FR;commencer;;;;reg-courant;;;verb, tense-inf;action;
+meaning;بَعِيد;;;;;;;;;;;
+word;ar:0;ar;بَعِيد;;;;reg-courant;freq-tres;niv-a1;adj;lieu;
+word;ar:1;ar;بعيد;;;;reg-courant;freq-tres;niv-a1;adj;lieu;
+word;fr:0;fr-FR;lointain;;;;reg-courant;;;adj;lieu;
+word;fr:1;fr-FR;éloigné;;;;reg-courant;;;adj;lieu;
+meaning;بَعْدَ;;;;;;;;;;;
+word;ar:0;ar;بَعْدَ;;;;reg-courant;freq-ultra;niv-a1;prep;moment;
+word;ar:1;ar;بعد;;;;reg-courant;freq-ultra;niv-a1;prep;moment;
+word;fr:0;fr-FR;après;;;;reg-courant;;;prep;moment;
+meaning;بَقِيَ;;;;;;;;;;;
+word;ar:0;ar;بَقِيَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans;etat;
+word;ar:1;ar;بقي;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans;etat;
+word;fr:0;fr-FR;rester;;;;reg-courant;;;verb, tense-inf;etat;
+meaning;بَكَى;;;;;;;;;;;
+word;ar:0;ar;بَكَى;;;;reg-courant;freq-freq;niv-a2;verb, verb-intrans;emotion;
+word;ar:1;ar;بكى;;;;reg-courant;freq-freq;niv-a2;verb, verb-intrans;emotion;
+word;fr:0;fr-FR;pleurer;;;;reg-courant;;;verb, tense-inf;emotion;
+meaning;بَلَد;;;;;;;;;;;
+word;ar:0;ar;بَلَد;;;;reg-courant;freq-tres;niv-a1;noun, mas;geographie;
+word;ar:1;ar;بلد;;;;reg-courant;freq-tres;niv-a1;noun, mas;geographie;
+word;fr:0;fr-FR;pays;;;;reg-courant;;;noun, mas;geographie;art-fr-un
+meaning;بَلَى;;;;;;;;;;;
+word;ar:0;ar;بَلَى;;;;reg-soutenu;freq-peu;niv-b1;particle;communication-orale;
+word;ar:1;ar;بلى;;;;reg-soutenu;freq-peu;niv-b1;particle;communication-orale;
+word;fr:0;fr-FR;si;réponse;;;reg-courant;;;particle;communication-orale;
+meaning;بَنَات;;;;;;;;;;;
+word;ar:0;ar;بَنَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;famille;
+word;ar:1;ar;بنات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;famille;
+word;fr:0;fr-FR;filles;;;;reg-courant;;;noun, fem, plur;famille;art-fr-des
+meaning;بَنْك;;;;;;;;;;;
+word;ar:0;ar;بَنْك;;;;reg-courant;freq-freq;niv-a1;noun, mas, loanword;argent, batiment;
+word;ar:1;ar;بنك;;;;reg-courant;freq-freq;niv-a1;noun, mas, loanword;argent, batiment;
+word;fr:0;fr-FR;banque;;;;reg-courant;;;noun, fem;argent, batiment;art-fr-une
+meaning;بَيْت (مَسْكَن);;;;;;;;;;;
+word;ar:0;ar;بَيْت;مَسْكَن;;;reg-courant;freq-ultra;niv-a1;noun, mas;logement;
+word;ar:1;ar;بيت;مَسْكَن;;;reg-courant;freq-ultra;niv-a1;noun, mas;logement;
+word;fr:0;fr-FR;maison;;;;reg-courant;;;noun, fem;logement;art-fr-une
+meaning;بَيْرُوت;;;;;;;;;;;
+word;ar:0;ar;بَيْرُوت;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, fem;ville;
+word;ar:1;ar;بيروت;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, fem;ville;
+word;fr:0;fr-FR;Beyrouth;;;;reg-courant;;;noun;ville;
+meaning;بَيْنَ;;;;;;;;;;;
+word;ar:0;ar;بَيْنَ;;;;reg-courant;freq-ultra;niv-a1;prep;lieu;
+word;ar:1;ar;بين;;;;reg-courant;freq-ultra;niv-a1;prep;lieu;
+word;fr:0;fr-FR;entre;;;;reg-courant;;;prep;lieu;
+meaning;بُلْدَان;;;;;;;;;;;
+word;ar:0;ar;بُلْدَان;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;geographie;
+word;ar:1;ar;بلدان;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;geographie;
+word;fr:0;fr-FR;pays;;;;reg-courant;;;noun, mas, plur;geographie;art-fr-des
+meaning;بُنُوك;;;;;;;;;;;
+word;ar:0;ar;بُنُوك;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, loanword, plur, plur-broken;argent, batiment;
+word;ar:1;ar;بنوك;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, loanword, plur, plur-broken;argent, batiment;
+word;fr:0;fr-FR;banques;;;;reg-courant;;;noun, fem, plur;argent, batiment;art-fr-des
+meaning;بُيُوت;;;;;;;;;;;
+word;ar:0;ar;بُيُوت;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;logement;
+word;ar:1;ar;بيوت;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;logement;
+word;fr:0;fr-FR;maisons;;;;reg-courant;;;noun, fem, plur;logement;art-fr-des
+meaning;بِجَانِبِ;;;;;;;;;;;
+word;ar:0;ar;بِجَانِبِ;;;;reg-courant;freq-freq;niv-a1;locution, prep;lieu;
+word;ar:1;ar;بجانب;;;;reg-courant;freq-freq;niv-a1;locution, prep;lieu;
+word;fr:0;fr-FR;à côté de;;;;reg-courant;;;locution, prep;lieu;
+meaning;بِحَار;;;;;;;;;;;
+word;ar:0;ar;بِحَار;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;nature;
+word;ar:1;ar;بحار;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;nature;
+word;fr:0;fr-FR;mers;;;;reg-courant;;;noun, fem, plur;nature;art-fr-des
+meaning;بِسْمِ اللّٰهِ;;;;;;;;;;;
+word;ar:0;ar;بِسْمِ اللّٰهِ;;;;reg-courant;freq-tres;niv-a1;locution, interj;religion, communication-orale;
+word;ar:1;ar;بسم الله;;;;reg-courant;freq-tres;niv-a1;locution, interj;religion, communication-orale;
+word;fr:0;fr-FR;au nom de Dieu;;;;reg-courant;;;locution, interj;religion, communication-orale;
+meaning;بِنَاء;;;;;;;;;;;
+word;ar:0;ar;بِنَاء;;;;reg-courant;freq-tres;niv-b1;noun, mas, masdar;batiment;
+word;ar:1;ar;بناء;;;;reg-courant;freq-tres;niv-b1;noun, mas, masdar;batiment;
+word;fr:0;fr-FR;construction;;;;reg-courant;;;noun, fem;batiment;art-fr-une
+meaning;بِنْت;;;;;;;;;;;
+word;ar:0;ar;بِنْت;;;;reg-courant;freq-tres;niv-a1;noun, fem;famille;
+word;ar:1;ar;بنت;;;;reg-courant;freq-tres;niv-a1;noun, fem;famille;
+word;fr:0;fr-FR;fille;;;;reg-courant;;;noun, fem;famille;art-fr-une
+meaning;تَأَخَّرَ;;;;;;;;;;;
+word;ar:0;ar;تَأَخَّرَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans, verb-derived;temps;
+word;ar:1;ar;تأخر;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans, verb-derived;temps;
+word;fr:0;fr-FR;être en retard;;;;reg-courant;;;verb, tense-inf;temps;
+meaning;تَارِيخ (المَاضِي);;;;;;;;;;;
+word;ar:0;ar;تَارِيخ;المَاضِي;;;reg-courant;freq-tres;niv-a2;noun, mas;temps;
+word;ar:1;ar;تاريخ;المَاضِي;;;reg-courant;freq-tres;niv-a2;noun, mas;temps;
+word;fr:0;fr-FR;histoire;passé;;;reg-courant;;;noun, fem;temps;art-fr-une
+meaning;تَحْتَ;;;;;;;;;;;
+word;ar:0;ar;تَحْتَ;;;;reg-courant;freq-tres;niv-a1;prep;lieu;
+word;ar:1;ar;تحت;;;;reg-courant;freq-tres;niv-a1;prep;lieu;
+word;fr:0;fr-FR;sous;;;;reg-courant;;;prep;lieu;
+meaning;تَدْرِيس;;;;;;;;;;;
+word;ar:0;ar;تَدْرِيس;;;;reg-courant;freq-freq;niv-b1;noun, mas, masdar;ecole;
+word;ar:1;ar;تدريس;;;;reg-courant;freq-freq;niv-b1;noun, mas, masdar;ecole;
+word;fr:0;fr-FR;enseignement;;;;reg-courant;;;noun, mas;ecole;art-fr-un
+meaning;تَرْجَمَ;;;;;;;;;;;
+word;ar:0;ar;تَرْجَمَ;;;;reg-courant;freq-freq;niv-b1;verb, verb-trans;langue-ecrit;
+word;ar:1;ar;ترجم;;;;reg-courant;freq-freq;niv-b1;verb, verb-trans;langue-ecrit;
+word;fr:0;fr-FR;traduire;;;;reg-courant;;;verb, tense-inf;langue-ecrit;
+meaning;تَشَرَّفْنَا;;;;;;;;;;;
+word;ar:0;ar;تَشَرَّفْنَا;;;;reg-courant;freq-freq;niv-a1;locution, interj;communication-orale;
+word;ar:1;ar;تشرفنا;;;;reg-courant;freq-freq;niv-a1;locution, interj;communication-orale;
+word;fr:0;fr-FR;enchanté;;;;reg-courant;;;locution, interj;communication-orale;
+meaning;تَعَالَ;;;;;;;;;;;
+word;ar:0;ar;تَعَالَ;;{lang=fr-FR§à un homme};;reg-courant;freq-tres;niv-a1;interj;deplacement;
+word;ar:1;ar;تعال;;{lang=fr-FR§à un homme};;reg-courant;freq-tres;niv-a1;interj;deplacement;
+word;fr:0;fr-FR;viens;;;;reg-courant;;;interj;deplacement;
+meaning;تَعَاوَنَ;;;;;;;;;;;
+word;ar:0;ar;تَعَاوَنَ;;;;reg-courant;freq-freq;niv-b1;verb, verb-intrans, verb-derived;echange;
+word;ar:1;ar;تعاون;;;;reg-courant;freq-freq;niv-b1;verb, verb-intrans, verb-derived;echange;
+word;fr:0;fr-FR;coopérer;;;;reg-courant;;;verb, tense-inf;echange;
+meaning;تَعَلَّمَ;;;;;;;;;;;
+word;ar:0;ar;تَعَلَّمَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans, verb-derived;ecole;
+word;ar:1;ar;تعلم;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans, verb-derived;ecole;
+word;fr:0;fr-FR;apprendre;s'instruire;;;reg-courant;;;verb, tense-inf;ecole;
+meaning;تَعِبَ;;;;;;;;;;;
+word;ar:0;ar;تَعِبَ;;;;reg-courant;freq-freq;niv-a2;verb, verb-intrans;etat;
+word;ar:1;ar;تعب;;;;reg-courant;freq-freq;niv-a2;verb, verb-intrans;etat;
+word;fr:0;fr-FR;se fatiguer;;;;reg-courant;;;verb, tense-inf;etat;
+meaning;تَقَابَلَ;;;;;;;;;;;
+word;ar:0;ar;تَقَابَلَ;;;;reg-courant;freq-freq;niv-b1;verb, verb-intrans, verb-derived;relation;
+word;ar:1;ar;تقابل;;;;reg-courant;freq-freq;niv-b1;verb, verb-intrans, verb-derived;relation;
+word;fr:0;fr-FR;se rencontrer;;;;reg-courant;;;verb, tense-inf;relation;
+meaning;تَكَلَّمَ;;;;;;;;;;;
+word;ar:0;ar;تَكَلَّمَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans, verb-derived;parole;
+word;ar:1;ar;تكلم;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans, verb-derived;parole;
+word;fr:0;fr-FR;parler;;;;reg-courant;;;verb, tense-inf;parole;
+meaning;تَمَّ;;;;;;;;;;;
+word;ar:0;ar;تَمَّ;;;;reg-courant;freq-tres;niv-b2;verb, verb-intrans;action;
+word;ar:1;ar;تم;;;;reg-courant;freq-tres;niv-b2;verb, verb-intrans;action;
+word;fr:0;fr-FR;être achevé;;;;reg-courant;;;verb, tense-inf;action;
+word;fr:1;fr-FR;avoir lieu;;;;reg-courant;;;verb, tense-inf;action;
+meaning;تَنَاوَلَ;;;;;;;;;;;
+word;ar:0;ar;تَنَاوَلَ;;;;reg-courant;freq-freq;niv-b1;verb, verb-trans, verb-derived;repas;
+word;ar:1;ar;تناول;;;;reg-courant;freq-freq;niv-b1;verb, verb-trans, verb-derived;repas;
+word;fr:0;fr-FR;prendre;repas;;;reg-courant;;;verb, tense-inf;repas;
+word;fr:1;fr-FR;consommer;;;;reg-courant;;;verb, tense-inf;repas;
+meaning;تُصْبِحُ عَلَى خَيْرٍ;;;;;;;;;;;
+word;ar:0;ar;تُصْبِحُ عَلَى خَيْرٍ;;{lang=fr-FR§à un homme};;reg-courant;freq-freq;niv-a1;locution, interj;communication-orale;
+word;ar:1;ar;تصبح على خير;;{lang=fr-FR§à un homme};;reg-courant;freq-freq;niv-a1;locution, interj;communication-orale;
+word;fr:0;fr-FR;bonne nuit;;;;reg-courant;;;locution, interj;communication-orale;
+meaning;تُونِس;;;;;;;;;;;
+word;ar:0;ar;تُونِس;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, fem;geographie;
+word;ar:1;ar;تونس;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, fem;geographie;
+word;fr:0;fr-FR;Tunisie;;;;reg-courant;;;noun, fem;geographie;
+meaning;تِجَارَة;;;;;;;;;;;
+word;ar:0;ar;تِجَارَة;;;;reg-courant;freq-tres;niv-a2;noun, fem;commerce;
+word;ar:1;ar;تجارة;;;;reg-courant;freq-tres;niv-a2;noun, fem;commerce;
+word;fr:0;fr-FR;commerce;;;;reg-courant;;;noun, mas;commerce;art-fr-un
+meaning;تِسْعَة;;;;;;;;;;;
+word;ar:0;ar;تِسْعَة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;ar:1;ar;تسعة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;fr:0;fr-FR;neuf;nombre;;;reg-courant;;;num;nombre;
+meaning;تِلْفَاز;;;;;;;;;;;
+word;ar:0;ar;تِلْفَاز;;;;reg-courant;freq-freq;niv-a1;noun, mas, loanword;media, objet;
+word;ar:1;ar;تلفاز;;;;reg-courant;freq-freq;niv-a1;noun, mas, loanword;media, objet;
+word;fr:0;fr-FR;télévision;;;;reg-courant;;;noun, fem;media, objet;art-fr-une
+meaning;ثَابِت;;;;;;;;;;;
+word;ar:0;ar;ثَابِت;;;;reg-courant;freq-freq;niv-b1;adj;qualite;
+word;ar:1;ar;ثابت;;;;reg-courant;freq-freq;niv-b1;adj;qualite;
+word;fr:0;fr-FR;fixe;;;;reg-courant;;;adj;qualite;
+word;fr:1;fr-FR;stable;;;;reg-courant;;;adj;qualite;
+meaning;ثَانٍ;;;;;;;;;;;
+word;ar:0;ar;ثَانٍ;;;;reg-courant;freq-tres;niv-a1;adj;nombre;
+word;ar:1;ar;ثان;;;;reg-courant;freq-tres;niv-a1;adj;nombre;
+word;fr:0;fr-FR;deuxième;;;;reg-courant;;;adj;nombre;
+word;fr:1;fr-FR;second;;;;reg-courant;;;adj;nombre;
+meaning;ثَلَاثَة;;;;;;;;;;;
+word;ar:0;ar;ثَلَاثَة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;ar:1;ar;ثلاثة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;fr:0;fr-FR;trois;;;;reg-courant;;;num;nombre;
+meaning;ثَمَانِيَة;;;;;;;;;;;
+word;ar:0;ar;ثَمَانِيَة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;ar:1;ar;ثمانية;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;fr:0;fr-FR;huit;;;;reg-courant;;;num;nombre;
+meaning;ثَمَن;;;;;;;;;;;
+word;ar:0;ar;ثَمَن;;;;reg-courant;freq-freq;niv-a2;noun, mas;argent, commerce;
+word;ar:1;ar;ثمن;;;;reg-courant;freq-freq;niv-a2;noun, mas;argent, commerce;
+word;fr:0;fr-FR;prix;coût;;;reg-courant;;;noun, mas;argent, commerce;art-fr-un
+meaning;ثُمَّ;;;;;;;;;;;
+word;ar:0;ar;ثُمَّ;;;;reg-courant;freq-tres;niv-a2;conj;moment;
+word;ar:1;ar;ثم;;;;reg-courant;freq-tres;niv-a2;conj;moment;
+word;fr:0;fr-FR;puis;;;;reg-courant;;;conj;moment;
+word;fr:1;fr-FR;ensuite;;;;reg-courant;;;conj;moment;
+meaning;جَاءَ;;;;;;;;;;;
+word;ar:0;ar;جَاءَ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-intrans;deplacement;
+word;ar:1;ar;جاء;;;;reg-courant;freq-ultra;niv-a1;verb, verb-intrans;deplacement;
+word;ar:2;ar;أَتَى;;;;reg-soutenu;freq-ultra;niv-a1;verb, verb-intrans;deplacement;
+word;ar:3;ar;أتى;;;;reg-soutenu;freq-ultra;niv-a1;verb, verb-intrans;deplacement;
+word;fr:0;fr-FR;venir;;;;reg-courant;;;verb, tense-inf;deplacement;
+meaning;جَامِعَات;;;;;;;;;;;
+word;ar:0;ar;جَامِعَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;ecole, batiment;
+word;ar:1;ar;جامعات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;ecole, batiment;
+word;fr:0;fr-FR;universités;;;;reg-courant;;;noun, fem, plur;ecole, batiment;art-fr-des
+meaning;جَامِعَة;;;;;;;;;;;
+word;ar:0;ar;جَامِعَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;ecole, batiment;
+word;ar:1;ar;جامعة;;;;reg-courant;freq-tres;niv-a1;noun, fem;ecole, batiment;
+word;fr:0;fr-FR;université;;;;reg-courant;;;noun, fem;ecole, batiment;art-fr-une
+meaning;جَبَل;;;;;;;;;;;
+word;ar:0;ar;جَبَل;;;;reg-courant;freq-tres;niv-a1;noun, mas;geographie;
+word;ar:1;ar;جبل;;;;reg-courant;freq-tres;niv-a1;noun, mas;geographie;
+word;fr:0;fr-FR;montagne;;;;reg-courant;;;noun, fem;geographie;art-fr-une
+meaning;جَدِيد;;;;;;;;;;;
+word;ar:0;ar;جَدِيد;;;;reg-courant;freq-ultra;niv-a1;adj;qualite;
+word;ar:1;ar;جديد;;;;reg-courant;freq-ultra;niv-a1;adj;qualite;
+word;fr:0;fr-FR;nouveau;;;;reg-courant;;;adj;qualite;
+word;fr:1;fr-FR;neuf;récent;;;reg-courant;;;adj;qualite;
+meaning;جَرَائِد;;;;;;;;;;;
+word;ar:0;ar;جَرَائِد;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;media;
+word;ar:1;ar;جرائد;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;media;
+word;fr:0;fr-FR;journaux;presse;;;reg-courant;;;noun, mas, plur;media;art-fr-des
+meaning;جَرِيدَة;;;;;;;;;;;
+word;ar:0;ar;جَرِيدَة;;;;reg-courant;freq-freq;niv-a1;noun, fem;media;
+word;ar:1;ar;جريدة;;;;reg-courant;freq-freq;niv-a1;noun, fem;media;
+word;fr:0;fr-FR;journal;presse;;;reg-courant;;;noun, mas;media;art-fr-un
+meaning;جَلَسَ;;;;;;;;;;;
+word;ar:0;ar;جَلَسَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans;geste;
+word;ar:1;ar;جلس;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans;geste;
+word;fr:0;fr-FR;s'asseoir;;;;reg-courant;;;verb, tense-inf;geste;
+meaning;جَمَل;;;;;;;;;;;
+word;ar:0;ar;جَمَل;;;;reg-courant;freq-freq;niv-a2;noun, mas;animal;
+word;ar:1;ar;جمل;;;;reg-courant;freq-freq;niv-a2;noun, mas;animal;
+word;fr:0;fr-FR;chameau;;;;reg-courant;;;noun, mas;animal;art-fr-un
+meaning;جَمِيل;;;;;;;;;;;
+word;ar:0;ar;جَمِيل;;;;reg-courant;freq-tres;niv-a1;adj;qualite;
+word;ar:1;ar;جميل;;;;reg-courant;freq-tres;niv-a1;adj;qualite;
+word;fr:0;fr-FR;beau;;;;reg-courant;;;adj;qualite;
+word;fr:1;fr-FR;joli;;;;reg-courant;;;adj;qualite;
+meaning;جَيْب;;;;;;;;;;;
+word;ar:0;ar;جَيْب;;;;reg-courant;freq-freq;niv-a2;noun, mas;vetement;
+word;ar:1;ar;جيب;;;;reg-courant;freq-freq;niv-a2;noun, mas;vetement;
+word;fr:0;fr-FR;poche;;;;reg-courant;;;noun, fem;vetement;art-fr-une
+meaning;جُذُور;;;;;;;;;;;
+word;ar:0;ar;جُذُور;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;langue-ecrit;
+word;ar:1;ar;جذور;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;langue-ecrit;
+word;fr:0;fr-FR;racines;d'un mot;;;reg-courant;;;noun, fem, plur;langue-ecrit;art-fr-des
+meaning;جُسُور;;;;;;;;;;;
+word;ar:0;ar;جُسُور;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;ville;
+word;ar:1;ar;جسور;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;ville;
+word;fr:0;fr-FR;ponts;;;;reg-courant;;;noun, mas, plur;ville;art-fr-des
+meaning;جُيُوب;;;;;;;;;;;
+word;ar:0;ar;جُيُوب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;vetement;
+word;ar:1;ar;جيوب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;vetement;
+word;fr:0;fr-FR;poches;;;;reg-courant;;;noun, fem, plur;vetement;art-fr-des
+meaning;جِبَال;;;;;;;;;;;
+word;ar:0;ar;جِبَال;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;geographie;
+word;ar:1;ar;جبال;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;geographie;
+word;fr:0;fr-FR;montagnes;;;;reg-courant;;;noun, fem, plur;geographie;art-fr-des
+meaning;جِدًّا;;;;;;;;;;;
+word;ar:0;ar;جِدًّا;;;;reg-courant;freq-ultra;niv-a1;adv;quantite;
+word;ar:1;ar;جدا;;;;reg-courant;freq-ultra;niv-a1;adv;quantite;
+word;fr:0;fr-FR;très;;;;reg-courant;;;adv;quantite;
+meaning;جِذْر (لُغَة);;;;;;;;;;;
+word;ar:0;ar;جِذْر;لُغَة;;;reg-courant;freq-freq;niv-b1;noun, mas;langue-ecrit;
+word;ar:1;ar;جذر;لُغَة;;;reg-courant;freq-freq;niv-b1;noun, mas;langue-ecrit;
+word;fr:0;fr-FR;racine;d'un mot;;;reg-courant;;;noun, fem;langue-ecrit;art-fr-une
+meaning;جِسْر;;;;;;;;;;;
+word;ar:0;ar;جِسْر;;;;reg-courant;freq-freq;niv-a2;noun, mas;ville;
+word;ar:1;ar;جسر;;;;reg-courant;freq-freq;niv-a2;noun, mas;ville;
+word;fr:0;fr-FR;pont;;;;reg-courant;;;noun, mas;ville;art-fr-un
+meaning;جِسْم;;;;;;;;;;;
+word;ar:0;ar;جِسْم;;;;reg-courant;freq-tres;niv-a2;noun, mas;corps;
+word;ar:1;ar;جسم;;;;reg-courant;freq-tres;niv-a2;noun, mas;corps;
+word;fr:0;fr-FR;corps;;;;reg-courant;;;noun, mas;corps;art-fr-un
+meaning;جِمَال;;;;;;;;;;;
+word;ar:0;ar;جِمَال;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;animal;
+word;ar:1;ar;جمال;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;animal;
+word;fr:0;fr-FR;chameaux;;;;reg-courant;;;noun, mas, plur;animal;art-fr-des
+meaning;حَاسُوب;;;;;;;;;;;
+word;ar:0;ar;حَاسُوب;;;;reg-courant;freq-freq;niv-a2;noun, mas;objet;
+word;ar:1;ar;حاسوب;;;;reg-courant;freq-freq;niv-a2;noun, mas;objet;
+word;ar:4;ar;كَمْبْيُوتَر;;;;reg-courant;freq-freq;niv-a2;noun, mas, loanword;objet;
+word;ar:3;ar;كمبيوتر;;;;reg-courant;freq-freq;niv-a2;noun, mas, loanword;objet;
+word;fr:0;fr-FR;ordinateur;;;;reg-courant;;;noun, mas;objet;art-fr-un
+meaning;حَال;;;;;;;;;;;
+word;ar:0;ar;حَال;;;;reg-courant;freq-tres;niv-a1;noun, mas;etat;
+word;ar:1;ar;حال;;;;reg-courant;freq-tres;niv-a1;noun, mas;etat;
+word;fr:0;fr-FR;état;situation;;;reg-courant;;;noun, mas;etat;art-fr-un
+meaning;حَاوَلَ;;;;;;;;;;;
+word;ar:0;ar;حَاوَلَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans, verb-derived;volonte;
+word;ar:1;ar;حاول;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans, verb-derived;volonte;
+word;fr:0;fr-FR;essayer;;;;reg-courant;;;verb, tense-inf;volonte;
+meaning;حَبِيب;;;;;;;;;;;
+word;ar:0;ar;حَبِيب;;;;reg-courant;freq-tres;niv-a2;noun, mas;relation;
+word;ar:1;ar;حبيب;;;;reg-courant;freq-tres;niv-a2;noun, mas;relation;
+word;fr:0;fr-FR;chéri;;;;reg-courant;;;noun, mas;relation;art-fr-un
+word;fr:1;fr-FR;bien-aimé;;;;reg-courant;;;noun, mas;relation;art-fr-un
+meaning;حَتَّى (غَايَة);;;;;;;;;;;
+word;ar:0;ar;حَتَّى;غَايَة;;;reg-courant;freq-ultra;niv-a2;conj;moment;
+word;ar:1;ar;حتى;غَايَة;;;reg-courant;freq-ultra;niv-a2;conj;moment;
+word;fr:0;fr-FR;jusqu'à ce que;;;;reg-courant;;;locution, conj;moment;
+meaning;حَدَائِق;;;;;;;;;;;
+word;ar:0;ar;حَدَائِق;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;vegetal, ville;
+word;ar:1;ar;حدائق;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;vegetal, ville;
+word;fr:0;fr-FR;jardins;;;;reg-courant;;;noun, mas, plur;vegetal, ville;art-fr-des
+word;fr:1;fr-FR;parcs;;;;reg-courant;;;noun, mas, plur;vegetal, ville;art-fr-des
+meaning;حَدِيقَة;;;;;;;;;;;
+word;ar:0;ar;حَدِيقَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;vegetal, ville;
+word;ar:1;ar;حديقة;;;;reg-courant;freq-tres;niv-a1;noun, fem;vegetal, ville;
+word;fr:0;fr-FR;jardin;;;;reg-courant;;;noun, mas;vegetal, ville;art-fr-un
+word;fr:1;fr-FR;parc;;;;reg-courant;;;noun, mas;vegetal, ville;art-fr-un
+meaning;حَرْب;;;;;;;;;;;
+word;ar:0;ar;حَرْب;;;;reg-courant;freq-tres;niv-a2;noun, fem;institution;
+word;ar:1;ar;حرب;;;;reg-courant;freq-tres;niv-a2;noun, fem;institution;
+word;fr:0;fr-FR;guerre;;;;reg-courant;;;noun, fem;institution;art-fr-une
+meaning;حَضَرَ;;;;;;;;;;;
+word;ar:0;ar;حَضَرَ;;;;reg-courant;freq-tres;niv-b1;verb, verb-intrans;deplacement;
+word;ar:1;ar;حضر;;;;reg-courant;freq-tres;niv-b1;verb, verb-intrans;deplacement;
+word;fr:0;fr-FR;être présent;;;;reg-courant;;;verb, tense-inf;deplacement;
+word;fr:1;fr-FR;assister;;;;reg-courant;;;verb, tense-inf;deplacement;
+meaning;حَقَائِب;;;;;;;;;;;
+word;ar:0;ar;حَقَائِب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;objet, voyage;
+word;ar:1;ar;حقائب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;objet, voyage;
+word;fr:0;fr-FR;sacs;;;;reg-courant;;;noun, mas, plur;objet, voyage;art-fr-des
+meaning;حَقِيبَة;;;;;;;;;;;
+word;ar:0;ar;حَقِيبَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;objet, voyage;
+word;ar:1;ar;حقيبة;;;;reg-courant;freq-tres;niv-a1;noun, fem;objet, voyage;
+word;fr:0;fr-FR;sac;;;;reg-courant;;;noun, mas;objet, voyage;art-fr-un
+meaning;حَوَاسِيب;;;;;;;;;;;
+word;ar:0;ar;حَوَاسِيب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;objet;
+word;ar:1;ar;حواسيب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;objet;
+word;fr:0;fr-FR;ordinateurs;;;;reg-courant;;;noun, mas, plur;objet;art-fr-des
+meaning;حُبّ;;;;;;;;;;;
+word;ar:0;ar;حُبّ;;;;reg-courant;freq-tres;niv-a1;noun, mas;emotion;
+word;ar:1;ar;حب;;;;reg-courant;freq-tres;niv-a1;noun, mas;emotion;
+word;fr:0;fr-FR;amour;;;;reg-courant;;;noun, mas;emotion;art-fr-un
+meaning;حُرُوب;;;;;;;;;;;
+word;ar:0;ar;حُرُوب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, fem, plur, plur-broken;institution;
+word;ar:1;ar;حروب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, fem, plur, plur-broken;institution;
+word;fr:0;fr-FR;guerres;;;;reg-courant;;;noun, fem, plur;institution;art-fr-des
+meaning;حُرّ;;;;;;;;;;;
+word;ar:0;ar;حُرّ;;;;reg-courant;freq-tres;niv-b1;adj;etat;
+word;ar:1;ar;حر;;;;reg-courant;freq-tres;niv-b1;adj;etat;
+word;fr:0;fr-FR;libre;;;;reg-courant;;;adj;etat;
+meaning;حِصَص;;;;;;;;;;;
+word;ar:0;ar;حِصَص;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;ecole;
+word;ar:1;ar;حصص;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;ecole;
+word;fr:0;fr-FR;cours;séance;;;reg-courant;;;noun, mas, plur;ecole;art-fr-des
+meaning;حِصَّة;;;;;;;;;;;
+word;ar:0;ar;حِصَّة;;;;reg-courant;freq-freq;niv-a1;noun, fem;ecole;
+word;ar:1;ar;حصة;;;;reg-courant;freq-freq;niv-a1;noun, fem;ecole;
+word;fr:0;fr-FR;cours;séance;;;reg-courant;;;noun, mas;ecole;art-fr-un
+meaning;خَافَ;;;;;;;;;;;
+word;ar:0;ar;خَافَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans;emotion;
+word;ar:1;ar;خاف;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans;emotion;
+word;fr:0;fr-FR;avoir peur;;;;reg-courant;;;verb, tense-inf;emotion;
+word;fr:1;fr-FR;craindre;;;;reg-courant;;;verb, tense-inf;emotion;
+meaning;خَبَّاز;;;;;;;;;;;
+word;ar:0;ar;خَبَّاز;;;;reg-courant;freq-peu;niv-a2;noun, mas;metier, aliment;
+word;ar:1;ar;خباز;;;;reg-courant;freq-peu;niv-a2;noun, mas;metier, aliment;
+word;fr:0;fr-FR;boulanger;;;;reg-courant;;;noun, mas;metier, aliment;art-fr-un
+meaning;خَرَجَ;;;;;;;;;;;
+word;ar:0;ar;خَرَجَ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-intrans;deplacement;
+word;ar:1;ar;خرج;;;;reg-courant;freq-ultra;niv-a1;verb, verb-intrans;deplacement;
+word;fr:0;fr-FR;sortir;d'un lieu;;;reg-courant;;;verb, tense-inf;deplacement;
+meaning;خَطّ (كِتَابَة);;;;;;;;;;;
+word;ar:0;ar;خَطّ;كِتَابَة;;;reg-courant;freq-tres;niv-b1;noun, mas;art;
+word;ar:1;ar;خط;كِتَابَة;;;reg-courant;freq-tres;niv-b1;noun, mas;art;
+word;fr:0;fr-FR;écriture;calligraphie;;;reg-courant;;;noun, fem;art;art-fr-une
+meaning;خَلَاص;;;;;;;;;;;
+word;ar:0;ar;خَلَاص;;;;reg-familier;freq-freq;niv-a2;interj;communication-orale;
+word;ar:1;ar;خلاص;;;;reg-familier;freq-freq;niv-a2;interj;communication-orale;
+word;fr:0;fr-FR;ça suffit;;;;reg-courant;;;interj;communication-orale;
+word;fr:1;fr-FR;c'est fini;;;;reg-courant;;;interj;communication-orale;
+meaning;خَلِيفَة;;;;;;;;;;;
+word;ar:0;ar;خَلِيفَة;;;;reg-courant;freq-peu;niv-b2;noun, mas;institution;
+word;ar:1;ar;خليفة;;;;reg-courant;freq-peu;niv-b2;noun, mas;institution;
+word;fr:0;fr-FR;calife;;;;reg-courant;;;noun, mas;institution;art-fr-un
+meaning;خَلْفَ;;;;;;;;;;;
+word;ar:0;ar;خَلْفَ;;;;reg-courant;freq-tres;niv-a1;prep;lieu;
+word;ar:1;ar;خلف;;;;reg-courant;freq-tres;niv-a1;prep;lieu;
+word;ar:2;ar;وَرَاءَ;;;;reg-courant;freq-tres;niv-a1;prep;lieu;
+word;ar:3;ar;وراء;;;;reg-courant;freq-tres;niv-a1;prep;lieu;
+word;fr:0;fr-FR;derrière;;;;reg-courant;;;prep;lieu;
+meaning;خَمْسَة;;;;;;;;;;;
+word;ar:0;ar;خَمْسَة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;ar:1;ar;خمسة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;fr:0;fr-FR;cinq;;;;reg-courant;;;num;nombre;
+meaning;خَوْف;;;;;;;;;;;
+word;ar:0;ar;خَوْف;;;;reg-courant;freq-tres;niv-a2;noun, mas, masdar;emotion;
+word;ar:1;ar;خوف;;;;reg-courant;freq-tres;niv-a2;noun, mas, masdar;emotion;
+word;fr:0;fr-FR;peur;;;;reg-courant;;;noun, fem;emotion;art-fr-une
+meaning;خَيْر (ضِدّ الشَّرّ);;;;;;;;;;;
+word;ar:0;ar;خَيْر;ضِدّ الشَّرّ;;;reg-courant;freq-tres;niv-a2;noun, mas;qualite;
+word;ar:1;ar;خير;ضِدّ الشَّرّ;;;reg-courant;freq-tres;niv-a2;noun, mas;qualite;
+word;fr:0;fr-FR;bien;bonté;;;reg-courant;;;noun, mas;qualite;art-fr-un
+meaning;خُبْز;;;;;;;;;;;
+word;ar:0;ar;خُبْز;;;;reg-courant;freq-tres;niv-a1;noun, mas;aliment;
+word;ar:1;ar;خبز;;;;reg-courant;freq-tres;niv-a1;noun, mas;aliment;
+word;fr:0;fr-FR;pain;;;;reg-courant;;;noun, mas;aliment;art-fr-un
+meaning;خُرُوج;;;;;;;;;;;
+word;ar:0;ar;خُرُوج;;;;reg-courant;freq-tres;niv-a2;noun, mas, masdar;deplacement;
+word;ar:1;ar;خروج;;;;reg-courant;freq-tres;niv-a2;noun, mas, masdar;deplacement;
+word;fr:0;fr-FR;sortie;action de sortir;;;reg-courant;;;noun, fem;deplacement;art-fr-une
+meaning;خُلَفَاء;;;;;;;;;;;
+word;ar:0;ar;خُلَفَاء;;{lang=fr-FR§pluriel};;reg-courant;;niv-b2;noun, mas, plur, plur-broken;institution;
+word;ar:1;ar;خلفاء;;{lang=fr-FR§pluriel};;reg-courant;;niv-b2;noun, mas, plur, plur-broken;institution;
+word;fr:0;fr-FR;califes;;;;reg-courant;;;noun, mas, plur;institution;art-fr-des
+meaning;دَار;;;;;;;;;;;
+word;ar:0;ar;دَار;;;;reg-courant;freq-tres;niv-a2;noun, fem;logement;
+word;ar:1;ar;دار;;;;reg-courant;freq-tres;niv-a2;noun, fem;logement;
+word;fr:0;fr-FR;demeure;;;;reg-courant;;;noun, fem;logement;art-fr-une
+meaning;دَخَلَ;;;;;;;;;;;
+word;ar:0;ar;دَخَلَ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-intrans;deplacement;
+word;ar:1;ar;دخل;;;;reg-courant;freq-ultra;niv-a1;verb, verb-intrans;deplacement;
+word;fr:0;fr-FR;entrer;;;;reg-courant;;;verb, tense-inf;deplacement;
+meaning;دَرَسَ;;;;;;;;;;;
+word;ar:0;ar;دَرَسَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans;ecole;
+word;ar:1;ar;درس;دَرَسَ;;;reg-courant;freq-tres;niv-a1;verb, verb-trans;ecole;
+word;fr:0;fr-FR;étudier;;;;reg-courant;;;verb, tense-inf;ecole;
+meaning;دَرَّسَ;;;;;;;;;;;
+word;ar:0;ar;دَرَّسَ;;{lang=fr-FR§une matière, comme professeur};;reg-courant;freq-freq;niv-a2;verb, verb-trans, verb-derived;ecole;
+word;ar:1;ar;درس;دَرَّسَ;{lang=fr-FR§une matière, comme professeur};;reg-courant;freq-freq;niv-a2;verb, verb-trans, verb-derived;ecole;
+word;fr:0;fr-FR;enseigner;;;;reg-courant;;;verb, tense-inf;ecole;
+meaning;دَرْس;;;;;;;;;;;
+word;ar:0;ar;دَرْس;;;;reg-courant;freq-tres;niv-a1;noun, mas;ecole;
+word;ar:1;ar;درس;دَرْس;;;reg-courant;freq-tres;niv-a1;noun, mas;ecole;
+word;fr:0;fr-FR;leçon;;;;reg-courant;;;noun, fem;ecole;art-fr-une
+meaning;دَعَا (لِلضِّيَافَة);;;;;;;;;;;
+word;ar:0;ar;دَعَا;لِلضِّيَافَة;;;reg-courant;freq-tres;niv-a2;verb, verb-trans;relation;
+word;ar:1;ar;دعا;لِلضِّيَافَة;;;reg-courant;freq-tres;niv-a2;verb, verb-trans;relation;
+word;fr:0;fr-FR;inviter;;;;reg-courant;;;verb, tense-inf;relation;
+meaning;دَقَائِق;;;;;;;;;;;
+word;ar:0;ar;دَقَائِق;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;duree;
+word;ar:1;ar;دقائق;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;duree;
+word;fr:0;fr-FR;minutes;;;;reg-courant;;;noun, fem, plur;duree;art-fr-des
+meaning;دَقِيقَة;;;;;;;;;;;
+word;ar:0;ar;دَقِيقَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;duree;
+word;ar:1;ar;دقيقة;;;;reg-courant;freq-tres;niv-a1;noun, fem;duree;
+word;fr:0;fr-FR;minute;;;;reg-courant;;;noun, fem;duree;art-fr-une
+meaning;دُخُول;;;;;;;;;;;
+word;ar:0;ar;دُخُول;;;;reg-courant;freq-tres;niv-a2;noun, mas, masdar;deplacement;
+word;ar:1;ar;دخول;;;;reg-courant;freq-tres;niv-a2;noun, mas, masdar;deplacement;
+word;fr:0;fr-FR;entrée;action d'entrer;;;reg-courant;;;noun, fem;deplacement;art-fr-une
+meaning;دُرُوس;;;;;;;;;;;
+word;ar:0;ar;دُرُوس;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;ecole;
+word;ar:1;ar;دروس;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;ecole;
+word;fr:0;fr-FR;leçons;;;;reg-courant;;;noun, fem, plur;ecole;art-fr-des
+meaning;دُور;;;;;;;;;;;
+word;ar:0;ar;دُور;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, fem, plur, plur-broken;logement;
+word;ar:1;ar;دور;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, fem, plur, plur-broken;logement;
+word;fr:0;fr-FR;demeures;;;;reg-courant;;;noun, fem, plur;logement;art-fr-des
+meaning;دُولَار;;;;;;;;;;;
+word;ar:0;ar;دُولَار;;;;reg-courant;freq-freq;niv-a1;noun, mas, loanword;argent;
+word;ar:1;ar;دولار;;;;reg-courant;freq-freq;niv-a1;noun, mas, loanword;argent;
+word;fr:0;fr-FR;dollar;;;;reg-courant;;;noun, mas;argent;art-fr-un
+meaning;دُولَارَات;;;;;;;;;;;
+word;ar:0;ar;دُولَارَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, loanword, plur;argent;
+word;ar:1;ar;دولارات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, loanword, plur;argent;
+word;fr:0;fr-FR;dollars;;;;reg-courant;;;noun, mas, plur;argent;art-fr-des
+meaning;دِرَاسَة;;;;;;;;;;;
+word;ar:0;ar;دِرَاسَة;;;;reg-courant;freq-tres;niv-a2;noun, fem, masdar;ecole;
+word;ar:1;ar;دراسة;;;;reg-courant;freq-tres;niv-a2;noun, fem, masdar;ecole;
+word;fr:0;fr-FR;études;;;;reg-courant;;;noun, fem, plur;ecole;art-fr-des
+meaning;دِمَشْق;;;;;;;;;;;
+word;ar:0;ar;دِمَشْق;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, fem;ville;
+word;ar:1;ar;دمشق;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, fem;ville;
+word;fr:0;fr-FR;Damas;;;;reg-courant;;;noun, mas;ville;
+meaning;ذَاهِب;;;;;;;;;;;
+word;ar:0;ar;ذَاهِب;;;;reg-courant;freq-freq;niv-a2;adj;deplacement;
+word;ar:1;ar;ذاهب;;;;reg-courant;freq-freq;niv-a2;adj;deplacement;
+word;fr:0;fr-FR;allant;;;;reg-courant;;;adj;deplacement;
+meaning;ذَكِيّ;;;;;;;;;;;
+word;ar:0;ar;ذَكِيّ;;;;reg-courant;freq-tres;niv-a1;adj;caractere;
+word;ar:1;ar;ذكي;;;;reg-courant;freq-tres;niv-a1;adj;caractere;
+word;fr:0;fr-FR;intelligent;;;;reg-courant;;;adj;caractere;
+meaning;ذَهَب;;;;;;;;;;;
+word;ar:0;ar;ذَهَب;;;;reg-courant;freq-freq;niv-a2;noun, mas;matiere;
+word;ar:1;ar;ذهب;ذَهَب;;;reg-courant;freq-freq;niv-a2;noun, mas;matiere;
+word;fr:0;fr-FR;or;métal;;;reg-courant;;;noun, mas;matiere;art-fr-un
+meaning;ذَهَبَ;;;;;;;;;;;
+word;ar:0;ar;ذَهَبَ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-intrans;deplacement;
+word;ar:1;ar;ذهب;ذَهَبَ;;;reg-courant;freq-ultra;niv-a1;verb, verb-intrans;deplacement;
+word;fr:0;fr-FR;aller;;;;reg-courant;;;verb, tense-inf;deplacement;
+meaning;ذُو;;;;;;;;;;;
+word;ar:0;ar;ذُو;;;;reg-soutenu;freq-freq;niv-b2;noun;qualite;
+word;ar:1;ar;ذو;;;;reg-soutenu;freq-freq;niv-b2;noun;qualite;
+word;fr:0;fr-FR;doté de;;;;reg-courant;;;noun;qualite;
+word;fr:1;fr-FR;possesseur de;;;;reg-courant;;;noun, mas;qualite;
+meaning;ذِكْرَى;;;;;;;;;;;
+word;ar:0;ar;ذِكْرَى;;;;reg-courant;freq-freq;niv-b1;noun, fem;pensee;
+word;ar:1;ar;ذكرى;;;;reg-courant;freq-freq;niv-b1;noun, fem;pensee;
+word;fr:0;fr-FR;souvenir;;;;reg-courant;;;noun, mas;pensee;art-fr-un
+meaning;ذِكْرَيَات;;;;;;;;;;;
+word;ar:0;ar;ذِكْرَيَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, fem, plur;pensee;
+word;ar:1;ar;ذكريات;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, fem, plur;pensee;
+word;fr:0;fr-FR;souvenirs;;;;reg-courant;;;noun, mas, plur;pensee;art-fr-des
+meaning;رَأَى;;;;;;;;;;;
+word;ar:0;ar;رَأَى;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;perception;
+word;ar:1;ar;رأى;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;perception;
+word;fr:0;fr-FR;voir;;;;reg-courant;;;verb, tense-inf;perception;
+meaning;رَئِيس;;;;;;;;;;;
+word;ar:0;ar;رَئِيس;;;;reg-courant;freq-tres;niv-a2;noun, mas;institution;
+word;ar:1;ar;رئيس;;;;reg-courant;freq-tres;niv-a2;noun, mas;institution;
+word;fr:0;fr-FR;président;;;;reg-courant;;;noun, mas;institution;art-fr-un
+word;fr:1;fr-FR;chef;dirigeant;;;reg-courant;;;noun, mas;institution;art-fr-un
+meaning;رَجَا;;;;;;;;;;;
+word;ar:0;ar;رَجَا;;;;reg-soutenu;freq-freq;niv-b1;verb, verb-trans;volonte;
+word;ar:1;ar;رجا;;;;reg-soutenu;freq-freq;niv-b1;verb, verb-trans;volonte;
+word;fr:0;fr-FR;prier;demander;;;reg-courant;;;verb, tense-inf;volonte;
+meaning;رَجُل;;;;;;;;;;;
+word;ar:0;ar;رَجُل;;;;reg-courant;freq-ultra;niv-a1;noun, mas;personne;
+word;ar:1;ar;رجل;رَجُل;;;reg-courant;freq-ultra;niv-a1;noun, mas;personne;
+word;fr:0;fr-FR;homme;adulte;;;reg-courant;;;noun, mas;personne;art-fr-un
+meaning;رَدَّ;;;;;;;;;;;
+word;ar:0;ar;رَدَّ;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans;communication;
+word;ar:1;ar;رد;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans;communication;
+word;fr:0;fr-FR;répondre;;;;reg-courant;;;verb, tense-inf;communication;
+meaning;رَسَائِل;;;;;;;;;;;
+word;ar:0;ar;رَسَائِل;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;langue-ecrit;
+word;ar:1;ar;رسائل;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;langue-ecrit;
+word;fr:0;fr-FR;lettres;courrier;;;reg-courant;;;noun, fem, plur;langue-ecrit;art-fr-des
+word;fr:1;fr-FR;messages;;;;reg-courant;;;noun, mas, plur;langue-ecrit;art-fr-des
+meaning;رَفَضَ;;;;;;;;;;;
+word;ar:0;ar;رَفَضَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans;volonte;
+word;ar:1;ar;رفض;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans;volonte;
+word;fr:0;fr-FR;refuser;;;;reg-courant;;;verb, tense-inf;volonte;
+meaning;رَقْم;;;;;;;;;;;
+word;ar:0;ar;رَقْم;;;;reg-courant;freq-tres;niv-a1;noun, mas;nombre;
+word;ar:1;ar;رقم;;;;reg-courant;freq-tres;niv-a1;noun, mas;nombre;
+word;fr:0;fr-FR;numéro;;;;reg-courant;;;noun, mas;nombre;art-fr-un
+word;fr:1;fr-FR;chiffre;;;;reg-courant;;;noun, mas;nombre;art-fr-un
+meaning;رَمَادِيّ;;;;;;;;;;;
+word;ar:0;ar;رَمَادِيّ;;;;reg-courant;freq-freq;niv-a2;adj, nisba;couleur;
+word;ar:1;ar;رمادي;;;;reg-courant;freq-freq;niv-a2;adj, nisba;couleur;
+word;fr:0;fr-FR;gris;;;;reg-courant;;;adj;couleur;
+meaning;رُؤَسَاء;;;;;;;;;;;
+word;ar:0;ar;رُؤَسَاء;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;institution;
+word;ar:1;ar;رؤساء;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;institution;
+word;fr:0;fr-FR;présidents;;;;reg-courant;;;noun, mas, plur;institution;art-fr-des
+word;fr:1;fr-FR;chefs;dirigeant;;;reg-courant;;;noun, mas, plur;institution;art-fr-des
+meaning;رُبْع;;;;;;;;;;;
+word;ar:0;ar;رُبْع;;;;reg-courant;freq-freq;niv-a1;noun, mas;quantite;
+word;ar:1;ar;ربع;;;;reg-courant;freq-freq;niv-a1;noun, mas;quantite;
+word;fr:0;fr-FR;quart;;;;reg-courant;;;noun, mas;quantite;art-fr-un
+meaning;رِجَال;;;;;;;;;;;
+word;ar:0;ar;رِجَال;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;personne;
+word;ar:1;ar;رجال;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;personne;
+word;fr:0;fr-FR;hommes;adulte;;;reg-courant;;;noun, mas, plur;personne;art-fr-des
+meaning;رِجْل;;;;;;;;;;;
+word;ar:0;ar;رِجْل;;;;reg-courant;freq-freq;niv-a1;noun, fem;corps;
+word;ar:1;ar;رجل;رِجْل;;;reg-courant;freq-freq;niv-a1;noun, fem;corps;
+word;fr:0;fr-FR;jambe;;;;reg-courant;;;noun, fem;corps;art-fr-une
+meaning;رِسَالَة;;;;;;;;;;;
+word;ar:0;ar;رِسَالَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;langue-ecrit;
+word;ar:1;ar;رسالة;;;;reg-courant;freq-tres;niv-a1;noun, fem;langue-ecrit;
+word;fr:0;fr-FR;lettre;courrier;;;reg-courant;;;noun, fem;langue-ecrit;art-fr-une
+word;fr:1;fr-FR;message;;;;reg-courant;;;noun, mas;langue-ecrit;art-fr-un
+meaning;رِيح;;;;;;;;;;;
+word;ar:0;ar;رِيح;;;;reg-courant;freq-freq;niv-a2;noun, fem;meteo;
+word;ar:1;ar;ريح;;;;reg-courant;freq-freq;niv-a2;noun, fem;meteo;
+word;fr:0;fr-FR;vent;;;;reg-courant;;;noun, mas;meteo;art-fr-un
+meaning;رِيَاح;;;;;;;;;;;
+word;ar:0;ar;رِيَاح;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, fem, plur, plur-broken;meteo;
+word;ar:1;ar;رياح;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, fem, plur, plur-broken;meteo;
+word;fr:0;fr-FR;vents;;;;reg-courant;;;noun, mas, plur;meteo;art-fr-des
+meaning;رِيَاضِيّ;;;;;;;;;;;
+word;ar:0;ar;رِيَاضِيّ;;;;reg-courant;freq-freq;niv-a2;adj, nisba;sport;
+word;ar:1;ar;رياضي;;;;reg-courant;freq-freq;niv-a2;adj, nisba;sport;
+word;fr:0;fr-FR;sportif;;;;reg-courant;;;adj;sport;
+meaning;زَارَ;;;;;;;;;;;
+word;ar:0;ar;زَارَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans;voyage;
+word;ar:1;ar;زار;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans;voyage;
+word;fr:0;fr-FR;visiter;;;;reg-courant;;;verb, tense-inf;voyage;
+word;fr:1;fr-FR;rendre visite;;;;reg-courant;;;verb, tense-inf;voyage;
+meaning;زَلَازِل;;;;;;;;;;;
+word;ar:0;ar;زَلَازِل;;{lang=fr-FR§pluriel};;reg-courant;;niv-b2;noun, mas, plur, plur-broken;nature;
+word;ar:1;ar;زلازل;;{lang=fr-FR§pluriel};;reg-courant;;niv-b2;noun, mas, plur, plur-broken;nature;
+word;fr:0;fr-FR;séismes;;;;reg-courant;;;noun, mas, plur;nature;art-fr-des
+meaning;زَيْت;;;;;;;;;;;
+word;ar:0;ar;زَيْت;;;;reg-courant;freq-freq;niv-a1;noun, mas;aliment;
+word;ar:1;ar;زيت;;;;reg-courant;freq-freq;niv-a1;noun, mas;aliment;
+word;fr:0;fr-FR;huile;;;;reg-courant;;;noun, fem;aliment;art-fr-une
+meaning;زِلْزَال;;;;;;;;;;;
+word;ar:0;ar;زِلْزَال;;;;reg-courant;freq-freq;niv-b2;noun, mas;nature;
+word;ar:1;ar;زلزال;;;;reg-courant;freq-freq;niv-b2;noun, mas;nature;
+word;fr:0;fr-FR;séisme;;;;reg-courant;;;noun, mas;nature;art-fr-un
+meaning;سَأَلَ;;;;;;;;;;;
+word;ar:0;ar;سَأَلَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans;communication;
+word;ar:1;ar;سأل;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans;communication;
+word;fr:0;fr-FR;demander;une question;;;reg-courant;;;verb, tense-inf;communication;
+word;fr:1;fr-FR;interroger;;;;reg-courant;;;verb, tense-inf;communication;
+meaning;سَادَة;;;;;;;;;;;
+word;ar:0;ar;سَادَة;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;personne;
+word;ar:1;ar;سادة;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;personne;
+word;fr:0;fr-FR;messieurs;;;;reg-courant;;;noun, mas, plur;personne;art-fr-des
+meaning;سَاعَات;;;;;;;;;;;
+word;ar:0;ar;سَاعَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;duree;
+word;ar:1;ar;ساعات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;duree;
+word;fr:0;fr-FR;heures;;;;reg-courant;;;noun, fem, plur;duree;art-fr-des
+meaning;سَاعَة (زَمَن);;;;;;;;;;;
+word;ar:0;ar;سَاعَة;زَمَن;;;reg-courant;freq-ultra;niv-a1;noun, fem;duree;
+word;ar:1;ar;ساعة;زَمَن;;;reg-courant;freq-ultra;niv-a1;noun, fem;duree;
+word;fr:0;fr-FR;heure;;;;reg-courant;;;noun, fem;duree;art-fr-une
+meaning;سَاعَة (يَد);;;;;;;;;;;
+word;ar:0;ar;سَاعَة;يَد;;;reg-courant;freq-freq;niv-a1;noun, fem;objet;
+word;ar:1;ar;ساعة;يَد;;;reg-courant;freq-freq;niv-a1;noun, fem;objet;
+word;fr:0;fr-FR;montre;;;;reg-courant;;;noun, fem;objet;art-fr-une
+meaning;سَاعَدَ;;;;;;;;;;;
+word;ar:0;ar;سَاعَدَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans, verb-derived;echange;
+word;ar:1;ar;ساعد;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans, verb-derived;echange;
+word;fr:0;fr-FR;aider;;;;reg-courant;;;verb, tense-inf;echange;
+meaning;سَافَرَ;;;;;;;;;;;
+word;ar:0;ar;سَافَرَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans, verb-derived;voyage;
+word;ar:1;ar;سافر;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans, verb-derived;voyage;
+word;fr:0;fr-FR;voyager;;;;reg-courant;;;verb, tense-inf;voyage;
+meaning;سَبْعَة;;;;;;;;;;;
+word;ar:0;ar;سَبْعَة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;ar:1;ar;سبعة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;fr:0;fr-FR;sept;;;;reg-courant;;;num;nombre;
+meaning;سَرِير;;;;;;;;;;;
+word;ar:0;ar;سَرِير;;;;reg-courant;freq-freq;niv-a1;noun, mas;mobilier;
+word;ar:1;ar;سرير;;;;reg-courant;freq-freq;niv-a1;noun, mas;mobilier;
+word;fr:0;fr-FR;lit;;;;reg-courant;;;noun, mas;mobilier;art-fr-un
+meaning;سَعِيد;;;;;;;;;;;
+word;ar:0;ar;سَعِيد;;;;reg-courant;freq-tres;niv-a1;adj;emotion;
+word;ar:1;ar;سعيد;;;;reg-courant;freq-tres;niv-a1;adj;emotion;
+word;fr:0;fr-FR;heureux;;;;reg-courant;;;adj;emotion;
+meaning;سَفَر;;;;;;;;;;;
+word;ar:0;ar;سَفَر;;;;reg-courant;freq-tres;niv-a1;noun, mas, masdar;voyage;
+word;ar:1;ar;سفر;;;;reg-courant;freq-tres;niv-a1;noun, mas, masdar;voyage;
+word;fr:0;fr-FR;voyage;;;;reg-courant;;;noun, mas;voyage;art-fr-un
+meaning;سَكَنَ;;;;;;;;;;;
+word;ar:0;ar;سَكَنَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans;habitation;
+word;ar:1;ar;سكن;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans;habitation;
+word;fr:0;fr-FR;habiter;;;;reg-courant;;;verb, tense-inf;habitation;
+meaning;سَلَام;;;;;;;;;;;
+word;ar:0;ar;سَلَام;;;;reg-courant;freq-tres;niv-a1;noun, mas;relation;
+word;ar:1;ar;سلام;;;;reg-courant;freq-tres;niv-a1;noun, mas;relation;
+word;fr:0;fr-FR;paix;;;;reg-courant;;;noun, fem;relation;art-fr-une
+meaning;سَلَّمَ (عَلَى شَخْص);;;;;;;;;;;
+word;ar:0;ar;سَلَّمَ;عَلَى شَخْص;;;reg-courant;freq-freq;niv-b1;verb, verb-trans, verb-derived;relation;
+word;ar:1;ar;سلم;عَلَى شَخْص;;;reg-courant;freq-freq;niv-b1;verb, verb-trans, verb-derived;relation;
+word;fr:0;fr-FR;saluer;;;;reg-courant;;;verb, tense-inf;relation;
+meaning;سَمَاء;;;;;;;;;;;
+word;ar:0;ar;سَمَاء;;;;reg-courant;freq-tres;niv-a1;noun, fem;nature;
+word;ar:1;ar;سماء;;;;reg-courant;freq-tres;niv-a1;noun, fem;nature;
+word;fr:0;fr-FR;ciel;;;;reg-courant;;;noun, mas;nature;art-fr-un
+meaning;سَمِعَ;;;;;;;;;;;
+word;ar:0;ar;سَمِعَ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;perception;
+word;ar:1;ar;سمع;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;perception;
+word;fr:0;fr-FR;entendre;;;;reg-courant;;;verb, tense-inf;perception;
+meaning;سَنَة;;;;;;;;;;;
+word;ar:0;ar;سَنَة;;;;reg-courant;freq-ultra;niv-a1;noun, fem;calendrier, duree;
+word;ar:1;ar;سنة;;;;reg-courant;freq-ultra;niv-a1;noun, fem;calendrier, duree;
+word;fr:0;fr-FR;année;;;;reg-courant;;;noun, fem;calendrier, duree;art-fr-une
+word;fr:1;fr-FR;an;;;;reg-courant;;;noun, mas;calendrier, duree;art-fr-un
+meaning;سَنَوَات;;;;;;;;;;;
+word;ar:0;ar;سَنَوَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;calendrier, duree;
+word;ar:1;ar;سنوات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;calendrier, duree;
+word;fr:0;fr-FR;années;;;;reg-courant;;;noun, fem, plur;calendrier, duree;art-fr-des
+word;fr:1;fr-FR;ans;;;;reg-courant;;;noun, mas, plur;calendrier, duree;art-fr-des
+meaning;سَهْل;;;;;;;;;;;
+word;ar:0;ar;سَهْل;;;;reg-courant;freq-tres;niv-a1;adj;qualite;
+word;ar:1;ar;سهل;;;;reg-courant;freq-tres;niv-a1;adj;qualite;
+word;fr:0;fr-FR;facile;;;;reg-courant;;;adj;qualite;
+meaning;سَوْفَ;;;;;;;;;;;
+word;ar:0;ar;سَوْفَ;;;;reg-courant;freq-tres;niv-a2;particle;moment;
+word;ar:1;ar;سوف;;;;reg-courant;freq-tres;niv-a2;particle;moment;
+word;fr:0;fr-FR;marque du futur;;;;reg-courant;;;particle, defi;moment;
+meaning;سَيَّارَة;;;;;;;;;;;
+word;ar:0;ar;سَيَّارَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;transport;
+word;ar:1;ar;سيارة;;;;reg-courant;freq-tres;niv-a1;noun, fem;transport;
+word;fr:0;fr-FR;voiture;;;;reg-courant;;;noun, fem;transport;art-fr-une
+meaning;سَيِّد;;;;;;;;;;;
+word;ar:0;ar;سَيِّد;;;;reg-courant;freq-tres;niv-a1;noun, mas;personne;
+word;ar:1;ar;سيد;;;;reg-courant;freq-tres;niv-a1;noun, mas;personne;
+word;fr:0;fr-FR;monsieur;;;;reg-courant;;;noun, mas;personne;art-fr-un
+meaning;سَيِّدَات;;;;;;;;;;;
+word;ar:0;ar;سَيِّدَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;personne;
+word;ar:1;ar;سيدات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;personne;
+word;fr:0;fr-FR;mesdames;;;;reg-courant;;;noun, fem, plur;personne;art-fr-des
+word;fr:1;fr-FR;dames;;;;reg-courant;;;noun, fem, plur;personne;art-fr-des
+meaning;سَيِّدَة;;;;;;;;;;;
+word;ar:0;ar;سَيِّدَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;personne;
+word;ar:1;ar;سيدة;;;;reg-courant;freq-tres;niv-a1;noun, fem;personne;
+word;fr:0;fr-FR;madame;;;;reg-courant;;;noun, fem;personne;
+word;fr:1;fr-FR;dame;;;;reg-courant;;;noun, fem;personne;art-fr-une
+meaning;سَيْف;;;;;;;;;;;
+word;ar:0;ar;سَيْف;;;;reg-courant;freq-peu;niv-b1;noun, mas;objet;
+word;ar:1;ar;سيف;;;;reg-courant;freq-peu;niv-b1;noun, mas;objet;
+word;fr:0;fr-FR;épée;;;;reg-courant;;;noun, fem;objet;art-fr-une
+meaning;سُؤَال;;;;;;;;;;;
+word;ar:0;ar;سُؤَال;;;;reg-courant;freq-tres;niv-a1;noun, mas;communication;
+word;ar:1;ar;سؤال;;;;reg-courant;freq-tres;niv-a1;noun, mas;communication;
+word;fr:0;fr-FR;question;;;;reg-courant;;;noun, fem;communication;art-fr-une
+meaning;سُكَّان;;;;;;;;;;;
+word;ar:0;ar;سُكَّان;;;;reg-courant;freq-tres;niv-b1;noun, mas, plur;ville;
+word;ar:1;ar;سكان;;;;reg-courant;freq-tres;niv-b1;noun, mas, plur;ville;
+word;fr:0;fr-FR;habitants;;;;reg-courant;;;noun, mas, plur;ville;art-fr-des
+meaning;سُورِيَا;;;;;;;;;;;
+word;ar:0;ar;سُورِيَا;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, fem;geographie;
+word;ar:1;ar;سوريا;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, fem;geographie;
+word;fr:0;fr-FR;Syrie;;;;reg-courant;;;noun, fem;geographie;
+meaning;سُوق;;;;;;;;;;;
+word;ar:0;ar;سُوق;;;;reg-courant;freq-tres;niv-a1;noun, fem;commerce, ville;
+word;ar:1;ar;سوق;;;;reg-courant;freq-tres;niv-a1;noun, fem;commerce, ville;
+word;fr:0;fr-FR;marché;lieu de vente;;;reg-courant;;;noun, mas;commerce, ville;art-fr-un
+meaning;سُيُوف;;;;;;;;;;;
+word;ar:0;ar;سُيُوف;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;objet;
+word;ar:1;ar;سيوف;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;objet;
+word;fr:0;fr-FR;épées;;;;reg-courant;;;noun, fem, plur;objet;art-fr-des
+meaning;سِبَاحَة;;;;;;;;;;;
+word;ar:0;ar;سِبَاحَة;;;;reg-courant;freq-freq;niv-a2;noun, fem, masdar;sport;
+word;ar:1;ar;سباحة;;;;reg-courant;freq-freq;niv-a2;noun, fem, masdar;sport;
+word;fr:0;fr-FR;natation;;;;reg-courant;;;noun, fem;sport;art-fr-une
+meaning;سِتَّة;;;;;;;;;;;
+word;ar:0;ar;سِتَّة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;ar:1;ar;ستة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;fr:0;fr-FR;six;;;;reg-courant;;;num;nombre;
+meaning;شَارِع;;;;;;;;;;;
+word;ar:0;ar;شَارِع;;;;reg-courant;freq-tres;niv-a1;noun, mas;ville;
+word;ar:1;ar;شارع;;;;reg-courant;freq-tres;niv-a1;noun, mas;ville;
+word;fr:0;fr-FR;rue;;;;reg-courant;;;noun, fem;ville;art-fr-une
+meaning;شَاهَدَ;;;;;;;;;;;
+word;ar:0;ar;شَاهَدَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans, verb-derived;perception;
+word;ar:1;ar;شاهد;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans, verb-derived;perception;
+word;fr:0;fr-FR;regarder;;;;reg-courant;;;verb, tense-inf;perception;
+meaning;شَاي;;;;;;;;;;;
+word;ar:0;ar;شَاي;;;;reg-courant;freq-tres;niv-a1;noun, mas;boisson;
+word;ar:1;ar;شاي;;;;reg-courant;freq-tres;niv-a1;noun, mas;boisson;
+word;fr:0;fr-FR;thé;;;;reg-courant;;;noun, mas;boisson;art-fr-un
+meaning;شَجَرَة;;;;;;;;;;;
+word;ar:0;ar;شَجَرَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;vegetal;
+word;ar:1;ar;شجرة;;;;reg-courant;freq-tres;niv-a1;noun, fem;vegetal;
+word;fr:0;fr-FR;arbre;;;;reg-courant;;;noun, mas;vegetal;art-fr-un
+meaning;شَدِيد;;;;;;;;;;;
+word;ar:0;ar;شَدِيد;;;;reg-courant;freq-tres;niv-a2;adj;qualite;
+word;ar:1;ar;شديد;;;;reg-courant;freq-tres;niv-a2;adj;qualite;
+word;fr:0;fr-FR;intense;;;;reg-courant;;;adj;qualite;
+word;fr:1;fr-FR;violent;;;;reg-courant;;;adj;qualite;
+meaning;شَرَحَ;;;;;;;;;;;
+word;ar:0;ar;شَرَحَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans;communication;
+word;ar:1;ar;شرح;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans;communication;
+word;fr:0;fr-FR;expliquer;;;;reg-courant;;;verb, tense-inf;communication;
+meaning;شَرِبَ;;;;;;;;;;;
+word;ar:0;ar;شَرِبَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans;boisson;
+word;ar:1;ar;شرب;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans;boisson;
+word;fr:0;fr-FR;boire;;;;reg-courant;;;verb, tense-inf;boisson;
+meaning;شَكّ;;;;;;;;;;;
+word;ar:0;ar;شَكّ;;;;reg-courant;freq-freq;niv-b1;noun, mas;pensee;
+word;ar:1;ar;شك;;;;reg-courant;freq-freq;niv-b1;noun, mas;pensee;
+word;fr:0;fr-FR;doute;;;;reg-courant;;;noun, mas;pensee;art-fr-un
+meaning;شَمْس;;;;;;;;;;;
+word;ar:0;ar;شَمْس;;;;reg-courant;freq-tres;niv-a1;noun, fem;meteo;
+word;ar:1;ar;شمس;;;;reg-courant;freq-tres;niv-a1;noun, fem;meteo;
+word;fr:0;fr-FR;soleil;;;;reg-courant;;;noun, mas;meteo;art-fr-un
+meaning;شَوَارِع;;;;;;;;;;;
+word;ar:0;ar;شَوَارِع;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;ville;
+word;ar:1;ar;شوارع;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;ville;
+word;fr:0;fr-FR;rues;;;;reg-courant;;;noun, fem, plur;ville;art-fr-des
+meaning;شُكُوك;;;;;;;;;;;
+word;ar:0;ar;شُكُوك;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;pensee;
+word;ar:1;ar;شكوك;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;pensee;
+word;fr:0;fr-FR;doutes;;;;reg-courant;;;noun, mas, plur;pensee;art-fr-des
+meaning;شُكْرًا;;;;;;;;;;;
+word;ar:0;ar;شُكْرًا;;;;reg-courant;freq-ultra;niv-a1;interj;communication-orale;
+word;ar:1;ar;شكرا;;;;reg-courant;freq-ultra;niv-a1;interj;communication-orale;
+word;fr:0;fr-FR;merci;;;;reg-courant;;;interj;communication-orale;
+meaning;شُكْرًا جَزِيلًا;;;;;;;;;;;
+word;ar:0;ar;شُكْرًا جَزِيلًا;;;;reg-courant;freq-tres;niv-a1;locution, interj;communication-orale;
+word;ar:1;ar;شكرا جزيلا;;;;reg-courant;freq-tres;niv-a1;locution, interj;communication-orale;
+word;fr:0;fr-FR;merci beaucoup;;;;reg-courant;;;locution, interj;communication-orale;
+meaning;صَارَ;;;;;;;;;;;
+word;ar:0;ar;صَارَ;;;;reg-courant;freq-tres;niv-b1;verb, verb-intrans;etat;
+word;ar:1;ar;صار;;;;reg-courant;freq-tres;niv-b1;verb, verb-intrans;etat;
+word;ar:2;ar;أَصْبَحَ;;;;reg-courant;freq-tres;niv-b1;verb, verb-intrans, verb-derived;etat;
+word;ar:3;ar;أصبح;;;;reg-courant;freq-tres;niv-b1;verb, verb-intrans, verb-derived;etat;
+word;fr:0;fr-FR;devenir;;;;reg-courant;;;verb, tense-inf;etat;
+meaning;صَبَاح;;;;;;;;;;;
+word;ar:0;ar;صَبَاح;;;;reg-courant;freq-tres;niv-a1;noun, mas;moment;
+word;ar:1;ar;صباح;;;;reg-courant;freq-tres;niv-a1;noun, mas;moment;
+word;fr:0;fr-FR;matin;;;;reg-courant;;;noun, mas;moment;art-fr-un
+meaning;صَبَاحُ الخَيْرِ;;;;;;;;;;;
+word;ar:0;ar;صَبَاحُ الخَيْرِ;;{lang=fr-FR§le matin};;reg-courant;freq-tres;niv-a1;locution, interj;communication-orale;
+word;ar:1;ar;صباح الخير;;{lang=fr-FR§le matin};;reg-courant;freq-tres;niv-a1;locution, interj;communication-orale;
+word;fr:0;fr-FR;bonjour;;;;reg-courant;;;locution, interj;communication-orale;
+meaning;صَبَاحُ النُّورِ;;;;;;;;;;;
+word;ar:0;ar;صَبَاحُ النُّورِ;;{lang=fr-FR§réponse, le matin};;reg-courant;freq-tres;niv-a1;locution, interj;communication-orale;
+word;ar:1;ar;صباح النور;;{lang=fr-FR§réponse, le matin};;reg-courant;freq-tres;niv-a1;locution, interj;communication-orale;
+word;fr:0;fr-FR;bonjour;;;;reg-courant;;;locution, interj;communication-orale;
+meaning;صَبْر;;;;;;;;;;;
+word;ar:0;ar;صَبْر;;;;reg-courant;freq-freq;niv-b1;noun, mas;caractere;
+word;ar:1;ar;صبر;;;;reg-courant;freq-freq;niv-b1;noun, mas;caractere;
+word;fr:0;fr-FR;patience;;;;reg-courant;;;noun, fem;caractere;art-fr-une
+meaning;صَحَارٍ;;;;;;;;;;;
+word;ar:0;ar;صَحَارٍ;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, fem, plur, plur-broken;geographie;
+word;ar:1;ar;صحار;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, fem, plur, plur-broken;geographie;
+word;fr:0;fr-FR;déserts;;;;reg-courant;;;noun, mas, plur;geographie;art-fr-des
+meaning;صَحِيح;;;;;;;;;;;
+word;ar:0;ar;صَحِيح;;;;reg-courant;freq-tres;niv-a1;adj;qualite;
+word;ar:1;ar;صحيح;;;;reg-courant;freq-tres;niv-a1;adj;qualite;
+word;fr:0;fr-FR;exact;;;;reg-courant;;;adj;qualite;
+word;fr:1;fr-FR;correct;;;;reg-courant;;;adj;qualite;
+meaning;صَحْرَاء;;;;;;;;;;;
+word;ar:0;ar;صَحْرَاء;;;;reg-courant;freq-freq;niv-a2;noun, fem;geographie;
+word;ar:1;ar;صحراء;;;;reg-courant;freq-freq;niv-a2;noun, fem;geographie;
+word;fr:0;fr-FR;désert;;;;reg-courant;;;noun, mas;geographie;art-fr-un
+meaning;صَدِيق;;;;;;;;;;;
+word;ar:0;ar;صَدِيق;;;;reg-courant;freq-ultra;niv-a1;noun, mas;relation;
+word;ar:1;ar;صديق;;;;reg-courant;freq-ultra;niv-a1;noun, mas;relation;
+word;fr:0;fr-FR;ami;;;;reg-courant;;;noun, mas;relation;art-fr-un
+meaning;صَعْب;;;;;;;;;;;
+word;ar:0;ar;صَعْب;;;;reg-courant;freq-tres;niv-a1;adj;qualite;
+word;ar:1;ar;صعب;;;;reg-courant;freq-tres;niv-a1;adj;qualite;
+word;fr:0;fr-FR;difficile;;;;reg-courant;;;adj;qualite;
+meaning;صَغِير;;;;;;;;;;;
+word;ar:0;ar;صَغِير;;;;reg-courant;freq-ultra;niv-a1;adj;dimension;
+word;ar:1;ar;صغير;;;;reg-courant;freq-ultra;niv-a1;adj;dimension;
+word;fr:0;fr-FR;petit;;;;reg-courant;;;adj;dimension;
+meaning;صَفّ (مَدْرَسَة);;;;;;;;;;;
+word;ar:0;ar;صَفّ;مَدْرَسَة;;;reg-courant;freq-tres;niv-a1;noun, mas;ecole;
+word;ar:1;ar;صف;مَدْرَسَة;;;reg-courant;freq-tres;niv-a1;noun, mas;ecole;
+word;fr:0;fr-FR;classe;salle;;;reg-courant;;;noun, fem;ecole;art-fr-une
+meaning;صَيْف;;;;;;;;;;;
+word;ar:0;ar;صَيْف;;;;reg-courant;freq-tres;niv-a1;noun, mas;saison;
+word;ar:1;ar;صيف;;;;reg-courant;freq-tres;niv-a1;noun, mas;saison;
+word;fr:0;fr-FR;été;saison;;;reg-courant;;;noun, mas;saison;art-fr-un
+meaning;صُفُوف;;;;;;;;;;;
+word;ar:0;ar;صُفُوف;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;ecole;
+word;ar:1;ar;صفوف;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;ecole;
+word;fr:0;fr-FR;classes;salle;;;reg-courant;;;noun, fem, plur;ecole;art-fr-des
+meaning;صِفْر;;;;;;;;;;;
+word;ar:0;ar;صِفْر;;;;reg-courant;freq-freq;niv-a1;num;nombre;
+word;ar:1;ar;صفر;;;;reg-courant;freq-freq;niv-a1;num;nombre;
+word;fr:0;fr-FR;zéro;;;;reg-courant;;;num, noun, mas;nombre;art-fr-un
+meaning;ضَحِكَ;;;;;;;;;;;
+word;ar:0;ar;ضَحِكَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans;emotion;
+word;ar:1;ar;ضحك;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans;emotion;
+word;fr:0;fr-FR;rire;;;;reg-courant;;;verb, tense-inf;emotion;
+meaning;ضَيْف;;;;;;;;;;;
+word;ar:0;ar;ضَيْف;;;;reg-courant;freq-freq;niv-a2;noun, mas;relation;
+word;ar:1;ar;ضيف;;;;reg-courant;freq-freq;niv-a2;noun, mas;relation;
+word;fr:0;fr-FR;invité;;;;reg-courant;;;noun, mas;relation;art-fr-un
+meaning;ضُيُوف;;;;;;;;;;;
+word;ar:0;ar;ضُيُوف;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;relation;
+word;ar:1;ar;ضيوف;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;relation;
+word;fr:0;fr-FR;invités;;;;reg-courant;;;noun, mas, plur;relation;art-fr-des
+meaning;طَائِرَات;;;;;;;;;;;
+word;ar:0;ar;طَائِرَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;transport, voyage;
+word;ar:1;ar;طائرات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;transport, voyage;
+word;fr:0;fr-FR;avions;;;;reg-courant;;;noun, mas, plur;transport, voyage;art-fr-des
+meaning;طَائِرَة;;;;;;;;;;;
+word;ar:0;ar;طَائِرَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;transport, voyage;
+word;ar:1;ar;طائرة;;;;reg-courant;freq-tres;niv-a1;noun, fem;transport, voyage;
+word;fr:0;fr-FR;avion;;;;reg-courant;;;noun, mas;transport, voyage;art-fr-un
+meaning;طَارَ;;;;;;;;;;;
+word;ar:0;ar;طَارَ;;;;reg-courant;freq-freq;niv-b1;verb, verb-intrans;deplacement;
+word;ar:1;ar;طار;;;;reg-courant;freq-freq;niv-b1;verb, verb-intrans;deplacement;
+word;fr:0;fr-FR;voler;dans les airs;;;reg-courant;;;verb, tense-inf;deplacement;
+meaning;طَالِب (دِرَاسَة);;;;;;;;;;;
+word;ar:0;ar;طَالِب;دِرَاسَة;;;reg-courant;freq-tres;niv-a1;noun, mas;ecole, personne;
+word;ar:1;ar;طالب;دِرَاسَة;;;reg-courant;freq-tres;niv-a1;noun, mas;ecole, personne;
+word;fr:0;fr-FR;étudiant;;;;reg-courant;;;noun, mas;ecole, personne;art-fr-un
+word;fr:1;fr-FR;élève;;;;reg-courant;;;noun, mas;ecole, personne;art-fr-un
+meaning;طَاوِلَة;;;;;;;;;;;
+word;ar:0;ar;طَاوِلَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;mobilier;
+word;ar:1;ar;طاولة;;;;reg-courant;freq-tres;niv-a1;noun, fem;mobilier;
+word;fr:0;fr-FR;table;;;;reg-courant;;;noun, fem;mobilier;art-fr-une
+meaning;طَبِيب;;;;;;;;;;;
+word;ar:0;ar;طَبِيب;;;;reg-courant;freq-tres;niv-a1;noun, mas;metier, sante;
+word;ar:1;ar;طبيب;;;;reg-courant;freq-tres;niv-a1;noun, mas;metier, sante;
+word;fr:0;fr-FR;médecin;;;;reg-courant;;;noun, mas;metier, sante;art-fr-un
+meaning;طَرِيق;;;;;;;;;;;
+word;ar:0;ar;طَرِيق;;;;reg-courant;freq-tres;niv-a1;noun, mas;transport;
+word;ar:1;ar;طريق;;;;reg-courant;freq-tres;niv-a1;noun, mas;transport;
+word;fr:0;fr-FR;chemin;;;;reg-courant;;;noun, mas;transport;art-fr-un
+word;fr:1;fr-FR;route;;;;reg-courant;;;noun, fem;transport;art-fr-une
+meaning;طَعَام;;;;;;;;;;;
+word;ar:0;ar;طَعَام;;;;reg-courant;freq-tres;niv-a1;noun, mas;aliment;
+word;ar:1;ar;طعام;;;;reg-courant;freq-tres;niv-a1;noun, mas;aliment;
+word;fr:0;fr-FR;nourriture;;;;reg-courant;;;noun, fem;aliment;art-fr-une
+meaning;طَقْس;;;;;;;;;;;
+word;ar:0;ar;طَقْس;;;;reg-courant;freq-tres;niv-a1;noun, mas;meteo;
+word;ar:1;ar;طقس;;;;reg-courant;freq-tres;niv-a1;noun, mas;meteo;
+word;ar:2;ar;جَوّ;طَقْس;;;reg-courant;freq-tres;niv-a1;noun, mas;meteo;
+word;ar:3;ar;جو;طَقْس;;;reg-courant;freq-tres;niv-a1;noun, mas;meteo;
+word;fr:0;fr-FR;temps;météo;;;reg-courant;;;noun, mas;meteo;art-fr-un
+meaning;طَلَبَ;;;;;;;;;;;
+word;ar:0;ar;طَلَبَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans;volonte;
+word;ar:1;ar;طلب;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans;volonte;
+word;fr:0;fr-FR;demander;une chose;;;reg-courant;;;verb, tense-inf;volonte;
+meaning;طَوِيل;;;;;;;;;;;
+word;ar:0;ar;طَوِيل;;;;reg-courant;freq-tres;niv-a1;adj;dimension;
+word;ar:1;ar;طويل;;;;reg-courant;freq-tres;niv-a1;adj;dimension;
+word;fr:0;fr-FR;long;;;;reg-courant;;;adj;dimension;
+meaning;طَيِّب;;;;;;;;;;;
+word;ar:0;ar;طَيِّب;;;;reg-courant;freq-tres;niv-a2;adj;qualite;
+word;ar:1;ar;طيب;;;;reg-courant;freq-tres;niv-a2;adj;qualite;
+word;fr:0;fr-FR;délicieux;;;;reg-courant;;;adj;qualite;
+word;fr:1;fr-FR;bon;au goût;;;reg-courant;;;adj;qualite;
+meaning;طُرُق;;;;;;;;;;;
+word;ar:0;ar;طُرُق;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;transport;
+word;ar:1;ar;طرق;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;transport;
+word;fr:0;fr-FR;chemins;;;;reg-courant;;;noun, mas, plur;transport;art-fr-des
+word;fr:1;fr-FR;routes;;;;reg-courant;;;noun, fem, plur;transport;art-fr-des
+meaning;طُلَّاب;;;;;;;;;;;
+word;ar:0;ar;طُلَّاب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;ecole, personne;
+word;ar:1;ar;طلاب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;ecole, personne;
+word;fr:0;fr-FR;étudiants;;;;reg-courant;;;noun, mas, plur;ecole, personne;art-fr-des
+word;fr:1;fr-FR;élèves;;;;reg-courant;;;noun, mas, plur;ecole, personne;art-fr-des
+meaning;طِفْل;;;;;;;;;;;
+word;ar:0;ar;طِفْل;;;;reg-courant;freq-tres;niv-a1;noun, mas;famille, age-etat;
+word;ar:1;ar;طفل;;;;reg-courant;freq-tres;niv-a1;noun, mas;famille, age-etat;
+word;fr:0;fr-FR;enfant;;;;reg-courant;;;noun, mas;famille, age-etat;art-fr-un
+meaning;ظَنَّ;;;;;;;;;;;
+word;ar:0;ar;ظَنَّ;;;;reg-courant;freq-tres;niv-b1;verb, verb-trans;pensee;
+word;ar:1;ar;ظن;;;;reg-courant;freq-tres;niv-b1;verb, verb-trans;pensee;
+word;fr:0;fr-FR;croire;;;;reg-courant;;;verb, tense-inf;pensee;
+word;fr:1;fr-FR;supposer;;;;reg-courant;;;verb, tense-inf;pensee;
+meaning;ظَهْر (جِسْم);;;;;;;;;;;
+word;ar:0;ar;ظَهْر;جِسْم;;;reg-courant;freq-freq;niv-a2;noun, mas;corps;
+word;ar:1;ar;ظهر;جِسْم;;;reg-courant;freq-freq;niv-a2;noun, mas;corps;
+word;fr:0;fr-FR;dos;;;;reg-courant;;;noun, mas;corps;art-fr-un
+meaning;عَادَ;;;;;;;;;;;
+word;ar:0;ar;عَادَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans;deplacement;
+word;ar:1;ar;عاد;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans;deplacement;
+word;ar:2;ar;رَجَعَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans;deplacement;
+word;ar:3;ar;رجع;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans;deplacement;
+word;fr:0;fr-FR;revenir;;;;reg-courant;;;verb, tense-inf;deplacement;
+word;fr:1;fr-FR;rentrer;;;;reg-courant;;;verb, tense-inf;deplacement;
+meaning;عَالٍ;;;;;;;;;;;
+word;ar:0;ar;عَالٍ;;;;reg-courant;freq-freq;niv-a2;adj;dimension;
+word;ar:1;ar;عال;;;;reg-courant;freq-freq;niv-a2;adj;dimension;
+word;fr:0;fr-FR;haut;;;;reg-courant;;;adj;dimension;
+word;fr:1;fr-FR;élevé;;;;reg-courant;;;adj;dimension;
+meaning;عَالَمِيّ;;;;;;;;;;;
+word;ar:0;ar;عَالَمِيّ;;;;reg-courant;freq-tres;niv-b1;adj, nisba;geographie;
+word;ar:1;ar;عالمي;;;;reg-courant;freq-tres;niv-b1;adj, nisba;geographie;
+word;fr:0;fr-FR;mondial;;;;reg-courant;;;adj;geographie;
+meaning;عَدَد;;;;;;;;;;;
+word;ar:0;ar;عَدَد;;;;reg-courant;freq-tres;niv-a2;noun, mas;nombre;
+word;ar:1;ar;عدد;;;;reg-courant;freq-tres;niv-a2;noun, mas;nombre;
+word;fr:0;fr-FR;nombre;quantité;;;reg-courant;;;noun, mas;nombre;art-fr-un
+meaning;عَرَبِيّ;;;;;;;;;;;
+word;ar:0;ar;عَرَبِيّ;;;;reg-courant;freq-ultra;niv-a1;adj, nisba;nationalite;
+word;ar:1;ar;عربي;;;;reg-courant;freq-ultra;niv-a1;adj, nisba;nationalite;
+word;fr:0;fr-FR;arabe;;;;reg-courant;;;adj;nationalite;
+meaning;عَرَفَ;;;;;;;;;;;
+word;ar:0;ar;عَرَفَ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;pensee;
+word;ar:1;ar;عرف;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;pensee;
+word;fr:0;fr-FR;connaître;;;;reg-courant;;;verb, tense-inf;pensee;
+word;fr:1;fr-FR;savoir;;;;reg-courant;;;verb, tense-inf;pensee;
+meaning;عَشَاء;;;;;;;;;;;
+word;ar:0;ar;عَشَاء;;;;reg-courant;freq-freq;niv-a1;noun, mas;repas;
+word;ar:1;ar;عشاء;;;;reg-courant;freq-freq;niv-a1;noun, mas;repas;
+word;fr:0;fr-FR;dîner;;;;reg-courant;;;noun, mas;repas;art-fr-un
+meaning;عَشَرَة;;;;;;;;;;;
+word;ar:0;ar;عَشَرَة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;ar:1;ar;عشرة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;fr:0;fr-FR;dix;;;;reg-courant;;;num;nombre;
+meaning;عَفْوًا (اِعْتِذَار);;;;;;;;;;;
+word;ar:0;ar;عَفْوًا;اِعْتِذَار;;;reg-courant;freq-tres;niv-a1;interj;communication-orale;
+word;ar:1;ar;عفوا;اِعْتِذَار;;;reg-courant;freq-tres;niv-a1;interj;communication-orale;
+word;fr:0;fr-FR;pardon;;;;reg-courant;;;interj;communication-orale;
+meaning;عَفْوًا (رَدّ الشُّكْر);;;;;;;;;;;
+word;ar:0;ar;عَفْوًا;رَدّ الشُّكْر;;;reg-courant;freq-tres;niv-a1;interj;communication-orale;
+word;ar:1;ar;عفوا;رَدّ الشُّكْر;;;reg-courant;freq-tres;niv-a1;interj;communication-orale;
+word;fr:0;fr-FR;de rien;;;;reg-courant;;;interj;communication-orale;
+meaning;عَقْل;;;;;;;;;;;
+word;ar:0;ar;عَقْل;;;;reg-courant;freq-tres;niv-b1;noun, mas;pensee;
+word;ar:1;ar;عقل;;;;reg-courant;freq-tres;niv-b1;noun, mas;pensee;
+word;fr:0;fr-FR;esprit;intellect;;;reg-courant;;;noun, mas;pensee;art-fr-un
+word;fr:1;fr-FR;raison;faculté;;;reg-courant;;;noun, fem;pensee;art-fr-une
+meaning;عَلَى;;;;;;;;;;;
+word;ar:0;ar;عَلَى;;;;reg-courant;freq-ultra;niv-a1;prep;lieu;
+word;ar:1;ar;على;;;;reg-courant;freq-ultra;niv-a1;prep;lieu;
+word;fr:0;fr-FR;sur;;;;reg-courant;;;prep;lieu;
+meaning;عَلَّمَ;;;;;;;;;;;
+word;ar:0;ar;عَلَّمَ;;{lang=fr-FR§à quelqu'un};;reg-courant;freq-tres;niv-a2;verb, verb-trans, verb-derived;ecole;
+word;ar:1;ar;علم;عَلَّمَ;{lang=fr-FR§à quelqu'un};;reg-courant;freq-tres;niv-a2;verb, verb-trans, verb-derived;ecole;
+word;fr:0;fr-FR;enseigner;;;;reg-courant;;;verb, tense-inf;ecole;
+word;fr:1;fr-FR;apprendre;à quelqu'un;;;reg-courant;;;verb, tense-inf;ecole;
+meaning;عَمَل;;;;;;;;;;;
+word;ar:0;ar;عَمَل;;;;reg-courant;freq-ultra;niv-a1;noun, mas, masdar;travail;
+word;ar:1;ar;عمل;عَمَل;;;reg-courant;freq-ultra;niv-a1;noun, mas, masdar;travail;
+word;fr:0;fr-FR;travail;;;;reg-courant;;;noun, mas;travail;art-fr-un
+meaning;عَمِلَ;;;;;;;;;;;
+word;ar:0;ar;عَمِلَ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-intrans;travail;
+word;ar:1;ar;عمل;عَمِلَ;;;reg-courant;freq-ultra;niv-a1;verb, verb-intrans;travail;
+word;fr:0;fr-FR;travailler;;;;reg-courant;;;verb, tense-inf;travail;
+meaning;عَنْ;;;;;;;;;;;
+word;ar:0;ar;عَنْ;;;;reg-courant;freq-ultra;niv-a2;prep;communication;
+word;ar:1;ar;عن;;;;reg-courant;freq-ultra;niv-a2;prep;communication;
+word;fr:0;fr-FR;au sujet de;;;;reg-courant;;;prep;communication;
+word;fr:1;fr-FR;à propos de;;;;reg-courant;;;prep;communication;
+meaning;عَيْن (لِلنَّظَر);;;;;;;;;;;
+word;ar:0;ar;عَيْن;لِلنَّظَر;;;reg-courant;freq-tres;niv-a1;noun, fem;corps;
+word;ar:1;ar;عين;لِلنَّظَر;;;reg-courant;freq-tres;niv-a1;noun, fem;corps;
+word;fr:0;fr-FR;œil;;;;reg-courant;;;noun, mas;corps;art-fr-un
+meaning;عُقُول;;;;;;;;;;;
+word;ar:0;ar;عُقُول;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;pensee;
+word;ar:1;ar;عقول;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;pensee;
+word;fr:0;fr-FR;esprits;intellect;;;reg-courant;;;noun, mas, plur;pensee;art-fr-des
+meaning;عُلُوم;;;;;;;;;;;
+word;ar:0;ar;عُلُوم;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;ecole;
+word;ar:1;ar;علوم;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;ecole;
+word;fr:0;fr-FR;sciences;;;;reg-courant;;;noun, fem, plur;ecole;art-fr-des
+meaning;عُمْر;;;;;;;;;;;
+word;ar:0;ar;عُمْر;;;;reg-courant;freq-tres;niv-a1;noun, mas;age-etat;
+word;ar:1;ar;عمر;;;;reg-courant;freq-tres;niv-a1;noun, mas;age-etat;
+word;fr:0;fr-FR;âge;;;;reg-courant;;;noun, mas;age-etat;art-fr-un
+meaning;عُيُون;;;;;;;;;;;
+word;ar:0;ar;عُيُون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;corps;
+word;ar:1;ar;عيون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;corps;
+word;fr:0;fr-FR;yeux;;;;reg-courant;;;noun, mas, plur;corps;art-fr-des
+meaning;عِشْرُونَ;;;;;;;;;;;
+word;ar:0;ar;عِشْرُونَ;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;ar:1;ar;عشرون;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;fr:0;fr-FR;vingt;;;;reg-courant;;;num;nombre;
+meaning;عِلْم;;;;;;;;;;;
+word;ar:0;ar;عِلْم;;;;reg-courant;freq-tres;niv-a2;noun, mas;ecole;
+word;ar:1;ar;علم;عِلْم;;;reg-courant;freq-tres;niv-a2;noun, mas;ecole;
+word;fr:0;fr-FR;savoir;;;;reg-courant;;;noun, mas;ecole;art-fr-un
+word;fr:1;fr-FR;science;;;;reg-courant;;;noun, fem;ecole;art-fr-une
+meaning;عِنْدَ;;;;;;;;;;;
+word;ar:0;ar;عِنْدَ;;;;reg-courant;freq-ultra;niv-a1;prep;echange;
+word;ar:1;ar;عند;;;;reg-courant;freq-ultra;niv-a1;prep;echange;
+word;fr:0;fr-FR;chez;;;;reg-courant;;;prep;echange;
+meaning;عِنْدَمَا;;;;;;;;;;;
+word;ar:0;ar;عِنْدَمَا;;;;reg-courant;freq-tres;niv-a2;conj;moment;
+word;ar:1;ar;عندما;;;;reg-courant;freq-tres;niv-a2;conj;moment;
+word;fr:0;fr-FR;quand;;;;reg-courant;;;conj;moment;
+word;fr:1;fr-FR;lorsque;;;;reg-courant;;;conj;moment;
+meaning;غَدًا;;;;;;;;;;;
+word;ar:0;ar;غَدًا;;;;reg-courant;freq-tres;niv-a1;adv;moment;
+word;ar:1;ar;غدا;;;;reg-courant;freq-tres;niv-a1;adv;moment;
+word;fr:0;fr-FR;demain;;;;reg-courant;;;adv;moment;
+meaning;غَدَاء;;;;;;;;;;;
+word;ar:0;ar;غَدَاء;;;;reg-courant;freq-freq;niv-a1;noun, mas;repas;
+word;ar:1;ar;غداء;;;;reg-courant;freq-freq;niv-a1;noun, mas;repas;
+word;fr:0;fr-FR;déjeuner;;;;reg-courant;;;noun, mas;repas;art-fr-un
+meaning;غَرْب;;;;;;;;;;;
+word;ar:0;ar;غَرْب;;;;reg-courant;freq-freq;niv-a2;noun, mas;geographie;
+word;ar:1;ar;غرب;;;;reg-courant;freq-freq;niv-a2;noun, mas;geographie;
+word;fr:0;fr-FR;ouest;;;;reg-courant;;;noun, mas;geographie;
+meaning;غَنِيّ;;;;;;;;;;;
+word;ar:0;ar;غَنِيّ;;;;reg-courant;freq-freq;niv-a2;adj;argent;
+word;ar:1;ar;غني;;;;reg-courant;freq-freq;niv-a2;adj;argent;
+word;fr:0;fr-FR;riche;;;;reg-courant;;;adj;argent;
+meaning;غَيْر;;;;;;;;;;;
+word;ar:0;ar;غَيْر;;;;reg-courant;freq-ultra;niv-b1;noun;qualite;
+word;ar:1;ar;غير;;;;reg-courant;freq-ultra;niv-b1;noun;qualite;
+word;fr:0;fr-FR;autre que;;;;reg-courant;;;noun;qualite;
+meaning;غُرَف;;;;;;;;;;;
+word;ar:0;ar;غُرَف;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;piece;
+word;ar:1;ar;غرف;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;piece;
+word;fr:0;fr-FR;pièces;maison;;;reg-courant;;;noun, fem, plur;piece;art-fr-des
+word;fr:1;fr-FR;chambres;maison;;;reg-courant;;;noun, fem, plur;piece;art-fr-des
+meaning;غُرْفَة;;;;;;;;;;;
+word;ar:0;ar;غُرْفَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;piece;
+word;ar:1;ar;غرفة;;;;reg-courant;freq-tres;niv-a1;noun, fem;piece;
+word;fr:0;fr-FR;pièce;maison;;;reg-courant;;;noun, fem;piece;art-fr-une
+word;fr:1;fr-FR;chambre;maison;;;reg-courant;;;noun, fem;piece;art-fr-une
+meaning;فَتَحَ;;;;;;;;;;;
+word;ar:0;ar;فَتَحَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans;geste;
+word;ar:1;ar;فتح;;;;reg-courant;freq-tres;niv-a1;verb, verb-trans;geste;
+word;fr:0;fr-FR;ouvrir;;;;reg-courant;;;verb, tense-inf;geste;
+meaning;فَرَنْسَا;;;;;;;;;;;
+word;ar:0;ar;فَرَنْسَا;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, fem;geographie;
+word;ar:1;ar;فرنسا;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, fem;geographie;
+word;fr:0;fr-FR;France;;;;reg-courant;;;noun, fem;geographie;
+meaning;فَرَنْسِيّ;;;;;;;;;;;
+word;ar:0;ar;فَرَنْسِيّ;;;;reg-courant;freq-freq;niv-a1;adj, nisba;nationalite;
+word;ar:1;ar;فرنسي;;;;reg-courant;freq-freq;niv-a1;adj, nisba;nationalite;
+word;fr:0;fr-FR;français;;;;reg-courant;;;adj;nationalite;
+meaning;فَرِحَ;;;;;;;;;;;
+word;ar:0;ar;فَرِحَ;;;;reg-courant;freq-freq;niv-b1;verb, verb-intrans;emotion;
+word;ar:1;ar;فرح;;;;reg-courant;freq-freq;niv-b1;verb, verb-intrans;emotion;
+word;fr:0;fr-FR;se réjouir;;;;reg-courant;;;verb, tense-inf;emotion;
+meaning;فَكَّرَ;;;;;;;;;;;
+word;ar:0;ar;فَكَّرَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans, verb-derived;pensee;
+word;ar:1;ar;فكر;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans, verb-derived;pensee;
+word;fr:0;fr-FR;réfléchir;;;;reg-courant;;;verb, tense-inf;pensee;
+word;fr:1;fr-FR;penser;;;;reg-courant;;;verb, tense-inf;pensee;
+meaning;فَنَاجِين;;;;;;;;;;;
+word;ar:0;ar;فَنَاجِين;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;objet, boisson;
+word;ar:1;ar;فناجين;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;objet, boisson;
+word;fr:0;fr-FR;tasses;;;;reg-courant;;;noun, fem, plur;objet, boisson;art-fr-des
+meaning;فَهِمَ;;;;;;;;;;;
+word;ar:0;ar;فَهِمَ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;pensee;
+word;ar:1;ar;فهم;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;pensee;
+word;fr:0;fr-FR;comprendre;;;;reg-courant;;;verb, tense-inf;pensee;
+meaning;فَوْقَ;;;;;;;;;;;
+word;ar:0;ar;فَوْقَ;;;;reg-courant;freq-tres;niv-a1;prep;lieu;
+word;ar:1;ar;فوق;;;;reg-courant;freq-tres;niv-a1;prep;lieu;
+word;fr:0;fr-FR;au-dessus de;;;;reg-courant;;;prep;lieu;
+meaning;فِنْجَان;;;;;;;;;;;
+word;ar:0;ar;فِنْجَان;;;;reg-courant;freq-freq;niv-a1;noun, mas;objet, boisson;
+word;ar:1;ar;فنجان;;;;reg-courant;freq-freq;niv-a1;noun, mas;objet, boisson;
+word;fr:0;fr-FR;tasse;;;;reg-courant;;;noun, fem;objet, boisson;art-fr-une
+meaning;فِي;;;;;;;;;;;
+word;ar:0;ar;فِي;;;;reg-courant;freq-ultra;niv-a1;prep;lieu;
+word;ar:1;ar;في;;;;reg-courant;freq-ultra;niv-a1;prep;lieu;
+word;fr:0;fr-FR;dans;;;;reg-courant;;;prep;lieu;
+word;fr:1;fr-FR;en;;;;reg-courant;;;prep;lieu;
+meaning;فِيل;;;;;;;;;;;
+word;ar:0;ar;فِيل;;;;reg-courant;freq-freq;niv-a1;noun, mas;animal;
+word;ar:1;ar;فيل;;;;reg-courant;freq-freq;niv-a1;noun, mas;animal;
+word;fr:0;fr-FR;éléphant;;;;reg-courant;;;noun, mas;animal;art-fr-un
+meaning;فِيلْم;;;;;;;;;;;
+word;ar:0;ar;فِيلْم;;;;reg-courant;freq-freq;niv-a1;noun, mas, loanword;art, media;
+word;ar:1;ar;فيلم;;;;reg-courant;freq-freq;niv-a1;noun, mas, loanword;art, media;
+word;fr:0;fr-FR;film;;;;reg-courant;;;noun, mas;art, media;art-fr-un
+meaning;قَادِم;;;;;;;;;;;
+word;ar:0;ar;قَادِم;;;;reg-courant;freq-tres;niv-a2;adj;moment;
+word;ar:1;ar;قادم;;;;reg-courant;freq-tres;niv-a2;adj;moment;
+word;fr:0;fr-FR;prochain;;;;reg-courant;;;adj;moment;
+meaning;قَاضٍ;;;;;;;;;;;
+word;ar:0;ar;قَاضٍ;;;;reg-courant;freq-freq;niv-b1;noun, mas;metier, droit;
+word;ar:1;ar;قاض;;;;reg-courant;freq-freq;niv-b1;noun, mas;metier, droit;
+word;fr:0;fr-FR;juge;;;;reg-courant;;;noun, mas;metier, droit;art-fr-un
+meaning;قَاطِع;;;;;;;;;;;
+word;ar:0;ar;قَاطِع;;;;reg-courant;freq-freq;niv-b2;adj;qualite;
+word;ar:1;ar;قاطع;;;;reg-courant;freq-freq;niv-b2;adj;qualite;
+word;fr:0;fr-FR;catégorique;;;;reg-courant;;;adj;qualite;
+meaning;قَالَ;;;;;;;;;;;
+word;ar:0;ar;قَالَ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;parole;
+word;ar:1;ar;قال;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;parole;
+word;fr:0;fr-FR;dire;;;;reg-courant;;;verb, tense-inf;parole;
+meaning;قَامُوس;;;;;;;;;;;
+word;ar:0;ar;قَامُوس;;;;reg-courant;freq-freq;niv-a2;noun, mas;langue-ecrit;
+word;ar:1;ar;قاموس;;;;reg-courant;freq-freq;niv-a2;noun, mas;langue-ecrit;
+word;fr:0;fr-FR;dictionnaire;;;;reg-courant;;;noun, mas;langue-ecrit;art-fr-un
+meaning;قَبْلَ;;;;;;;;;;;
+word;ar:0;ar;قَبْلَ;;;;reg-courant;freq-ultra;niv-a1;prep;moment;
+word;ar:1;ar;قبل;;;;reg-courant;freq-ultra;niv-a1;prep;moment;
+word;fr:0;fr-FR;avant;;;;reg-courant;;;prep;moment;
+meaning;قَدَم;;;;;;;;;;;
+word;ar:0;ar;قَدَم;;;;reg-courant;freq-tres;niv-a1;noun, fem;corps;
+word;ar:1;ar;قدم;;;;reg-courant;freq-tres;niv-a1;noun, fem;corps;
+word;fr:0;fr-FR;pied;;;;reg-courant;;;noun, mas;corps;art-fr-un
+meaning;قَدِيم;;;;;;;;;;;
+word;ar:0;ar;قَدِيم;;;;reg-courant;freq-tres;niv-a1;adj;qualite;
+word;ar:1;ar;قديم;;;;reg-courant;freq-tres;niv-a1;adj;qualite;
+word;fr:0;fr-FR;ancien;;;;reg-courant;;;adj;qualite;
+word;fr:1;fr-FR;vieux;chose;;;reg-courant;;;adj;qualite;
+meaning;قَدْ (مَعَ المَاضِي);;;;;;;;;;;
+word;ar:0;ar;قَدْ;مَعَ المَاضِي;;;reg-courant;freq-ultra;niv-b1;particle;moment;
+word;ar:1;ar;قد;مَعَ المَاضِي;;;reg-courant;freq-ultra;niv-b1;particle;moment;
+word;fr:0;fr-FR;déjà;;;;reg-courant;;;particle;moment;
+meaning;قَرَأَ;;;;;;;;;;;
+word;ar:0;ar;قَرَأَ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;langue-ecrit;
+word;ar:1;ar;قرأ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;langue-ecrit;
+word;fr:0;fr-FR;lire;;;;reg-courant;;;verb, tense-inf;langue-ecrit;
+meaning;قَرِيب;;;;;;;;;;;
+word;ar:0;ar;قَرِيب;;;;reg-courant;freq-tres;niv-a1;adj;lieu;
+word;ar:1;ar;قريب;;;;reg-courant;freq-tres;niv-a1;adj;lieu;
+word;fr:0;fr-FR;proche;;;;reg-courant;;;adj;lieu;
+meaning;قَرْن (مِائَة سَنَة);;;;;;;;;;;
+word;ar:0;ar;قَرْن;مِائَة سَنَة;;;reg-courant;freq-tres;niv-b1;noun, mas;temps;
+word;ar:1;ar;قرن;مِائَة سَنَة;;;reg-courant;freq-tres;niv-b1;noun, mas;temps;
+word;fr:0;fr-FR;siècle;;;;reg-courant;;;noun, mas;temps;art-fr-un
+meaning;قَطُّ;;;;;;;;;;;
+word;ar:0;ar;قَطُّ;;{lang=fr-FR§dans le passé, après une négation};;reg-courant;freq-freq;niv-b1;adv;frequence;
+word;ar:1;ar;قط;;{lang=fr-FR§dans le passé, après une négation};;reg-courant;freq-freq;niv-b1;adv;frequence;
+word;fr:0;fr-FR;jamais;;;;reg-courant;;;adv;frequence;
+meaning;قَلَم;;;;;;;;;;;
+word;ar:0;ar;قَلَم;;;;reg-courant;freq-tres;niv-a1;noun, mas;ecole, objet;
+word;ar:1;ar;قلم;;;;reg-courant;freq-tres;niv-a1;noun, mas;ecole, objet;
+word;fr:0;fr-FR;stylo;;;;reg-courant;;;noun, mas;ecole, objet;art-fr-un
+word;fr:1;fr-FR;crayon;;;;reg-courant;;;noun, mas;ecole, objet;art-fr-un
+meaning;قَلِيل;;;;;;;;;;;
+word;ar:0;ar;قَلِيل;;;;reg-courant;freq-tres;niv-a1;adj;quantite;
+word;ar:1;ar;قليل;;;;reg-courant;freq-tres;niv-a1;adj;quantite;
+word;fr:0;fr-FR;peu nombreux;;;;reg-courant;;;adj;quantite;
+meaning;قَلْب;;;;;;;;;;;
+word;ar:0;ar;قَلْب;;;;reg-courant;freq-tres;niv-a1;noun, mas;corps;
+word;ar:1;ar;قلب;;;;reg-courant;freq-tres;niv-a1;noun, mas;corps;
+word;fr:0;fr-FR;cœur;;;;reg-courant;;;noun, mas;corps;art-fr-un
+meaning;قَمَر;;;;;;;;;;;
+word;ar:0;ar;قَمَر;;;;reg-courant;freq-tres;niv-a1;noun, mas;nature;
+word;ar:1;ar;قمر;;;;reg-courant;freq-tres;niv-a1;noun, mas;nature;
+word;fr:0;fr-FR;lune;;;;reg-courant;;;noun, fem;nature;art-fr-une
+meaning;قَهْوَة;;;;;;;;;;;
+word;ar:0;ar;قَهْوَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;boisson;
+word;ar:1;ar;قهوة;;;;reg-courant;freq-tres;niv-a1;noun, fem;boisson;
+word;fr:0;fr-FR;café;boisson;;;reg-courant;;;noun, mas;boisson;art-fr-un
+meaning;قَوَامِيس;;;;;;;;;;;
+word;ar:0;ar;قَوَامِيس;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;langue-ecrit;
+word;ar:1;ar;قواميس;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;langue-ecrit;
+word;fr:0;fr-FR;dictionnaires;;;;reg-courant;;;noun, mas, plur;langue-ecrit;art-fr-des
+meaning;قُرُون;;;;;;;;;;;
+word;ar:0;ar;قُرُون;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur;temps;
+word;ar:1;ar;قرون;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur;temps;
+word;fr:0;fr-FR;siècles;;;;reg-courant;;;noun, mas, plur;temps;art-fr-des
+meaning;قُضَاة;;;;;;;;;;;
+word;ar:0;ar;قُضَاة;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;metier, droit;
+word;ar:1;ar;قضاة;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;metier, droit;
+word;fr:0;fr-FR;juges;;;;reg-courant;;;noun, mas, plur;metier, droit;art-fr-des
+meaning;قُلُوب;;;;;;;;;;;
+word;ar:0;ar;قُلُوب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;corps;
+word;ar:1;ar;قلوب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;corps;
+word;fr:0;fr-FR;cœurs;;;;reg-courant;;;noun, mas, plur;corps;art-fr-des
+meaning;قِطَار;;;;;;;;;;;
+word;ar:0;ar;قِطَار;;;;reg-courant;freq-tres;niv-a1;noun, mas;transport, voyage;
+word;ar:1;ar;قطار;;;;reg-courant;freq-tres;niv-a1;noun, mas;transport, voyage;
+word;fr:0;fr-FR;train;;;;reg-courant;;;noun, mas;transport, voyage;art-fr-un
+meaning;قِطَارَات;;;;;;;;;;;
+word;ar:0;ar;قِطَارَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;transport, voyage;
+word;ar:1;ar;قطارات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;transport, voyage;
+word;fr:0;fr-FR;trains;;;;reg-courant;;;noun, mas, plur;transport, voyage;art-fr-des
+meaning;قِطَط;;;;;;;;;;;
+word;ar:0;ar;قِطَط;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;animal;
+word;ar:1;ar;قطط;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;animal;
+word;fr:0;fr-FR;chattes;;;;reg-courant;;;noun, fem, plur;animal;art-fr-des
+word;fr:1;fr-FR;chats;;;;reg-courant;;;noun, mas, plur;animal;art-fr-des
+meaning;قِطَّة;;;;;;;;;;;
+word;ar:0;ar;قِطَّة;;;;reg-courant;freq-freq;niv-a1;noun, fem;animal;
+word;ar:1;ar;قطة;;;;reg-courant;freq-freq;niv-a1;noun, fem;animal;
+word;fr:0;fr-FR;chatte;;;;reg-courant;;;noun, fem;animal;art-fr-une
+word;fr:1;fr-FR;chat;;;;reg-courant;;;noun, mas;animal;art-fr-un
+meaning;كَأْس (لِلشُّرْب);;;;;;;;;;;
+word;ar:0;ar;كَأْس;لِلشُّرْب;;;reg-courant;freq-freq;niv-a1;noun, fem;objet, boisson;
+word;ar:1;ar;كأس;لِلشُّرْب;;;reg-courant;freq-freq;niv-a1;noun, fem;objet, boisson;
+word;fr:0;fr-FR;verre;à boire;;;reg-courant;;;noun, mas;objet, boisson;art-fr-un
+meaning;كَاتِب;;;;;;;;;;;
+word;ar:0;ar;كَاتِب;;;;reg-courant;freq-freq;niv-a2;noun, mas;metier;
+word;ar:1;ar;كاتب;;;;reg-courant;freq-freq;niv-a2;noun, mas;metier;
+word;fr:0;fr-FR;écrivain;;;;reg-courant;;;noun, mas;metier;art-fr-un
+meaning;كَانَ;;;;;;;;;;;
+word;ar:0;ar;كَانَ;;{lang=fr-FR§au passé};;reg-courant;freq-ultra;niv-a1;verb, verb-intrans;etat;
+word;ar:1;ar;كان;;{lang=fr-FR§au passé};;reg-courant;freq-ultra;niv-a1;verb, verb-intrans;etat;
+word;fr:0;fr-FR;être;;;;reg-courant;;;verb, tense-inf;etat;
+meaning;كَبِير;;;;;;;;;;;
+word;ar:0;ar;كَبِير;;;;reg-courant;freq-ultra;niv-a1;adj;dimension;
+word;ar:1;ar;كبير;;;;reg-courant;freq-ultra;niv-a1;adj;dimension;
+word;fr:0;fr-FR;grand;;;;reg-courant;;;adj;dimension;
+word;fr:1;fr-FR;âgé;;;;reg-courant;;;adj;dimension;
+meaning;كَتَبَ;;;;;;;;;;;
+word;ar:0;ar;كَتَبَ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;langue-ecrit;
+word;ar:1;ar;كتب;كَتَبَ;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;langue-ecrit;
+word;fr:0;fr-FR;écrire;;;;reg-courant;;;verb, tense-inf;langue-ecrit;
+meaning;كَثِير;;;;;;;;;;;
+word;ar:0;ar;كَثِير;;;;reg-courant;freq-ultra;niv-a1;adj;quantite;
+word;ar:1;ar;كثير;;;;reg-courant;freq-ultra;niv-a1;adj;quantite;
+word;fr:0;fr-FR;nombreux;;;;reg-courant;;;adj;quantite;
+meaning;كَرَاسِيّ;;;;;;;;;;;
+word;ar:0;ar;كَرَاسِيّ;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;mobilier;
+word;ar:1;ar;كراسي;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;mobilier;
+word;fr:0;fr-FR;chaises;;;;reg-courant;;;noun, fem, plur;mobilier;art-fr-des
+meaning;كَسَرَ;;;;;;;;;;;
+word;ar:0;ar;كَسَرَ;;;;reg-courant;freq-freq;niv-a2;verb, verb-trans;action;
+word;ar:1;ar;كسر;;;;reg-courant;freq-freq;niv-a2;verb, verb-trans;action;
+word;fr:0;fr-FR;casser;;;;reg-courant;;;verb, tense-inf;action;
+meaning;كَلِمَات;;;;;;;;;;;
+word;ar:0;ar;كَلِمَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;langue-ecrit;
+word;ar:1;ar;كلمات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;langue-ecrit;
+word;fr:0;fr-FR;mots;;;;reg-courant;;;noun, mas, plur;langue-ecrit;art-fr-des
+meaning;كَلِمَة;;;;;;;;;;;
+word;ar:0;ar;كَلِمَة;;;;reg-courant;freq-ultra;niv-a1;noun, fem;langue-ecrit;
+word;ar:1;ar;كلمة;;;;reg-courant;freq-ultra;niv-a1;noun, fem;langue-ecrit;
+word;fr:0;fr-FR;mot;;;;reg-courant;;;noun, mas;langue-ecrit;art-fr-un
+meaning;كَلْب;;;;;;;;;;;
+word;ar:0;ar;كَلْب;;;;reg-courant;freq-tres;niv-a1;noun, mas;animal;
+word;ar:1;ar;كلب;;;;reg-courant;freq-tres;niv-a1;noun, mas;animal;
+word;fr:0;fr-FR;chien;;;;reg-courant;;;noun, mas;animal;art-fr-un
+meaning;كَمْ;;;;;;;;;;;
+word;ar:0;ar;كَمْ;;;;reg-courant;freq-tres;niv-a1;adv;quantite;
+word;ar:1;ar;كم;;;;reg-courant;freq-tres;niv-a1;adv;quantite;
+word;fr:0;fr-FR;combien;;;;reg-courant;;;adv;quantite;
+meaning;كَهْرَبَاء;;;;;;;;;;;
+word;ar:0;ar;كَهْرَبَاء;;;;reg-courant;freq-freq;niv-a2;noun, fem;habitation;
+word;ar:1;ar;كهرباء;;;;reg-courant;freq-freq;niv-a2;noun, fem;habitation;
+word;fr:0;fr-FR;électricité;;;;reg-courant;;;noun, fem;habitation;art-fr-une
+meaning;كَيْ;;;;;;;;;;;
+word;ar:0;ar;كَيْ;;;;reg-courant;freq-freq;niv-b1;conj;volonte;
+word;ar:1;ar;كي;;;;reg-courant;freq-freq;niv-b1;conj;volonte;
+word;fr:0;fr-FR;pour que;;;;reg-courant;;;conj;volonte;
+word;fr:1;fr-FR;afin de;;;;reg-courant;;;conj;volonte;
+meaning;كَيْفَ;;;;;;;;;;;
+word;ar:0;ar;كَيْفَ;;;;reg-courant;freq-ultra;niv-a1;adv;qualite;
+word;ar:1;ar;كيف;;;;reg-courant;freq-ultra;niv-a1;adv;qualite;
+word;fr:0;fr-FR;comment;;;;reg-courant;;;adv;qualite;
+meaning;كَيْفَ حَالُكَ;;;;;;;;;;;
+word;ar:0;ar;كَيْفَ حَالُكَ;;{lang=fr-FR§à un homme};;reg-courant;freq-ultra;niv-a1;locution, question;communication-orale;
+word;ar:1;ar;كيف حالك;;{lang=fr-FR§à un homme};;reg-courant;freq-ultra;niv-a1;locution, question;communication-orale;
+word;fr:0;fr-FR;comment vas-tu;;;;reg-courant;;;locution, question;communication-orale;
+meaning;كُؤُوس;;;;;;;;;;;
+word;ar:0;ar;كُؤُوس;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;objet, boisson;
+word;ar:1;ar;كؤوس;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;objet, boisson;
+word;fr:0;fr-FR;verres;à boire;;;reg-courant;;;noun, mas, plur;objet, boisson;art-fr-des
+meaning;كُتَّاب;;;;;;;;;;;
+word;ar:0;ar;كُتَّاب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;metier;
+word;ar:1;ar;كتاب;كُتَّاب;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;metier;
+word;fr:0;fr-FR;écrivains;;;;reg-courant;;;noun, mas, plur;metier;art-fr-des
+meaning;كُتُب;;;;;;;;;;;
+word;ar:0;ar;كُتُب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;langue-ecrit;
+word;ar:1;ar;كتب;كُتُب;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;langue-ecrit;
+word;fr:0;fr-FR;livres;ouvrage;;;reg-courant;;;noun, mas, plur;langue-ecrit;art-fr-des
+meaning;كُرَةُ القَدَمِ;;;;;;;;;;;
+word;ar:0;ar;كُرَةُ القَدَمِ;;;;reg-courant;freq-freq;niv-a1;locution, noun, fem;sport;
+word;ar:1;ar;كرة القدم;;;;reg-courant;freq-freq;niv-a1;locution, noun, fem;sport;
+word;fr:0;fr-FR;football;;;;reg-courant;;;locution, noun, mas;sport;art-fr-un
+meaning;كُرْسِيّ;;;;;;;;;;;
+word;ar:0;ar;كُرْسِيّ;;;;reg-courant;freq-tres;niv-a1;noun, mas;mobilier;
+word;ar:1;ar;كرسي;;;;reg-courant;freq-tres;niv-a1;noun, mas;mobilier;
+word;fr:0;fr-FR;chaise;;;;reg-courant;;;noun, fem;mobilier;art-fr-une
+meaning;كُلّ;;;;;;;;;;;
+word;ar:0;ar;كُلّ;;;;reg-courant;freq-ultra;niv-a1;det;quantite;
+word;ar:1;ar;كل;;;;reg-courant;freq-ultra;niv-a1;det;quantite;
+word;fr:0;fr-FR;chaque;;;;reg-courant;;;det;quantite;
+word;fr:1;fr-FR;tout;;;;reg-courant;;;det;quantite;
+meaning;كِتَاب;;;;;;;;;;;
+word;ar:0;ar;كِتَاب;;;;reg-courant;freq-ultra;niv-a1;noun, mas;langue-ecrit;
+word;ar:1;ar;كتاب;كِتَاب;;;reg-courant;freq-ultra;niv-a1;noun, mas;langue-ecrit;
+word;fr:0;fr-FR;livre;ouvrage;;;reg-courant;;;noun, mas;langue-ecrit;art-fr-un
+meaning;كِتَابَة;;;;;;;;;;;
+word;ar:0;ar;كِتَابَة;;;;reg-courant;freq-tres;niv-a2;noun, fem, masdar;langue-ecrit;
+word;ar:1;ar;كتابة;;;;reg-courant;freq-tres;niv-a2;noun, fem, masdar;langue-ecrit;
+word;fr:0;fr-FR;écriture;;;;reg-courant;;;noun, fem;langue-ecrit;art-fr-une
+meaning;كِلَاب;;;;;;;;;;;
+word;ar:0;ar;كِلَاب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;animal;
+word;ar:1;ar;كلاب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;animal;
+word;fr:0;fr-FR;chiens;;;;reg-courant;;;noun, mas, plur;animal;art-fr-des
+meaning;كِيلُوغْرَام;;;;;;;;;;;
+word;ar:0;ar;كِيلُوغْرَام;;;;reg-courant;freq-freq;niv-a1;noun, mas, loanword;quantite;
+word;ar:1;ar;كيلوغرام;;;;reg-courant;freq-freq;niv-a1;noun, mas, loanword;quantite;
+word;fr:0;fr-FR;kilogramme;;;;reg-courant;;;noun, mas;quantite;art-fr-un
+meaning;لَا (جَوَاب);;;;;;;;;;;
+word;ar:0;ar;لَا;جَوَاب;;;reg-courant;freq-ultra;niv-a1;particle;communication-orale;
+word;ar:1;ar;لا;جَوَاب;;;reg-courant;freq-ultra;niv-a1;particle;communication-orale;
+word;fr:0;fr-FR;non;;;;reg-courant;;;particle;communication-orale;
+meaning;لَاعِب;;;;;;;;;;;
+word;ar:0;ar;لَاعِب;;;;reg-courant;freq-freq;niv-a1;noun, mas;sport, personne;
+word;ar:1;ar;لاعب;;;;reg-courant;freq-freq;niv-a1;noun, mas;sport, personne;
+word;fr:0;fr-FR;joueur;;;;reg-courant;;;noun, mas;sport, personne;art-fr-un
+meaning;لَاعِبُون;;;;;;;;;;;
+word;ar:0;ar;لَاعِبُون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;sport, personne;
+word;ar:1;ar;لاعبون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;sport, personne;
+word;fr:0;fr-FR;joueurs;;;;reg-courant;;;noun, mas, plur;sport, personne;art-fr-des
+meaning;لَحْم;;;;;;;;;;;
+word;ar:0;ar;لَحْم;;;;reg-courant;freq-tres;niv-a1;noun, mas;aliment;
+word;ar:1;ar;لحم;;;;reg-courant;freq-tres;niv-a1;noun, mas;aliment;
+word;fr:0;fr-FR;viande;;;;reg-courant;;;noun, fem;aliment;art-fr-une
+meaning;لَعَلَّ;;;;;;;;;;;
+word;ar:0;ar;لَعَلَّ;;;;reg-courant;freq-freq;niv-b1;particle;pensee;
+word;ar:1;ar;لعل;;;;reg-courant;freq-freq;niv-b1;particle;pensee;
+word;fr:0;fr-FR;peut-être;;;;reg-courant;;;adv;pensee;
+meaning;لَعِبَ;;;;;;;;;;;
+word;ar:0;ar;لَعِبَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans;loisir;
+word;ar:1;ar;لعب;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans;loisir;
+word;fr:0;fr-FR;jouer;;;;reg-courant;;;verb, tense-inf;loisir;
+meaning;لَهَجَات;;;;;;;;;;;
+word;ar:0;ar;لَهَجَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, fem, plur;parole;
+word;ar:1;ar;لهجات;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, fem, plur;parole;
+word;fr:0;fr-FR;dialectes;;;;reg-courant;;;noun, mas, plur;parole;art-fr-des
+meaning;لَهْجَة;;;;;;;;;;;
+word;ar:0;ar;لَهْجَة;;;;reg-courant;freq-freq;niv-b1;noun, fem;parole;
+word;ar:1;ar;لهجة;;;;reg-courant;freq-freq;niv-b1;noun, fem;parole;
+word;fr:0;fr-FR;dialecte;;;;reg-courant;;;noun, mas;parole;art-fr-un
+meaning;لَوْ سَمَحْتَ;;;;;;;;;;;
+word;ar:0;ar;لَوْ سَمَحْتَ;;{lang=fr-FR§à un homme};;reg-courant;freq-tres;niv-a1;locution;communication-orale;
+word;ar:1;ar;لو سمحت;;{lang=fr-FR§à un homme};;reg-courant;freq-tres;niv-a1;locution;communication-orale;
+word;fr:0;fr-FR;si tu permets;;;;reg-courant;;;locution;communication-orale;
+word;fr:1;fr-FR;excusez-moi;;;;reg-courant;;;locution;communication-orale;
+meaning;لَيَالٍ;;;;;;;;;;;
+word;ar:0;ar;لَيَالٍ;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;moment;
+word;ar:1;ar;ليال;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;moment;
+word;fr:0;fr-FR;nuits;;;;reg-courant;;;noun, fem, plur;moment;art-fr-des
+meaning;لَيْتَ;;;;;;;;;;;
+word;ar:0;ar;لَيْتَ;;;;reg-soutenu;freq-peu;niv-b2;particle;volonte;
+word;ar:1;ar;ليت;;;;reg-soutenu;freq-peu;niv-b2;particle;volonte;
+word;fr:0;fr-FR;si seulement;;;;reg-courant;;;locution, adv;volonte;
+meaning;لَيْسَ;;;;;;;;;;;
+word;ar:0;ar;لَيْسَ;;;;reg-courant;freq-ultra;niv-a2;verb;etat;
+word;ar:1;ar;ليس;;;;reg-courant;freq-ultra;niv-a2;verb;etat;
+word;fr:0;fr-FR;ne pas être;;;;reg-courant;;;verb, tense-inf;etat;
+meaning;لَيْلَة;;;;;;;;;;;
+word;ar:0;ar;لَيْلَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;moment;
+word;ar:1;ar;ليلة;;;;reg-courant;freq-tres;niv-a1;noun, fem;moment;
+word;fr:0;fr-FR;nuit;;;;reg-courant;;;noun, fem;moment;art-fr-une
+meaning;لُبْنَان;;;;;;;;;;;
+word;ar:0;ar;لُبْنَان;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, mas;geographie;
+word;ar:1;ar;لبنان;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, mas;geographie;
+word;fr:0;fr-FR;Liban;;;;reg-courant;;;noun, mas;geographie;
+meaning;لُبْنَانِيّ;;;;;;;;;;;
+word;ar:0;ar;لُبْنَانِيّ;;;;reg-courant;freq-freq;niv-a1;adj, nisba;nationalite;
+word;ar:1;ar;لبناني;;;;reg-courant;freq-freq;niv-a1;adj, nisba;nationalite;
+word;fr:0;fr-FR;libanais;;;;reg-courant;;;adj;nationalite;
+meaning;لُحُوم;;;;;;;;;;;
+word;ar:0;ar;لُحُوم;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;aliment;
+word;ar:1;ar;لحوم;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;aliment;
+word;fr:0;fr-FR;viandes;;;;reg-courant;;;noun, fem, plur;aliment;art-fr-des
+meaning;لُغَات;;;;;;;;;;;
+word;ar:0;ar;لُغَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;parole;
+word;ar:1;ar;لغات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;parole;
+word;fr:0;fr-FR;langues;idiome;;;reg-courant;;;noun, fem, plur;parole;art-fr-des
+meaning;لُغَة;;;;;;;;;;;
+word;ar:0;ar;لُغَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;parole;
+word;ar:1;ar;لغة;;;;reg-courant;freq-tres;niv-a1;noun, fem;parole;
+word;fr:0;fr-FR;langue;idiome;;;reg-courant;;;noun, fem;parole;art-fr-une
+meaning;لِأَنَّ;;;;;;;;;;;
+word;ar:0;ar;لِأَنَّ;;;;reg-courant;freq-ultra;niv-a1;conj;pensee;
+word;ar:1;ar;لأن;;;;reg-courant;freq-ultra;niv-a1;conj;pensee;
+word;fr:0;fr-FR;parce que;;;;reg-courant;;;conj;pensee;
+meaning;لِذٰلِكَ;;;;;;;;;;;
+word;ar:0;ar;لِذٰلِكَ;;;;reg-courant;freq-tres;niv-a2;locution, adv;pensee;
+word;ar:1;ar;لذلك;;;;reg-courant;freq-tres;niv-a2;locution, adv;pensee;
+word;fr:0;fr-FR;c'est pourquoi;;;;reg-courant;;;locution, adv;pensee;
+meaning;لِمَاذَا;;;;;;;;;;;
+word;ar:0;ar;لِمَاذَا;;;;reg-courant;freq-tres;niv-a1;adv;pensee;
+word;ar:1;ar;لماذا;;;;reg-courant;freq-tres;niv-a1;adv;pensee;
+word;fr:0;fr-FR;pourquoi;;;;reg-courant;;;adv;pensee;
+meaning;مَا (اِسْتِفْهَام);;;;;;;;;;;
+word;ar:0;ar;مَا;اِسْتِفْهَام;{lang=fr-FR§devant un nom};;reg-courant;freq-ultra;niv-a1;pron;communication;
+word;ar:1;ar;ما;اِسْتِفْهَام;{lang=fr-FR§devant un nom};;reg-courant;freq-ultra;niv-a1;pron;communication;
+word;fr:0;fr-FR;que;interrogatif;;;reg-courant;;;pron;communication;
+word;fr:1;fr-FR;quoi;;;;reg-courant;;;pron;communication;
+meaning;مَا زَالَ;;;;;;;;;;;
+word;ar:0;ar;مَا زَالَ;;;;reg-courant;freq-tres;niv-b1;locution, verb;duree;
+word;ar:1;ar;ما زال;;;;reg-courant;freq-tres;niv-b1;locution, verb;duree;
+word;fr:0;fr-FR;être encore;;;;reg-courant;;;locution, verb, tense-inf;duree;
+meaning;مَا شَاءَ اللّٰهُ;;;;;;;;;;;
+word;ar:0;ar;مَا شَاءَ اللّٰهُ;;;;reg-courant;freq-tres;niv-a2;locution, interj;religion, communication-orale;
+word;ar:1;ar;ما شاء الله;;;;reg-courant;freq-tres;niv-a2;locution, interj;religion, communication-orale;
+word;fr:0;fr-FR;formule d'admiration;;;;reg-courant;;;locution, interj, defi;religion, communication-orale;
+meaning;مَاء;;;;;;;;;;;
+word;ar:0;ar;مَاء;;;;reg-courant;freq-ultra;niv-a1;noun, mas;boisson;
+word;ar:1;ar;ماء;;;;reg-courant;freq-ultra;niv-a1;noun, mas;boisson;
+word;fr:0;fr-FR;eau;;;;reg-courant;;;noun, fem;boisson;art-fr-une
+meaning;مَاذَا;;;;;;;;;;;
+word;ar:0;ar;مَاذَا;;{lang=fr-FR§devant un verbe};;reg-courant;freq-ultra;niv-a1;pron;communication;
+word;ar:1;ar;ماذا;;{lang=fr-FR§devant un verbe};;reg-courant;freq-ultra;niv-a1;pron;communication;
+word;fr:0;fr-FR;que;interrogatif;;;reg-courant;;;pron;communication;
+word;fr:1;fr-FR;quoi;;;;reg-courant;;;pron;communication;
+meaning;مَبْرُوك;;;;;;;;;;;
+word;ar:0;ar;مَبْرُوك;;;;reg-courant;freq-tres;niv-a1;interj;fete;
+word;ar:1;ar;مبروك;;;;reg-courant;freq-tres;niv-a1;interj;fete;
+word;fr:0;fr-FR;félicitations;;;;reg-courant;;;interj;fete;
+meaning;مَتَاحِف;;;;;;;;;;;
+word;ar:0;ar;مَتَاحِف;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;art, batiment;
+word;ar:1;ar;متاحف;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;art, batiment;
+word;fr:0;fr-FR;musées;;;;reg-courant;;;noun, mas, plur;art, batiment;art-fr-des
+meaning;مَتَى;;;;;;;;;;;
+word;ar:0;ar;مَتَى;;;;reg-courant;freq-tres;niv-a1;adv;moment;
+word;ar:1;ar;متى;;;;reg-courant;freq-tres;niv-a1;adv;moment;
+word;fr:0;fr-FR;quand;;;;reg-courant;;;adv;moment;
+meaning;مَتْحَف;;;;;;;;;;;
+word;ar:0;ar;مَتْحَف;;;;reg-courant;freq-freq;niv-a1;noun, mas;art, batiment;
+word;ar:1;ar;متحف;;;;reg-courant;freq-freq;niv-a1;noun, mas;art, batiment;
+word;fr:0;fr-FR;musée;;;;reg-courant;;;noun, mas;art, batiment;art-fr-un
+meaning;مَجَالِس;;;;;;;;;;;
+word;ar:0;ar;مَجَالِس;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;institution;
+word;ar:1;ar;مجالس;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;institution;
+word;fr:0;fr-FR;conseils;assemblée;;;reg-courant;;;noun, mas, plur;institution;art-fr-des
+meaning;مَجَّانِيّ;;;;;;;;;;;
+word;ar:0;ar;مَجَّانِيّ;;;;reg-courant;freq-freq;niv-a2;adj, nisba;argent;
+word;ar:1;ar;مجاني;;;;reg-courant;freq-freq;niv-a2;adj, nisba;argent;
+word;fr:0;fr-FR;gratuit;;;;reg-courant;;;adj;argent;
+meaning;مَجْلِس;;;;;;;;;;;
+word;ar:0;ar;مَجْلِس;;;;reg-courant;freq-tres;niv-b1;noun, mas;institution;
+word;ar:1;ar;مجلس;;;;reg-courant;freq-tres;niv-b1;noun, mas;institution;
+word;fr:0;fr-FR;conseil;assemblée;;;reg-courant;;;noun, mas;institution;art-fr-un
+meaning;مَحَطَّات;;;;;;;;;;;
+word;ar:0;ar;مَحَطَّات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;transport;
+word;ar:1;ar;محطات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;transport;
+word;fr:0;fr-FR;gares;;;;reg-courant;;;noun, fem, plur;transport;art-fr-des
+word;fr:1;fr-FR;stations;;;;reg-courant;;;noun, fem, plur;transport;art-fr-des
+meaning;مَحَطَّة;;;;;;;;;;;
+word;ar:0;ar;مَحَطَّة;;;;reg-courant;freq-tres;niv-a1;noun, fem;transport;
+word;ar:1;ar;محطة;;;;reg-courant;freq-tres;niv-a1;noun, fem;transport;
+word;fr:0;fr-FR;gare;;;;reg-courant;;;noun, fem;transport;art-fr-une
+word;fr:1;fr-FR;station;;;;reg-courant;;;noun, fem;transport;art-fr-une
+meaning;مَدَارِس;;;;;;;;;;;
+word;ar:0;ar;مَدَارِس;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;ecole, batiment;
+word;ar:1;ar;مدارس;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;ecole, batiment;
+word;fr:0;fr-FR;écoles;;;;reg-courant;;;noun, fem, plur;ecole, batiment;art-fr-des
+meaning;مَدِينَة;;;;;;;;;;;
+word;ar:0;ar;مَدِينَة;;;;reg-courant;freq-ultra;niv-a1;noun, fem;ville;
+word;ar:1;ar;مدينة;;;;reg-courant;freq-ultra;niv-a1;noun, fem;ville;
+word;fr:0;fr-FR;ville;;;;reg-courant;;;noun, fem;ville;art-fr-une
+meaning;مَدْرَسَة;;;;;;;;;;;
+word;ar:0;ar;مَدْرَسَة;;;;reg-courant;freq-ultra;niv-a1;noun, fem;ecole, batiment;
+word;ar:1;ar;مدرسة;;;;reg-courant;freq-ultra;niv-a1;noun, fem;ecole, batiment;
+word;fr:0;fr-FR;école;;;;reg-courant;;;noun, fem;ecole, batiment;art-fr-une
+meaning;مَرَّات;;;;;;;;;;;
+word;ar:0;ar;مَرَّات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;frequence;
+word;ar:1;ar;مرات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;frequence;
+word;fr:0;fr-FR;fois;;;;reg-courant;;;noun, fem, plur;frequence;art-fr-des
+meaning;مَرَّة;;;;;;;;;;;
+word;ar:0;ar;مَرَّة;;;;reg-courant;freq-ultra;niv-a1;noun, fem;frequence;
+word;ar:1;ar;مرة;;;;reg-courant;freq-ultra;niv-a1;noun, fem;frequence;
+word;fr:0;fr-FR;fois;;;;reg-courant;;;noun, fem;frequence;art-fr-une
+meaning;مَرِيض;;;;;;;;;;;
+word;ar:0;ar;مَرِيض;;;;reg-courant;freq-tres;niv-a1;adj;sante;
+word;ar:1;ar;مريض;;;;reg-courant;freq-tres;niv-a1;adj;sante;
+word;fr:0;fr-FR;malade;;;;reg-courant;;;adj;sante;
+meaning;مَرْحَبًا;;;;;;;;;;;
+word;ar:0;ar;مَرْحَبًا;;{lang=fr-FR§formule neutre et détendue};;reg-courant;freq-tres;niv-a1;interj;communication-orale;
+word;ar:1;ar;مرحبا;;{lang=fr-FR§formule neutre et détendue};;reg-courant;freq-tres;niv-a1;interj;communication-orale;
+word;fr:0;fr-FR;salut;;;;reg-courant;;;interj;communication-orale;
+word;fr:1;fr-FR;bonjour;;;;reg-courant;;;interj;communication-orale;
+meaning;مَسَاء;;;;;;;;;;;
+word;ar:0;ar;مَسَاء;;;;reg-courant;freq-tres;niv-a1;noun, mas;moment;
+word;ar:1;ar;مساء;;;;reg-courant;freq-tres;niv-a1;noun, mas;moment;
+word;fr:0;fr-FR;soir;;;;reg-courant;;;noun, mas;moment;art-fr-un
+meaning;مَسَاءُ الخَيْرِ;;;;;;;;;;;
+word;ar:0;ar;مَسَاءُ الخَيْرِ;;;;reg-courant;freq-tres;niv-a1;locution, interj;communication-orale;
+word;ar:1;ar;مساء الخير;;;;reg-courant;freq-tres;niv-a1;locution, interj;communication-orale;
+word;fr:0;fr-FR;bonsoir;;;;reg-courant;;;locution, interj;communication-orale;
+meaning;مَسَاءُ النُّورِ;;;;;;;;;;;
+word;ar:0;ar;مَسَاءُ النُّورِ;;{lang=fr-FR§réponse};;reg-courant;freq-tres;niv-a1;locution, interj;communication-orale;
+word;ar:1;ar;مساء النور;;{lang=fr-FR§réponse};;reg-courant;freq-tres;niv-a1;locution, interj;communication-orale;
+word;fr:0;fr-FR;bonsoir;;;;reg-courant;;;locution, interj;communication-orale;
+meaning;مَسَاجِد;;;;;;;;;;;
+word;ar:0;ar;مَسَاجِد;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;religion, batiment;
+word;ar:1;ar;مساجد;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;religion, batiment;
+word;fr:0;fr-FR;mosquées;;;;reg-courant;;;noun, fem, plur;religion, batiment;art-fr-des
+meaning;مَسْجِد;;;;;;;;;;;
+word;ar:0;ar;مَسْجِد;;;;reg-courant;freq-tres;niv-a1;noun, mas;religion, batiment;
+word;ar:1;ar;مسجد;;;;reg-courant;freq-tres;niv-a1;noun, mas;religion, batiment;
+word;fr:0;fr-FR;mosquée;;;;reg-courant;;;noun, fem;religion, batiment;art-fr-une
+meaning;مَشَارِيع;;;;;;;;;;;
+word;ar:0;ar;مَشَارِيع;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;travail;
+word;ar:1;ar;مشاريع;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;travail;
+word;fr:0;fr-FR;projets;;;;reg-courant;;;noun, mas, plur;travail;art-fr-des
+meaning;مَشَاكِل;;;;;;;;;;;
+word;ar:0;ar;مَشَاكِل;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;etat;
+word;ar:1;ar;مشاكل;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;etat;
+word;fr:0;fr-FR;problèmes;;;;reg-courant;;;noun, mas, plur;etat;art-fr-des
+meaning;مَشَى;;;;;;;;;;;
+word;ar:0;ar;مَشَى;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans;deplacement;
+word;ar:1;ar;مشى;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans;deplacement;
+word;fr:0;fr-FR;marcher;à pied;;;reg-courant;;;verb, tense-inf;deplacement;
+meaning;مَشْرُوع;;;;;;;;;;;
+word;ar:0;ar;مَشْرُوع;;;;reg-courant;freq-tres;niv-a2;noun, mas;travail;
+word;ar:1;ar;مشروع;;;;reg-courant;freq-tres;niv-a2;noun, mas;travail;
+word;fr:0;fr-FR;projet;;;;reg-courant;;;noun, mas;travail;art-fr-un
+meaning;مَشْغُول;;;;;;;;;;;
+word;ar:0;ar;مَشْغُول;;;;reg-courant;freq-tres;niv-a1;adj;etat;
+word;ar:1;ar;مشغول;;;;reg-courant;freq-tres;niv-a1;adj;etat;
+word;fr:0;fr-FR;occupé;;;;reg-courant;;;adj;etat;
+meaning;مَصَانِع;;;;;;;;;;;
+word;ar:0;ar;مَصَانِع;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;travail, batiment;
+word;ar:1;ar;مصانع;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;travail, batiment;
+word;fr:0;fr-FR;usines;;;;reg-courant;;;noun, fem, plur;travail, batiment;art-fr-des
+meaning;مَصْنَع;;;;;;;;;;;
+word;ar:0;ar;مَصْنَع;;;;reg-courant;freq-freq;niv-b1;noun, mas;travail, batiment;
+word;ar:1;ar;مصنع;;;;reg-courant;freq-freq;niv-b1;noun, mas;travail, batiment;
+word;fr:0;fr-FR;usine;;;;reg-courant;;;noun, fem;travail, batiment;art-fr-une
+meaning;مَطَابِخ;;;;;;;;;;;
+word;ar:0;ar;مَطَابِخ;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;piece, repas;
+word;ar:1;ar;مطابخ;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;piece, repas;
+word;fr:0;fr-FR;cuisines;pièce;;;reg-courant;;;noun, fem, plur;piece, repas;art-fr-des
+meaning;مَطَار;;;;;;;;;;;
+word;ar:0;ar;مَطَار;;;;reg-courant;freq-tres;niv-a1;noun, mas;transport, voyage;
+word;ar:1;ar;مطار;;;;reg-courant;freq-tres;niv-a1;noun, mas;transport, voyage;
+word;fr:0;fr-FR;aéroport;;;;reg-courant;;;noun, mas;transport, voyage;art-fr-un
+meaning;مَطَارَات;;;;;;;;;;;
+word;ar:0;ar;مَطَارَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;transport, voyage;
+word;ar:1;ar;مطارات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;transport, voyage;
+word;fr:0;fr-FR;aéroports;;;;reg-courant;;;noun, mas, plur;transport, voyage;art-fr-des
+meaning;مَطَاعِم;;;;;;;;;;;
+word;ar:0;ar;مَطَاعِم;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;commerce, repas;
+word;ar:1;ar;مطاعم;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;commerce, repas;
+word;fr:0;fr-FR;restaurants;;;;reg-courant;;;noun, mas, plur;commerce, repas;art-fr-des
+meaning;مَطَر;;;;;;;;;;;
+word;ar:0;ar;مَطَر;;;;reg-courant;freq-tres;niv-a1;noun, mas;meteo;
+word;ar:1;ar;مطر;;;;reg-courant;freq-tres;niv-a1;noun, mas;meteo;
+word;fr:0;fr-FR;pluie;;;;reg-courant;;;noun, fem;meteo;art-fr-une
+meaning;مَطْبَخ;;;;;;;;;;;
+word;ar:0;ar;مَطْبَخ;;;;reg-courant;freq-freq;niv-a1;noun, mas;piece, repas;
+word;ar:1;ar;مطبخ;;;;reg-courant;freq-freq;niv-a1;noun, mas;piece, repas;
+word;fr:0;fr-FR;cuisine;pièce;;;reg-courant;;;noun, fem;piece, repas;art-fr-une
+meaning;مَطْعَم;;;;;;;;;;;
+word;ar:0;ar;مَطْعَم;;;;reg-courant;freq-tres;niv-a1;noun, mas;commerce, repas;
+word;ar:1;ar;مطعم;;;;reg-courant;freq-tres;niv-a1;noun, mas;commerce, repas;
+word;fr:0;fr-FR;restaurant;;;;reg-courant;;;noun, mas;commerce, repas;art-fr-un
+meaning;مَعًا;;;;;;;;;;;
+word;ar:0;ar;مَعًا;;;;reg-courant;freq-tres;niv-a2;adv;relation;
+word;ar:1;ar;معا;;;;reg-courant;freq-tres;niv-a2;adv;relation;
+word;fr:0;fr-FR;ensemble;;;;reg-courant;;;adv;relation;
+meaning;مَعَ;;;;;;;;;;;
+word;ar:0;ar;مَعَ;;;;reg-courant;freq-ultra;niv-a1;prep;relation;
+word;ar:1;ar;مع;;;;reg-courant;freq-ultra;niv-a1;prep;relation;
+word;fr:0;fr-FR;avec;;;;reg-courant;;;prep;relation;
+meaning;مَعَ السَّلَامَةِ;;;;;;;;;;;
+word;ar:0;ar;مَعَ السَّلَامَةِ;;;;reg-courant;freq-tres;niv-a1;locution, interj;communication-orale;
+word;ar:1;ar;مع السلامة;;;;reg-courant;freq-tres;niv-a1;locution, interj;communication-orale;
+word;ar:2;ar;إِلَى اللِّقَاءِ;;;;reg-courant;freq-tres;niv-a1;locution, interj;communication-orale;
+word;ar:3;ar;إلى اللقاء;;;;reg-courant;freq-tres;niv-a1;locution, interj;communication-orale;
+word;fr:0;fr-FR;au revoir;;;;reg-courant;;;locution, interj;communication-orale;
+meaning;مَعَارِض;;;;;;;;;;;
+word;ar:0;ar;مَعَارِض;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;art;
+word;ar:1;ar;معارض;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;art;
+word;fr:0;fr-FR;expositions;;;;reg-courant;;;noun, fem, plur;art;art-fr-des
+word;fr:1;fr-FR;salons;foire;;;reg-courant;;;noun, mas, plur;art;art-fr-des
+meaning;مَعَانٍ;;;;;;;;;;;
+word;ar:0;ar;مَعَانٍ;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;langue-ecrit;
+word;ar:1;ar;معان;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;langue-ecrit;
+word;fr:0;fr-FR;sens;signification;;;reg-courant;;;noun, mas, plur;langue-ecrit;art-fr-des
+word;fr:1;fr-FR;significations;;;;reg-courant;;;noun, fem, plur;langue-ecrit;art-fr-des
+meaning;مَعْرُوف;;;;;;;;;;;
+word;ar:0;ar;مَعْرُوف;;;;reg-courant;freq-tres;niv-a2;adj;qualite;
+word;ar:1;ar;معروف;;;;reg-courant;freq-tres;niv-a2;adj;qualite;
+word;fr:0;fr-FR;connu;;;;reg-courant;;;adj;qualite;
+meaning;مَعْرِض;;;;;;;;;;;
+word;ar:0;ar;مَعْرِض;;;;reg-courant;freq-freq;niv-b1;noun, mas;art;
+word;ar:1;ar;معرض;;;;reg-courant;freq-freq;niv-b1;noun, mas;art;
+word;fr:0;fr-FR;exposition;;;;reg-courant;;;noun, fem;art;art-fr-une
+word;fr:1;fr-FR;salon;foire;;;reg-courant;;;noun, mas;art;art-fr-un
+meaning;مَعْنَى;;;;;;;;;;;
+word;ar:0;ar;مَعْنَى;;;;reg-courant;freq-tres;niv-a2;noun, mas;langue-ecrit;
+word;ar:1;ar;معنى;;;;reg-courant;freq-tres;niv-a2;noun, mas;langue-ecrit;
+word;fr:0;fr-FR;sens;signification;;;reg-courant;;;noun, mas;langue-ecrit;art-fr-un
+word;fr:1;fr-FR;signification;;;;reg-courant;;;noun, fem;langue-ecrit;art-fr-une
+meaning;مَغْرِبِيّ;;;;;;;;;;;
+word;ar:0;ar;مَغْرِبِيّ;;;;reg-courant;freq-freq;niv-a1;adj, nisba;nationalite;
+word;ar:1;ar;مغربي;;;;reg-courant;freq-freq;niv-a1;adj, nisba;nationalite;
+word;fr:0;fr-FR;marocain;;;;reg-courant;;;adj;nationalite;
+meaning;مَفَاتِيح;;;;;;;;;;;
+word;ar:0;ar;مَفَاتِيح;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;objet;
+word;ar:1;ar;مفاتيح;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;objet;
+word;fr:0;fr-FR;clés;;;;reg-courant;;;noun, fem, plur;objet;art-fr-des
+meaning;مَفْتُوح;;;;;;;;;;;
+word;ar:0;ar;مَفْتُوح;;;;reg-courant;freq-tres;niv-a1;adj;etat;
+word;ar:1;ar;مفتوح;;;;reg-courant;freq-tres;niv-a1;adj;etat;
+word;fr:0;fr-FR;ouvert;;;;reg-courant;;;adj;etat;
+meaning;مَكَاتِب;;;;;;;;;;;
+word;ar:0;ar;مَكَاتِب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;travail;
+word;ar:1;ar;مكاتب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;travail;
+word;fr:0;fr-FR;bureaux;lieu de travail;;;reg-courant;;;noun, mas, plur;travail;art-fr-des
+meaning;مَكَان;;;;;;;;;;;
+word;ar:0;ar;مَكَان;;;;reg-courant;freq-ultra;niv-a1;noun, mas;lieu;
+word;ar:1;ar;مكان;;;;reg-courant;freq-ultra;niv-a1;noun, mas;lieu;
+word;fr:0;fr-FR;lieu;;;;reg-courant;;;noun, mas;lieu;art-fr-un
+word;fr:1;fr-FR;endroit;;;;reg-courant;;;noun, mas;lieu;art-fr-un
+meaning;مَكَانِس;;;;;;;;;;;
+word;ar:0;ar;مَكَانِس;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, fem, plur, plur-broken;objet;
+word;ar:1;ar;مكانس;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, fem, plur, plur-broken;objet;
+word;fr:0;fr-FR;balais;;;;reg-courant;;;noun, mas, plur;objet;art-fr-des
+meaning;مَكْتَب;;;;;;;;;;;
+word;ar:0;ar;مَكْتَب;;;;reg-courant;freq-tres;niv-a1;noun, mas;travail;
+word;ar:1;ar;مكتب;;;;reg-courant;freq-tres;niv-a1;noun, mas;travail;
+word;fr:0;fr-FR;bureau;lieu de travail;;;reg-courant;;;noun, mas;travail;art-fr-un
+meaning;مَكْتَبَات;;;;;;;;;;;
+word;ar:0;ar;مَكْتَبَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;langue-ecrit, batiment;
+word;ar:1;ar;مكتبات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur;langue-ecrit, batiment;
+word;fr:0;fr-FR;bibliothèques;;;;reg-courant;;;noun, fem, plur;langue-ecrit, batiment;art-fr-des
+word;fr:1;fr-FR;librairies;;;;reg-courant;;;noun, fem, plur;langue-ecrit, batiment;art-fr-des
+meaning;مَكْتَبَة;;;;;;;;;;;
+word;ar:0;ar;مَكْتَبَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;langue-ecrit, batiment;
+word;ar:1;ar;مكتبة;;;;reg-courant;freq-tres;niv-a1;noun, fem;langue-ecrit, batiment;
+word;fr:0;fr-FR;bibliothèque;;;;reg-courant;;;noun, fem;langue-ecrit, batiment;art-fr-une
+word;fr:1;fr-FR;librairie;;;;reg-courant;;;noun, fem;langue-ecrit, batiment;art-fr-une
+meaning;مَكْسُور;;;;;;;;;;;
+word;ar:0;ar;مَكْسُور;;;;reg-courant;freq-freq;niv-a2;adj;etat;
+word;ar:1;ar;مكسور;;;;reg-courant;freq-freq;niv-a2;adj;etat;
+word;fr:0;fr-FR;cassé;;;;reg-courant;;;adj;etat;
+meaning;مَلَاعِب;;;;;;;;;;;
+word;ar:0;ar;مَلَاعِب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;sport;
+word;ar:1;ar;ملاعب;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;sport;
+word;fr:0;fr-FR;stades;;;;reg-courant;;;noun, mas, plur;sport;art-fr-des
+word;fr:1;fr-FR;terrains;de sport;;;reg-courant;;;noun, mas, plur;sport;art-fr-des
+meaning;مَلْعَب;;;;;;;;;;;
+word;ar:0;ar;مَلْعَب;;;;reg-courant;freq-freq;niv-a1;noun, mas;sport;
+word;ar:1;ar;ملعب;;;;reg-courant;freq-freq;niv-a1;noun, mas;sport;
+word;fr:0;fr-FR;stade;;;;reg-courant;;;noun, mas;sport;art-fr-un
+word;fr:1;fr-FR;terrain;de sport;;;reg-courant;;;noun, mas;sport;art-fr-un
+meaning;مَمْنُوع;;;;;;;;;;;
+word;ar:0;ar;مَمْنُوع;;;;reg-courant;freq-freq;niv-a1;adj;droit;
+word;ar:1;ar;ممنوع;;;;reg-courant;freq-freq;niv-a1;adj;droit;
+word;fr:0;fr-FR;interdit;;;;reg-courant;;;adj;droit;
+meaning;مَنْ (اِسْتِفْهَام);;;;;;;;;;;
+word;ar:0;ar;مَنْ;اِسْتِفْهَام;;;reg-courant;freq-ultra;niv-a1;pron;communication;
+word;ar:1;ar;من;اِسْتِفْهَام;;;reg-courant;freq-ultra;niv-a1;pron;communication;
+word;fr:0;fr-FR;qui;interrogatif;;;reg-courant;;;pron;communication;
+meaning;مَوَاعِيد;;;;;;;;;;;
+word;ar:0;ar;مَوَاعِيد;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;moment;
+word;ar:1;ar;مواعيد;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;moment;
+word;fr:0;fr-FR;rendez-vous;;;;reg-courant;;;noun, mas, plur;moment;art-fr-des
+meaning;مَوْعِد;;;;;;;;;;;
+word;ar:0;ar;مَوْعِد;;;;reg-courant;freq-tres;niv-a2;noun, mas;moment;
+word;ar:1;ar;موعد;;;;reg-courant;freq-tres;niv-a2;noun, mas;moment;
+word;fr:0;fr-FR;rendez-vous;;;;reg-courant;;;noun, mas;moment;art-fr-un
+meaning;مُؤَنَّث;;;;;;;;;;;
+word;ar:0;ar;مُؤَنَّث;;;;reg-courant;freq-peu;niv-a2;adj;langue-ecrit;
+word;ar:1;ar;مؤنث;;;;reg-courant;freq-peu;niv-a2;adj;langue-ecrit;
+word;fr:0;fr-FR;féminin;;;;reg-courant;;;adj;langue-ecrit;
+meaning;مُتْعَب;;;;;;;;;;;
+word;ar:0;ar;مُتْعَب;;;;reg-courant;freq-freq;niv-a1;adj;etat;
+word;ar:1;ar;متعب;;;;reg-courant;freq-freq;niv-a1;adj;etat;
+word;fr:0;fr-FR;fatigué;;;;reg-courant;;;adj;etat;
+meaning;مُجْتَهِد;;;;;;;;;;;
+word;ar:0;ar;مُجْتَهِد;;;;reg-courant;freq-freq;niv-a2;adj;caractere;
+word;ar:1;ar;مجتهد;;;;reg-courant;freq-freq;niv-a2;adj;caractere;
+word;fr:0;fr-FR;studieux;;;;reg-courant;;;adj;caractere;
+word;fr:1;fr-FR;assidu;;;;reg-courant;;;adj;caractere;
+meaning;مُحَامٍ;;;;;;;;;;;
+word;ar:0;ar;مُحَامٍ;;;;reg-courant;freq-freq;niv-a2;noun, mas;metier, droit;
+word;ar:1;ar;محام;;;;reg-courant;freq-freq;niv-a2;noun, mas;metier, droit;
+word;fr:0;fr-FR;avocat;juriste;;;reg-courant;;;noun, mas;metier, droit;art-fr-un
+meaning;مُحَامُون;;;;;;;;;;;
+word;ar:0;ar;مُحَامُون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur;metier, droit;
+word;ar:1;ar;محامون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur;metier, droit;
+word;fr:0;fr-FR;avocats;juriste;;;reg-courant;;;noun, mas, plur;metier, droit;art-fr-des
+meaning;مُدَرِّس;;;;;;;;;;;
+word;ar:0;ar;مُدَرِّس;;{lang=fr-FR§dans l'enseignement scolaire};;reg-courant;freq-tres;niv-a1;noun, mas;metier, ecole;
+word;ar:1;ar;مدرس;;{lang=fr-FR§dans l'enseignement scolaire};;reg-courant;freq-tres;niv-a1;noun, mas;metier, ecole;
+word;fr:0;fr-FR;professeur;;;;reg-courant;;;noun, mas;metier, ecole;art-fr-un
+meaning;مُدَرِّسُون;;;;;;;;;;;
+word;ar:0;ar;مُدَرِّسُون;;{lang=fr-FR§pluriel, dans l'enseignement scolaire};;reg-courant;;niv-a1;noun, mas, plur;metier, ecole;
+word;ar:1;ar;مدرسون;;{lang=fr-FR§pluriel, dans l'enseignement scolaire};;reg-courant;;niv-a1;noun, mas, plur;metier, ecole;
+word;fr:0;fr-FR;professeurs;;;;reg-courant;;;noun, mas, plur;metier, ecole;art-fr-des
+meaning;مُدُن;;;;;;;;;;;
+word;ar:0;ar;مُدُن;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;ville;
+word;ar:1;ar;مدن;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;ville;
+word;fr:0;fr-FR;villes;;;;reg-courant;;;noun, fem, plur;ville;art-fr-des
+meaning;مُدِير;;;;;;;;;;;
+word;ar:0;ar;مُدِير;;;;reg-courant;freq-tres;niv-a1;noun, mas;travail, metier;
+word;ar:1;ar;مدير;;;;reg-courant;freq-tres;niv-a1;noun, mas;travail, metier;
+word;fr:0;fr-FR;directeur;;;;reg-courant;;;noun, mas;travail, metier;art-fr-un
+meaning;مُدِيرُون;;;;;;;;;;;
+word;ar:0;ar;مُدِيرُون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;travail, metier;
+word;ar:1;ar;مديرون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;travail, metier;
+word;fr:0;fr-FR;directeurs;;;;reg-courant;;;noun, mas, plur;travail, metier;art-fr-des
+meaning;مُذَكَّر;;;;;;;;;;;
+word;ar:0;ar;مُذَكَّر;;;;reg-courant;freq-peu;niv-a2;adj;langue-ecrit;
+word;ar:1;ar;مذكر;;;;reg-courant;freq-peu;niv-a2;adj;langue-ecrit;
+word;fr:0;fr-FR;masculin;;;;reg-courant;;;adj;langue-ecrit;
+meaning;مُزْدَحِم;;;;;;;;;;;
+word;ar:0;ar;مُزْدَحِم;;;;reg-courant;freq-freq;niv-b1;adj;ville;
+word;ar:1;ar;مزدحم;;;;reg-courant;freq-freq;niv-b1;adj;ville;
+word;fr:0;fr-FR;encombré;;;;reg-courant;;;adj;ville;
+word;fr:1;fr-FR;bondé;;;;reg-courant;;;adj;ville;
+meaning;مُسَاعَدَة;;;;;;;;;;;
+word;ar:0;ar;مُسَاعَدَة;;;;reg-courant;freq-tres;niv-a2;noun, fem, masdar;echange;
+word;ar:1;ar;مساعدة;;;;reg-courant;freq-tres;niv-a2;noun, fem, masdar;echange;
+word;fr:0;fr-FR;aide;;;;reg-courant;;;noun, fem;echange;art-fr-une
+meaning;مُسَاعِد;;;;;;;;;;;
+word;ar:0;ar;مُسَاعِد;;;;reg-courant;freq-freq;niv-b1;noun, mas;travail;
+word;ar:1;ar;مساعد;;;;reg-courant;freq-freq;niv-b1;noun, mas;travail;
+word;fr:0;fr-FR;assistant;;;;reg-courant;;;noun, mas;travail;art-fr-un
+word;fr:1;fr-FR;adjoint;;;;reg-courant;;;noun, mas;travail;art-fr-un
+meaning;مُسَاعِدُون;;;;;;;;;;;
+word;ar:0;ar;مُسَاعِدُون;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur;travail;
+word;ar:1;ar;مساعدون;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur;travail;
+word;fr:0;fr-FR;assistants;;;;reg-courant;;;noun, mas, plur;travail;art-fr-des
+word;fr:1;fr-FR;adjoints;;;;reg-courant;;;noun, mas, plur;travail;art-fr-des
+meaning;مُسَافِر;;;;;;;;;;;
+word;ar:0;ar;مُسَافِر;;;;reg-courant;freq-freq;niv-a2;noun, mas;voyage, personne;
+word;ar:1;ar;مسافر;;;;reg-courant;freq-freq;niv-a2;noun, mas;voyage, personne;
+word;fr:0;fr-FR;voyageur;;;;reg-courant;;;noun, mas;voyage, personne;art-fr-un
+meaning;مُسَافِرُون;;;;;;;;;;;
+word;ar:0;ar;مُسَافِرُون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur;voyage, personne;
+word;ar:1;ar;مسافرون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur;voyage, personne;
+word;fr:0;fr-FR;voyageurs;;;;reg-courant;;;noun, mas, plur;voyage, personne;art-fr-des
+meaning;مُسْتَشْفَى;;;;;;;;;;;
+word;ar:0;ar;مُسْتَشْفَى;;;;reg-courant;freq-tres;niv-a1;noun, mas;sante, batiment;
+word;ar:1;ar;مستشفى;;;;reg-courant;freq-tres;niv-a1;noun, mas;sante, batiment;
+word;fr:0;fr-FR;hôpital;;;;reg-courant;;;noun, mas;sante, batiment;art-fr-un
+meaning;مُسْتَشْفَيَات;;;;;;;;;;;
+word;ar:0;ar;مُسْتَشْفَيَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;sante, batiment;
+word;ar:1;ar;مستشفيات;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;sante, batiment;
+word;fr:0;fr-FR;hôpitaux;;;;reg-courant;;;noun, mas, plur;sante, batiment;art-fr-des
+meaning;مُسْتَعْمَل;;;;;;;;;;;
+word;ar:0;ar;مُسْتَعْمَل;;;;reg-courant;freq-freq;niv-b1;adj;commerce;
+word;ar:1;ar;مستعمل;;;;reg-courant;freq-freq;niv-b1;adj;commerce;
+word;fr:0;fr-FR;d'occasion;;;;reg-courant;;;adj;commerce;
+word;fr:1;fr-FR;usagé;;;;reg-courant;;;adj;commerce;
+meaning;مُسْتَقْبَل;;;;;;;;;;;
+word;ar:0;ar;مُسْتَقْبَل;;;;reg-courant;freq-tres;niv-a2;noun, mas;temps;
+word;ar:1;ar;مستقبل;;;;reg-courant;freq-tres;niv-a2;noun, mas;temps;
+word;fr:0;fr-FR;avenir;;;;reg-courant;;;noun, mas;temps;art-fr-un
+word;fr:1;fr-FR;futur;;;;reg-courant;;;noun, mas;temps;art-fr-un
+meaning;مُسْلِم;;;;;;;;;;;
+word;ar:0;ar;مُسْلِم;;;;reg-courant;freq-tres;niv-a2;noun, mas;religion;
+word;ar:1;ar;مسلم;;;;reg-courant;freq-tres;niv-a2;noun, mas;religion;
+word;fr:0;fr-FR;musulman;;;;reg-courant;;;noun, mas;religion;art-fr-un
+meaning;مُسْلِمُون;;;;;;;;;;;
+word;ar:0;ar;مُسْلِمُون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur;religion;
+word;ar:1;ar;مسلمون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur;religion;
+word;fr:0;fr-FR;musulmans;;;;reg-courant;;;noun, mas, plur;religion;art-fr-des
+meaning;مُشْكِلَة;;;;;;;;;;;
+word;ar:0;ar;مُشْكِلَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;etat;
+word;ar:1;ar;مشكلة;;;;reg-courant;freq-tres;niv-a1;noun, fem;etat;
+word;fr:0;fr-FR;problème;;;;reg-courant;;;noun, mas;etat;art-fr-un
+meaning;مُعَلِّم;;;;;;;;;;;
+word;ar:0;ar;مُعَلِّم;;;;reg-courant;freq-tres;niv-a1;noun, mas;metier, ecole;
+word;ar:1;ar;معلم;;;;reg-courant;freq-tres;niv-a1;noun, mas;metier, ecole;
+word;fr:0;fr-FR;instituteur;;;;reg-courant;;;noun, mas;metier, ecole;art-fr-un
+word;fr:1;fr-FR;maître d'école;;;;reg-courant;;;noun, mas;metier, ecole;art-fr-un
+meaning;مُعَلِّمُون;;;;;;;;;;;
+word;ar:0;ar;مُعَلِّمُون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;metier, ecole;
+word;ar:1;ar;معلمون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;metier, ecole;
+word;fr:0;fr-FR;instituteurs;;;;reg-courant;;;noun, mas, plur;metier, ecole;art-fr-des
+word;fr:1;fr-FR;maîtres d'école;;;;reg-courant;;;noun, mas, plur;metier, ecole;art-fr-des
+meaning;مُفِيد;;;;;;;;;;;
+word;ar:0;ar;مُفِيد;;;;reg-courant;freq-tres;niv-a2;adj;qualite;
+word;ar:1;ar;مفيد;;;;reg-courant;freq-tres;niv-a2;adj;qualite;
+word;fr:0;fr-FR;utile;;;;reg-courant;;;adj;qualite;
+meaning;مُمْكِن;;;;;;;;;;;
+word;ar:0;ar;مُمْكِن;;;;reg-courant;freq-tres;niv-a2;adj;qualite;
+word;ar:1;ar;ممكن;;;;reg-courant;freq-tres;niv-a2;adj;qualite;
+word;fr:0;fr-FR;possible;;;;reg-courant;;;adj;qualite;
+meaning;مُنْذُ;;;;;;;;;;;
+word;ar:0;ar;مُنْذُ;;;;reg-courant;freq-tres;niv-a2;prep;duree;
+word;ar:1;ar;منذ;;;;reg-courant;freq-tres;niv-a2;prep;duree;
+word;fr:0;fr-FR;depuis;;;;reg-courant;;;prep;duree;
+meaning;مُهَنْدِس;;;;;;;;;;;
+word;ar:0;ar;مُهَنْدِس;;;;reg-courant;freq-freq;niv-a1;noun, mas;metier;
+word;ar:1;ar;مهندس;;;;reg-courant;freq-freq;niv-a1;noun, mas;metier;
+word;fr:0;fr-FR;ingénieur;;;;reg-courant;;;noun, mas;metier;art-fr-un
+meaning;مُهَنْدِسُون;;;;;;;;;;;
+word;ar:0;ar;مُهَنْدِسُون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;metier;
+word;ar:1;ar;مهندسون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;metier;
+word;fr:0;fr-FR;ingénieurs;;;;reg-courant;;;noun, mas, plur;metier;art-fr-des
+meaning;مُوَظَّف;;;;;;;;;;;
+word;ar:0;ar;مُوَظَّف;;;;reg-courant;freq-tres;niv-a1;noun, mas;travail, metier;
+word;ar:1;ar;موظف;;;;reg-courant;freq-tres;niv-a1;noun, mas;travail, metier;
+word;fr:0;fr-FR;employé;;;;reg-courant;;;noun, mas;travail, metier;art-fr-un
+word;fr:1;fr-FR;fonctionnaire;;;;reg-courant;;;noun, mas;travail, metier;art-fr-un
+meaning;مُوَظَّفُون;;;;;;;;;;;
+word;ar:0;ar;مُوَظَّفُون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;travail, metier;
+word;ar:1;ar;موظفون;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur;travail, metier;
+word;fr:0;fr-FR;employés;;;;reg-courant;;;noun, mas, plur;travail, metier;art-fr-des
+word;fr:1;fr-FR;fonctionnaires;;;;reg-courant;;;noun, mas, plur;travail, metier;art-fr-des
+meaning;مِائَة;;;;;;;;;;;
+word;ar:0;ar;مِائَة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;ar:1;ar;مائة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;ar:2;ar;مِئَة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;ar:3;ar;مئة;;;;reg-courant;freq-tres;niv-a1;num;nombre;
+word;fr:0;fr-FR;cent;;;;reg-courant;;;num;nombre;
+meaning;مِصْر;;;;;;;;;;;
+word;ar:0;ar;مِصْر;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, fem;geographie;
+word;ar:1;ar;مصر;;;;reg-courant;freq-freq;niv-a1;noun, noun-pro, fem;geographie;
+word;fr:0;fr-FR;Égypte;;;;reg-courant;;;noun, fem;geographie;
+meaning;مِصْرِيّ;;;;;;;;;;;
+word;ar:0;ar;مِصْرِيّ;;;;reg-courant;freq-freq;niv-a1;adj, nisba;nationalite;
+word;ar:1;ar;مصري;;;;reg-courant;freq-freq;niv-a1;adj, nisba;nationalite;
+word;fr:0;fr-FR;égyptien;;;;reg-courant;;;adj;nationalite;
+meaning;مِفْتَاح;;;;;;;;;;;
+word;ar:0;ar;مِفْتَاح;;;;reg-courant;freq-tres;niv-a1;noun, mas;objet;
+word;ar:1;ar;مفتاح;;;;reg-courant;freq-tres;niv-a1;noun, mas;objet;
+word;fr:0;fr-FR;clé;;;;reg-courant;;;noun, fem;objet;art-fr-une
+meaning;مِكْنَسَة;;;;;;;;;;;
+word;ar:0;ar;مِكْنَسَة;;;;reg-courant;freq-peu;niv-b1;noun, fem;objet;
+word;ar:1;ar;مكنسة;;;;reg-courant;freq-peu;niv-b1;noun, fem;objet;
+word;fr:0;fr-FR;balai;;;;reg-courant;;;noun, mas;objet;art-fr-un
+meaning;مِلْيُون;;;;;;;;;;;
+word;ar:0;ar;مِلْيُون;;;;reg-courant;freq-freq;niv-a2;num;nombre;
+word;ar:1;ar;مليون;;;;reg-courant;freq-freq;niv-a2;num;nombre;
+word;fr:0;fr-FR;million;;;;reg-courant;;;num, noun, mas;nombre;art-fr-un
+meaning;مِنْ;;;;;;;;;;;
+word;ar:0;ar;مِنْ;;;;reg-courant;freq-ultra;niv-a1;prep;lieu;
+word;ar:1;ar;من;مِنْ;;;reg-courant;freq-ultra;niv-a1;prep;lieu;
+word;fr:0;fr-FR;de;provenance;;;reg-courant;;;prep;lieu;
+meaning;مِنْ فَضْلِكَ;;;;;;;;;;;
+word;ar:0;ar;مِنْ فَضْلِكَ;;{lang=fr-FR§à un homme};;reg-courant;freq-tres;niv-a1;locution;communication-orale;
+word;ar:1;ar;من فضلك;;{lang=fr-FR§à un homme};;reg-courant;freq-tres;niv-a1;locution;communication-orale;
+word;fr:0;fr-FR;s'il te plaît;;;;reg-courant;;;locution;communication-orale;
+word;fr:1;fr-FR;s'il vous plaît;;;;reg-courant;;;locution;communication-orale;
+meaning;نَادٍ;;;;;;;;;;;
+word;ar:0;ar;نَادٍ;;;;reg-courant;freq-freq;niv-a2;noun, mas;loisir;
+word;ar:1;ar;ناد;;;;reg-courant;freq-freq;niv-a2;noun, mas;loisir;
+word;fr:0;fr-FR;club;;;;reg-courant;;;noun, mas;loisir;art-fr-un
+meaning;نَار;;;;;;;;;;;
+word;ar:0;ar;نَار;;;;reg-courant;freq-freq;niv-a2;noun, fem;nature;
+word;ar:1;ar;نار;;;;reg-courant;freq-freq;niv-a2;noun, fem;nature;
+word;fr:0;fr-FR;feu;flamme;;;reg-courant;;;noun, mas;nature;art-fr-un
+meaning;نَافِذَة;;;;;;;;;;;
+word;ar:0;ar;نَافِذَة;;;;reg-courant;freq-tres;niv-a1;noun, fem;habitation;
+word;ar:1;ar;نافذة;;;;reg-courant;freq-tres;niv-a1;noun, fem;habitation;
+word;fr:0;fr-FR;fenêtre;;;;reg-courant;;;noun, fem;habitation;art-fr-une
+meaning;نَاقَشَ;;;;;;;;;;;
+word;ar:0;ar;نَاقَشَ;;;;reg-courant;freq-freq;niv-b1;verb, verb-trans, verb-derived;parole;
+word;ar:1;ar;ناقش;;;;reg-courant;freq-freq;niv-b1;verb, verb-trans, verb-derived;parole;
+word;fr:0;fr-FR;discuter;;;;reg-courant;;;verb, tense-inf;parole;
+meaning;نَامَ;;;;;;;;;;;
+word;ar:0;ar;نَامَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans;sommeil;
+word;ar:1;ar;نام;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans;sommeil;
+word;fr:0;fr-FR;dormir;;;;reg-courant;;;verb, tense-inf;sommeil;
+meaning;نَجَحَ;;;;;;;;;;;
+word;ar:0;ar;نَجَحَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans;ecole;
+word;ar:1;ar;نجح;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans;ecole;
+word;fr:0;fr-FR;réussir;;;;reg-courant;;;verb, tense-inf;ecole;
+meaning;نَجَّار;;;;;;;;;;;
+word;ar:0;ar;نَجَّار;;;;reg-courant;freq-peu;niv-b1;noun, mas;metier;
+word;ar:1;ar;نجار;;;;reg-courant;freq-peu;niv-b1;noun, mas;metier;
+word;fr:0;fr-FR;menuisier;;;;reg-courant;;;noun, mas;metier;art-fr-un
+meaning;نَحْنُ;;;;;;;;;;;
+word;ar:0;ar;نَحْنُ;;;;reg-courant;freq-ultra;niv-a1;pron;personne;
+word;ar:1;ar;نحن;;;;reg-courant;freq-ultra;niv-a1;pron;personne;
+word;fr:0;fr-FR;nous;;;;reg-courant;;;pron;personne;
+meaning;نَسِيَ;;;;;;;;;;;
+word;ar:0;ar;نَسِيَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans;pensee;
+word;ar:1;ar;نسي;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans;pensee;
+word;fr:0;fr-FR;oublier;;;;reg-courant;;;verb, tense-inf;pensee;
+meaning;نَشَاط;;;;;;;;;;;
+word;ar:0;ar;نَشَاط;;;;reg-courant;freq-tres;niv-b1;noun, mas, masdar;action;
+word;ar:1;ar;نشاط;;;;reg-courant;freq-tres;niv-b1;noun, mas, masdar;action;
+word;fr:0;fr-FR;activité;;;;reg-courant;;;noun, fem;action;art-fr-une
+word;fr:1;fr-FR;dynamisme;;;;reg-courant;;;noun, mas;action;art-fr-un
+meaning;نَصّ;;;;;;;;;;;
+word;ar:0;ar;نَصّ;;;;reg-courant;freq-tres;niv-a2;noun, mas;langue-ecrit;
+word;ar:1;ar;نص;;;;reg-courant;freq-tres;niv-a2;noun, mas;langue-ecrit;
+word;fr:0;fr-FR;texte;;;;reg-courant;;;noun, mas;langue-ecrit;art-fr-un
+meaning;نَعَم;;;;;;;;;;;
+word;ar:0;ar;نَعَم;;;;reg-courant;freq-ultra;niv-a1;particle;communication-orale;
+word;ar:1;ar;نعم;;;;reg-courant;freq-ultra;niv-a1;particle;communication-orale;
+word;fr:0;fr-FR;oui;;;;reg-courant;;;particle;communication-orale;
+meaning;نَوَافِذ;;;;;;;;;;;
+word;ar:0;ar;نَوَافِذ;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;habitation;
+word;ar:1;ar;نوافذ;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;habitation;
+word;fr:0;fr-FR;fenêtres;;;;reg-courant;;;noun, fem, plur;habitation;art-fr-des
+meaning;نَوْم;;;;;;;;;;;
+word;ar:0;ar;نَوْم;;;;reg-courant;freq-freq;niv-a1;noun, mas;sommeil;
+word;ar:1;ar;نوم;;;;reg-courant;freq-freq;niv-a1;noun, mas;sommeil;
+word;fr:0;fr-FR;sommeil;;;;reg-courant;;;noun, mas;sommeil;art-fr-un
+meaning;نُصُوص;;;;;;;;;;;
+word;ar:0;ar;نُصُوص;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;langue-ecrit;
+word;ar:1;ar;نصوص;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, mas, plur, plur-broken;langue-ecrit;
+word;fr:0;fr-FR;textes;;;;reg-courant;;;noun, mas, plur;langue-ecrit;art-fr-des
+meaning;نُور;;;;;;;;;;;
+word;ar:0;ar;نُور;;;;reg-courant;freq-freq;niv-a2;noun, mas;nature;
+word;ar:1;ar;نور;;;;reg-courant;freq-freq;niv-a2;noun, mas;nature;
+word;fr:0;fr-FR;lumière;;;;reg-courant;;;noun, fem;nature;art-fr-une
+meaning;نِسَاء;;;;;;;;;;;
+word;ar:0;ar;نِسَاء;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;personne;
+word;ar:1;ar;نساء;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;personne;
+word;fr:0;fr-FR;femmes;adulte;;;reg-courant;;;noun, fem, plur;personne;art-fr-des
+meaning;نِصْف;;;;;;;;;;;
+word;ar:0;ar;نِصْف;;;;reg-courant;freq-tres;niv-a1;noun, mas;quantite;
+word;ar:1;ar;نصف;;;;reg-courant;freq-tres;niv-a1;noun, mas;quantite;
+word;fr:0;fr-FR;moitié;;;;reg-courant;;;noun, fem;quantite;art-fr-une
+word;fr:1;fr-FR;demi;;;;reg-courant;;;noun, mas;quantite;art-fr-un
+meaning;هَاتِف;;;;;;;;;;;
+word;ar:0;ar;هَاتِف;;;;reg-courant;freq-tres;niv-a1;noun, mas;communication, objet;
+word;ar:1;ar;هاتف;;;;reg-courant;freq-tres;niv-a1;noun, mas;communication, objet;
+word;fr:0;fr-FR;téléphone;;;;reg-courant;;;noun, mas;communication, objet;art-fr-un
+meaning;هَدَايَا;;;;;;;;;;;
+word;ar:0;ar;هَدَايَا;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;fete;
+word;ar:1;ar;هدايا;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, fem, plur, plur-broken;fete;
+word;fr:0;fr-FR;cadeaux;;;;reg-courant;;;noun, mas, plur;fete;art-fr-des
+meaning;هَدِيَّة;;;;;;;;;;;
+word;ar:0;ar;هَدِيَّة;;;;reg-courant;freq-freq;niv-a1;noun, fem;fete;
+word;ar:1;ar;هدية;;;;reg-courant;freq-freq;niv-a1;noun, fem;fete;
+word;fr:0;fr-FR;cadeau;;;;reg-courant;;;noun, mas;fete;art-fr-un
+meaning;هَلْ;;;;;;;;;;;
+word;ar:0;ar;هَلْ;;;;reg-courant;freq-ultra;niv-a1;particle;communication;
+word;ar:1;ar;هل;;;;reg-courant;freq-ultra;niv-a1;particle;communication;
+word;fr:0;fr-FR;est-ce que;;;;reg-courant;;;particle;communication;
+meaning;هَوَاتِف;;;;;;;;;;;
+word;ar:0;ar;هَوَاتِف;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;communication, objet;
+word;ar:1;ar;هواتف;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;communication, objet;
+word;fr:0;fr-FR;téléphones;;;;reg-courant;;;noun, mas, plur;communication, objet;art-fr-des
+meaning;هُمَا;;;;;;;;;;;
+word;ar:0;ar;هُمَا;;;;reg-courant;freq-freq;niv-a2;pron, dual;personne;
+word;ar:1;ar;هما;;;;reg-courant;freq-freq;niv-a2;pron, dual;personne;
+word;fr:0;fr-FR;eux deux;;;;reg-courant;;;pron;personne;
+word;fr:1;fr-FR;elles deux;;;;reg-courant;;;pron;personne;
+meaning;هُمْ;;;;;;;;;;;
+word;ar:0;ar;هُمْ;;;;reg-courant;freq-ultra;niv-a1;pron;personne;
+word;ar:1;ar;هم;;;;reg-courant;freq-ultra;niv-a1;pron;personne;
+word;fr:0;fr-FR;ils;;;;reg-courant;;;pron;personne;
+word;fr:1;fr-FR;eux;;;;reg-courant;;;pron;personne;
+meaning;هُنَا;;;;;;;;;;;
+word;ar:0;ar;هُنَا;;;;reg-courant;freq-ultra;niv-a1;adv;lieu;
+word;ar:1;ar;هنا;;;;reg-courant;freq-ultra;niv-a1;adv;lieu;
+word;fr:0;fr-FR;ici;;;;reg-courant;;;adv;lieu;
+meaning;هُنَاكَ (مَكَان);;;;;;;;;;;
+word;ar:0;ar;هُنَاكَ;مَكَان;;;reg-courant;freq-ultra;niv-a1;adv;lieu;
+word;ar:1;ar;هناك;مَكَان;;;reg-courant;freq-ultra;niv-a1;adv;lieu;
+word;fr:0;fr-FR;là-bas;;;;reg-courant;;;adv;lieu;
+meaning;هُنَاكَ (وُجُود);;;;;;;;;;;
+word;ar:0;ar;هُنَاكَ;وُجُود;;;reg-courant;freq-ultra;niv-a1;adv;;
+word;ar:1;ar;هناك;وُجُود;;;reg-courant;freq-ultra;niv-a1;adv;;
+word;fr:0;fr-FR;il y a;;;;reg-courant;;;locution, verb;;
+meaning;هُنَّ;;;;;;;;;;;
+word;ar:0;ar;هُنَّ;;;;reg-courant;freq-freq;niv-a2;pron;personne;
+word;ar:1;ar;هن;;;;reg-courant;freq-freq;niv-a2;pron;personne;
+word;fr:0;fr-FR;elles;;;;reg-courant;;;pron;personne;
+meaning;هُوَ;;;;;;;;;;;
+word;ar:0;ar;هُوَ;;;;reg-courant;freq-ultra;niv-a1;pron;personne;
+word;ar:1;ar;هو;;;;reg-courant;freq-ultra;niv-a1;pron;personne;
+word;fr:0;fr-FR;il;;;;reg-courant;;;pron;personne;
+word;fr:1;fr-FR;lui;;;;reg-courant;;;pron;personne;
+meaning;هِيَ;;;;;;;;;;;
+word;ar:0;ar;هِيَ;;;;reg-courant;freq-ultra;niv-a1;pron;personne;
+word;ar:1;ar;هي;;;;reg-courant;freq-ultra;niv-a1;pron;personne;
+word;fr:0;fr-FR;elle;;;;reg-courant;;;pron;personne;
+meaning;وَاحِد;;;;;;;;;;;
+word;ar:0;ar;وَاحِد;;;;reg-courant;freq-ultra;niv-a1;num;nombre;
+word;ar:1;ar;واحد;;;;reg-courant;freq-ultra;niv-a1;num;nombre;
+word;fr:0;fr-FR;un;nombre;;;reg-courant;;;num;nombre;
+meaning;وَجَبَ;;;;;;;;;;;
+word;ar:0;ar;وَجَبَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans;volonte;
+word;ar:1;ar;وجب;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans;volonte;
+word;fr:0;fr-FR;falloir;;;;reg-courant;;;verb, tense-inf;volonte;
+word;fr:1;fr-FR;être obligatoire;;;;reg-courant;;;verb, tense-inf;volonte;
+meaning;وَجَدَ;;;;;;;;;;;
+word;ar:0;ar;وَجَدَ;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;action;
+word;ar:1;ar;وجد;;;;reg-courant;freq-ultra;niv-a1;verb, verb-trans;action;
+word;fr:0;fr-FR;trouver;;;;reg-courant;;;verb, tense-inf;action;
+meaning;وَجْه;;;;;;;;;;;
+word;ar:0;ar;وَجْه;;;;reg-courant;freq-tres;niv-a1;noun, mas;corps;
+word;ar:1;ar;وجه;;;;reg-courant;freq-tres;niv-a1;noun, mas;corps;
+word;fr:0;fr-FR;visage;;;;reg-courant;;;noun, mas;corps;art-fr-un
+meaning;وَرْدَة;;;;;;;;;;;
+word;ar:0;ar;وَرْدَة;;;;reg-courant;freq-freq;niv-a2;noun, fem;vegetal;
+word;ar:1;ar;وردة;;;;reg-courant;freq-freq;niv-a2;noun, fem;vegetal;
+word;fr:0;fr-FR;rose;fleur;;;reg-courant;;;noun, fem;vegetal;art-fr-une
+meaning;وَزِير;;;;;;;;;;;
+word;ar:0;ar;وَزِير;;;;reg-courant;freq-freq;niv-b1;noun, mas;institution, metier;
+word;ar:1;ar;وزير;;;;reg-courant;freq-freq;niv-b1;noun, mas;institution, metier;
+word;fr:0;fr-FR;ministre;;;;reg-courant;;;noun, mas;institution, metier;art-fr-un
+meaning;وَسَط;;;;;;;;;;;
+word;ar:0;ar;وَسَط;;;;reg-courant;freq-tres;niv-a2;noun, mas;lieu;
+word;ar:1;ar;وسط;;;;reg-courant;freq-tres;niv-a2;noun, mas;lieu;
+word;fr:0;fr-FR;centre;;;;reg-courant;;;noun, mas;lieu;art-fr-un
+word;fr:1;fr-FR;milieu;;;;reg-courant;;;noun, mas;lieu;art-fr-un
+meaning;وَصَلَ;;;;;;;;;;;
+word;ar:0;ar;وَصَلَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans;deplacement;
+word;ar:1;ar;وصل;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans;deplacement;
+word;fr:0;fr-FR;arriver;quelque part;;;reg-courant;;;verb, tense-inf;deplacement;
+meaning;وَضَعَ;;;;;;;;;;;
+word;ar:0;ar;وَضَعَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans;geste;
+word;ar:1;ar;وضع;;;;reg-courant;freq-tres;niv-a2;verb, verb-trans;geste;
+word;fr:0;fr-FR;poser;;;;reg-courant;;;verb, tense-inf;geste;
+word;fr:1;fr-FR;mettre;;;;reg-courant;;;verb, tense-inf;geste;
+meaning;وَعَلَيْكُمُ السَّلَامُ;;;;;;;;;;;
+word;ar:0;ar;وَعَلَيْكُمُ السَّلَامُ;;{lang=fr-FR§réponse à as-salāmu ʿalaykum};;reg-courant;freq-ultra;niv-a1;locution, interj;communication-orale;
+word;ar:1;ar;وعليكم السلام;;{lang=fr-FR§réponse à as-salāmu ʿalaykum};;reg-courant;freq-ultra;niv-a1;locution, interj;communication-orale;
+word;fr:0;fr-FR;bonjour;;;;reg-courant;;;locution, interj;communication-orale;
+meaning;وَقَفَ;;;;;;;;;;;
+word;ar:0;ar;وَقَفَ;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans;geste;
+word;ar:1;ar;وقف;;;;reg-courant;freq-tres;niv-a2;verb, verb-intrans;geste;
+word;fr:0;fr-FR;s'arrêter;;;;reg-courant;;;verb, tense-inf;geste;
+meaning;وَقْت;;;;;;;;;;;
+word;ar:0;ar;وَقْت;;;;reg-courant;freq-ultra;niv-a1;noun, mas;duree;
+word;ar:1;ar;وقت;;;;reg-courant;freq-ultra;niv-a1;noun, mas;duree;
+word;fr:0;fr-FR;temps;durée;;;reg-courant;;;noun, mas;duree;art-fr-un
+meaning;وَلَد;;;;;;;;;;;
+word;ar:0;ar;وَلَد;;;;reg-courant;freq-tres;niv-a1;noun, mas;famille;
+word;ar:1;ar;ولد;وَلَد;;;reg-courant;freq-tres;niv-a1;noun, mas;famille;
+word;fr:0;fr-FR;garçon;enfant;;;reg-courant;;;noun, mas;famille;art-fr-un
+meaning;وُجُوه;;;;;;;;;;;
+word;ar:0;ar;وُجُوه;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;corps;
+word;ar:1;ar;وجوه;;{lang=fr-FR§pluriel};;reg-courant;;niv-a1;noun, mas, plur, plur-broken;corps;
+word;fr:0;fr-FR;visages;;;;reg-courant;;;noun, mas, plur;corps;art-fr-des
+meaning;وُرُود;;;;;;;;;;;
+word;ar:0;ar;وُرُود;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, fem, plur, plur-broken;vegetal;
+word;ar:1;ar;ورود;;{lang=fr-FR§pluriel};;reg-courant;;niv-a2;noun, fem, plur, plur-broken;vegetal;
+word;fr:0;fr-FR;roses;fleur;;;reg-courant;;;noun, fem, plur;vegetal;art-fr-des
+meaning;وُزَرَاء;;;;;;;;;;;
+word;ar:0;ar;وُزَرَاء;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;institution, metier;
+word;ar:1;ar;وزراء;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, mas, plur, plur-broken;institution, metier;
+word;fr:0;fr-FR;ministres;;;;reg-courant;;;noun, mas, plur;institution, metier;art-fr-des
+meaning;وُلِدَ;;;;;;;;;;;
+word;ar:0;ar;وُلِدَ;;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans;vie;
+word;ar:1;ar;ولد;وُلِدَ;;;reg-courant;freq-tres;niv-a1;verb, verb-intrans;vie;
+word;fr:0;fr-FR;naître;;;;reg-courant;;;verb, tense-inf;vie;
+meaning;وِزَارَات;;;;;;;;;;;
+word;ar:0;ar;وِزَارَات;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, fem, plur;institution;
+word;ar:1;ar;وزارات;;{lang=fr-FR§pluriel};;reg-courant;;niv-b1;noun, fem, plur;institution;
+word;fr:0;fr-FR;ministères;;;;reg-courant;;;noun, mas, plur;institution;art-fr-des
+meaning;وِزَارَة;;;;;;;;;;;
+word;ar:0;ar;وِزَارَة;;;;reg-courant;freq-tres;niv-b1;noun, fem;institution;
+word;ar:1;ar;وزارة;;;;reg-courant;freq-tres;niv-b1;noun, fem;institution;
+word;fr:0;fr-FR;ministère;;;;reg-courant;;;noun, mas;institution;art-fr-un
+meaning;يَد;;;;;;;;;;;
+word;ar:0;ar;يَد;;;;reg-courant;freq-tres;niv-a1;noun, fem;corps;
+word;ar:1;ar;يد;;;;reg-courant;freq-tres;niv-a1;noun, fem;corps;
+word;fr:0;fr-FR;main;;;;reg-courant;;;noun, fem;corps;art-fr-une
+meaning;يَوْم;;;;;;;;;;;
+word;ar:0;ar;يَوْم;;;;reg-courant;freq-ultra;niv-a1;noun, mas;calendrier;
+word;ar:1;ar;يوم;;;;reg-courant;freq-ultra;niv-a1;noun, mas;calendrier;
+word;fr:0;fr-FR;jour;;;;reg-courant;;;noun, mas;calendrier;art-fr-un
+meaning;يُوجَدُ;;;;;;;;;;;
+word;ar:0;ar;يُوجَدُ;;;;reg-courant;freq-tres;niv-b1;verb;etat;
+word;ar:1;ar;يوجد;;;;reg-courant;freq-tres;niv-b1;verb;etat;
+word;fr:0;fr-FR;se trouver;;;;reg-courant;;;verb, tense-inf;etat;
+word;fr:1;fr-FR;exister;;;;reg-courant;;;verb, tense-inf;etat;

@@ -1,0 +1,491 @@
+﻿reference;parent;locale;category;selectable;optional;description;creation_date
+grammar;;fr;grammaire;;;;2026-08-22T00:00:00.000
+;;en;grammar;;;;
+;;de;Grammatik;;;;
+;;es;gramática;;;;
+;;it;grammatica;;;;
+pos;grammar;fr;nature du mot;;;;2026-08-22T00:00:00.000
+;;en;part of speech;;;;
+;;de;Wortart;;;;
+;;es;categoría gramatical;;;;
+;;it;categoria grammaticale;;;;
+noun;pos;en;noun;x;;;2026-08-22T00:00:00.000
+;;fr;nom;;;;
+;;de;Substantiv;;;;
+;;es;sustantivo;;;;
+;;it;sostantivo;;;;
+noun-pro;noun;en;proper noun;x;x;;2026-08-22T00:00:00.000
+;;fr;nom propre;;;;
+;;de;Eigenname;;;;
+;;es;nombre propio;;;;
+;;it;nome proprio;;;;
+verb;pos;en;verb;x;;;2026-08-22T00:00:00.000
+;;fr;verbe;;;;
+;;de;Verb;;;;
+;;es;verbo;;;;
+;;it;verbo;;;;
+verb-transitivity;verb;en;transitivity;;x;;2026-08-22T00:00:00.000
+;;fr;transitivité;;;;
+;;de;Transitivität;;;;
+;;es;transitividad;;;;
+;;it;transitività;;;;
+verb-trans;verb-transitivity;en;transitive;x;x;;2026-08-22T00:00:00.000
+;;fr;transitif;;;;
+;;de;transitiv;;;;
+;;es;transitivo;;;;
+;;it;transitivo;;;;
+verb-intrans;verb-transitivity;en;intransitive;x;x;;2026-08-22T00:00:00.000
+;;fr;intransitif;;;;
+;;de;intransitiv;;;;
+;;es;intransitivo;;;;
+;;it;intransitivo;;;;
+verb-ph;verb;en;phrasal verb;x;x;;2026-08-22T00:00:00.000
+;;fr;verbe à particule;;;;
+;;de;Partikelverb;;;;
+;;es;verbo con partícula;;;;
+;;it;verbo frasale;;;;
+verb-pron;verb;fr;verbe pronominal;x;x;;2026-08-22T00:00:00.000
+;;en;pronominal verb;;;;
+;;de;reflexives Verb;;;;
+;;es;verbo pronominal;;;;
+;;it;verbo pronominale;;;;
+verb-aux;verb;fr;auxiliaire;x;x;;2026-08-22T00:00:00.000
+;;en;auxiliary;;;;
+;;de;Hilfsverb;;;;
+;;es;verbo auxiliar;;;;
+;;it;verbo ausiliare;;;;
+verb-modal;verb;fr;verbe modal;x;x;;2026-08-22T00:00:00.000
+;;en;modal verb;;;;
+;;de;Modalverb;;;;
+;;es;verbo modal;;;;
+;;it;verbo modale;;;;
+verb-derived;verb;fr;verbe de forme dérivée (II–X);x;x;;2026-10-05T00:00:00.000
+;;en;derived verb form;;;;
+;;de;abgeleiteter Verbstamm;;;;
+;;es;verbo de forma derivada;;;;
+;;it;verbo di forma derivata;;;;
+adj;pos;en;adjective;x;;;2026-08-22T00:00:00.000
+;;fr;adjectif;;;;
+;;de;Adjektiv;;;;
+;;es;adjetivo;;;;
+;;it;aggettivo;;;;
+adv;pos;en;adverb;x;;;2026-08-22T00:00:00.000
+;;fr;adverbe;;;;
+;;de;Adverb;;;;
+;;es;adverbio;;;;
+;;it;avverbio;;;;
+pron;pos;en;pronoun;x;;;2026-08-22T00:00:00.000
+;;fr;pronom;;;;
+;;de;Pronomen;;;;
+;;es;pronombre;;;;
+;;it;pronome;;;;
+prep;pos;en;preposition;x;;;2026-08-22T00:00:00.000
+;;fr;préposition;;;;
+;;de;Präposition;;;;
+;;es;preposición;;;;
+;;it;preposizione;;;;
+conj;pos;en;conjunction;x;;;2026-08-22T00:00:00.000
+;;fr;conjonction;;;;
+;;de;Konjunktion;;;;
+;;es;conjunción;;;;
+;;it;congiunzione;;;;
+det;pos;fr;déterminant;x;x;;2026-08-22T00:00:00.000
+;;en;determiner;;;;
+;;de;Determinativ;;;;
+;;es;determinante;;;;
+;;it;determinante;;;;
+interj;pos;fr;interjection;x;x;;2026-08-22T00:00:00.000
+;;en;interjection;;;;
+;;de;Interjektion;;;;
+;;es;interjección;;;;
+;;it;interiezione;;;;
+num;pos;fr;numéral;x;x;;2026-08-22T00:00:00.000
+;;en;numeral;;;;
+;;de;Numerale;;;;
+;;es;numeral;;;;
+;;it;numerale;;;;
+locution;pos;en;locution;x;;;2026-08-22T00:00:00.000
+;;fr;locution;;;;
+;;de;Wortverbindung;;;;
+;;es;locución;;;;
+;;it;locuzione;;;;
+idiom;locution;en;idiom;x;x;;2026-08-22T00:00:00.000
+;;fr;idiome;;;;
+;;de;Redewendung;;;;
+;;es;modismo;;;;
+;;it;idioma;;;;
+proverb;locution;fr;proverbe;x;x;;2026-08-22T00:00:00.000
+;;en;proverb;;;;
+;;de;Sprichwort;;;;
+;;es;proverbio;;;;
+;;it;proverbio;;;;
+collocation;locution;fr;collocation;x;x;;2026-08-22T00:00:00.000
+;;en;collocation;;;;
+;;de;Kollokation;;;;
+;;es;colocación;;;;
+;;it;collocazione;;;;
+particle;pos;fr;particule;x;x;;2026-10-05T00:00:00.000
+;;en;particle;;;;
+;;de;Partikel;;;;
+;;es;partícula;;;;
+;;it;particella;;;;
+flexion;grammar;fr;flexion;;;;2026-08-22T00:00:00.000
+;;en;inflection;;;;
+;;de;Flexion;;;;
+;;es;flexión;;;;
+;;it;flessione;;;;
+genre;flexion;en;gender;;x;;2026-08-22T00:00:00.000
+;;fr;genre;;;;
+;;de;Genus;;;;
+;;es;género;;;;
+;;it;genere;;;;
+mas;genre;en;masculine;x;x;;2026-08-22T00:00:00.000
+;;fr;masculin;;;;
+;;de;maskulin;;;;
+;;es;masculino;;;;
+;;it;maschile;;;;
+fem;genre;en;feminine;x;x;;2026-08-22T00:00:00.000
+;;fr;féminin;;;;
+;;de;feminin;;;;
+;;es;femenino;;;;
+;;it;femminile;;;;
+neu;genre;en;neutral;x;x;;2026-08-22T00:00:00.000
+;;fr;neutre;;;;
+;;de;neutral;;;;
+;;es;neutro;;;;
+;;it;neutro;;;;
+numb;flexion;en;number;;x;;2026-08-22T00:00:00.000
+;;fr;cardinalité;;;;
+;;de;Numerus;;;;
+;;es;número;;;;
+;;it;numero;;;;
+sing;numb;en;singular;x;x;;2026-08-22T00:00:00.000
+;;fr;singulier;;;;
+;;de;Singular;;;;
+;;es;singular;;;;
+;;it;singolare;;;;
+plur;numb;en;plural;x;x;;2026-08-22T00:00:00.000
+;;fr;pluriel;;;;
+;;de;Plural;;;;
+;;es;plural;;;;
+;;it;plurale;;;;
+plur-irr;numb;fr;pluriel irrégulier;x;x;;2026-08-22T00:00:00.000
+;;en;irregular plural;;;;
+;;de;unregelmäßiger Plural;;;;
+;;es;plural irregular;;;;
+;;it;plurale irregolare;;;;
+dual;numb;fr;duel;x;x;;2026-10-05T00:00:00.000
+;;en;dual;;;;
+;;de;Dual;;;;
+;;es;dual;;;;
+;;it;duale;;;;
+plur-broken;numb;fr;pluriel brisé;x;x;;2026-10-05T00:00:00.000
+;;en;broken plural;;;;
+;;de;gebrochener Plural;;;;
+;;es;plural fracto;;;;
+;;it;plurale fratto;;;;
+verb-irr;flexion;en;irregular verb;x;x;;2026-08-22T00:00:00.000
+;;fr;verbe irrégulier;;;;
+;;de;unregelmäßiges Verb;;;;
+;;es;verbo irregular;;;;
+;;it;verbo irregolare;;;;
+tense;flexion;fr;temps;;x;;2026-08-22T00:00:00.000
+;;en;tense;;;;
+;;de;Zeitform;;;;
+;;es;tiempo;;;;
+;;it;tempo;;;;
+tense-present;tense;fr;présent;x;x;;2026-08-22T00:00:00.000
+;;en;present;;;;
+;;de;Präsens;;;;
+;;es;presente;;;;
+;;it;presente;;;;
+tense-past;tense;fr;passé;x;x;;2026-08-22T00:00:00.000
+;;en;past;;;;
+;;de;Vergangenheit;;;;
+;;es;pasado;;;;
+;;it;passato;;;;
+tense-future;tense;fr;futur;x;x;;2026-08-22T00:00:00.000
+;;en;future;;;;
+;;de;Futur;;;;
+;;es;futuro;;;;
+;;it;futuro;;;;
+tense-inf;tense;fr;infinitif;x;x;;2026-08-22T00:00:00.000
+;;en;infinitive;;;;
+;;de;Infinitiv;;;;
+;;es;infinitivo;;;;
+;;it;infinito;;;;
+tense-part-past;tense;fr;participe passé;x;x;;2026-08-22T00:00:00.000
+;;en;past participle;;;;
+;;de;Partizip Perfekt;;;;
+;;es;participio pasado;;;;
+;;it;participio passato;;;;
+tense-part-pres;tense;fr;participe présent / gérondif;x;x;;2026-08-22T00:00:00.000
+;;en;present participle / gerund;;;;
+;;de;Partizip Präsens / Gerundium;;;;
+;;es;participio presente / gerundio;;;;
+;;it;participio presente / gerundio;;;;
+mode;flexion;fr;mode;;x;;2026-08-22T00:00:00.000
+;;en;mood;;;;
+;;de;Modus;;;;
+;;es;modo;;;;
+;;it;modo;;;;
+mode-ind;mode;fr;indicatif;x;x;;2026-08-22T00:00:00.000
+;;en;indicative;;;;
+;;de;Indikativ;;;;
+;;es;indicativo;;;;
+;;it;indicativo;;;;
+mode-subj;mode;fr;subjonctif;x;x;;2026-08-22T00:00:00.000
+;;en;subjunctive;;;;
+;;de;Konjunktiv;;;;
+;;es;subjuntivo;;;;
+;;it;congiuntivo;;;;
+mode-cond;mode;fr;conditionnel;x;x;;2026-08-22T00:00:00.000
+;;en;conditional;;;;
+;;de;Konditional;;;;
+;;es;condicional;;;;
+;;it;condizionale;;;;
+mode-imper;mode;fr;impératif;x;x;;2026-08-22T00:00:00.000
+;;en;imperative;;;;
+;;de;Imperativ;;;;
+;;es;imperativo;;;;
+;;it;imperativo;;;;
+mode-juss;mode;fr;apocopé (jussif);x;x;;2026-10-05T00:00:00.000
+;;en;jussive;;;;
+;;de;Apokopat (Jussiv);;;;
+;;es;yusivo;;;;
+;;it;iussivo;;;;
+person;flexion;fr;personne;;x;;2026-08-22T00:00:00.000
+;;en;person;;;;
+;;de;Person;;;;
+;;es;persona;;;;
+;;it;persona;;;;
+person-1;person;fr;1re personne;x;x;;2026-08-22T00:00:00.000
+;;en;1st person;;;;
+;;de;1. Person;;;;
+;;es;1.ª persona;;;;
+;;it;1ª persona;;;;
+person-2;person;fr;2e personne;x;x;;2026-08-22T00:00:00.000
+;;en;2nd person;;;;
+;;de;2. Person;;;;
+;;es;2.ª persona;;;;
+;;it;2ª persona;;;;
+person-3;person;fr;3e personne;x;x;;2026-08-22T00:00:00.000
+;;en;3rd person;;;;
+;;de;3. Person;;;;
+;;es;3.ª persona;;;;
+;;it;3ª persona;;;;
+gram-case;flexion;fr;cas grammatical;;x;;2026-08-22T00:00:00.000
+;;en;grammatical case;;;;
+;;de;Kasus;;;;
+;;es;caso gramatical;;;;
+;;it;caso grammaticale;;;;
+case-nom;gram-case;fr;nominatif;x;x;;2026-08-22T00:00:00.000
+;;en;nominative;;;;
+;;de;Nominativ;;;;
+;;es;nominativo;;;;
+;;it;nominativo;;;;
+case-acc;gram-case;fr;accusatif;x;x;;2026-08-22T00:00:00.000
+;;en;accusative;;;;
+;;de;Akkusativ;;;;
+;;es;acusativo;;;;
+;;it;accusativo;;;;
+case-dat;gram-case;fr;datif;x;x;;2026-08-22T00:00:00.000
+;;en;dative;;;;
+;;de;Dativ;;;;
+;;es;dativo;;;;
+;;it;dativo;;;;
+case-gen;gram-case;fr;génitif;x;x;;2026-08-22T00:00:00.000
+;;en;genitive;;;;
+;;de;Genitiv;;;;
+;;es;genitivo;;;;
+;;it;genitivo;;;;
+degree;flexion;fr;degré de comparaison;;x;;2026-08-22T00:00:00.000
+;;en;degree of comparison;;;;
+;;de;Steigerung;;;;
+;;es;grado de comparación;;;;
+;;it;grado di comparazione;;;;
+deg-comp;degree;fr;comparatif;x;x;;2026-08-22T00:00:00.000
+;;en;comparative;;;;
+;;de;Komparativ;;;;
+;;es;comparativo;;;;
+;;it;comparativo;;;;
+deg-super;degree;fr;superlatif;x;x;;2026-08-22T00:00:00.000
+;;en;superlative;;;;
+;;de;Superlativ;;;;
+;;es;superlativo;;;;
+;;it;superlativo;;;;
+deg-irr;degree;fr;comparaison irrégulière;x;x;;2026-08-22T00:00:00.000
+;;en;irregular comparison;;;;
+;;de;unregelmäßige Steigerung;;;;
+;;es;comparación irregular;;;;
+;;it;comparazione irregolare;;;;
+formation;;fr;formation du mot;;;;2026-08-22T00:00:00.000
+;;en;word formation;;;;
+;;de;Wortbildung;;;;
+;;es;formación de palabras;;;;
+;;it;formazione delle parole;;;;
+abr;formation;fr;abréviation;x;;;2026-08-22T00:00:00.000
+;;en;abbreviation;;;;
+;;de;Abkürzung;;;;
+;;es;abreviatura;;;;
+;;it;abbreviazione;;;;
+acro;formation;en;acronym;x;;;2026-08-22T00:00:00.000
+;;fr;acronyme;;;;
+;;de;Akronym;;;;
+;;es;acrónimo;;;;
+;;it;acronimo;;;;
+sigle;formation;fr;sigle;x;x;;2026-08-22T00:00:00.000
+;;en;initialism;;;;
+;;de;Initialwort;;;;
+;;es;sigla;;;;
+;;it;sigla;;;;
+compound;formation;fr;mot composé;x;x;;2026-08-22T00:00:00.000
+;;en;compound;;;;
+;;de;Kompositum;;;;
+;;es;palabra compuesta;;;;
+;;it;parola composta;;;;
+loanword;formation;fr;emprunt;x;x;;2026-08-22T00:00:00.000
+;;en;loanword;;;;
+;;de;Lehnwort;;;;
+;;es;préstamo;;;;
+;;it;prestito linguistico;;;;
+diminutive;formation;fr;diminutif;x;x;;2026-08-22T00:00:00.000
+;;en;diminutive;;;;
+;;de;Diminutiv;;;;
+;;es;diminutivo;;;;
+;;it;diminutivo;;;;
+masdar;formation;fr;nom verbal (maṣdar);x;x;;2026-10-05T00:00:00.000
+;;en;verbal noun (masdar);;;;
+;;de;Verbalnomen (Masdar);;;;
+;;es;nombre verbal (masdar);;;;
+;;it;nome verbale (masdar);;;;
+nisba;formation;fr;adjectif de relation (nisba);x;x;;2026-10-05T00:00:00.000
+;;en;relational adjective (nisba);;;;
+;;de;Nisba-Adjektiv;;;;
+;;es;adjetivo de relación (nisba);;;;
+;;it;aggettivo di relazione (nisba);;;;
+content;;fr;type de contenu;;;;2026-08-22T00:00:00.000
+;;en;content type;;;;
+;;de;Inhaltstyp;;;;
+;;es;tipo de contenido;;;;
+;;it;tipo di contenuto;;;;
+question;content;en;question;x;x;;2026-08-22T00:00:00.000
+;;fr;question;;;;
+;;de;Frage;;;;
+;;es;pregunta;;;;
+;;it;domanda;;;;
+defi;content;en;definition;x;x;;2026-08-22T00:00:00.000
+;;fr;définition;;;;
+;;de;Definition;;;;
+;;es;definición;;;;
+;;it;definizione;;;;
+registre;;fr;registre de langue;;;;2026-08-22T00:00:00.000
+;;en;language register;;;;
+;;de;Sprachregister;;;;
+;;es;registro lingüístico;;;;
+;;it;registro linguistico;;;;
+reg-courant;registre;fr;courant;x;x;;2026-08-22T00:00:00.000
+;;en;common;;;;
+;;de;gebräuchlich;;;;
+;;es;común;;;;
+;;it;comune;;;;
+reg-familier;registre;fr;familier;x;x;;2026-08-22T00:00:00.000
+;;en;colloquial;;;;
+;;de;umgangssprachlich;;;;
+;;es;coloquial;;;;
+;;it;colloquiale;;;;
+reg-soutenu;registre;fr;soutenu;x;x;;2026-08-22T00:00:00.000
+;;en;formal;;;;
+;;de;gehoben;;;;
+;;es;formal;;;;
+;;it;formale;;;;
+reg-technique;registre;fr;technique;x;x;;2026-08-22T00:00:00.000
+;;en;technical;;;;
+;;de;fachsprachlich;;;;
+;;es;técnico;;;;
+;;it;tecnico;;;;
+reg-argot;registre;fr;argot;x;x;;2026-08-22T00:00:00.000
+;;en;slang;;;;
+;;de;Slang;;;;
+;;es;argot;;;;
+;;it;gergo;;;;
+reg-vulgaire;registre;fr;vulgaire;x;x;;2026-08-22T00:00:00.000
+;;en;vulgar;;;;
+;;de;vulgär;;;;
+;;es;vulgar;;;;
+;;it;volgare;;;;
+reg-regional;registre;fr;régional;x;x;;2026-08-22T00:00:00.000
+;;en;regional;;;;
+;;de;regional;;;;
+;;es;regional;;;;
+;;it;regionale;;;;
+frequence;;fr;fréquence d'utilisation;;;;2026-08-22T00:00:00.000
+;;en;usage frequency;;;;
+;;de;Gebrauchshäufigkeit;;;;
+;;es;frecuencia de uso;;;;
+;;it;frequenza d'uso;;;;
+freq-ultra;frequence;fr;ultra-fréquent;x;x;;2026-08-22T00:00:00.000
+;;en;ultra-frequent;;;;
+;;de;ultrahäufig;;;;
+;;es;ultrafrecuente;;;;
+;;it;ultrafrequente;;;;
+freq-tres;frequence;fr;très fréquent;x;x;;2026-08-22T00:00:00.000
+;;en;very frequent;;;;
+;;de;sehr häufig;;;;
+;;es;muy frecuente;;;;
+;;it;molto frequente;;;;
+freq-freq;frequence;fr;fréquent;x;x;;2026-08-22T00:00:00.000
+;;en;frequent;;;;
+;;de;häufig;;;;
+;;es;frecuente;;;;
+;;it;frequente;;;;
+freq-peu;frequence;fr;peu fréquent;x;x;;2026-08-22T00:00:00.000
+;;en;infrequent;;;;
+;;de;wenig häufig;;;;
+;;es;poco frecuente;;;;
+;;it;poco frequente;;;;
+freq-rare;frequence;fr;rare;x;x;;2026-08-22T00:00:00.000
+;;en;rare;;;;
+;;de;selten;;;;
+;;es;raro;;;;
+;;it;raro;;;;
+freq-tres-rare;frequence;fr;très rare;x;x;;2026-08-22T00:00:00.000
+;;en;very rare;;;;
+;;de;sehr selten;;;;
+;;es;muy raro;;;;
+;;it;molto raro;;;;
+niveau;;fr;niveau de maîtrise;;;;2026-08-22T00:00:00.000
+;;en;proficiency level;;;;
+;;de;Niveaustufe;;;;
+;;es;nivel de dominio;;;;
+;;it;livello di padronanza;;;;
+niv-a1;niveau;fr;A1;x;x;;2026-08-22T00:00:00.000
+;;en;A1;;;;
+;;de;A1;;;;
+;;es;A1;;;;
+;;it;A1;;;;
+niv-a2;niveau;fr;A2;x;x;;2026-08-22T00:00:00.000
+;;en;A2;;;;
+;;de;A2;;;;
+;;es;A2;;;;
+;;it;A2;;;;
+niv-b1;niveau;fr;B1;x;x;;2026-08-22T00:00:00.000
+;;en;B1;;;;
+;;de;B1;;;;
+;;es;B1;;;;
+;;it;B1;;;;
+niv-b2;niveau;fr;B2;x;x;;2026-08-22T00:00:00.000
+;;en;B2;;;;
+;;de;B2;;;;
+;;es;B2;;;;
+;;it;B2;;;;
+niv-c1;niveau;fr;C1;x;x;;2026-08-22T00:00:00.000
+;;en;C1;;;;
+;;de;C1;;;;
+;;es;C1;;;;
+;;it;C1;;;;
+niv-c2;niveau;fr;C2;x;x;;2026-08-22T00:00:00.000
+;;en;C2;;;;
+;;de;C2;;;;
+;;es;C2;;;;
+;;it;C2;;;;

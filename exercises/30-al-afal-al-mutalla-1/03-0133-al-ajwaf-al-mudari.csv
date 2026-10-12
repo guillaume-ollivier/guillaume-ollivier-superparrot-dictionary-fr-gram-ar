@@ -1,0 +1,20 @@
+﻿topic;item;attribute;section;index;locale;value
+0133-1;_;title;;;fr-FR;Concaves à l'inaccompli
+;;;;;ar-SA;الأجوف في المضارع
+;;wording;;;fr-FR;Conjuguez à l'inaccompli
+;;;;;ar-SA;صرّف في المضارع
+;;categories;;;;niv-b1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§هو (قال)}
+;;answer;;;;{?1§يقول}
+;2;question;;;;{?1§أنا (عاد)}
+;;answer;;;;{?1§{أعود|اعود}}
+;3;question;;;;{?1§هي (باع)}
+;;answer;;;;{?1§تبيع}
+;4;question;;;;{?1§نحن (نام)}
+;;answer;;;;{?1§ننام}
+;5;question;;;;{?1§هم (زار)}
+;;answer;;;;{?1§يزورون}
+;6;question;;;;{?1§هو (طار)}
+;;answer;;;;{?1§يطير}

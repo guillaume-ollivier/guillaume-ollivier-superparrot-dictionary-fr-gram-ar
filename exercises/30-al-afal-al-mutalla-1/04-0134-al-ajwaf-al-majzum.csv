@@ -1,0 +1,20 @@
+﻿topic;item;attribute;section;index;locale;value
+0134-1;_;title;;;fr-FR;Concaves raccourcis
+;;;;;ar-SA;الأجوف المجزوم
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-b1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§Dis ! (à un homme)}
+;;answer;;;;{?1§قل}{type=affix§!}
+;2;question;;;;{?1§Dis ! (à une femme)}
+;;answer;;;;{?1§قولي}{type=affix§!}
+;3;question;;;;{?1§Il n'a pas dit}{type=affix§.}
+;;answer;;;;{?1§لم يقل}{type=affix§.}
+;4;question;;;;{?1§Il n'était pas à la maison}{type=affix§.}
+;;answer;;;;{?1§لم يكن في البيت}{type=affix§.}
+;5;question;;;;{?1§Dors ! (à un homme)}
+;;answer;;;;{?1§نم}{type=affix§!}
+;6;question;;;;{?1§Ils n'ont pas vendu la maison}{type=affix§.}
+;;answer;;;;{?1§لم يبيعوا البيت}{type=affix§.}

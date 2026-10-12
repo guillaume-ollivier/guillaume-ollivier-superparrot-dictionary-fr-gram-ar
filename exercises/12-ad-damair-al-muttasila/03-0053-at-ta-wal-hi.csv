@@ -1,0 +1,18 @@
+﻿topic;item;attribute;section;index;locale;value
+0053-1;_;title;;;fr-FR;Suffixes sur un féminin
+;;;;;ar-SA;ة مع الضمير
+;;wording;;;fr-FR;Ajoutez le suffixe
+;;;;;ar-SA;أضف الضمير
+;;categories;;;;niv-a2
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§سيارة + ي}
+;;answer;;;;{?1§سيارتي}
+;2;question;;;;{?1§مدرسة + هم}
+;;answer;;;;{?1§مدرستهم}
+;3;question;;;;{?1§غرفة + ك}
+;;answer;;;;{?1§غرفتك}
+;4;question;;;;{?1§جامعة + نا}
+;;answer;;;;{?1§جامعتنا}
+;5;question;;;;{?1§لغة + ه}
+;;answer;;;;{?1§لغته}

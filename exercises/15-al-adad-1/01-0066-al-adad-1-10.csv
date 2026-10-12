@@ -1,0 +1,30 @@
+﻿topic;item;attribute;section;index;locale;value
+0066-1;_;title;;;fr-FR;Les nombres de 0 à 10
+;;;;;ar-SA;الأعداد
+;;wording;;;fr-FR;Écrivez le nombre en lettres
+;;;;;ar-SA;اكتب العدد
+;;categories;;;;niv-a1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§١}
+;;answer;;;;{?1§واحد}
+;2;question;;;;{?1§٢}
+;;answer;;;;{?1§اثنان}
+;3;question;;;;{?1§٣}
+;;answer;;;;{?1§ثلاثة}
+;4;question;;;;{?1§٤}
+;;answer;;;;{?1§{أربعة|اربعة}}
+;5;question;;;;{?1§٥}
+;;answer;;;;{?1§خمسة}
+;6;question;;;;{?1§٦}
+;;answer;;;;{?1§ستة}
+;7;question;;;;{?1§٧}
+;;answer;;;;{?1§سبعة}
+;8;question;;;;{?1§٨}
+;;answer;;;;{?1§ثمانية}
+;9;question;;;;{?1§٩}
+;;answer;;;;{?1§تسعة}
+;10;question;;;;{?1§١٠}
+;;answer;;;;{?1§عشرة}
+;11;question;;;;{?1§٠}
+;;answer;;;;{?1§صفر}

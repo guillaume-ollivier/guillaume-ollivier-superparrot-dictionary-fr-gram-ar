@@ -9,7 +9,7 @@
       "creation_date": "2026-10-05T00:00:00.000",
       "category": {
         "tag_id": "tag@6019FA94-FE22-5E73-82F1-F5D624A02B77",
-        "text": "lang=fr§{catégories}lang=en§{categories}lang=de§{Kategorien}lang=es§{categorías}lang=it§{categorie}",
+        "text": "{lang=fr§catégories}{lang=en§categories}{lang=de§Kategorien}{lang=es§categorías}{lang=it§categorie}",
         "optional": false,
         "selectable": false,
         "creation_date": "2026-08-22T00:00:00.000",
@@ -17,7 +17,7 @@
         "tags": [
           {
             "tag_id": "tag@6E0B8B07-A96E-58FC-B53C-3A82EB853517",
-            "text": "lang=fr§{grammaire}lang=en§{grammar}lang=de§{Grammatik}lang=es§{gramática}lang=it§{grammatica}",
+            "text": "{lang=fr§grammaire}{lang=en§grammar}{lang=de§Grammatik}{lang=es§gramática}{lang=it§grammatica}",
             "optional": false,
             "selectable": false,
             "creation_date": "2026-08-22T00:00:00.000",
@@ -25,7 +25,7 @@
             "tags": [
               {
                 "tag_id": "tag@EC9BE122-C89E-5E70-BBE2-D753B0B139C5",
-                "text": "lang=fr§{nature du mot}lang=en§{part of speech}lang=de§{Wortart}lang=es§{categoría gramatical}lang=it§{categoria grammaticale}",
+                "text": "{lang=fr§nature du mot}{lang=en§part of speech}{lang=de§Wortart}{lang=es§categoría gramatical}{lang=it§categoria grammaticale}",
                 "optional": false,
                 "selectable": false,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -33,7 +33,7 @@
                 "tags": [
                   {
                     "tag_id": "tag@E16443F4-9A83-5791-9635-FE9E255D71ED",
-                    "text": "lang=en§{noun}lang=fr§{nom}lang=de§{Substantiv}lang=es§{sustantivo}lang=it§{sostantivo}",
+                    "text": "{lang=en§noun}{lang=fr§nom}{lang=de§Substantiv}{lang=es§sustantivo}{lang=it§sostantivo}",
                     "optional": false,
                     "selectable": true,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -41,7 +41,7 @@
                     "tags": [
                       {
                         "tag_id": "tag@51645259-4410-50F9-B293-06ABA80920F1",
-                        "text": "lang=en§{proper noun}lang=fr§{nom propre}lang=de§{Eigenname}lang=es§{nombre propio}lang=it§{nome proprio}",
+                        "text": "{lang=en§proper noun}{lang=fr§nom propre}{lang=de§Eigenname}{lang=es§nombre propio}{lang=it§nome proprio}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -51,7 +51,7 @@
                   },
                   {
                     "tag_id": "tag@6D416439-4835-5FFD-826A-60560C6A56D7",
-                    "text": "lang=en§{verb}lang=fr§{verbe}lang=de§{Verb}lang=es§{verbo}lang=it§{verbo}",
+                    "text": "{lang=en§verb}{lang=fr§verbe}{lang=de§Verb}{lang=es§verbo}{lang=it§verbo}",
                     "optional": false,
                     "selectable": true,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -59,7 +59,7 @@
                     "tags": [
                       {
                         "tag_id": "tag@589C95B4-52ED-5468-AA31-6F5ED9FE35D0",
-                        "text": "lang=en§{transitivity}lang=fr§{transitivité}lang=de§{Transitivität}lang=es§{transitividad}lang=it§{transitività}",
+                        "text": "{lang=en§transitivity}{lang=fr§transitivité}{lang=de§Transitivität}{lang=es§transitividad}{lang=it§transitività}",
                         "optional": true,
                         "selectable": false,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -67,7 +67,7 @@
                         "tags": [
                           {
                             "tag_id": "tag@8C790A51-3D8B-5F67-8D81-484DFA801096",
-                            "text": "lang=en§{transitive}lang=fr§{transitif}lang=de§{transitiv}lang=es§{transitivo}lang=it§{transitivo}",
+                            "text": "{lang=en§transitive}{lang=fr§transitif}{lang=de§transitiv}{lang=es§transitivo}{lang=it§transitivo}",
                             "optional": true,
                             "selectable": true,
                             "creation_date": "2026-08-22T00:00:00.000",
@@ -75,7 +75,7 @@
                           },
                           {
                             "tag_id": "tag@964CAD4F-6B8F-5D23-B1CC-5307CF77ED1F",
-                            "text": "lang=en§{intransitive}lang=fr§{intransitif}lang=de§{intransitiv}lang=es§{intransitivo}lang=it§{intransitivo}",
+                            "text": "{lang=en§intransitive}{lang=fr§intransitif}{lang=de§intransitiv}{lang=es§intransitivo}{lang=it§intransitivo}",
                             "optional": true,
                             "selectable": true,
                             "creation_date": "2026-08-22T00:00:00.000",
@@ -85,7 +85,7 @@
                       },
                       {
                         "tag_id": "tag@9FF29926-CC9E-5E00-93A8-4F3029C520BC",
-                        "text": "lang=en§{phrasal verb}lang=fr§{verbe à particule}lang=de§{Partikelverb}lang=es§{verbo con partícula}lang=it§{verbo frasale}",
+                        "text": "{lang=en§phrasal verb}{lang=fr§verbe à particule}{lang=de§Partikelverb}{lang=es§verbo con partícula}{lang=it§verbo frasale}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -93,7 +93,7 @@
                       },
                       {
                         "tag_id": "tag@BB5F1E5D-F801-507E-AB29-AC72867A24F5",
-                        "text": "lang=fr§{verbe pronominal}lang=en§{pronominal verb}lang=de§{reflexives Verb}lang=es§{verbo pronominal}lang=it§{verbo pronominale}",
+                        "text": "{lang=fr§verbe pronominal}{lang=en§pronominal verb}{lang=de§reflexives Verb}{lang=es§verbo pronominal}{lang=it§verbo pronominale}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -101,7 +101,7 @@
                       },
                       {
                         "tag_id": "tag@ED55A00C-E093-59C9-9148-8FCA0485A617",
-                        "text": "lang=fr§{auxiliaire}lang=en§{auxiliary}lang=de§{Hilfsverb}lang=es§{verbo auxiliar}lang=it§{verbo ausiliare}",
+                        "text": "{lang=fr§auxiliaire}{lang=en§auxiliary}{lang=de§Hilfsverb}{lang=es§verbo auxiliar}{lang=it§verbo ausiliare}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -109,7 +109,7 @@
                       },
                       {
                         "tag_id": "tag@26454350-2D51-5A38-830F-E8F231F5243E",
-                        "text": "lang=fr§{verbe modal}lang=en§{modal verb}lang=de§{Modalverb}lang=es§{verbo modal}lang=it§{verbo modale}",
+                        "text": "{lang=fr§verbe modal}{lang=en§modal verb}{lang=de§Modalverb}{lang=es§verbo modal}{lang=it§verbo modale}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -117,7 +117,7 @@
                       },
                       {
                         "tag_id": "tag@5BC5AB14-BBAC-5F0A-B521-2007553D1C45",
-                        "text": "lang=fr§{verbe de forme dérivée (II–X)}lang=en§{derived verb form}lang=de§{abgeleiteter Verbstamm}lang=es§{verbo de forma derivada}lang=it§{verbo di forma derivata}",
+                        "text": "{lang=fr§verbe de forme dérivée (II–X)}{lang=en§derived verb form}{lang=de§abgeleiteter Verbstamm}{lang=es§verbo de forma derivada}{lang=it§verbo di forma derivata}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-10-05T00:00:00.000",
@@ -127,7 +127,7 @@
                   },
                   {
                     "tag_id": "tag@C7F2AD73-F19C-57E9-98F4-0B2BFF4CA212",
-                    "text": "lang=en§{adjective}lang=fr§{adjectif}lang=de§{Adjektiv}lang=es§{adjetivo}lang=it§{aggettivo}",
+                    "text": "{lang=en§adjective}{lang=fr§adjectif}{lang=de§Adjektiv}{lang=es§adjetivo}{lang=it§aggettivo}",
                     "optional": false,
                     "selectable": true,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -135,7 +135,7 @@
                   },
                   {
                     "tag_id": "tag@7C9461E8-53E8-5F89-A940-EA8042A37920",
-                    "text": "lang=en§{adverb}lang=fr§{adverbe}lang=de§{Adverb}lang=es§{adverbio}lang=it§{avverbio}",
+                    "text": "{lang=en§adverb}{lang=fr§adverbe}{lang=de§Adverb}{lang=es§adverbio}{lang=it§avverbio}",
                     "optional": false,
                     "selectable": true,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -143,7 +143,7 @@
                   },
                   {
                     "tag_id": "tag@B318B555-5661-5484-9144-67155864CD2D",
-                    "text": "lang=en§{pronoun}lang=fr§{pronom}lang=de§{Pronomen}lang=es§{pronombre}lang=it§{pronome}",
+                    "text": "{lang=en§pronoun}{lang=fr§pronom}{lang=de§Pronomen}{lang=es§pronombre}{lang=it§pronome}",
                     "optional": false,
                     "selectable": true,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -151,7 +151,7 @@
                   },
                   {
                     "tag_id": "tag@6BFAF7BD-88C8-5350-83E1-403355E25507",
-                    "text": "lang=en§{preposition}lang=fr§{préposition}lang=de§{Präposition}lang=es§{preposición}lang=it§{preposizione}",
+                    "text": "{lang=en§preposition}{lang=fr§préposition}{lang=de§Präposition}{lang=es§preposición}{lang=it§preposizione}",
                     "optional": false,
                     "selectable": true,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -159,7 +159,7 @@
                   },
                   {
                     "tag_id": "tag@16346F5C-C5E6-5CC4-A519-183A9A5F608E",
-                    "text": "lang=en§{conjunction}lang=fr§{conjonction}lang=de§{Konjunktion}lang=es§{conjunción}lang=it§{congiunzione}",
+                    "text": "{lang=en§conjunction}{lang=fr§conjonction}{lang=de§Konjunktion}{lang=es§conjunción}{lang=it§congiunzione}",
                     "optional": false,
                     "selectable": true,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -167,7 +167,7 @@
                   },
                   {
                     "tag_id": "tag@0596E743-B556-5634-ABB2-F58D91E512CC",
-                    "text": "lang=fr§{déterminant}lang=en§{determiner}lang=de§{Determinativ}lang=es§{determinante}lang=it§{determinante}",
+                    "text": "{lang=fr§déterminant}{lang=en§determiner}{lang=de§Determinativ}{lang=es§determinante}{lang=it§determinante}",
                     "optional": true,
                     "selectable": true,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -175,7 +175,7 @@
                   },
                   {
                     "tag_id": "tag@BB7C0495-EA1A-56C4-93CC-33E686C3449A",
-                    "text": "lang=fr§{interjection}lang=en§{interjection}lang=de§{Interjektion}lang=es§{interjección}lang=it§{interiezione}",
+                    "text": "{lang=fr§interjection}{lang=en§interjection}{lang=de§Interjektion}{lang=es§interjección}{lang=it§interiezione}",
                     "optional": true,
                     "selectable": true,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -183,7 +183,7 @@
                   },
                   {
                     "tag_id": "tag@59EC4399-403D-548E-9789-523E6CA04A27",
-                    "text": "lang=fr§{numéral}lang=en§{numeral}lang=de§{Numerale}lang=es§{numeral}lang=it§{numerale}",
+                    "text": "{lang=fr§numéral}{lang=en§numeral}{lang=de§Numerale}{lang=es§numeral}{lang=it§numerale}",
                     "optional": true,
                     "selectable": true,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -191,7 +191,7 @@
                   },
                   {
                     "tag_id": "tag@D5AA38D7-49EA-5DA7-9526-1354C5EE5083",
-                    "text": "lang=en§{locution}lang=fr§{locution}lang=de§{Wortverbindung}lang=es§{locución}lang=it§{locuzione}",
+                    "text": "{lang=en§locution}{lang=fr§locution}{lang=de§Wortverbindung}{lang=es§locución}{lang=it§locuzione}",
                     "optional": false,
                     "selectable": true,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -199,7 +199,7 @@
                     "tags": [
                       {
                         "tag_id": "tag@F5287980-55FF-5317-B49C-DF62C86522D9",
-                        "text": "lang=en§{idiom}lang=fr§{idiome}lang=de§{Redewendung}lang=es§{modismo}lang=it§{idioma}",
+                        "text": "{lang=en§idiom}{lang=fr§idiome}{lang=de§Redewendung}{lang=es§modismo}{lang=it§idioma}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -207,7 +207,7 @@
                       },
                       {
                         "tag_id": "tag@F1D90554-28B0-5B41-A54B-0F735A8E8F3D",
-                        "text": "lang=fr§{proverbe}lang=en§{proverb}lang=de§{Sprichwort}lang=es§{proverbio}lang=it§{proverbio}",
+                        "text": "{lang=fr§proverbe}{lang=en§proverb}{lang=de§Sprichwort}{lang=es§proverbio}{lang=it§proverbio}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -215,7 +215,7 @@
                       },
                       {
                         "tag_id": "tag@5F325A26-C626-540A-897D-A880C61C0393",
-                        "text": "lang=fr§{collocation}lang=en§{collocation}lang=de§{Kollokation}lang=es§{colocación}lang=it§{collocazione}",
+                        "text": "{lang=fr§collocation}{lang=en§collocation}{lang=de§Kollokation}{lang=es§colocación}{lang=it§collocazione}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -225,7 +225,7 @@
                   },
                   {
                     "tag_id": "tag@01EDA001-A26C-5F61-9D28-80F34E43D217",
-                    "text": "lang=fr§{particule}lang=en§{particle}lang=de§{Partikel}lang=es§{partícula}lang=it§{particella}",
+                    "text": "{lang=fr§particule}{lang=en§particle}{lang=de§Partikel}{lang=es§partícula}{lang=it§particella}",
                     "optional": true,
                     "selectable": true,
                     "creation_date": "2026-10-05T00:00:00.000",
@@ -235,7 +235,7 @@
               },
               {
                 "tag_id": "tag@47F6E5DF-C4D5-5AF6-AC72-E88D9C516A79",
-                "text": "lang=fr§{flexion}lang=en§{inflection}lang=de§{Flexion}lang=es§{flexión}lang=it§{flessione}",
+                "text": "{lang=fr§flexion}{lang=en§inflection}{lang=de§Flexion}{lang=es§flexión}{lang=it§flessione}",
                 "optional": false,
                 "selectable": false,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -243,7 +243,7 @@
                 "tags": [
                   {
                     "tag_id": "tag@09C7A396-C36C-5787-B03D-530812B7982C",
-                    "text": "lang=en§{gender}lang=fr§{genre}lang=de§{Genus}lang=es§{género}lang=it§{genere}",
+                    "text": "{lang=en§gender}{lang=fr§genre}{lang=de§Genus}{lang=es§género}{lang=it§genere}",
                     "optional": true,
                     "selectable": false,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -251,7 +251,7 @@
                     "tags": [
                       {
                         "tag_id": "tag@0C46F98E-70C3-5B5E-8095-66674CEFD626",
-                        "text": "lang=en§{masculine}lang=fr§{masculin}lang=de§{maskulin}lang=es§{masculino}lang=it§{maschile}",
+                        "text": "{lang=en§masculine}{lang=fr§masculin}{lang=de§maskulin}{lang=es§masculino}{lang=it§maschile}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -259,7 +259,7 @@
                       },
                       {
                         "tag_id": "tag@1B78AC0C-4755-5F01-B35B-BAF0141EC465",
-                        "text": "lang=en§{feminine}lang=fr§{féminin}lang=de§{feminin}lang=es§{femenino}lang=it§{femminile}",
+                        "text": "{lang=en§feminine}{lang=fr§féminin}{lang=de§feminin}{lang=es§femenino}{lang=it§femminile}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -267,7 +267,7 @@
                       },
                       {
                         "tag_id": "tag@51043585-E42F-5D8B-B794-EDCFF17A2282",
-                        "text": "lang=en§{neutral}lang=fr§{neutre}lang=de§{neutral}lang=es§{neutro}lang=it§{neutro}",
+                        "text": "{lang=en§neutral}{lang=fr§neutre}{lang=de§neutral}{lang=es§neutro}{lang=it§neutro}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -277,7 +277,7 @@
                   },
                   {
                     "tag_id": "tag@51E30F7C-200A-50C1-A12E-278CE33929C5",
-                    "text": "lang=en§{number}lang=fr§{cardinalité}lang=de§{Numerus}lang=es§{número}lang=it§{numero}",
+                    "text": "{lang=en§number}{lang=fr§cardinalité}{lang=de§Numerus}{lang=es§número}{lang=it§numero}",
                     "optional": true,
                     "selectable": false,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -285,7 +285,7 @@
                     "tags": [
                       {
                         "tag_id": "tag@5B404885-2A92-51B7-A94A-67AC45C4FE7C",
-                        "text": "lang=en§{singular}lang=fr§{singulier}lang=de§{Singular}lang=es§{singular}lang=it§{singolare}",
+                        "text": "{lang=en§singular}{lang=fr§singulier}{lang=de§Singular}{lang=es§singular}{lang=it§singolare}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -293,7 +293,7 @@
                       },
                       {
                         "tag_id": "tag@851ADADD-C23F-5753-BCEA-4A46112D2B33",
-                        "text": "lang=en§{plural}lang=fr§{pluriel}lang=de§{Plural}lang=es§{plural}lang=it§{plurale}",
+                        "text": "{lang=en§plural}{lang=fr§pluriel}{lang=de§Plural}{lang=es§plural}{lang=it§plurale}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -301,7 +301,7 @@
                       },
                       {
                         "tag_id": "tag@316BEED6-4258-5866-A0E9-AA8102FD8CD5",
-                        "text": "lang=fr§{pluriel irrégulier}lang=en§{irregular plural}lang=de§{unregelmäßiger Plural}lang=es§{plural irregular}lang=it§{plurale irregolare}",
+                        "text": "{lang=fr§pluriel irrégulier}{lang=en§irregular plural}{lang=de§unregelmäßiger Plural}{lang=es§plural irregular}{lang=it§plurale irregolare}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -309,7 +309,7 @@
                       },
                       {
                         "tag_id": "tag@2C3D0887-ECB6-52B7-8509-87CF86F56FEF",
-                        "text": "lang=fr§{duel}lang=en§{dual}lang=de§{Dual}lang=es§{dual}lang=it§{duale}",
+                        "text": "{lang=fr§duel}{lang=en§dual}{lang=de§Dual}{lang=es§dual}{lang=it§duale}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-10-05T00:00:00.000",
@@ -317,7 +317,7 @@
                       },
                       {
                         "tag_id": "tag@F5300563-C89B-5BD5-8CC5-1BD28242016D",
-                        "text": "lang=fr§{pluriel brisé}lang=en§{broken plural}lang=de§{gebrochener Plural}lang=es§{plural fracto}lang=it§{plurale fratto}",
+                        "text": "{lang=fr§pluriel brisé}{lang=en§broken plural}{lang=de§gebrochener Plural}{lang=es§plural fracto}{lang=it§plurale fratto}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-10-05T00:00:00.000",
@@ -327,7 +327,7 @@
                   },
                   {
                     "tag_id": "tag@5AD42257-108C-5A0B-BCA6-C16D6D9B1EA9",
-                    "text": "lang=en§{irregular verb}lang=fr§{verbe irrégulier}lang=de§{unregelmäßiges Verb}lang=es§{verbo irregular}lang=it§{verbo irregolare}",
+                    "text": "{lang=en§irregular verb}{lang=fr§verbe irrégulier}{lang=de§unregelmäßiges Verb}{lang=es§verbo irregular}{lang=it§verbo irregolare}",
                     "optional": true,
                     "selectable": true,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -335,7 +335,7 @@
                   },
                   {
                     "tag_id": "tag@9F184EC7-C582-5F56-AF67-E7A19C0CA7D0",
-                    "text": "lang=fr§{temps}lang=en§{tense}lang=de§{Zeitform}lang=es§{tiempo}lang=it§{tempo}",
+                    "text": "{lang=fr§temps}{lang=en§tense}{lang=de§Zeitform}{lang=es§tiempo}{lang=it§tempo}",
                     "optional": true,
                     "selectable": false,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -343,7 +343,7 @@
                     "tags": [
                       {
                         "tag_id": "tag@CE46EC4D-D256-56A1-AB1D-D9018FD62421",
-                        "text": "lang=fr§{présent}lang=en§{present}lang=de§{Präsens}lang=es§{presente}lang=it§{presente}",
+                        "text": "{lang=fr§présent}{lang=en§present}{lang=de§Präsens}{lang=es§presente}{lang=it§presente}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -351,7 +351,7 @@
                       },
                       {
                         "tag_id": "tag@BBF173C6-8728-5BE6-9DD3-4DE0B71B75B6",
-                        "text": "lang=fr§{passé}lang=en§{past}lang=de§{Vergangenheit}lang=es§{pasado}lang=it§{passato}",
+                        "text": "{lang=fr§passé}{lang=en§past}{lang=de§Vergangenheit}{lang=es§pasado}{lang=it§passato}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -359,7 +359,7 @@
                       },
                       {
                         "tag_id": "tag@4AD7363F-8763-50D8-BDC9-A642EFC9C8AF",
-                        "text": "lang=fr§{futur}lang=en§{future}lang=de§{Futur}lang=es§{futuro}lang=it§{futuro}",
+                        "text": "{lang=fr§futur}{lang=en§future}{lang=de§Futur}{lang=es§futuro}{lang=it§futuro}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -367,7 +367,7 @@
                       },
                       {
                         "tag_id": "tag@12B2BA0C-F0B6-5E52-8235-E7C3514EB025",
-                        "text": "lang=fr§{infinitif}lang=en§{infinitive}lang=de§{Infinitiv}lang=es§{infinitivo}lang=it§{infinito}",
+                        "text": "{lang=fr§infinitif}{lang=en§infinitive}{lang=de§Infinitiv}{lang=es§infinitivo}{lang=it§infinito}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -375,7 +375,7 @@
                       },
                       {
                         "tag_id": "tag@E314DE27-1FE5-5DCD-ADC8-F72E85322FF0",
-                        "text": "lang=fr§{participe passé}lang=en§{past participle}lang=de§{Partizip Perfekt}lang=es§{participio pasado}lang=it§{participio passato}",
+                        "text": "{lang=fr§participe passé}{lang=en§past participle}{lang=de§Partizip Perfekt}{lang=es§participio pasado}{lang=it§participio passato}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -383,7 +383,7 @@
                       },
                       {
                         "tag_id": "tag@B1E47B7B-11AA-5509-8EC0-B1590B575A8E",
-                        "text": "lang=fr§{participe présent / gérondif}lang=en§{present participle / gerund}lang=de§{Partizip Präsens / Gerundium}lang=es§{participio presente / gerundio}lang=it§{participio presente / gerundio}",
+                        "text": "{lang=fr§participe présent / gérondif}{lang=en§present participle / gerund}{lang=de§Partizip Präsens / Gerundium}{lang=es§participio presente / gerundio}{lang=it§participio presente / gerundio}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -393,7 +393,7 @@
                   },
                   {
                     "tag_id": "tag@F76930C0-2114-58DC-BEC6-F20DCACC9288",
-                    "text": "lang=fr§{mode}lang=en§{mood}lang=de§{Modus}lang=es§{modo}lang=it§{modo}",
+                    "text": "{lang=fr§mode}{lang=en§mood}{lang=de§Modus}{lang=es§modo}{lang=it§modo}",
                     "optional": true,
                     "selectable": false,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -401,7 +401,7 @@
                     "tags": [
                       {
                         "tag_id": "tag@34BD0C22-0C8C-5D07-9E52-BC71E0C07494",
-                        "text": "lang=fr§{indicatif}lang=en§{indicative}lang=de§{Indikativ}lang=es§{indicativo}lang=it§{indicativo}",
+                        "text": "{lang=fr§indicatif}{lang=en§indicative}{lang=de§Indikativ}{lang=es§indicativo}{lang=it§indicativo}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -409,7 +409,7 @@
                       },
                       {
                         "tag_id": "tag@399B12C8-F686-512D-AC12-D71FCCCA6108",
-                        "text": "lang=fr§{subjonctif}lang=en§{subjunctive}lang=de§{Konjunktiv}lang=es§{subjuntivo}lang=it§{congiuntivo}",
+                        "text": "{lang=fr§subjonctif}{lang=en§subjunctive}{lang=de§Konjunktiv}{lang=es§subjuntivo}{lang=it§congiuntivo}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -417,7 +417,7 @@
                       },
                       {
                         "tag_id": "tag@793A9C72-9ACE-556B-ADE7-34B0BACDAA02",
-                        "text": "lang=fr§{conditionnel}lang=en§{conditional}lang=de§{Konditional}lang=es§{condicional}lang=it§{condizionale}",
+                        "text": "{lang=fr§conditionnel}{lang=en§conditional}{lang=de§Konditional}{lang=es§condicional}{lang=it§condizionale}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -425,7 +425,7 @@
                       },
                       {
                         "tag_id": "tag@2E08A617-6079-51A6-9390-22857E1F0530",
-                        "text": "lang=fr§{impératif}lang=en§{imperative}lang=de§{Imperativ}lang=es§{imperativo}lang=it§{imperativo}",
+                        "text": "{lang=fr§impératif}{lang=en§imperative}{lang=de§Imperativ}{lang=es§imperativo}{lang=it§imperativo}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -433,7 +433,7 @@
                       },
                       {
                         "tag_id": "tag@C6747008-7DA4-558A-9CEE-97E4A7B868A4",
-                        "text": "lang=fr§{apocopé (jussif)}lang=en§{jussive}lang=de§{Apokopat (Jussiv)}lang=es§{yusivo}lang=it§{iussivo}",
+                        "text": "{lang=fr§apocopé (jussif)}{lang=en§jussive}{lang=de§Apokopat (Jussiv)}{lang=es§yusivo}{lang=it§iussivo}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-10-05T00:00:00.000",
@@ -443,7 +443,7 @@
                   },
                   {
                     "tag_id": "tag@B70AC1FE-9E83-5841-BE3B-BAC36B9B02B4",
-                    "text": "lang=fr§{personne}lang=en§{person}lang=de§{Person}lang=es§{persona}lang=it§{persona}",
+                    "text": "{lang=fr§personne}{lang=en§person}{lang=de§Person}{lang=es§persona}{lang=it§persona}",
                     "optional": true,
                     "selectable": false,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -451,7 +451,7 @@
                     "tags": [
                       {
                         "tag_id": "tag@31BFBAAB-E5DC-50F5-B0B7-5FBC94E7F57E",
-                        "text": "lang=fr§{1re personne}lang=en§{1st person}lang=de§{1. Person}lang=es§{1.ª persona}lang=it§{1ª persona}",
+                        "text": "{lang=fr§1re personne}{lang=en§1st person}{lang=de§1. Person}{lang=es§1.ª persona}{lang=it§1ª persona}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -459,7 +459,7 @@
                       },
                       {
                         "tag_id": "tag@DE854D3A-FBA1-5689-BED3-DB1224A445C4",
-                        "text": "lang=fr§{2e personne}lang=en§{2nd person}lang=de§{2. Person}lang=es§{2.ª persona}lang=it§{2ª persona}",
+                        "text": "{lang=fr§2e personne}{lang=en§2nd person}{lang=de§2. Person}{lang=es§2.ª persona}{lang=it§2ª persona}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -467,7 +467,7 @@
                       },
                       {
                         "tag_id": "tag@28CB6C92-A638-5D28-8A37-3E015857FD20",
-                        "text": "lang=fr§{3e personne}lang=en§{3rd person}lang=de§{3. Person}lang=es§{3.ª persona}lang=it§{3ª persona}",
+                        "text": "{lang=fr§3e personne}{lang=en§3rd person}{lang=de§3. Person}{lang=es§3.ª persona}{lang=it§3ª persona}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -477,7 +477,7 @@
                   },
                   {
                     "tag_id": "tag@A24D6D33-2107-5ACA-A0CF-FDFBAA43DABA",
-                    "text": "lang=fr§{cas grammatical}lang=en§{grammatical case}lang=de§{Kasus}lang=es§{caso gramatical}lang=it§{caso grammaticale}",
+                    "text": "{lang=fr§cas grammatical}{lang=en§grammatical case}{lang=de§Kasus}{lang=es§caso gramatical}{lang=it§caso grammaticale}",
                     "optional": true,
                     "selectable": false,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -485,7 +485,7 @@
                     "tags": [
                       {
                         "tag_id": "tag@AD8AB97C-02BF-507F-A1C1-B6A1A9371925",
-                        "text": "lang=fr§{nominatif}lang=en§{nominative}lang=de§{Nominativ}lang=es§{nominativo}lang=it§{nominativo}",
+                        "text": "{lang=fr§nominatif}{lang=en§nominative}{lang=de§Nominativ}{lang=es§nominativo}{lang=it§nominativo}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -493,7 +493,7 @@
                       },
                       {
                         "tag_id": "tag@1417E7F8-DAA7-5233-8067-322DEFBB036A",
-                        "text": "lang=fr§{accusatif}lang=en§{accusative}lang=de§{Akkusativ}lang=es§{acusativo}lang=it§{accusativo}",
+                        "text": "{lang=fr§accusatif}{lang=en§accusative}{lang=de§Akkusativ}{lang=es§acusativo}{lang=it§accusativo}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -501,7 +501,7 @@
                       },
                       {
                         "tag_id": "tag@C8A349A1-B100-5E1E-9AFB-A01882B6D001",
-                        "text": "lang=fr§{datif}lang=en§{dative}lang=de§{Dativ}lang=es§{dativo}lang=it§{dativo}",
+                        "text": "{lang=fr§datif}{lang=en§dative}{lang=de§Dativ}{lang=es§dativo}{lang=it§dativo}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -509,7 +509,7 @@
                       },
                       {
                         "tag_id": "tag@0BCDD376-F047-574C-B3C7-57C6C0328056",
-                        "text": "lang=fr§{génitif}lang=en§{genitive}lang=de§{Genitiv}lang=es§{genitivo}lang=it§{genitivo}",
+                        "text": "{lang=fr§génitif}{lang=en§genitive}{lang=de§Genitiv}{lang=es§genitivo}{lang=it§genitivo}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -519,7 +519,7 @@
                   },
                   {
                     "tag_id": "tag@9597F623-DBB3-5CE3-A317-D993D7679C1D",
-                    "text": "lang=fr§{degré de comparaison}lang=en§{degree of comparison}lang=de§{Steigerung}lang=es§{grado de comparación}lang=it§{grado di comparazione}",
+                    "text": "{lang=fr§degré de comparaison}{lang=en§degree of comparison}{lang=de§Steigerung}{lang=es§grado de comparación}{lang=it§grado di comparazione}",
                     "optional": true,
                     "selectable": false,
                     "creation_date": "2026-08-22T00:00:00.000",
@@ -527,7 +527,7 @@
                     "tags": [
                       {
                         "tag_id": "tag@E6B74234-F76F-56E1-B000-DEB914EB3CFB",
-                        "text": "lang=fr§{comparatif}lang=en§{comparative}lang=de§{Komparativ}lang=es§{comparativo}lang=it§{comparativo}",
+                        "text": "{lang=fr§comparatif}{lang=en§comparative}{lang=de§Komparativ}{lang=es§comparativo}{lang=it§comparativo}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -535,7 +535,7 @@
                       },
                       {
                         "tag_id": "tag@5D45F020-AAF5-5B98-AB6E-DC99E8CF8F8C",
-                        "text": "lang=fr§{superlatif}lang=en§{superlative}lang=de§{Superlativ}lang=es§{superlativo}lang=it§{superlativo}",
+                        "text": "{lang=fr§superlatif}{lang=en§superlative}{lang=de§Superlativ}{lang=es§superlativo}{lang=it§superlativo}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -543,7 +543,7 @@
                       },
                       {
                         "tag_id": "tag@25B25308-B874-5C1D-9C3F-94AFB8CE19B6",
-                        "text": "lang=fr§{comparaison irrégulière}lang=en§{irregular comparison}lang=de§{unregelmäßige Steigerung}lang=es§{comparación irregular}lang=it§{comparazione irregolare}",
+                        "text": "{lang=fr§comparaison irrégulière}{lang=en§irregular comparison}{lang=de§unregelmäßige Steigerung}{lang=es§comparación irregular}{lang=it§comparazione irregolare}",
                         "optional": true,
                         "selectable": true,
                         "creation_date": "2026-08-22T00:00:00.000",
@@ -557,7 +557,7 @@
           },
           {
             "tag_id": "tag@E801F446-3136-590A-8515-A4BA52A2BFCE",
-            "text": "lang=fr§{formation du mot}lang=en§{word formation}lang=de§{Wortbildung}lang=es§{formación de palabras}lang=it§{formazione delle parole}",
+            "text": "{lang=fr§formation du mot}{lang=en§word formation}{lang=de§Wortbildung}{lang=es§formación de palabras}{lang=it§formazione delle parole}",
             "optional": false,
             "selectable": false,
             "creation_date": "2026-08-22T00:00:00.000",
@@ -565,7 +565,7 @@
             "tags": [
               {
                 "tag_id": "tag@57F32D0B-C810-5EBD-B63C-4F2AF3E50C07",
-                "text": "lang=fr§{abréviation}lang=en§{abbreviation}lang=de§{Abkürzung}lang=es§{abreviatura}lang=it§{abbreviazione}",
+                "text": "{lang=fr§abréviation}{lang=en§abbreviation}{lang=de§Abkürzung}{lang=es§abreviatura}{lang=it§abbreviazione}",
                 "optional": false,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -573,7 +573,7 @@
               },
               {
                 "tag_id": "tag@E9B3A8FB-96C0-5DE0-8252-9A925B60C0B0",
-                "text": "lang=en§{acronym}lang=fr§{acronyme}lang=de§{Akronym}lang=es§{acrónimo}lang=it§{acronimo}",
+                "text": "{lang=en§acronym}{lang=fr§acronyme}{lang=de§Akronym}{lang=es§acrónimo}{lang=it§acronimo}",
                 "optional": false,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -581,7 +581,7 @@
               },
               {
                 "tag_id": "tag@B15BDB25-6AE7-5CC9-AE26-06DB6B21ED29",
-                "text": "lang=fr§{sigle}lang=en§{initialism}lang=de§{Initialwort}lang=es§{sigla}lang=it§{sigla}",
+                "text": "{lang=fr§sigle}{lang=en§initialism}{lang=de§Initialwort}{lang=es§sigla}{lang=it§sigla}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -589,7 +589,7 @@
               },
               {
                 "tag_id": "tag@C6DC01FA-6FC6-5740-B1D2-0C1E237FC5CD",
-                "text": "lang=fr§{mot composé}lang=en§{compound}lang=de§{Kompositum}lang=es§{palabra compuesta}lang=it§{parola composta}",
+                "text": "{lang=fr§mot composé}{lang=en§compound}{lang=de§Kompositum}{lang=es§palabra compuesta}{lang=it§parola composta}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -597,7 +597,7 @@
               },
               {
                 "tag_id": "tag@64DFE0ED-8501-5DFC-94BB-E52F92197DA9",
-                "text": "lang=fr§{emprunt}lang=en§{loanword}lang=de§{Lehnwort}lang=es§{préstamo}lang=it§{prestito linguistico}",
+                "text": "{lang=fr§emprunt}{lang=en§loanword}{lang=de§Lehnwort}{lang=es§préstamo}{lang=it§prestito linguistico}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -605,7 +605,7 @@
               },
               {
                 "tag_id": "tag@11366ACB-CBC6-53AA-9568-1B410E5AC283",
-                "text": "lang=fr§{diminutif}lang=en§{diminutive}lang=de§{Diminutiv}lang=es§{diminutivo}lang=it§{diminutivo}",
+                "text": "{lang=fr§diminutif}{lang=en§diminutive}{lang=de§Diminutiv}{lang=es§diminutivo}{lang=it§diminutivo}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -613,7 +613,7 @@
               },
               {
                 "tag_id": "tag@2F5D4397-0712-5E70-93A1-D127DEBCC6B2",
-                "text": "lang=fr§{nom verbal (maṣdar)}lang=en§{verbal noun (masdar)}lang=de§{Verbalnomen (Masdar)}lang=es§{nombre verbal (masdar)}lang=it§{nome verbale (masdar)}",
+                "text": "{lang=fr§nom verbal (maṣdar)}{lang=en§verbal noun (masdar)}{lang=de§Verbalnomen (Masdar)}{lang=es§nombre verbal (masdar)}{lang=it§nome verbale (masdar)}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-10-05T00:00:00.000",
@@ -621,7 +621,7 @@
               },
               {
                 "tag_id": "tag@1C3189B0-D20E-5F13-BFFF-99CE6D343E51",
-                "text": "lang=fr§{adjectif de relation (nisba)}lang=en§{relational adjective (nisba)}lang=de§{Nisba-Adjektiv}lang=es§{adjetivo de relación (nisba)}lang=it§{aggettivo di relazione (nisba)}",
+                "text": "{lang=fr§adjectif de relation (nisba)}{lang=en§relational adjective (nisba)}{lang=de§Nisba-Adjektiv}{lang=es§adjetivo de relación (nisba)}{lang=it§aggettivo di relazione (nisba)}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-10-05T00:00:00.000",
@@ -631,7 +631,7 @@
           },
           {
             "tag_id": "tag@90D4A0A7-7ED3-5BCF-AB0D-D55E75EFE23C",
-            "text": "lang=fr§{type de contenu}lang=en§{content type}lang=de§{Inhaltstyp}lang=es§{tipo de contenido}lang=it§{tipo di contenuto}",
+            "text": "{lang=fr§type de contenu}{lang=en§content type}{lang=de§Inhaltstyp}{lang=es§tipo de contenido}{lang=it§tipo di contenuto}",
             "optional": false,
             "selectable": false,
             "creation_date": "2026-08-22T00:00:00.000",
@@ -639,7 +639,7 @@
             "tags": [
               {
                 "tag_id": "tag@D3A40884-CD81-588D-98C3-1A2393BF7A83",
-                "text": "lang=en§{question}lang=fr§{question}lang=de§{Frage}lang=es§{pregunta}lang=it§{domanda}",
+                "text": "{lang=en§question}{lang=fr§question}{lang=de§Frage}{lang=es§pregunta}{lang=it§domanda}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -647,7 +647,7 @@
               },
               {
                 "tag_id": "tag@3E486DCE-6405-59C5-BE74-E94E2EBAEFD5",
-                "text": "lang=en§{definition}lang=fr§{définition}lang=de§{Definition}lang=es§{definición}lang=it§{definizione}",
+                "text": "{lang=en§definition}{lang=fr§définition}{lang=de§Definition}{lang=es§definición}{lang=it§definizione}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -657,7 +657,7 @@
           },
           {
             "tag_id": "tag@FD3B7CDB-0501-5630-98A7-215B36AAF9C5",
-            "text": "lang=fr§{registre de langue}lang=en§{language register}lang=de§{Sprachregister}lang=es§{registro lingüístico}lang=it§{registro linguistico}",
+            "text": "{lang=fr§registre de langue}{lang=en§language register}{lang=de§Sprachregister}{lang=es§registro lingüístico}{lang=it§registro linguistico}",
             "optional": false,
             "selectable": false,
             "creation_date": "2026-08-22T00:00:00.000",
@@ -665,7 +665,7 @@
             "tags": [
               {
                 "tag_id": "tag@CD8F646A-1A76-587F-B436-76F172E0BECC",
-                "text": "lang=fr§{courant}lang=en§{common}lang=de§{gebräuchlich}lang=es§{común}lang=it§{comune}",
+                "text": "{lang=fr§courant}{lang=en§common}{lang=de§gebräuchlich}{lang=es§común}{lang=it§comune}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -673,7 +673,7 @@
               },
               {
                 "tag_id": "tag@88A62AA1-1505-5CBF-8CD9-5F286221ADC1",
-                "text": "lang=fr§{familier}lang=en§{colloquial}lang=de§{umgangssprachlich}lang=es§{coloquial}lang=it§{colloquiale}",
+                "text": "{lang=fr§familier}{lang=en§colloquial}{lang=de§umgangssprachlich}{lang=es§coloquial}{lang=it§colloquiale}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -681,7 +681,7 @@
               },
               {
                 "tag_id": "tag@5DA39454-6CB1-5B74-BCFC-C6256A01C779",
-                "text": "lang=fr§{soutenu}lang=en§{formal}lang=de§{gehoben}lang=es§{formal}lang=it§{formale}",
+                "text": "{lang=fr§soutenu}{lang=en§formal}{lang=de§gehoben}{lang=es§formal}{lang=it§formale}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -689,7 +689,7 @@
               },
               {
                 "tag_id": "tag@0F852AE9-34D2-5280-899B-61F8835EE980",
-                "text": "lang=fr§{technique}lang=en§{technical}lang=de§{fachsprachlich}lang=es§{técnico}lang=it§{tecnico}",
+                "text": "{lang=fr§technique}{lang=en§technical}{lang=de§fachsprachlich}{lang=es§técnico}{lang=it§tecnico}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -697,7 +697,7 @@
               },
               {
                 "tag_id": "tag@2BC3C00F-30AE-5120-8DE3-1425D9C3CB8C",
-                "text": "lang=fr§{argot}lang=en§{slang}lang=de§{Slang}lang=es§{argot}lang=it§{gergo}",
+                "text": "{lang=fr§argot}{lang=en§slang}{lang=de§Slang}{lang=es§argot}{lang=it§gergo}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -705,7 +705,7 @@
               },
               {
                 "tag_id": "tag@D4F75A21-FE02-5E4C-9DA8-83527879231E",
-                "text": "lang=fr§{vulgaire}lang=en§{vulgar}lang=de§{vulgär}lang=es§{vulgar}lang=it§{volgare}",
+                "text": "{lang=fr§vulgaire}{lang=en§vulgar}{lang=de§vulgär}{lang=es§vulgar}{lang=it§volgare}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -713,7 +713,7 @@
               },
               {
                 "tag_id": "tag@6232DB83-43CA-5028-A12D-2797A82B8795",
-                "text": "lang=fr§{régional}lang=en§{regional}lang=de§{regional}lang=es§{regional}lang=it§{regionale}",
+                "text": "{lang=fr§régional}{lang=en§regional}{lang=de§regional}{lang=es§regional}{lang=it§regionale}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -723,7 +723,7 @@
           },
           {
             "tag_id": "tag@836D2D1A-C4F7-5197-A696-9015E75B63E3",
-            "text": "lang=fr§{fréquence d'utilisation}lang=en§{usage frequency}lang=de§{Gebrauchshäufigkeit}lang=es§{frecuencia de uso}lang=it§{frequenza d'uso}",
+            "text": "{lang=fr§fréquence d'utilisation}{lang=en§usage frequency}{lang=de§Gebrauchshäufigkeit}{lang=es§frecuencia de uso}{lang=it§frequenza d'uso}",
             "optional": false,
             "selectable": false,
             "creation_date": "2026-08-22T00:00:00.000",
@@ -731,7 +731,7 @@
             "tags": [
               {
                 "tag_id": "tag@D878EBB5-2FC2-56F8-9D1C-F6C80A7CC38E",
-                "text": "lang=fr§{ultra-fréquent}lang=en§{ultra-frequent}lang=de§{ultrahäufig}lang=es§{ultrafrecuente}lang=it§{ultrafrequente}",
+                "text": "{lang=fr§ultra-fréquent}{lang=en§ultra-frequent}{lang=de§ultrahäufig}{lang=es§ultrafrecuente}{lang=it§ultrafrequente}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -739,7 +739,7 @@
               },
               {
                 "tag_id": "tag@03B140C1-CF1C-5C9E-8967-DD049D9C4F31",
-                "text": "lang=fr§{très fréquent}lang=en§{very frequent}lang=de§{sehr häufig}lang=es§{muy frecuente}lang=it§{molto frequente}",
+                "text": "{lang=fr§très fréquent}{lang=en§very frequent}{lang=de§sehr häufig}{lang=es§muy frecuente}{lang=it§molto frequente}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -747,7 +747,7 @@
               },
               {
                 "tag_id": "tag@97270442-D1DB-5B23-AFD7-8CABE11C560A",
-                "text": "lang=fr§{fréquent}lang=en§{frequent}lang=de§{häufig}lang=es§{frecuente}lang=it§{frequente}",
+                "text": "{lang=fr§fréquent}{lang=en§frequent}{lang=de§häufig}{lang=es§frecuente}{lang=it§frequente}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -755,7 +755,7 @@
               },
               {
                 "tag_id": "tag@BAE42FDC-FF6A-55A6-99B2-6F931F01A001",
-                "text": "lang=fr§{peu fréquent}lang=en§{infrequent}lang=de§{wenig häufig}lang=es§{poco frecuente}lang=it§{poco frequente}",
+                "text": "{lang=fr§peu fréquent}{lang=en§infrequent}{lang=de§wenig häufig}{lang=es§poco frecuente}{lang=it§poco frequente}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -763,7 +763,7 @@
               },
               {
                 "tag_id": "tag@F755A528-B1F8-5C4A-BD00-98A740008FA4",
-                "text": "lang=fr§{rare}lang=en§{rare}lang=de§{selten}lang=es§{raro}lang=it§{raro}",
+                "text": "{lang=fr§rare}{lang=en§rare}{lang=de§selten}{lang=es§raro}{lang=it§raro}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -771,7 +771,7 @@
               },
               {
                 "tag_id": "tag@A76A0478-8EA1-5ED9-9CEC-6C0277C67212",
-                "text": "lang=fr§{très rare}lang=en§{very rare}lang=de§{sehr selten}lang=es§{muy raro}lang=it§{molto raro}",
+                "text": "{lang=fr§très rare}{lang=en§very rare}{lang=de§sehr selten}{lang=es§muy raro}{lang=it§molto raro}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -781,7 +781,7 @@
           },
           {
             "tag_id": "tag@73FB3E73-CC96-58F0-AA0F-7C93C7A58137",
-            "text": "lang=fr§{niveau de maîtrise}lang=en§{proficiency level}lang=de§{Niveaustufe}lang=es§{nivel de dominio}lang=it§{livello di padronanza}",
+            "text": "{lang=fr§niveau de maîtrise}{lang=en§proficiency level}{lang=de§Niveaustufe}{lang=es§nivel de dominio}{lang=it§livello di padronanza}",
             "optional": false,
             "selectable": false,
             "creation_date": "2026-08-22T00:00:00.000",
@@ -789,7 +789,7 @@
             "tags": [
               {
                 "tag_id": "tag@F9F0CA22-FCBD-5A49-B14B-3C7DFFFC88F2",
-                "text": "lang=fr§{A1}lang=en§{A1}lang=de§{A1}lang=es§{A1}lang=it§{A1}",
+                "text": "{lang=fr§A1}{lang=en§A1}{lang=de§A1}{lang=es§A1}{lang=it§A1}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -797,7 +797,7 @@
               },
               {
                 "tag_id": "tag@3F6D1D74-5D04-5CFC-920B-61BAFA3394EF",
-                "text": "lang=fr§{A2}lang=en§{A2}lang=de§{A2}lang=es§{A2}lang=it§{A2}",
+                "text": "{lang=fr§A2}{lang=en§A2}{lang=de§A2}{lang=es§A2}{lang=it§A2}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -805,7 +805,7 @@
               },
               {
                 "tag_id": "tag@C20B531E-9B0E-5095-AC49-FD7F77A672F4",
-                "text": "lang=fr§{B1}lang=en§{B1}lang=de§{B1}lang=es§{B1}lang=it§{B1}",
+                "text": "{lang=fr§B1}{lang=en§B1}{lang=de§B1}{lang=es§B1}{lang=it§B1}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -813,7 +813,7 @@
               },
               {
                 "tag_id": "tag@DC1CD97D-F7AA-5B97-BD26-2CE58B126BCE",
-                "text": "lang=fr§{B2}lang=en§{B2}lang=de§{B2}lang=es§{B2}lang=it§{B2}",
+                "text": "{lang=fr§B2}{lang=en§B2}{lang=de§B2}{lang=es§B2}{lang=it§B2}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -821,7 +821,7 @@
               },
               {
                 "tag_id": "tag@54AB5EDE-5537-5B6F-9AD2-09D2F91BCAC2",
-                "text": "lang=fr§{C1}lang=en§{C1}lang=de§{C1}lang=es§{C1}lang=it§{C1}",
+                "text": "{lang=fr§C1}{lang=en§C1}{lang=de§C1}{lang=es§C1}{lang=it§C1}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -829,7 +829,7 @@
               },
               {
                 "tag_id": "tag@6F61BF87-1170-5A58-90BF-A36440601346",
-                "text": "lang=fr§{C2}lang=en§{C2}lang=de§{C2}lang=es§{C2}lang=it§{C2}",
+                "text": "{lang=fr§C2}{lang=en§C2}{lang=de§C2}{lang=es§C2}{lang=it§C2}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-08-22T00:00:00.000",
@@ -841,14 +841,14 @@
       },
       "tag": {
         "tag_id": "tag@79B23463-8932-5882-9ACB-4C8617147CA7",
-        "text": "lang=fr§{étiquettes}lang=en§{labels}lang=pt§{etiquetas}",
+        "text": "{lang=fr§étiquettes}{lang=en§labels}{lang=pt§etiquetas}",
         "optional": false,
         "selectable": false,
         "creation_date": "2026-09-02T00:00:00.000",
         "tags": [
           {
             "tag_id": "tag@DFAB863F-9A22-515E-8E03-5C9ED1DA3AE0",
-            "text": "lang=fr§{personne}lang=en§{person}lang=pt§{pessoa}",
+            "text": "{lang=fr§personne}{lang=en§person}{lang=pt§pessoa}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -856,7 +856,7 @@
             "tags": [
               {
                 "tag_id": "tag@FE2E6016-DD21-5FCD-B336-BE7C9BC33C47",
-                "text": "lang=fr§{famille}lang=en§{family}lang=pt§{família}",
+                "text": "{lang=fr§famille}{lang=en§family}{lang=pt§família}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -864,7 +864,7 @@
               },
               {
                 "tag_id": "tag@4109C826-F5A8-5BE9-B0AE-B890668AED7F",
-                "text": "lang=fr§{corps humain}lang=en§{human body}lang=pt§{corpo humano}",
+                "text": "{lang=fr§corps humain}{lang=en§human body}{lang=pt§corpo humano}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -872,7 +872,7 @@
               },
               {
                 "tag_id": "tag@B30DECCE-8271-5267-BDAA-74478836166F",
-                "text": "lang=fr§{santé}lang=en§{health}lang=pt§{saúde}",
+                "text": "{lang=fr§santé}{lang=en§health}{lang=pt§saúde}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -880,7 +880,7 @@
               },
               {
                 "tag_id": "tag@75CDF24F-8A66-57B6-A8A2-C68B7E19129C",
-                "text": "lang=fr§{âge}lang=en§{age}lang=pt§{idade}",
+                "text": "{lang=fr§âge}{lang=en§age}{lang=pt§idade}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -888,7 +888,7 @@
               },
               {
                 "tag_id": "tag@75A947A5-5494-5B79-B488-725849D38B1C",
-                "text": "lang=fr§{émotion}lang=en§{emotion}lang=pt§{emoção}",
+                "text": "{lang=fr§émotion}{lang=en§emotion}{lang=pt§emoção}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -896,7 +896,7 @@
               },
               {
                 "tag_id": "tag@FF6527F5-7D94-5D69-94A2-F3DAD6CBE408",
-                "text": "lang=fr§{caractère}lang=en§{personality}lang=pt§{personalidade}",
+                "text": "{lang=fr§caractère}{lang=en§personality}{lang=pt§personalidade}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -904,7 +904,7 @@
               },
               {
                 "tag_id": "tag@2AB186E2-9137-5230-B4DC-F1725DE063A4",
-                "text": "lang=fr§{relation sociale}lang=en§{social relation}lang=pt§{relação social}",
+                "text": "{lang=fr§relation sociale}{lang=en§social relation}{lang=pt§relação social}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -912,7 +912,7 @@
               },
               {
                 "tag_id": "tag@862D9141-73A3-5E1D-9ED8-2495B83FE238",
-                "text": "lang=fr§{vie}lang=en§{life}lang=pt§{vida}",
+                "text": "{lang=fr§vie}{lang=en§life}{lang=pt§vida}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -920,7 +920,7 @@
               },
               {
                 "tag_id": "tag@FADE7453-C601-5D90-89A6-C009F1D680C6",
-                "text": "lang=fr§{sommeil}lang=en§{sleep}lang=pt§{sono}",
+                "text": "{lang=fr§sommeil}{lang=en§sleep}{lang=pt§sono}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -930,7 +930,7 @@
           },
           {
             "tag_id": "tag@1CA26067-5374-5FBF-8B7F-2E6CA269CC2C",
-            "text": "lang=fr§{métier}lang=en§{occupation}lang=pt§{profissão}",
+            "text": "{lang=fr§métier}{lang=en§occupation}{lang=pt§profissão}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -938,7 +938,7 @@
           },
           {
             "tag_id": "tag@ACDF4108-AA24-5886-8507-BBAC4FE3787A",
-            "text": "lang=fr§{habitation}lang=en§{housing}lang=pt§{habitação}",
+            "text": "{lang=fr§habitation}{lang=en§housing}{lang=pt§habitação}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -946,7 +946,7 @@
             "tags": [
               {
                 "tag_id": "tag@E1C4EE2E-F975-5702-ACBA-41ED4B36F8A7",
-                "text": "lang=fr§{logement}lang=en§{dwelling}lang=pt§{alojamento}",
+                "text": "{lang=fr§logement}{lang=en§dwelling}{lang=pt§alojamento}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -954,7 +954,7 @@
               },
               {
                 "tag_id": "tag@A560E94E-81DF-5CC4-81F7-2458494B4D31",
-                "text": "lang=fr§{pièce du logement}lang=en§{room of a home}lang=pt§{divisão da casa}",
+                "text": "{lang=fr§pièce du logement}{lang=en§room of a home}{lang=pt§divisão da casa}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -962,7 +962,7 @@
               },
               {
                 "tag_id": "tag@A4BF9290-7106-5BFB-8CA5-77774063A85B",
-                "text": "lang=fr§{mobilier}lang=en§{furniture}lang=pt§{mobiliário}",
+                "text": "{lang=fr§mobilier}{lang=en§furniture}{lang=pt§mobiliário}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -972,7 +972,7 @@
           },
           {
             "tag_id": "tag@0A9BA451-F962-5B5C-B0E4-87D7E330CAA6",
-            "text": "lang=fr§{vêtement}lang=en§{clothing}lang=pt§{vestuário}",
+            "text": "{lang=fr§vêtement}{lang=en§clothing}{lang=pt§vestuário}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -980,7 +980,7 @@
           },
           {
             "tag_id": "tag@7424CEA4-C9DA-53FD-9DEC-7DB095297C74",
-            "text": "lang=fr§{alimentation}lang=en§{food and drink}lang=pt§{alimentação}",
+            "text": "{lang=fr§alimentation}{lang=en§food and drink}{lang=pt§alimentação}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -988,7 +988,7 @@
             "tags": [
               {
                 "tag_id": "tag@26029591-427D-582A-AE37-4D8243D2BCCC",
-                "text": "lang=fr§{aliment}lang=en§{food item}lang=pt§{alimento}",
+                "text": "{lang=fr§aliment}{lang=en§food item}{lang=pt§alimento}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -996,7 +996,7 @@
               },
               {
                 "tag_id": "tag@48E0643B-6F1F-5AFC-8D41-AD53B54B7CAF",
-                "text": "lang=fr§{boisson}lang=en§{drink}lang=pt§{bebida}",
+                "text": "{lang=fr§boisson}{lang=en§drink}{lang=pt§bebida}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1004,7 +1004,7 @@
               },
               {
                 "tag_id": "tag@88FBBCAB-61EC-5B1B-9BE6-517B1EBABAD7",
-                "text": "lang=fr§{repas}lang=en§{meal}lang=pt§{refeição}",
+                "text": "{lang=fr§repas}{lang=en§meal}{lang=pt§refeição}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1014,7 +1014,7 @@
           },
           {
             "tag_id": "tag@8AE1E93C-AA0E-5C0D-A437-8F394A87F6A3",
-            "text": "lang=fr§{lieu}lang=en§{place}lang=pt§{lugar}",
+            "text": "{lang=fr§lieu}{lang=en§place}{lang=pt§lugar}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1022,7 +1022,7 @@
             "tags": [
               {
                 "tag_id": "tag@6736E191-177C-56E4-94B5-49275C6B5A62",
-                "text": "lang=fr§{ville}lang=en§{town}lang=pt§{cidade}",
+                "text": "{lang=fr§ville}{lang=en§town}{lang=pt§cidade}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1030,7 +1030,7 @@
               },
               {
                 "tag_id": "tag@A56AC59A-9D9A-5828-83CA-542D25CF5D71",
-                "text": "lang=fr§{commerce}lang=en§{shop}lang=pt§{comércio}",
+                "text": "{lang=fr§commerce}{lang=en§shop}{lang=pt§comércio}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1038,7 +1038,7 @@
               },
               {
                 "tag_id": "tag@A0D756A7-F9A4-5E9C-AD11-7183C15F42A0",
-                "text": "lang=fr§{transport}lang=en§{transport}lang=pt§{transporte}",
+                "text": "{lang=fr§transport}{lang=en§transport}{lang=pt§transporte}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1046,7 +1046,7 @@
               },
               {
                 "tag_id": "tag@9D581143-A0A5-5F5F-8DCB-EDA27A737615",
-                "text": "lang=fr§{bâtiment public}lang=en§{public building}lang=pt§{edifício público}",
+                "text": "{lang=fr§bâtiment public}{lang=en§public building}{lang=pt§edifício público}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1056,7 +1056,7 @@
           },
           {
             "tag_id": "tag@C5C101CE-AC7B-50DE-B262-59D8F5C91954",
-            "text": "lang=fr§{nature}lang=en§{nature}lang=pt§{natureza}",
+            "text": "{lang=fr§nature}{lang=en§nature}{lang=pt§natureza}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1064,7 +1064,7 @@
             "tags": [
               {
                 "tag_id": "tag@F4B79364-448B-5790-A845-5A9A815E10F2",
-                "text": "lang=fr§{météo}lang=en§{weather}lang=pt§{meteorologia}",
+                "text": "{lang=fr§météo}{lang=en§weather}{lang=pt§meteorologia}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1072,7 +1072,7 @@
               },
               {
                 "tag_id": "tag@51172540-F9E7-506E-A1D8-F44FC6AC6A24",
-                "text": "lang=fr§{géographie}lang=en§{geography}lang=pt§{geografia}",
+                "text": "{lang=fr§géographie}{lang=en§geography}{lang=pt§geografia}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1080,7 +1080,7 @@
               },
               {
                 "tag_id": "tag@CB364E48-3DBD-5D7F-A5EC-A4A8C9FACC61",
-                "text": "lang=fr§{animal}lang=en§{animal}lang=pt§{animal}",
+                "text": "{lang=fr§animal}{lang=en§animal}{lang=pt§animal}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1088,7 +1088,7 @@
               },
               {
                 "tag_id": "tag@F5101454-847A-52DE-8FC7-F028ED42EA32",
-                "text": "lang=fr§{végétal}lang=en§{plant}lang=pt§{planta}",
+                "text": "{lang=fr§végétal}{lang=en§plant}{lang=pt§planta}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1096,7 +1096,7 @@
               },
               {
                 "tag_id": "tag@7CC658AF-13F8-5501-8F48-429826AECAAF",
-                "text": "lang=fr§{matière}lang=en§{material}lang=pt§{material}",
+                "text": "{lang=fr§matière}{lang=en§material}{lang=pt§material}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1106,7 +1106,7 @@
           },
           {
             "tag_id": "tag@AB09A8D9-61B9-567C-84C5-3FB1D4A79B88",
-            "text": "lang=fr§{repérage dans le temps}lang=en§{telling time}lang=pt§{localização no tempo}",
+            "text": "{lang=fr§repérage dans le temps}{lang=en§telling time}{lang=pt§localização no tempo}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1114,7 +1114,7 @@
             "tags": [
               {
                 "tag_id": "tag@7F23F797-58AB-5425-9477-67F980E1B454",
-                "text": "lang=fr§{calendrier}lang=en§{calendar}lang=pt§{calendário}",
+                "text": "{lang=fr§calendrier}{lang=en§calendar}{lang=pt§calendário}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1122,7 +1122,7 @@
               },
               {
                 "tag_id": "tag@28D07BB8-7D47-5E3D-BC02-F1BF58A65B62",
-                "text": "lang=fr§{moment de la journée}lang=en§{time of day}lang=pt§{momento do dia}",
+                "text": "{lang=fr§moment de la journée}{lang=en§time of day}{lang=pt§momento do dia}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1130,7 +1130,7 @@
               },
               {
                 "tag_id": "tag@E67608E8-E60B-56BD-AF24-B6ED37E5061C",
-                "text": "lang=fr§{saison}lang=en§{season}lang=pt§{estação do ano}",
+                "text": "{lang=fr§saison}{lang=en§season}{lang=pt§estação do ano}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1138,7 +1138,7 @@
               },
               {
                 "tag_id": "tag@D82E1D7A-5D81-5E70-BB10-9526DAFCECC6",
-                "text": "lang=fr§{durée}lang=en§{duration}lang=pt§{duração}",
+                "text": "{lang=fr§durée}{lang=en§duration}{lang=pt§duração}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1146,7 +1146,7 @@
               },
               {
                 "tag_id": "tag@BF033583-3FAA-54E4-BBF2-D163BB8610B1",
-                "text": "lang=fr§{fréquence}lang=en§{frequency}lang=pt§{frequência}",
+                "text": "{lang=fr§fréquence}{lang=en§frequency}{lang=pt§frequência}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1156,7 +1156,7 @@
           },
           {
             "tag_id": "tag@7EE728E0-246E-5563-B808-6D24E18B1C40",
-            "text": "lang=fr§{couleur}lang=en§{colour}lang=pt§{cor}",
+            "text": "{lang=fr§couleur}{lang=en§colour}{lang=pt§cor}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1164,7 +1164,7 @@
           },
           {
             "tag_id": "tag@C81E0774-3663-5E00-AD88-B54CFB99C91A",
-            "text": "lang=fr§{nombre}lang=en§{number}lang=pt§{número}",
+            "text": "{lang=fr§nombre}{lang=en§number}{lang=pt§número}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1172,7 +1172,7 @@
           },
           {
             "tag_id": "tag@65E50068-C54B-56D3-BCC8-D9F7F81F80B3",
-            "text": "lang=fr§{communication}lang=en§{communication}lang=pt§{comunicação}",
+            "text": "{lang=fr§communication}{lang=en§communication}{lang=pt§comunicação}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1180,7 +1180,7 @@
             "tags": [
               {
                 "tag_id": "tag@BC8E3F6F-8E44-5459-9858-0462C4BB4E03",
-                "text": "lang=fr§{langue}lang=en§{language}lang=pt§{língua}",
+                "text": "{lang=fr§langue}{lang=en§language}{lang=pt§língua}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1188,7 +1188,7 @@
               },
               {
                 "tag_id": "tag@06E8F03E-F49B-535F-8391-3699031E2CEB",
-                "text": "lang=fr§{média}lang=en§{media}lang=pt§{meios de comunicação}",
+                "text": "{lang=fr§média}{lang=en§media}{lang=pt§meios de comunicação}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1196,7 +1196,7 @@
               },
               {
                 "tag_id": "tag@5FF13CD3-C682-594B-8150-22154A41491C",
-                "text": "lang=fr§{parole}lang=en§{speech}lang=pt§{fala}",
+                "text": "{lang=fr§parole}{lang=en§speech}{lang=pt§fala}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1206,7 +1206,7 @@
           },
           {
             "tag_id": "tag@E523C12C-386C-53A6-B640-E01A301779D1",
-            "text": "lang=fr§{enseignement}lang=en§{education}lang=pt§{ensino}",
+            "text": "{lang=fr§enseignement}{lang=en§education}{lang=pt§ensino}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1214,7 +1214,7 @@
           },
           {
             "tag_id": "tag@3BFC6A69-86EB-538D-B06B-CED2F26DD986",
-            "text": "lang=fr§{argent}lang=en§{money}lang=pt§{dinheiro}",
+            "text": "{lang=fr§argent}{lang=en§money}{lang=pt§dinheiro}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1222,7 +1222,7 @@
           },
           {
             "tag_id": "tag@728C61C2-F5FF-53A0-A2C8-4F6A34CCF591",
-            "text": "lang=fr§{monde du travail}lang=en§{world of work}lang=pt§{mundo do trabalho}",
+            "text": "{lang=fr§monde du travail}{lang=en§world of work}{lang=pt§mundo do trabalho}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1230,7 +1230,7 @@
           },
           {
             "tag_id": "tag@ACB989DE-5154-5252-8C07-AD6F0CDA7642",
-            "text": "lang=fr§{institution}lang=en§{institution}lang=pt§{instituição}",
+            "text": "{lang=fr§institution}{lang=en§institution}{lang=pt§instituição}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1238,7 +1238,7 @@
             "tags": [
               {
                 "tag_id": "tag@FE3D0DEB-643F-5F42-B752-C49C9076BEC7",
-                "text": "lang=fr§{nationalité}lang=en§{nationality}lang=pt§{nacionalidade}",
+                "text": "{lang=fr§nationalité}{lang=en§nationality}{lang=pt§nacionalidade}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1248,7 +1248,7 @@
           },
           {
             "tag_id": "tag@7D130570-9BB0-5DE0-B6CE-0F713E782B57",
-            "text": "lang=fr§{loisir}lang=en§{leisure}lang=pt§{lazer}",
+            "text": "{lang=fr§loisir}{lang=en§leisure}{lang=pt§lazer}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1256,7 +1256,7 @@
             "tags": [
               {
                 "tag_id": "tag@99101CC2-6BC7-5B82-843F-26C019E9EF75",
-                "text": "lang=fr§{sport}lang=en§{sport}lang=pt§{desporto}",
+                "text": "{lang=fr§sport}{lang=en§sport}{lang=pt§desporto}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1264,7 +1264,7 @@
               },
               {
                 "tag_id": "tag@60C0A4F7-0ADB-5361-9E8A-2C409CA9EB05",
-                "text": "lang=fr§{art}lang=en§{art}lang=pt§{arte}",
+                "text": "{lang=fr§art}{lang=en§art}{lang=pt§arte}",
                 "optional": true,
                 "selectable": true,
                 "creation_date": "2026-09-02T00:00:00.000",
@@ -1274,7 +1274,7 @@
           },
           {
             "tag_id": "tag@B456042B-A3F8-531A-89BE-E00CE76AD50D",
-            "text": "lang=fr§{politesse}lang=en§{politeness}lang=pt§{cortesia}",
+            "text": "{lang=fr§politesse}{lang=en§politeness}{lang=pt§cortesia}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1282,7 +1282,7 @@
           },
           {
             "tag_id": "tag@DF15E677-7EC3-5D98-B2A3-892CBF5F7A33",
-            "text": "lang=fr§{quantité}lang=en§{quantity}lang=pt§{quantidade}",
+            "text": "{lang=fr§quantité}{lang=en§quantity}{lang=pt§quantidade}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1290,7 +1290,7 @@
           },
           {
             "tag_id": "tag@463F9DF0-43F3-5831-9C53-681D2C75F799",
-            "text": "lang=fr§{droit}lang=en§{law}lang=pt§{direito}",
+            "text": "{lang=fr§droit}{lang=en§law}{lang=pt§direito}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1298,7 +1298,7 @@
           },
           {
             "tag_id": "tag@11A27D35-DEEB-5C67-8A52-FB7727F6D161",
-            "text": "lang=fr§{religion}lang=en§{religion}lang=pt§{religião}",
+            "text": "{lang=fr§religion}{lang=en§religion}{lang=pt§religião}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1306,7 +1306,7 @@
           },
           {
             "tag_id": "tag@7B65D1DA-8A19-58AC-8383-2D7461B25730",
-            "text": "lang=fr§{pensée}lang=en§{thought}lang=pt§{pensamento}",
+            "text": "{lang=fr§pensée}{lang=en§thought}{lang=pt§pensamento}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1314,7 +1314,7 @@
           },
           {
             "tag_id": "tag@10A53A36-9F0E-5D8B-AD8E-4627683AE3EA",
-            "text": "lang=fr§{volonté}lang=en§{will}lang=pt§{vontade}",
+            "text": "{lang=fr§volonté}{lang=en§will}{lang=pt§vontade}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1322,7 +1322,7 @@
           },
           {
             "tag_id": "tag@FCD49DE5-2122-5310-94B7-582079038E29",
-            "text": "lang=fr§{action}lang=en§{action}lang=pt§{ação}",
+            "text": "{lang=fr§action}{lang=en§action}{lang=pt§ação}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1330,7 +1330,7 @@
           },
           {
             "tag_id": "tag@034D5D31-A01D-53C3-A9BC-156E2F4048DC",
-            "text": "lang=fr§{perception}lang=en§{perception}lang=pt§{perceção}",
+            "text": "{lang=fr§perception}{lang=en§perception}{lang=pt§perceção}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1338,7 +1338,7 @@
           },
           {
             "tag_id": "tag@04048254-0AFB-56D5-98B7-8E062EA6F5E9",
-            "text": "lang=fr§{déplacement}lang=en§{getting around}lang=pt§{deslocação}",
+            "text": "{lang=fr§déplacement}{lang=en§getting around}{lang=pt§deslocação}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1346,7 +1346,7 @@
           },
           {
             "tag_id": "tag@8A6C44EB-73E1-57C7-9E95-593B0A308186",
-            "text": "lang=fr§{geste}lang=en§{gesture}lang=pt§{gesto}",
+            "text": "{lang=fr§geste}{lang=en§gesture}{lang=pt§gesto}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1354,7 +1354,7 @@
           },
           {
             "tag_id": "tag@561CE87F-76E2-5A19-9241-A3BFA4378155",
-            "text": "lang=fr§{échange}lang=en§{exchange}lang=pt§{troca}",
+            "text": "{lang=fr§échange}{lang=en§exchange}{lang=pt§troca}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1362,7 +1362,7 @@
           },
           {
             "tag_id": "tag@E9558077-4F14-5BA2-B3E1-FAA0DEBAC233",
-            "text": "lang=fr§{objet}lang=en§{object}lang=pt§{objeto}",
+            "text": "{lang=fr§objet}{lang=en§object}{lang=pt§objeto}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1370,7 +1370,7 @@
           },
           {
             "tag_id": "tag@69E15B41-C097-5263-A6A2-097AF945D828",
-            "text": "lang=fr§{qualité}lang=en§{quality}lang=pt§{qualidade}",
+            "text": "{lang=fr§qualité}{lang=en§quality}{lang=pt§qualidade}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1378,7 +1378,7 @@
           },
           {
             "tag_id": "tag@673900D1-5575-5A1A-B14B-DAE66E8B1F5E",
-            "text": "lang=fr§{dimension}lang=en§{size}lang=pt§{dimensão}",
+            "text": "{lang=fr§dimension}{lang=en§size}{lang=pt§dimensão}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1386,7 +1386,7 @@
           },
           {
             "tag_id": "tag@C7E314BC-BAB4-5706-8EE3-DB855ADF89BD",
-            "text": "lang=fr§{état}lang=en§{condition}lang=pt§{estado}",
+            "text": "{lang=fr§état}{lang=en§condition}{lang=pt§estado}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1394,7 +1394,7 @@
           },
           {
             "tag_id": "tag@8E91C0E2-0AF9-57C6-876F-71E20D7F3C98",
-            "text": "lang=fr§{voyage}lang=en§{travel}lang=pt§{viagem}",
+            "text": "{lang=fr§voyage}{lang=en§travel}{lang=pt§viagem}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",
@@ -1402,7 +1402,7 @@
           },
           {
             "tag_id": "tag@09E8E7D2-9F2F-5109-B094-433E99779EAB",
-            "text": "lang=fr§{fête}lang=en§{celebration}lang=pt§{festa}",
+            "text": "{lang=fr§fête}{lang=en§celebration}{lang=pt§festa}",
             "optional": true,
             "selectable": true,
             "creation_date": "2026-09-02T00:00:00.000",

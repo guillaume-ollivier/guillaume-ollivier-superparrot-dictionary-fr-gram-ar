@@ -1,0 +1,18 @@
+﻿topic;item;attribute;section;index;locale;value
+0081-1;_;title;;;fr-FR;Il au présent
+;;;;;ar-SA;هو في المضارع
+;;wording;;;fr-FR;Conjuguez à l'inaccompli
+;;;;;ar-SA;صرّف في المضارع
+;;categories;;;;niv-a1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§هو (يكتب)}
+;;answer;;;;{?1§يكتب}
+;2;question;;;;{?1§هي (يذهب)}
+;;answer;;;;{?1§تذهب}
+;3;question;;;;{?1§أنا (يشرب)}
+;;answer;;;;{?1§{أشرب|اشرب}}
+;4;question;;;;{?1§نحن (يجلس)}
+;;answer;;;;{?1§نجلس}
+;5;question;;;;{?1§هو (يخرج)}
+;;answer;;;;{?1§يخرج}

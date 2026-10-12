@@ -1,0 +1,205 @@
+﻿reference;parent;locale;tag;selectable;optional;description;creation_date
+personne;;fr;personne;x;x;;2026-09-02T00:00:00.000
+;;en;person;;;;
+;;pt;pessoa;;;;
+famille;personne;fr;famille;x;x;;2026-09-02T00:00:00.000
+;;en;family;;;;
+;;pt;família;;;;
+corps;personne;fr;corps humain;x;x;;2026-09-02T00:00:00.000
+;;en;human body;;;;
+;;pt;corpo humano;;;;
+sante;personne;fr;santé;x;x;;2026-09-02T00:00:00.000
+;;en;health;;;;
+;;pt;saúde;;;;
+age-etat;personne;fr;âge;x;x;;2026-09-02T00:00:00.000
+;;en;age;;;;
+;;pt;idade;;;;
+emotion;personne;fr;émotion;x;x;;2026-09-02T00:00:00.000
+;;en;emotion;;;;
+;;pt;emoção;;;;
+caractere;personne;fr;caractère;x;x;;2026-09-02T00:00:00.000
+;;en;personality;;;;
+;;pt;personalidade;;;;
+relation;personne;fr;relation sociale;x;x;;2026-09-02T00:00:00.000
+;;en;social relation;;;;
+;;pt;relação social;;;;
+vie;personne;fr;vie;x;x;;2026-09-02T00:00:00.000
+;;en;life;;;;
+;;pt;vida;;;;
+sommeil;personne;fr;sommeil;x;x;;2026-09-02T00:00:00.000
+;;en;sleep;;;;
+;;pt;sono;;;;
+metier;;fr;métier;x;x;;2026-09-02T00:00:00.000
+;;en;occupation;;;;
+;;pt;profissão;;;;
+habitation;;fr;habitation;x;x;;2026-09-02T00:00:00.000
+;;en;housing;;;;
+;;pt;habitação;;;;
+logement;habitation;fr;logement;x;x;;2026-09-02T00:00:00.000
+;;en;dwelling;;;;
+;;pt;alojamento;;;;
+piece;habitation;fr;pièce du logement;x;x;;2026-09-02T00:00:00.000
+;;en;room of a home;;;;
+;;pt;divisão da casa;;;;
+mobilier;habitation;fr;mobilier;x;x;;2026-09-02T00:00:00.000
+;;en;furniture;;;;
+;;pt;mobiliário;;;;
+vetement;;fr;vêtement;x;x;;2026-09-02T00:00:00.000
+;;en;clothing;;;;
+;;pt;vestuário;;;;
+alimentation;;fr;alimentation;x;x;;2026-09-02T00:00:00.000
+;;en;food and drink;;;;
+;;pt;alimentação;;;;
+aliment;alimentation;fr;aliment;x;x;;2026-09-02T00:00:00.000
+;;en;food item;;;;
+;;pt;alimento;;;;
+boisson;alimentation;fr;boisson;x;x;;2026-09-02T00:00:00.000
+;;en;drink;;;;
+;;pt;bebida;;;;
+repas;alimentation;fr;repas;x;x;;2026-09-02T00:00:00.000
+;;en;meal;;;;
+;;pt;refeição;;;;
+lieu;;fr;lieu;x;x;;2026-09-02T00:00:00.000
+;;en;place;;;;
+;;pt;lugar;;;;
+ville;lieu;fr;ville;x;x;;2026-09-02T00:00:00.000
+;;en;town;;;;
+;;pt;cidade;;;;
+commerce;lieu;fr;commerce;x;x;;2026-09-02T00:00:00.000
+;;en;shop;;;;
+;;pt;comércio;;;;
+transport;lieu;fr;transport;x;x;;2026-09-02T00:00:00.000
+;;en;transport;;;;
+;;pt;transporte;;;;
+batiment;lieu;fr;bâtiment public;x;x;;2026-09-02T00:00:00.000
+;;en;public building;;;;
+;;pt;edifício público;;;;
+nature;;fr;nature;x;x;;2026-09-02T00:00:00.000
+;;en;nature;;;;
+;;pt;natureza;;;;
+meteo;nature;fr;météo;x;x;;2026-09-02T00:00:00.000
+;;en;weather;;;;
+;;pt;meteorologia;;;;
+geographie;nature;fr;géographie;x;x;;2026-09-02T00:00:00.000
+;;en;geography;;;;
+;;pt;geografia;;;;
+animal;nature;fr;animal;x;x;;2026-09-02T00:00:00.000
+;;en;animal;;;;
+;;pt;animal;;;;
+vegetal;nature;fr;végétal;x;x;;2026-09-02T00:00:00.000
+;;en;plant;;;;
+;;pt;planta;;;;
+matiere;nature;fr;matière;x;x;;2026-09-02T00:00:00.000
+;;en;material;;;;
+;;pt;material;;;;
+temps;;fr;repérage dans le temps;x;x;;2026-09-02T00:00:00.000
+;;en;telling time;;;;
+;;pt;localização no tempo;;;;
+calendrier;temps;fr;calendrier;x;x;;2026-09-02T00:00:00.000
+;;en;calendar;;;;
+;;pt;calendário;;;;
+moment;temps;fr;moment de la journée;x;x;;2026-09-02T00:00:00.000
+;;en;time of day;;;;
+;;pt;momento do dia;;;;
+saison;temps;fr;saison;x;x;;2026-09-02T00:00:00.000
+;;en;season;;;;
+;;pt;estação do ano;;;;
+duree;temps;fr;durée;x;x;;2026-09-02T00:00:00.000
+;;en;duration;;;;
+;;pt;duração;;;;
+frequence;temps;fr;fréquence;x;x;;2026-09-02T00:00:00.000
+;;en;frequency;;;;
+;;pt;frequência;;;;
+couleur;;fr;couleur;x;x;;2026-09-02T00:00:00.000
+;;en;colour;;;;
+;;pt;cor;;;;
+nombre;;fr;nombre;x;x;;2026-09-02T00:00:00.000
+;;en;number;;;;
+;;pt;número;;;;
+communication;;fr;communication;x;x;;2026-09-02T00:00:00.000
+;;en;communication;;;;
+;;pt;comunicação;;;;
+langue-ecrit;communication;fr;langue;x;x;;2026-09-02T00:00:00.000
+;;en;language;;;;
+;;pt;língua;;;;
+media;communication;fr;média;x;x;;2026-09-02T00:00:00.000
+;;en;media;;;;
+;;pt;meios de comunicação;;;;
+parole;communication;fr;parole;x;x;;2026-09-02T00:00:00.000
+;;en;speech;;;;
+;;pt;fala;;;;
+ecole;;fr;enseignement;x;x;;2026-09-02T00:00:00.000
+;;en;education;;;;
+;;pt;ensino;;;;
+argent;;fr;argent;x;x;;2026-09-02T00:00:00.000
+;;en;money;;;;
+;;pt;dinheiro;;;;
+travail;;fr;monde du travail;x;x;;2026-09-02T00:00:00.000
+;;en;world of work;;;;
+;;pt;mundo do trabalho;;;;
+institution;;fr;institution;x;x;;2026-09-02T00:00:00.000
+;;en;institution;;;;
+;;pt;instituição;;;;
+nationalite;institution;fr;nationalité;x;x;;2026-09-02T00:00:00.000
+;;en;nationality;;;;
+;;pt;nacionalidade;;;;
+loisir;;fr;loisir;x;x;;2026-09-02T00:00:00.000
+;;en;leisure;;;;
+;;pt;lazer;;;;
+sport;loisir;fr;sport;x;x;;2026-09-02T00:00:00.000
+;;en;sport;;;;
+;;pt;desporto;;;;
+art;loisir;fr;art;x;x;;2026-09-02T00:00:00.000
+;;en;art;;;;
+;;pt;arte;;;;
+communication-orale;;fr;politesse;x;x;;2026-09-02T00:00:00.000
+;;en;politeness;;;;
+;;pt;cortesia;;;;
+quantite;;fr;quantité;x;x;;2026-09-02T00:00:00.000
+;;en;quantity;;;;
+;;pt;quantidade;;;;
+droit;;fr;droit;x;x;;2026-09-02T00:00:00.000
+;;en;law;;;;
+;;pt;direito;;;;
+religion;;fr;religion;x;x;;2026-09-02T00:00:00.000
+;;en;religion;;;;
+;;pt;religião;;;;
+pensee;;fr;pensée;x;x;;2026-09-02T00:00:00.000
+;;en;thought;;;;
+;;pt;pensamento;;;;
+volonte;;fr;volonté;x;x;;2026-09-02T00:00:00.000
+;;en;will;;;;
+;;pt;vontade;;;;
+action;;fr;action;x;x;;2026-09-02T00:00:00.000
+;;en;action;;;;
+;;pt;ação;;;;
+perception;;fr;perception;x;x;;2026-09-02T00:00:00.000
+;;en;perception;;;;
+;;pt;perceção;;;;
+deplacement;;fr;déplacement;x;x;;2026-09-02T00:00:00.000
+;;en;getting around;;;;
+;;pt;deslocação;;;;
+geste;;fr;geste;x;x;;2026-09-02T00:00:00.000
+;;en;gesture;;;;
+;;pt;gesto;;;;
+echange;;fr;échange;x;x;;2026-09-02T00:00:00.000
+;;en;exchange;;;;
+;;pt;troca;;;;
+objet;;fr;objet;x;x;;2026-09-02T00:00:00.000
+;;en;object;;;;
+;;pt;objeto;;;;
+qualite;;fr;qualité;x;x;;2026-09-02T00:00:00.000
+;;en;quality;;;;
+;;pt;qualidade;;;;
+dimension;;fr;dimension;x;x;;2026-09-02T00:00:00.000
+;;en;size;;;;
+;;pt;dimensão;;;;
+etat;;fr;état;x;x;;2026-09-02T00:00:00.000
+;;en;condition;;;;
+;;pt;estado;;;;
+voyage;;fr;voyage;x;x;;2026-09-02T00:00:00.000
+;;en;travel;;;;
+;;pt;viagem;;;;
+fete;;fr;fête;x;x;;2026-09-02T00:00:00.000
+;;en;celebration;;;;
+;;pt;festa;;;;

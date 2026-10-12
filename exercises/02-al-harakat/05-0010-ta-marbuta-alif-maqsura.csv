@@ -1,0 +1,20 @@
+﻿topic;item;attribute;section;index;locale;value
+0010-1;_;title;;;fr-FR;Tāʾ marbūṭa et alif maqṣūra
+;;;;;ar-SA;التاء المربوطة والألف المقصورة
+;;wording;;;fr-FR;Écrivez en arabe
+;;;;;ar-SA;اكتب بالعربية
+;;categories;;;;niv-a1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§madrasa (école)}
+;;answer;;;;{?1§مدرسة}
+;2;question;;;;{?1§sayyāra (voiture)}
+;;answer;;;;{?1§سيارة}
+;3;question;;;;{?1§ʿalā (sur)}
+;;answer;;;;{?1§على}
+;4;question;;;;{?1§mustašfā (hôpital)}
+;;answer;;;;{?1§مستشفى}
+;5;question;;;;{?1§ṭāwila (table)}
+;;answer;;;;{?1§طاولة}
+;6;question;;;;{?1§maʿnā (sens)}
+;;answer;;;;{?1§معنى}

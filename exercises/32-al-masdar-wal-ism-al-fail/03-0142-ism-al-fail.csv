@@ -1,0 +1,33 @@
+﻿topic;item;attribute;section;index;locale;value
+0142-1;_;title;;;fr-FR;Participe actif
+;;;;;ar-SA;اسم الفاعل
+;;wording;;;fr-FR;Formez le participe actif
+;;;;;ar-SA;اكتب اسم الفاعل
+;;categories;;;;niv-b1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§ذهب}
+;;answer;;;;{?1§ذاهب}
+;2;question;;;;{?1§سكن}
+;;answer;;;;{?1§ساكن}
+;3;question;;;;{?1§فهم}
+;;answer;;;;{?1§فاهم}
+;4;question;;;;{?1§درّس}
+;;answer;;;;{?1§مدرس}
+;5;question;;;;{?1§ساعد}
+;;answer;;;;{?1§مساعد}
+;6;question;;;;{?1§استعمل}
+;;answer;;;;{?1§مستعمل}
+0142-2;_;title;;;fr-FR;Participe en phrase
+;;;;;ar-SA;اسم الفاعل في جملة
+;;wording;;;fr-FR;Traduisez avec un participe
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-b1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§Je vais au marché. (homme)}
+;;answer;;;;{?1§{أنا ذاهب إلى السوق|انا ذاهب الى السوق}}{type=affix§.}
+;2;question;;;;{?1§Je vais au marché. (femme)}
+;;answer;;;;{?1§{أنا ذاهبة إلى السوق|انا ذاهبة الى السوق}}{type=affix§.}
+;3;question;;;;{?1§Tu as compris ? (à un homme)}
+;;answer;;;;{?1§{هل أنت فاهم|هل انت فاهم|أنت فاهم|انت فاهم}}{type=affix§؟}

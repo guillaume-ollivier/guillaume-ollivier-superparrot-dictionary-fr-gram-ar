@@ -1,0 +1,20 @@
+﻿topic;item;attribute;section;index;locale;value
+0077-1;_;title;;;fr-FR;L'accompli au pluriel
+;;;;;ar-SA;الماضي الجمع
+;;wording;;;fr-FR;Conjuguez à l'accompli
+;;;;;ar-SA;صرّف في الماضي
+;;categories;;;;niv-a1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§نحن (كتب)}
+;;answer;;;;{?1§كتبنا}
+;2;question;;;;{?1§هم (ذهب)}
+;;answer;;;;{?1§ذهبوا}
+;3;question;;;;{?1§أنتم (شرب)}
+;;answer;;;;{?1§شربتم}
+;4;question;;;;{?1§هن (درس)}
+;;answer;;;;{?1§درسن}
+;5;question;;;;{?1§نحن (خرج)}
+;;answer;;;;{?1§خرجنا}
+;6;question;;;;{?1§هم (جلس)}
+;;answer;;;;{?1§جلسوا}

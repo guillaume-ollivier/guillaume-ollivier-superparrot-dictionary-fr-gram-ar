@@ -1,0 +1,33 @@
+﻿topic;item;attribute;section;index;locale;value
+0071-1;_;title;;;fr-FR;Les dizaines
+;;;;;ar-SA;العقود
+;;wording;;;fr-FR;Écrivez le nombre en lettres (forme sujet)
+;;;;;ar-SA;اكتب العدد
+;;categories;;;;niv-a2
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§٢٠}
+;;answer;;;;{?1§عشرون}
+;2;question;;;;{?1§٣٠}
+;;answer;;;;{?1§ثلاثون}
+;3;question;;;;{?1§٤٠}
+;;answer;;;;{?1§{أربعون|اربعون}}
+;4;question;;;;{?1§٥٠}
+;;answer;;;;{?1§خمسون}
+;5;question;;;;{?1§٢٥}
+;;answer;;;;{?1§خمسة وعشرون}
+;6;question;;;;{?1§٤٣}
+;;answer;;;;{?1§{ثلاثة وأربعون|ثلاثة واربعون}}
+0071-2;_;title;;;fr-FR;L'âge
+;;;;;ar-SA;العمر
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-a2
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§J'ai trente ans}{type=affix§.}
+;;answer;;;;{?1§عمري ثلاثون سنة}{type=affix§.}
+;2;question;;;;{?1§J'ai vingt ans}{type=affix§.}
+;;answer;;;;{?1§عمري عشرون سنة}{type=affix§.}
+;3;question;;;;{?1§cinquante étudiants}
+;;answer;;;;{?1§خمسون طالبا}

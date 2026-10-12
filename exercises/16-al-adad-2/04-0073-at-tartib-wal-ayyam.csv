@@ -1,0 +1,37 @@
+﻿topic;item;attribute;section;index;locale;value
+0073-1;_;title;;;fr-FR;Ordinaux
+;;;;;ar-SA;الأعداد الترتيبية
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-a2
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§la première leçon}
+;;answer;;;;{?1§{الدرس الأول|الدرس الاول}}
+;2;question;;;;{?1§la deuxième leçon}
+;;answer;;;;{?1§الدرس الثاني}
+;3;question;;;;{?1§la troisième année}
+;;answer;;;;{?1§السنة الثالثة}
+;4;question;;;;{?1§la première fois}
+;;answer;;;;{?1§{المرة الأولى|المرة الاولى}}
+0073-2;_;title;;;fr-FR;Jours de la semaine
+;;;;;ar-SA;أيام الأسبوع
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-a2
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§dimanche}
+;;answer;;;;{?1§{الأحد|الاحد}}
+;2;question;;;;{?1§lundi}
+;;answer;;;;{?1§الاثنين}
+;3;question;;;;{?1§mardi}
+;;answer;;;;{?1§الثلاثاء}
+;4;question;;;;{?1§mercredi}
+;;answer;;;;{?1§{الأربعاء|الاربعاء}}
+;5;question;;;;{?1§jeudi}
+;;answer;;;;{?1§الخميس}
+;6;question;;;;{?1§vendredi}
+;;answer;;;;{?1§الجمعة}
+;7;question;;;;{?1§samedi}
+;;answer;;;;{?1§السبت}

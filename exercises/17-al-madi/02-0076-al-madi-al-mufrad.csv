@@ -1,0 +1,35 @@
+﻿topic;item;attribute;section;index;locale;value
+0076-1;_;title;;;fr-FR;L'accompli au singulier
+;;;;;ar-SA;الماضي المفرد
+;;wording;;;fr-FR;Conjuguez à l'accompli
+;;;;;ar-SA;صرّف في الماضي
+;;categories;;;;niv-a1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§أنا (كتب)}
+;;answer;;;;{?1§كتبت}
+;2;question;;;;{?1§هو (ذهب)}
+;;answer;;;;{?1§ذهب}
+;3;question;;;;{?1§هي (شرب)}
+;;answer;;;;{?1§شربت}
+;4;question;;;;{?1§أنا (درس)}
+;;answer;;;;{?1§درست}
+;5;question;;;;{?1§هو (جلس)}
+;;answer;;;;{?1§جلس}
+;6;question;;;;{?1§أنت (خرج)}
+;;answer;;;;{?1§خرجت}
+0076-2;_;title;;;fr-FR;Phrases au passé
+;;;;;ar-SA;جمل في الماضي
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-a1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§J'ai étudié l'arabe}{type=affix§.}
+;;answer;;;;{?1§درست العربية}{type=affix§.}
+;2;question;;;;{?1§Elle est sortie}{type=affix§.}
+;;answer;;;;{?1§خرجت}{type=affix§.}
+;3;question;;;;{?1§Il a bu le café}{type=affix§.}
+;;answer;;;;{?1§شرب القهوة}{type=affix§.}
+;4;question;;;;{?1§Tu es allé au marché}{type=affix§?}
+;;answer;;;;{?1§{هل ذهبت إلى السوق|هل ذهبت الى السوق|ذهبت إلى السوق|ذهبت الى السوق}}{type=affix§؟}

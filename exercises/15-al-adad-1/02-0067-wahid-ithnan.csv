@@ -1,0 +1,18 @@
+﻿topic;item;attribute;section;index;locale;value
+0067-1;_;title;;;fr-FR;Un et deux
+;;;;;ar-SA;واحد واثنان
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-a1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§une seule question}
+;;answer;;;;{?1§سؤال واحد}
+;2;question;;;;{?1§une seule voiture}
+;;answer;;;;{?1§سيارة واحدة}
+;3;question;;;;{?1§deux livres}
+;;answer;;;;{?1§كتابان}
+;4;question;;;;{?1§deux voitures}
+;;answer;;;;{?1§سيارتان}
+;5;question;;;;{?1§deux jours}
+;;answer;;;;{?1§يومان}

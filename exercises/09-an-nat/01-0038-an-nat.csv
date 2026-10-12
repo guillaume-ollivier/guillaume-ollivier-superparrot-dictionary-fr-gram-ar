@@ -1,0 +1,22 @@
+﻿topic;item;attribute;section;index;locale;value
+0038-1;_;title;;;fr-FR;Nom et adjectif
+;;;;;ar-SA;الصفة والموصوف
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-a1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§une grande maison}
+;;answer;;;;{?1§بيت كبير}
+;2;question;;;;{?1§la grande maison}
+;;answer;;;;{?1§البيت الكبير}
+;3;question;;;;{?1§une voiture neuve}
+;;answer;;;;{?1§سيارة جديدة}
+;4;question;;;;{?1§la voiture neuve}
+;;answer;;;;{?1§السيارة الجديدة}
+;5;question;;;;{?1§la belle ville}
+;;answer;;;;{?1§المدينة الجميلة}
+;6;question;;;;{?1§un long chemin}
+;;answer;;;;{?1§طريق طويل}
+;7;question;;;;{?1§le petit garçon}
+;;answer;;;;{?1§الولد الصغير}

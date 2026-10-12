@@ -1,0 +1,16 @@
+﻿topic;item;attribute;section;index;locale;value
+0085-1;_;title;;;fr-FR;Inaccompli au duel
+;;;;;ar-SA;المضارع المثنى
+;;wording;;;fr-FR;Conjuguez à l'inaccompli
+;;;;;ar-SA;صرّف في المضارع
+;;categories;;;;niv-b1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§هما، مذكر (يكتب)}
+;;answer;;;;{?1§يكتبان}
+;2;question;;;;{?1§هما، مؤنث (يلعب)}
+;;answer;;;;{?1§تلعبان}
+;3;question;;;;{?1§أنتما (يشرب)}
+;;answer;;;;{?1§تشربان}
+;4;question;;;;{?1§هما، مذكر (يدرس)}
+;;answer;;;;{?1§يدرسان}

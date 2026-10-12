@@ -1,0 +1,13 @@
+﻿attribute;locale;value
+# Racines des arbres des catégories et des étiquettes. Le titre, l'identité et les langues du dictionnaire sont dans fiche.json.
+category_root_label;fr;catégories
+category_root_label;en;categories
+category_root_label;de;Kategorien
+category_root_label;es;categorías
+category_root_label;it;categorie
+category_root_reference;;category-root
+category_root_creation_date;;2026-08-22T00:00:00.000
+tag_root_label;fr;étiquettes
+tag_root_label;en;labels
+tag_root_label;pt;etiquetas
+tag_root_creation_date;;2026-09-02T00:00:00.000

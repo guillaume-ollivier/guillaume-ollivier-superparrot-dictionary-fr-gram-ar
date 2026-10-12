@@ -1,0 +1,20 @@
+﻿topic;item;attribute;section;index;locale;value
+0132-1;_;title;;;fr-FR;Concaves à l'accompli
+;;;;;ar-SA;الأجوف في الماضي
+;;wording;;;fr-FR;Conjuguez à l'accompli
+;;;;;ar-SA;صرّف في الماضي
+;;categories;;;;niv-b1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§أنا (قال)}
+;;answer;;;;{?1§قلت}
+;2;question;;;;{?1§نحن (زار)}
+;;answer;;;;{?1§زرنا}
+;3;question;;;;{?1§أنا (باع)}
+;;answer;;;;{?1§بعت}
+;4;question;;;;{?1§هي (نام)}
+;;answer;;;;{?1§نامت}
+;5;question;;;;{?1§أنا (نام)}
+;;answer;;;;{?1§نمت}
+;6;question;;;;{?1§هم (قال)}
+;;answer;;;;{?1§قالوا}

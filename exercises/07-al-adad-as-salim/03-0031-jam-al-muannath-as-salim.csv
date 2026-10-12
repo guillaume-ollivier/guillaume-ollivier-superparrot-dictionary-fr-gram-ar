@@ -1,0 +1,20 @@
+﻿topic;item;attribute;section;index;locale;value
+0031-1;_;title;;;fr-FR;Pluriel féminin sain
+;;;;;ar-SA;جمع المؤنث السالم
+;;wording;;;fr-FR;Donnez le pluriel
+;;;;;ar-SA;اكتب الجمع
+;;categories;;;;niv-a1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§مهندسة}
+;;answer;;;;{?1§مهندسات}
+;2;question;;;;{?1§سيارة}
+;;answer;;;;{?1§سيارات}
+;3;question;;;;{?1§طاولة}
+;;answer;;;;{?1§طاولات}
+;4;question;;;;{?1§مطار}
+;;answer;;;;{?1§مطارات}
+;5;question;;;;{?1§امتحان}
+;;answer;;;;{?1§امتحانات}
+;6;question;;;;{?1§طالبة}
+;;answer;;;;{?1§طالبات}

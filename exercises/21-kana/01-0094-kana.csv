@@ -1,0 +1,33 @@
+﻿topic;item;attribute;section;index;locale;value
+0094-1;_;title;;;fr-FR;Conjuguer kāna
+;;;;;ar-SA;تصريف كان
+;;wording;;;fr-FR;Conjuguez كان à l'accompli
+;;;;;ar-SA;صرّف كان
+;;categories;;;;niv-a2
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§أنا}
+;;answer;;;;{?1§كنت}
+;2;question;;;;{?1§هي}
+;;answer;;;;{?1§كانت}
+;3;question;;;;{?1§نحن}
+;;answer;;;;{?1§كنا}
+;4;question;;;;{?1§هم}
+;;answer;;;;{?1§كانوا}
+;5;question;;;;{?1§هن}
+;;answer;;;;{?1§كن}
+;6;question;;;;{?1§أنتم}
+;;answer;;;;{?1§كنتم}
+0094-2;_;title;;;fr-FR;Phrases avec kāna
+;;;;;ar-SA;جمل بكان
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-a2
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§J'étais à la maison}{type=affix§.}
+;;answer;;;;{?1§كنت في البيت}{type=affix§.}
+;2;question;;;;{?1§Nous étions au marché}{type=affix§.}
+;;answer;;;;{?1§كنا في السوق}{type=affix§.}
+;3;question;;;;{?1§Où étais-tu}{type=affix§?}
+;;answer;;;;{?1§{أين كنت|اين كنت}}{type=affix§؟}

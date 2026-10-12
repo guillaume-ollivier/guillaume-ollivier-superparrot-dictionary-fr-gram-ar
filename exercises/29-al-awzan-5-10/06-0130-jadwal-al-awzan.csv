@@ -1,0 +1,24 @@
+﻿topic;item;attribute;section;index;locale;value
+0130-1;_;title;;;fr-FR;Racine + forme
+;;;;;ar-SA;الجذر والوزن
+;;wording;;;fr-FR;Formez l'accompli (هو)
+;;;;;ar-SA;صُغ الماضي
+;;categories;;;;niv-b2
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§علم + V}
+;;answer;;;;{?1§تعلم}
+;2;question;;;;{?1§خدم + X}
+;;answer;;;;{?1§استخدم}
+;3;question;;;;{?1§جمع + VIII}
+;;answer;;;;{?1§اجتمع}
+;4;question;;;;{?1§كسر + VII}
+;;answer;;;;{?1§انكسر}
+;5;question;;;;{?1§عون + VI}
+;;answer;;;;{?1§تعاون}
+;6;question;;;;{?1§خرج + IV}
+;;answer;;;;{?1§{أخرج|اخرج}}
+;7;question;;;;{?1§سفر + III}
+;;answer;;;;{?1§سافر}
+;8;question;;;;{?1§حمر + IX}
+;;answer;;;;{?1§احمر}

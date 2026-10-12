@@ -1,0 +1,31 @@
+﻿topic;item;attribute;section;index;locale;value
+0143-1;_;title;;;fr-FR;Participe passif
+;;;;;ar-SA;اسم المفعول
+;;wording;;;fr-FR;Formez le participe passif
+;;;;;ar-SA;اكتب اسم المفعول
+;;categories;;;;niv-b1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§فتح}
+;;answer;;;;{?1§مفتوح}
+;2;question;;;;{?1§كتب}
+;;answer;;;;{?1§مكتوب}
+;3;question;;;;{?1§عرف}
+;;answer;;;;{?1§معروف}
+;4;question;;;;{?1§شغل}
+;;answer;;;;{?1§مشغول}
+;5;question;;;;{?1§كسر}
+;;answer;;;;{?1§مكسور}
+0143-2;_;title;;;fr-FR;Participe passif en phrase
+;;;;;ar-SA;اسم المفعول
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-b1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§La porte est ouverte}{type=affix§.}
+;;answer;;;;{?1§الباب مفتوح}{type=affix§.}
+;2;question;;;;{?1§une voiture d'occasion}
+;;answer;;;;{?1§سيارة مستعملة}
+;3;question;;;;{?1§Le verre est cassé}{type=affix§.}
+;;answer;;;;{?1§{الكأس مكسورة|الكاس مكسورة}}{type=affix§.}

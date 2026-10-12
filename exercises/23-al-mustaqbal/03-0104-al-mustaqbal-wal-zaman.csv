@@ -1,0 +1,18 @@
+﻿topic;item;attribute;section;index;locale;value
+0104-1;_;title;;;fr-FR;Il sera
+;;;;;ar-SA;سيكون
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-b1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§Il fera beau demain}{type=affix§.}
+;;answer;;;;{?1§سيكون الجو جميلا غدا}{type=affix§.}
+;2;question;;;;{?1§Je serai à la maison}{type=affix§.}
+;;answer;;;;{?1§{سأكون في البيت|ساكون في البيت}}{type=affix§.}
+;3;question;;;;{?1§la semaine prochaine}
+;;answer;;;;{?1§{الأسبوع القادم|الاسبوع القادم}}
+;4;question;;;;{?1§dans un an}
+;;answer;;;;{?1§بعد سنة}
+;5;question;;;;{?1§après-demain}
+;;answer;;;;{?1§بعد غد}

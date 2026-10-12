@@ -1,0 +1,20 @@
+﻿topic;item;attribute;section;index;locale;value
+0118-1;_;title;;;fr-FR;Appliquer un schème
+;;;;;ar-SA;الأوزان
+;;wording;;;fr-FR;Formez le mot sur le schème indiqué
+;;;;;ar-SA;صُغ على الوزن
+;;categories;;;;niv-b1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§لعب ← فاعل}
+;;answer;;;;{?1§لاعب}
+;2;question;;;;{?1§كتب ← مفعول}
+;;answer;;;;{?1§مكتوب}
+;3;question;;;;{?1§لعب ← مفعل}
+;;answer;;;;{?1§ملعب}
+;4;question;;;;{?1§عرف ← مفعول}
+;;answer;;;;{?1§معروف}
+;5;question;;;;{?1§خبز ← فعال}
+;;answer;;;;{?1§خباز}
+;6;question;;;;{?1§كتب ← فعالة}
+;;answer;;;;{?1§كتابة}

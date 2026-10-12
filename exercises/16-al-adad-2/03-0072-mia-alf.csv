@@ -1,0 +1,18 @@
+﻿topic;item;attribute;section;index;locale;value
+0072-1;_;title;;;fr-FR;Cent et mille
+;;;;;ar-SA;المئات والآلاف
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-b1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§cent dollars}
+;;answer;;;;{?1§{مائة دولار|مئة دولار}}
+;2;question;;;;{?1§mille nuits}
+;;answer;;;;{?1§{ألف ليلة|الف ليلة}}
+;3;question;;;;{?1§deux mille}
+;;answer;;;;{?1§{ألفان|الفان}}
+;4;question;;;;{?1§deux cents}
+;;answer;;;;{?1§{مائتان|مئتان}}
+;5;question;;;;{?1§trois mille}
+;;answer;;;;{?1§{ثلاثة آلاف|ثلاثة الاف}}

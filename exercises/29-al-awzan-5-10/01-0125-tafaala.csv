@@ -1,0 +1,18 @@
+﻿topic;item;attribute;section;index;locale;value
+0125-1;_;title;;;fr-FR;Forme V
+;;;;;ar-SA;الوزن تفعّل
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-b1
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§J'apprends l'arabe}{type=affix§.}
+;;answer;;;;{?1§{أتعلم العربية|اتعلم العربية}}{type=affix§.}
+;2;question;;;;{?1§Parles-tu français ? (à une femme)}
+;;answer;;;;{?1§هل تتكلمين الفرنسية}{type=affix§؟}
+;3;question;;;;{?1§Le train est en retard}{type=affix§.}
+;;answer;;;;{?1§{تأخر القطار|تاخر القطار|القطار متأخر|القطار متاخر}}{type=affix§.}
+;4;question;;;;{?1§Il a appris à nager}{type=affix§.}
+;;answer;;;;{?1§تعلم السباحة}{type=affix§.}
+;5;question;;;;{?1§Nous parlons arabe}{type=affix§.}
+;;answer;;;;{?1§نتكلم العربية}{type=affix§.}

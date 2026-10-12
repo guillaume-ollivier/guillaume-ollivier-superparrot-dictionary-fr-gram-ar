@@ -1,0 +1,13 @@
+﻿reference;locale;name;prefix;suffix
+art-fr-des;fr;nom pluriel avec article indéfini;"des ";
+;en;plural noun with indefinite article;;
+;es;sustantivo francés plural con artículo indefinido;;
+;pt;substantivo francês plural com artigo indefinido;;
+art-fr-un;fr;nom masculin singulier avec article indéfini;"un ";
+;en;masculine singular noun with indefinite article;;
+;es;sustantivo francés masculino singular con artículo indefinido;;
+;pt;substantivo francês masculino singular com artigo indefinido;;
+art-fr-une;fr;nom féminin singulier avec article indéfini;"une ";
+;en;feminine singular noun with indefinite article;;
+;es;sustantivo francés femenino singular con artículo indefinido;;
+;pt;substantivo francês feminino singular com artigo indefinido;;

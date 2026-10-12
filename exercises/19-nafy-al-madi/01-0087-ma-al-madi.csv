@@ -1,0 +1,18 @@
+﻿topic;item;attribute;section;index;locale;value
+0087-1;_;title;;;fr-FR;Nier avec mā
+;;;;;ar-SA;النفي بما
+;;wording;;;fr-FR;Mettez à la forme négative avec ما
+;;;;;ar-SA;انفِ بما
+;;categories;;;;niv-a1
+;;question;1;;ar-SA;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§ذهبت}
+;;answer;;;;{?1§ما ذهبت}
+;2;question;;;;{?1§كتب}
+;;answer;;;;{?1§ما كتب}
+;3;question;;;;{?1§شربنا}
+;;answer;;;;{?1§ما شربنا}
+;4;question;;;;{?1§خرجوا}
+;;answer;;;;{?1§ما خرجوا}
+;5;question;;;;{?1§درست}
+;;answer;;;;{?1§ما درست}

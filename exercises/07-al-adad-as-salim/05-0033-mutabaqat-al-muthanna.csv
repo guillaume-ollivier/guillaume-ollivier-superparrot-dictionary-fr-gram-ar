@@ -1,0 +1,16 @@
+﻿topic;item;attribute;section;index;locale;value
+0033-1;_;title;;;fr-FR;Accord au duel
+;;;;;ar-SA;مطابقة المثنى
+;;wording;;;fr-FR;Traduisez
+;;;;;ar-SA;ترجم
+;;categories;;;;niv-a2
+;;question;1;;fr-FR;
+;;answer;1;;ar-SA;
+;1;question;;;;{?1§Les deux filles sont belles}{type=affix§.}
+;;answer;;;;{?1§البنتان جميلتان}{type=affix§.}
+;2;question;;;;{?1§Les deux livres sont nouveaux}{type=affix§.}
+;;answer;;;;{?1§الكتابان جديدان}{type=affix§.}
+;3;question;;;;{?1§Les deux voitures sont vieilles}{type=affix§.}
+;;answer;;;;{?1§السيارتان قديمتان}{type=affix§.}
+;4;question;;;;{?1§Les deux maisons sont petites}{type=affix§.}
+;;answer;;;;{?1§البيتان صغيران}{type=affix§.}
