@@ -1,7 +1,7 @@
 ﻿topic;item;attribute;section;index;locale;value
 0103-1;_;title;;;fr-FR;Nier le futur
 ;;;;;ar-SA;نفي المستقبل
-;;wording;;;fr-FR;Mettez à la forme négative avec لن
+;;wording;;;fr-FR;Mettez à la forme négative avec {lang=ar-SA§لن}
 ;;;;;ar-SA;انفِ بلن
 ;;categories;;;;niv-b1
 ;;question;1;;ar-SA;

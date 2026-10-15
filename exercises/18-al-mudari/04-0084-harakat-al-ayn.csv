@@ -1,7 +1,7 @@
 ﻿topic;item;attribute;section;index;locale;value
 0084-1;_;title;;;fr-FR;Inaccompli de verbes variés
 ;;;;;ar-SA;المضارع
-;;wording;;;fr-FR;Conjuguez à l'inaccompli (هو)
+;;wording;;;fr-FR;Conjuguez à l'inaccompli ({lang=ar-SA§هو})
 ;;;;;ar-SA;صرّف في المضارع
 ;;categories;;;;niv-a2
 ;;question;1;;ar-SA;

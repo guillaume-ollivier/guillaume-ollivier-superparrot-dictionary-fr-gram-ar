@@ -1,7 +1,7 @@
 ﻿topic;item;attribute;section;index;locale;value
 0098-1;_;title;;;fr-FR;Introduire par inna
 ;;;;;ar-SA;إن
-;;wording;;;fr-FR;Ajoutez إن au début (sans voyelles)
+;;wording;;;fr-FR;Ajoutez {lang=ar-SA§إن} au début (sans voyelles)
 ;;;;;ar-SA;أدخل إن
 ;;categories;;;;niv-b1
 ;;question;1;;ar-SA;

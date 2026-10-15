@@ -1,7 +1,7 @@
 ﻿topic;item;attribute;section;index;locale;value
 0028-1;_;title;;;fr-FR;Masculin ou féminin ?
 ;;;;;ar-SA;مذكر أم مؤنث؟
-;;wording;;;fr-FR;Écrivez « مذكر » (masculin) ou « مؤنث » (féminin)
+;;wording;;;fr-FR;Écrivez « {lang=ar-SA§مذكر} » (masculin) ou « {lang=ar-SA§مؤنث} » (féminin)
 ;;;;;ar-SA;مذكر أم مؤنث؟
 ;;categories;;;;niv-b1
 ;;question;1;;ar-SA;

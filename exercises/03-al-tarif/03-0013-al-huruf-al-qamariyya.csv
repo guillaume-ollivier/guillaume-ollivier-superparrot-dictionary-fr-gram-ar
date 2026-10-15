@@ -1,7 +1,7 @@
 ﻿topic;item;attribute;section;index;locale;value
 0013-1;_;title;;;fr-FR;Solaire ou lunaire
 ;;;;;ar-SA;شمسية أو قمرية
-;;wording;;;fr-FR;Le l de l'article se prononce-t-il ? Écrivez « نعم » ou « لا »
+;;wording;;;fr-FR;Le l de l'article se prononce-t-il ? Écrivez « {lang=ar-SA§نعم} » ou « {lang=ar-SA§لا} »
 ;;;;;ar-SA;هل تُنطق اللام؟
 ;;categories;;;;niv-a1
 ;;question;1;;ar-SA;

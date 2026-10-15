@@ -1,7 +1,7 @@
 ﻿topic;item;attribute;section;index;locale;value
 0088-1;_;title;;;fr-FR;De mā à lam
 ;;;;;ar-SA;من ما إلى لم
-;;wording;;;fr-FR;Reformulez avec لم
+;;wording;;;fr-FR;Reformulez avec {lang=ar-SA§لم}
 ;;;;;ar-SA;انفِ بلم
 ;;categories;;;;niv-a2
 ;;question;1;;ar-SA;
@@ -20,7 +20,7 @@
 ;;answer;;;;{?1§لم تدرسوا}
 0088-2;_;title;;;fr-FR;Nier le passé
 ;;;;;ar-SA;نفي الماضي
-;;wording;;;fr-FR;Traduisez avec لم
+;;wording;;;fr-FR;Traduisez avec {lang=ar-SA§لم}
 ;;;;;ar-SA;ترجم بلم
 ;;categories;;;;niv-a2
 ;;question;1;;fr-FR;

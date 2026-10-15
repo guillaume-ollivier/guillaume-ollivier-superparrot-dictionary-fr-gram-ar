@@ -1,7 +1,7 @@
 ﻿topic;item;attribute;section;index;locale;value
 0130-1;_;title;;;fr-FR;Racine + forme
 ;;;;;ar-SA;الجذر والوزن
-;;wording;;;fr-FR;Formez l'accompli (هو)
+;;wording;;;fr-FR;Formez l'accompli ({lang=ar-SA§هو})
 ;;;;;ar-SA;صُغ الماضي
 ;;categories;;;;niv-b2
 ;;question;1;;ar-SA;

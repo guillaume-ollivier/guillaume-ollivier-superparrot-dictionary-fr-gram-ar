@@ -1,7 +1,7 @@
 ﻿topic;item;attribute;section;index;locale;value
 0109-1;_;title;;;fr-FR;Former l'apocopé
 ;;;;;ar-SA;المضارع المجزوم
-;;wording;;;fr-FR;Mettez à l'apocopé après لم
+;;wording;;;fr-FR;Mettez à l'apocopé après {lang=ar-SA§لم}
 ;;;;;ar-SA;اجزم بلم
 ;;categories;;;;niv-b1
 ;;question;1;;ar-SA;

@@ -1,7 +1,7 @@
 ﻿topic;item;attribute;section;index;locale;value
 0162-1;_;title;;;fr-FR;Tamma + nom verbal
 ;;;;;ar-SA;تمّ والمصدر
-;;wording;;;fr-FR;Traduisez avec تم
+;;wording;;;fr-FR;Traduisez avec {lang=ar-SA§تم}
 ;;;;;ar-SA;ترجم بتم
 ;;categories;;;;niv-b2
 ;;question;1;;fr-FR;

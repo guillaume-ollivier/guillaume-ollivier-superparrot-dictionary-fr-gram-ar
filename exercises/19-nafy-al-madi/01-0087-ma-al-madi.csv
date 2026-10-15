@@ -1,7 +1,7 @@
 ﻿topic;item;attribute;section;index;locale;value
 0087-1;_;title;;;fr-FR;Nier avec mā
 ;;;;;ar-SA;النفي بما
-;;wording;;;fr-FR;Mettez à la forme négative avec ما
+;;wording;;;fr-FR;Mettez à la forme négative avec {lang=ar-SA§ما}
 ;;;;;ar-SA;انفِ بما
 ;;categories;;;;niv-a1
 ;;question;1;;ar-SA;

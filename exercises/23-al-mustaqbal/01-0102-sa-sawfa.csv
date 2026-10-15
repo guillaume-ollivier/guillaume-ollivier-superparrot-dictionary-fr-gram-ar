@@ -1,7 +1,7 @@
 ﻿topic;item;attribute;section;index;locale;value
 0102-1;_;title;;;fr-FR;Le futur
 ;;;;;ar-SA;المستقبل
-;;wording;;;fr-FR;Mettez au futur avec سـ
+;;wording;;;fr-FR;Mettez au futur avec {lang=ar-SA§سـ}
 ;;;;;ar-SA;حوّل إلى المستقبل
 ;;categories;;;;niv-a2
 ;;question;1;;ar-SA;

@@ -1,7 +1,7 @@
 ﻿topic;item;attribute;section;index;locale;value
 0105-1;_;title;;;fr-FR;Former le subjonctif
 ;;;;;ar-SA;المضارع المنصوب
-;;wording;;;fr-FR;Mettez au subjonctif après أن
+;;wording;;;fr-FR;Mettez au subjonctif après {lang=ar-SA§أن}
 ;;;;;ar-SA;انصب بأن
 ;;categories;;;;niv-b1
 ;;question;1;;ar-SA;

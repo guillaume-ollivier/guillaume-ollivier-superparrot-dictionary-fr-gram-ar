@@ -1,7 +1,7 @@
 ﻿topic;item;attribute;section;index;locale;value
 0094-1;_;title;;;fr-FR;Conjuguer kāna
 ;;;;;ar-SA;تصريف كان
-;;wording;;;fr-FR;Conjuguez كان à l'accompli
+;;wording;;;fr-FR;Conjuguez {lang=ar-SA§كان} à l'accompli
 ;;;;;ar-SA;صرّف كان
 ;;categories;;;;niv-a2
 ;;question;1;;ar-SA;

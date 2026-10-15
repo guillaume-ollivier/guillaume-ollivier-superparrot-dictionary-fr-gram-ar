@@ -1,7 +1,7 @@
 ﻿topic;item;attribute;section;index;locale;value
 0080-1;_;title;;;fr-FR;Qad
 ;;;;;ar-SA;قد
-;;wording;;;fr-FR;Traduisez avec قد
+;;wording;;;fr-FR;Traduisez avec {lang=ar-SA§قد}
 ;;;;;ar-SA;ترجم
 ;;categories;;;;niv-b1
 ;;question;1;;fr-FR;

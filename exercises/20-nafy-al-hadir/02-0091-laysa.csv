@@ -1,7 +1,7 @@
 ﻿topic;item;attribute;section;index;locale;value
 0091-1;_;title;;;fr-FR;Conjuguer laysa
 ;;;;;ar-SA;تصريف ليس
-;;wording;;;fr-FR;Conjuguez ليس
+;;wording;;;fr-FR;Conjuguez {lang=ar-SA§ليس}
 ;;;;;ar-SA;صرّف ليس
 ;;categories;;;;niv-a2
 ;;question;1;;ar-SA;

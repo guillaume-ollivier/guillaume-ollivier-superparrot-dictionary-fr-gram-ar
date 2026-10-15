@@ -1,7 +1,7 @@
 ﻿topic;item;attribute;section;index;locale;value
 0124-1;_;title;;;fr-FR;Inaccompli II–IV
 ;;;;;ar-SA;مضارع المزيد
-;;wording;;;fr-FR;Conjuguez à l'inaccompli (هو)
+;;wording;;;fr-FR;Conjuguez à l'inaccompli ({lang=ar-SA§هو})
 ;;;;;ar-SA;صرّف في المضارع
 ;;categories;;;;niv-b1
 ;;question;1;;ar-SA;
