@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Impératifs particuliers
 
 **1** Trois verbes très courants perdent leur _ʾ_ initial :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Annexion et adjectif ; duels et pluriels annexés
 
 **1** L'adjectif ne peut pas s'intercaler : il se place **après toute l'annexion**. Il s'accorde avec le nom qu'il qualifie, d'où des ambiguïtés que le genre lève :

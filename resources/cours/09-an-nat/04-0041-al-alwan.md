@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les couleurs
 
 **1** Les couleurs de base suivent un schème propre : *أَفْعَل* (masc.), *فَعْلَاء* (fém.), *فُعْل* (pluriel) :

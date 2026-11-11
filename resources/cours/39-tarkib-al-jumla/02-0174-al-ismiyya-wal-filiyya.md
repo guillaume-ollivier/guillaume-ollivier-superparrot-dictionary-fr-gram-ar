@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Phrase verbale ou nominale ?
 
 **1** Toute phrase arabe est soit **nominale** (commence par un nom), soit **verbale** (commence par un verbe). L'une et l'autre peuvent contenir un verbe :

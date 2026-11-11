@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les autres sœurs de _ʾinna_
 
 **1** Même construction (sujet à l'accusatif) :

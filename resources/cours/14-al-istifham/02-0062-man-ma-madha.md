@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Man_, _mā_, _māḏā_ : qui, que
 
 **1** *مَنْ* _man_ = qui :

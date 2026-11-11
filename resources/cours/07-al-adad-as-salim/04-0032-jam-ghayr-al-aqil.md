@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le pluriel des choses s'accorde au féminin singulier
 
 **1** Règle capitale : le pluriel d'un nom de **chose ou d'animal** (non humain) s'accorde comme un **féminin singulier** — adjectif, pronom, verbe.

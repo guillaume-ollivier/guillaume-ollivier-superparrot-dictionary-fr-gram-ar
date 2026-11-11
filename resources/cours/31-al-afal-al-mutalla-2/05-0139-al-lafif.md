@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Verbes doublement faibles : _raʾā_, _ǧāʾa_, _ʾatā_
 
 **1** *رَأَى* (voir) cumule _hamza_ et finale faible ; la _hamza_ disparaît à l'inaccompli :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le relatif au pluriel et au duel
 
 | | masculin | féminin |

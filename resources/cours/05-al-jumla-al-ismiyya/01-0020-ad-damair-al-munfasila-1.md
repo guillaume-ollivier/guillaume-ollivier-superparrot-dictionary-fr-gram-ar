@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les pronoms personnels : le singulier
 
 **1** L'arabe distingue le **masculin** et le **féminin** dès la 2ᵉ personne :

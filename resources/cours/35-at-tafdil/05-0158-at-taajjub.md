@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # L'exclamation : _mā ʾafʿala_
 
 **1** L'admiration « comme… ! » se dit *مَا* + *أَفْعَلَ* (en _-a_) + nom à l'**accusatif** :

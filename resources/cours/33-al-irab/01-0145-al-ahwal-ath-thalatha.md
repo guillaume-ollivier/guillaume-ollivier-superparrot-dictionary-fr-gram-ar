@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les trois cas
 
 **1** Le nom arabe se décline en trois cas, marqués par la voyelle finale :

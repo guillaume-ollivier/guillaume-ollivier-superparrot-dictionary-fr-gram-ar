@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le participe passif
 
 **1** Le participe passif (_ism al-mafʿūl_) désigne **ce qui subit** l'action.

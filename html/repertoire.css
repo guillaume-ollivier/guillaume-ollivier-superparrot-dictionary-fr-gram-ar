@@ -24,10 +24,10 @@
 
   --sp-fg: #11181C;
   --sp-muted: #5B6770;
-  --sp-accent: #00B8A9;
-  --sp-accent-soft: rgba(0, 184, 169, .10);
-  --sp-quote-bar: #FF6B5B;
-  --sp-quote-bg: rgba(255, 107, 91, .10);
+  --sp-accent: #00A193;
+  --sp-accent-soft: rgba(0, 161, 147, .10);
+  --sp-quote-bar: #E0533F;
+  --sp-quote-bg: rgba(224, 83, 63, .10);
   --sp-rule: #E2E6EA;
   --sp-del: #E84A5F;
   --sp-bg: #F6F7F9;

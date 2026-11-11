@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Compléments de temps, de lieu et de cause
 
 **1** Le complément de **temps ou de lieu** sans préposition (_ẓarf_, _mafʿūl fīhi_) est à l'**accusatif** :

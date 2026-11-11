@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le participe actif
 
 **1** Le participe actif (_ism al-fāʿil_) désigne **celui qui fait** l'action ; il sert de nom et d'adjectif.

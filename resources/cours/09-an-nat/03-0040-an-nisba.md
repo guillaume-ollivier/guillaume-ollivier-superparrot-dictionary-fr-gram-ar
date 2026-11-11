@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # L'adjectif de relation (_nisba_)
 
 **1** En ajoutant *ـِيّ* _-iyy_ à un nom, on forme un adjectif « qui se rapporte à » — nationalités, matières, domaines :

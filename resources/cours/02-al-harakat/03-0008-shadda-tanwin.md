@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # La _šadda_ et le _tanwīn_
 
 **1** La **_šadda_** _ّ_ double la consonne : *[ar] دَرَسَ /darasa/* _darasa_ (il a étudié) / *[ar] دَرَّسَ /darrasa/* _darrasa_ (il a enseigné). On prononce réellement deux consonnes, comme dans « il l'a ».

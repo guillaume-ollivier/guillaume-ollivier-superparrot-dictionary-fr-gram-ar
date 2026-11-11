@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Comparer les autres adjectifs
 
 **1** Les adjectifs qui ne peuvent pas prendre le schème *أَفْعَل* (participes, couleurs, _nisba_, mots longs) se comparent avec *أَكْثَرُ* (plus) ou *أَقَلُّ* (moins) + **nom verbal à l'accusatif** (_tamyīz_) (§38.2) :

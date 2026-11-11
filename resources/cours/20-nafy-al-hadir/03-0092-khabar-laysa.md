@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # L'attribut de _laysa_
 
 **1** Après *لَيْسَ*, l'attribut passe à l'**accusatif** (_-an_, _-a_) — d'où l'alif du _tanwīn_ à l'écrit :

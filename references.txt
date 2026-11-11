@@ -70,6 +70,10 @@ abbreviation | nm-sigle                     | abbv@985E7802-3787-57AC-BA65-5D683
 abbreviation | nmf                          | abbv@12C9C4D7-6B22-5E1E-B0F9-D7DFC47C95CA
 abbreviation | nmpl                         | abbv@483086DC-E713-5975-94B9-76B83A97A077
 abbreviation | nmpl-empr                    | abbv@1A74D2A8-9E4C-5386-B50F-A055BCCD5F44
+abbreviation | nn                           | abbv@3BD93136-A6CB-5D1F-90F8-BAE4F0AEA261
+abbreviation | nn-comp                      | abbv@D7CE4DDB-B7B9-58E2-8B25-E7FE1CE76C4D
+abbreviation | nn-dim                       | abbv@423950C1-62EF-559F-9EE6-0E7BF12EADF2
+abbreviation | nn-empr                      | abbv@42DE32B2-E64D-5D56-A60A-570E16DEDDC7
 abbreviation | npl                          | abbv@DB33027F-89E0-593A-A08C-95D75F5B9FE1
 abbreviation | npl-comp                     | abbv@7E98D4CF-47E9-5326-8609-DA7AD266C624
 abbreviation | nprop                        | abbv@4EA94816-0F40-568E-A249-582E64506CCC

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # L'article _al-_ : défini et indéfini
 
 **1** L'arabe a **un seul article**, défini : _الـ_ (_al-_), invariable, soudé au nom. Il vaut « le, la, les ».

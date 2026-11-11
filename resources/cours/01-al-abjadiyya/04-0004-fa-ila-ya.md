@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les lettres de _ف_ à _ي_
 
 **1** Les dernières lettres :

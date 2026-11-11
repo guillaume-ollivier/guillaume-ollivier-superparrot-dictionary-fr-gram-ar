@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Former l'impératif
 
 **1** On part de l'apocopé de la 2ᵉ personne et on retire le préfixe *تَـ* :

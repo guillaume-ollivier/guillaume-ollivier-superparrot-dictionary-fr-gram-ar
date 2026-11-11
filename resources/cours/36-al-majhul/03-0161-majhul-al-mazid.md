@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Passif des formes dérivées et passif impersonnel
 
 **1** Toutes les formes ont un passif sur le même principe (_u_… _i_ à l'accompli, _u_… _a_ à l'inaccompli) :

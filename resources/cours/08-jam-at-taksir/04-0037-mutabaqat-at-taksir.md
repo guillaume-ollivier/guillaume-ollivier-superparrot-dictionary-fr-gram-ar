@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Accorder avec un pluriel brisé
 
 **1** La règle de l'accord des pluriels (§7.4) vaut aussi pour les pluriels brisés :

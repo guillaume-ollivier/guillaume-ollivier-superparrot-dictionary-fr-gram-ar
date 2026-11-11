@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les verbes assimilés (1ʳᵉ consonne _و_)
 
 **1** Une racine contenant _و_ ou _ي_ est dite **faible** : ces lettres se transforment ou disparaissent. Quand la **1ʳᵉ** consonne est _و_, elle **tombe à l'inaccompli** :

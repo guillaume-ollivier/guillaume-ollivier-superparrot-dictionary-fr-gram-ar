@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # L'alphabet : sens d'écriture et premières lettres
 
 **1** L'arabe s'écrit et se lit **de droite à gauche**. L'alphabet compte **28 lettres**, toutes des consonnes (trois servent aussi de voyelles longues) (§2.2). Il n'y a pas de majuscules.

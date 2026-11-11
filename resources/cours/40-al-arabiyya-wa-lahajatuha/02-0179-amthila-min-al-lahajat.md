@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Quelques dialectes en exemple
 
 **1** « Je veux » et « qu'est-ce que tu veux ? » dans quatre dialectes (en caractères arabes et en transcription usuelle) :

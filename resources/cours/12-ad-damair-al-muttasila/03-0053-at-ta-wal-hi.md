@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Deux ajustements : _ة_ → _ت_ et _-hu_ → _-hi_
 
 **1** Devant un suffixe, la _ة_ s'écrit **_ت_** :

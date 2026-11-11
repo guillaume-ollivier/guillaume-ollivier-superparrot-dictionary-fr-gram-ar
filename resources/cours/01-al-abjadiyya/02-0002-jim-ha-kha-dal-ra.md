@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les lettres de _ج_ à _ز_
 
 **1** Trois lettres partagent le tracé en crochet, distinguées par un point (en dessous, aucun, au-dessus) :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # S'adresser à un homme ou à une femme
 
 **1** Le genre de l'**interlocuteur** est partout marqué : pronoms (*أَنْتَ* / *أَنْتِ*), suffixes (*حَالُكَ* / *حَالُكِ*), verbes (§18.2) et adjectifs.

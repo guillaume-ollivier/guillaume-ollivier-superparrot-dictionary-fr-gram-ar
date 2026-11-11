@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le duel
 
 **1** Pour **deux** êtres ou choses, l'arabe emploie le **duel** et non le pluriel. On ajoute *ـَانِ* _-āni_ (sujet) ou *ـَيْنِ* _-ayni_ (après préposition, complément) :

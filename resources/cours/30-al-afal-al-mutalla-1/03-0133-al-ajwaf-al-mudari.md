@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les verbes concaves : l'inaccompli
 
 **1** À l'inaccompli, la voyelle longue réapparaît, selon le type :

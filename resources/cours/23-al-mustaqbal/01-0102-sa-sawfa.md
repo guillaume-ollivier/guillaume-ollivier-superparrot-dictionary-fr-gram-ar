@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Sa-_ et _sawfa_ : le futur
 
 **1** Le futur se forme avec l'inaccompli précédé de *سَـ* _sa-_ (collé) ou *سَوْفَ* _sawfa_ (séparé, futur plus lointain ou plus solennel) :

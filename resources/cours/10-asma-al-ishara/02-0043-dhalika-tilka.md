@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Ḏālika_, _tilka_ : celui-là, cela
 
 **1** Le démonstratif d'éloignement :

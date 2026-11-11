@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le féminin en _-a_ (_ة_)
 
 **1** Deux genres seulement : masculin et féminin. Le masculin n'a pas de marque ; le féminin se forme le plus souvent en ajoutant **_tāʾ marbūṭa_** _ة_ (§2.5) :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Lā_ + apocopé : la défense
 
 **1** « Ne… pas ! » se dit *لَا* + **apocopé** à la 2ᵉ personne :

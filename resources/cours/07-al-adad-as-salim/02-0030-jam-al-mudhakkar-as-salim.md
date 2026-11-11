@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le pluriel masculin sain
 
 **1** Certains noms d'**êtres humains masculins** (surtout les participes et les métiers) (§32.3) font leur pluriel en ajoutant *ـُونَ* _-ūna_ (sujet) ou *ـِينَ* _-īna_ (complément) :

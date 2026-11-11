@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # La forme de l'apocopé
 
 **1** L'apocopé (_al-maǧzūm_) se forme sur l'inaccompli :

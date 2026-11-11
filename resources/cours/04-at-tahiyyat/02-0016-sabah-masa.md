@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Bonjour, bonsoir
 
 **1** Le matin et le soir, des formules à réponse fixe :

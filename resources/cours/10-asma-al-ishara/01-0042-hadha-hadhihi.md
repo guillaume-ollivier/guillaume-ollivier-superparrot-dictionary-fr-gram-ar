@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Hāḏā_, _hāḏihi_ : celui-ci, ceci
 
 **1** Le démonstratif de proximité s'accorde en genre :

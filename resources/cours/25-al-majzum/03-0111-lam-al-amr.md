@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Li-_ + apocopé : « qu'il… »
 
 **1** *لِـ* + apocopé à la 3ᵉ (ou 1ʳᵉ) personne exprime un ordre indirect, une exhortation :

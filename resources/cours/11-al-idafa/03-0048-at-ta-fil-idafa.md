@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le féminin en annexion : _-at_
 
 **1** Quand le premier terme finit par _ة_, celle-ci se prononce **_-t_** :

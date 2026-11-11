@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # L'apocopé en réponse à un ordre
 
 **1** Après un impératif, un second verbe à l'**apocopé**, sans conjonction, exprime la conséquence (« et alors… ») :

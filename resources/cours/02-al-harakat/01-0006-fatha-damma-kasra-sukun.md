@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les voyelles brèves et le _sukūn_
 
 **1** Les voyelles brèves ne sont pas des lettres : ce sont de petits signes posés au-dessus ou au-dessous de la consonne qu'elles suivent.

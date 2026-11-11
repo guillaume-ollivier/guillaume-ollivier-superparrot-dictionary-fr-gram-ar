@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # L'inaccompli : le duel
 
 | pronom | forme | translittération |

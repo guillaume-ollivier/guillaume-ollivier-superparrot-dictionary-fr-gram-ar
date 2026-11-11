@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Formules de la vie quotidienne
 
 **1** Beaucoup de formules courantes mentionnent Dieu ; elles sont employées par tous, croyants ou non, chrétiens comme musulmans, comme des tournures figées :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les verbes défectueux : l'inaccompli
 
 **1** Trois finales :

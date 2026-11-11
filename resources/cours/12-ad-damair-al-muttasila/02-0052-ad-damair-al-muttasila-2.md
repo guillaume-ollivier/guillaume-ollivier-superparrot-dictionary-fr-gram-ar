@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les pronoms suffixes : pluriel et duel
 
 | suffixe | exemple | sens |

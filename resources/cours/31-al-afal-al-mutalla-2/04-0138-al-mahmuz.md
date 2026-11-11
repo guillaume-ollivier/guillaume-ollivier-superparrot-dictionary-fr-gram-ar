@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les verbes hamzés
 
 **1** Une _hamza_ dans la racine se conjugue comme une consonne ordinaire, mais son **support** change avec les voyelles (§2.4) :

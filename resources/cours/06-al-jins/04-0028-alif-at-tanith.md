@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les féminins en *-āʾ* et *-ā*, et les masculins en _ة_
 
 **1** Deux autres terminaisons marquent le féminin :

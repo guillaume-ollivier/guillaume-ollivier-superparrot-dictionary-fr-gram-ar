@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le nom verbal des formes dérivées
 
 **1** Pour les formes II à X, le nom verbal est **régulier** (§29.6) :

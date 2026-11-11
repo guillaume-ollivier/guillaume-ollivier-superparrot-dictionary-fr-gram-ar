@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le discours rapporté
 
 **1** On rapporte les paroles avec *قَالَ إِنَّ* (§22.2), ou avec *أَنَّ* après les autres verbes (*ذَكَرَ*, *أَعْلَنَ*, *أَكَّدَ*). La concordance des temps **n'existe pas** : on garde le temps de l'original.

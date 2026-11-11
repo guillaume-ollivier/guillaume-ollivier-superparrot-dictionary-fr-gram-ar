@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le complément de spécification (_tamyīz_)
 
 **1** Le _tamyīz_ précise **en quoi** : un nom **indéfini à l'accusatif** après une quantité, une mesure ou un comparatif :

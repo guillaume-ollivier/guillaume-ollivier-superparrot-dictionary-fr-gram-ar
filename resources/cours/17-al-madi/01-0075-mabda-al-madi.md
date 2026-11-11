@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # L'accompli : principe
 
 **1** Le verbe arabe a deux conjugaisons de base : l'**accompli** (_al-māḍī_), pour une action achevée — en pratique le **passé** —, et l'**inaccompli** (_al-muḍāriʿ_), pour le présent et le futur (§18.1).

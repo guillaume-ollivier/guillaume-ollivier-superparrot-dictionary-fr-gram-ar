@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # La phrase nominale : « être » sans verbe
 
 **1** Au présent, l'arabe **n'exprime pas** le verbe « être ». On juxtapose un **sujet** (_mubtadaʾ_, souvent défini) et un **attribut** (_ḫabar_, souvent indéfini) :

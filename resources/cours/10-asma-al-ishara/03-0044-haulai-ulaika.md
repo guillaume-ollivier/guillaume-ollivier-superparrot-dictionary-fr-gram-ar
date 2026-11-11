@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le pluriel et le duel des démonstratifs
 
 **1** Pour des **personnes** au pluriel (sans distinction de genre) :

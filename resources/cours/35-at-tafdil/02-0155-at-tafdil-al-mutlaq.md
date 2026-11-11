@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le superlatif
 
 **1** Le superlatif est le comparatif **en annexion** :

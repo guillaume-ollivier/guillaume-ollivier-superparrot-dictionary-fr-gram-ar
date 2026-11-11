@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les verbes concaves : l'accompli
 
 **1** Quand la consonne **médiane** est _و_ ou _ي_, elle devient _ā_ à la 3ᵉ personne : *قَالَ* (dire, racine _q-w-l_), *بَاعَ* (vendre, _b-y-ʿ_), *نَامَ* (dormir, _n-w-m_).

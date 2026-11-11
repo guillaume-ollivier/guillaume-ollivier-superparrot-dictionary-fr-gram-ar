@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # « Un » et « deux » avec un nom
 
 **1** Le singulier indéfini veut déjà dire « un » ; *وَاحِد* se place **après** le nom, comme un adjectif, pour insister :

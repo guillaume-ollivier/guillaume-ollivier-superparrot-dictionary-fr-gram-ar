@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _ʾAyna_, _matā_, _kayfa_ : où, quand, comment
 
 | mot | sens | exemple |

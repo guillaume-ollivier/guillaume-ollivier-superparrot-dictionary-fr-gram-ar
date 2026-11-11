@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les lettres lunaires et la _hamzat al-waṣl_
 
 **1** Devant les autres consonnes, le _l_ se prononce : ce sont les **lettres lunaires**, d'après *القَمَر* _al-qamar_ (la lune) : _ا ب ج ح خ ع غ ف ق ك م ه و ي_.

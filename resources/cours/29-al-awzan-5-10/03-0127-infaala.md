@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Forme VII : _infaʿala_
 
 **1** La forme VII préfixe *اِنْـ* (avec _hamzat al-waṣl_). Elle est le **passif** ou le **moyen** de la forme I : la chose « se fait » :

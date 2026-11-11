@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Noms de lieu et d'instrument
 
 **1** Le **nom de lieu** (_ism al-makān_) se forme sur *مَفْعَل* / *مَفْعِل* / *مَفْعَلَة* :

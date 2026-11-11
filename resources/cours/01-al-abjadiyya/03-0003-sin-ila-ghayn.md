@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les lettres de _س_ à _غ_
 
 **1** _س_ et _ش_ : le même tracé à trois dents, avec ou sans trois points.

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Limāḏā_, _ʾayy_ : pourquoi, quel
 
 **1** *لِمَاذَا* _limāḏā_ = pourquoi ; réponse avec *لِأَنَّ* _li-ʾanna_ (parce que) + pronom suffixe ou nom à l'accusatif (§22.2) :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les valeurs de l'inaccompli
 
 **1** L'inaccompli couvre le présent **actuel**, l'**habitude** et les **vérités générales** :

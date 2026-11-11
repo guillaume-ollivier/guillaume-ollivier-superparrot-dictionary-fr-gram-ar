@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les « cinq noms »
 
 **1** Quelques noms très courants allongent leur voyelle de cas devant un complément (annexion ou suffixe autre que _-ī_) :

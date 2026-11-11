@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Saluer et prendre congé
 
 **1** La salutation universelle, à toute heure, appelle une réponse fixe qui **inverse** les termes :

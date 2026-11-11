@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Suffixes après une préposition
 
 **1** Les prépositions prennent les mêmes suffixes, avec quelques formes à retenir :

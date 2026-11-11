@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # L'accord du verbe : récapitulatif
 
 **1** Verbe **avant** un sujet nom : singulier, accordé en genre (§17.5).

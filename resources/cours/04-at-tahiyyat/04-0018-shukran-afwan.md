@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # S'il te plaît, merci, pardon
 
 **1** Remercier et répondre :

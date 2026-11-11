@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le principe de l'annexion
 
 **1** Pour dire « le livre de l'étudiant », l'arabe juxtapose deux noms sans préposition : c'est l'**annexion** (_ʾiḍāfa_). Le possédé vient **d'abord**, le possesseur ensuite, au génitif (_-i_).

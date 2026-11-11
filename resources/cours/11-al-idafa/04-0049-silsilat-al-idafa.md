@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les chaînes d'annexion
 
 **1** Une annexion peut s'enchaîner : chaque terme est complément du précédent. Seul le **dernier** peut porter l'article.

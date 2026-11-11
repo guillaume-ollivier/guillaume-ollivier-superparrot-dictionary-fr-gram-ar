@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Fa-_ dans la réponse
 
 **1** Après *إِنْ* et *إِذَا*, le résultat est introduit par *فَـ* quand il **n'est pas** un simple verbe à l'accompli ou à l'apocopé :

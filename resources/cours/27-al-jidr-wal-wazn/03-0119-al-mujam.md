@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Chercher un mot dans le dictionnaire
 
 **1** Les dictionnaires classiques sont rangés **par racine** : pour trouver *مَكْتَبَة*, on cherche _ك ت ب_.

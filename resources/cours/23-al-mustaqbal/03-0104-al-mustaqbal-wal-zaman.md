@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Sa-yakūnu_ et les repères du futur
 
 **1** Pour « il sera », on met *كَانَ* au futur : *سَيَكُونُ*, avec attribut à l'accusatif :

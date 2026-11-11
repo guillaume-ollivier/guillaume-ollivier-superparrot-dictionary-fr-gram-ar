@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les féminins sans marque
 
 **1** Certains noms sont féminins **sans** _ة_. Il faut les apprendre :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Lawlā_ et _ʾammā… fa-_
 
 **1** *لَوْلَا* + **nom** (nominatif) = « sans, s'il n'y avait pas eu » ; résultat avec *لَـ* :

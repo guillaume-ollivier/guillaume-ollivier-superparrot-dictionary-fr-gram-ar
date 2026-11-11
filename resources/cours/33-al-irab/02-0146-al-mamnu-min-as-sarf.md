@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les diptotes
 
 **1** Certains noms n'ont que **deux** terminaisons à l'indéfini : _-u_ au nominatif, _-a_ à l'accusatif **et au génitif**, et **jamais de _tanwīn_** : ce sont les **diptotes** (_al-mamnūʿ min aṣ-ṣarf_).

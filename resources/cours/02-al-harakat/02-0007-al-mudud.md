@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les voyelles longues
 
 **1** Les voyelles longues, elles, **s'écrivent toujours**, avec trois lettres :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Tableau des formes, et la forme IX
 
 **1** Récapitulatif sur la racine _f-ʿ-l_ :

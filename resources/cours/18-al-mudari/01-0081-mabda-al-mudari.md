@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # L'inaccompli : principe
 
 **1** L'inaccompli (_al-muḍāriʿ_) exprime le **présent** (et, avec une particule, le futur) (§23.1). Il se forme avec des **préfixes** (et des suffixes au pluriel) autour d'un radical :

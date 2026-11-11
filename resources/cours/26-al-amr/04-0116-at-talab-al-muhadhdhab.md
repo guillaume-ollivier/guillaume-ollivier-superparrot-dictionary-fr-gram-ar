@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Demander poliment
 
 **1** L'impératif seul peut sembler brusque. On l'adoucit :

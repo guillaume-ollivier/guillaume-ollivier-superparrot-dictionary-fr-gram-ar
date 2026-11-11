@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Mā_ + accompli
 
 **1** La façon la plus simple de nier le passé : *مَا* _mā_ devant l'accompli.

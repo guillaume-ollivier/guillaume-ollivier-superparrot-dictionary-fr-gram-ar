@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _ʾAn_ + accompli, et le nom verbal
 
 **1** *أَنْ* peut aussi précéder un **accompli** pour un fait passé : *بَعْدَ أَنْ خَرَجَ* (après qu'il est sorti), *قَبْلَ أَنْ يَخْرُجَ* (avant qu'il sorte — subjonctif, car non réalisé).

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Nier un nom : _ġayr_ et _lā_ de négation absolue
 
 **1** *غَيْر* _ġayr_ (« autre que ») suivi d'un génitif rend le préfixe négatif « in-, non- » :

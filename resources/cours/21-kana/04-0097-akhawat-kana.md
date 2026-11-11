@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les sœurs de _kāna_
 
 **1** Plusieurs verbes se construisent comme *كَانَ*, avec un attribut à l'accusatif :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # « Pas encore », « jamais »
 
 **1** « Pas encore » : *لَمْ … بَعْدُ* ou *لَمَّا* + apocopé.

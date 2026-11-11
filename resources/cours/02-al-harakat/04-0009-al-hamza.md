@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # La _hamza_ et ses supports
 
 **1** La **_hamza_** _ء_ note un coup de glotte (la petite pause de « la | ananas »). Translittérée _ʾ_. Elle se pose le plus souvent sur un **support** :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le pluriel féminin sain
 
 **1** Le pluriel en *ـَات* _-āt_ sert aux féminins en _ة_ (qui tombe) et à de nombreux noms de choses :

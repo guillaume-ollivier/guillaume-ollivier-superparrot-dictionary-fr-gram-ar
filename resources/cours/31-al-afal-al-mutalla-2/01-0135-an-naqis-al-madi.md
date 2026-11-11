@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les verbes défectueux : l'accompli
 
 **1** Quand la **dernière** consonne est _و_ ou _ي_, le verbe est dit **défectueux**. Trois modèles à la 3ᵉ personne :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les pronoms suffixes : le singulier
 
 **1** Le possessif est un **suffixe** collé au nom, qui devient défini (pas d'article) :

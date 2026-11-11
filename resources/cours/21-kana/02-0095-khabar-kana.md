@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # L'attribut de _kāna_ à l'accusatif
 
 **1** Comme après *لَيْسَ*, l'attribut de *كَانَ* passe à l'**accusatif** :

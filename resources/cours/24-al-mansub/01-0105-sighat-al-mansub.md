@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # La forme du subjonctif
 
 **1** Le subjonctif (_al-manṣūb_) se forme sur l'inaccompli :

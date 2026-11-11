@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Relative sans relatif ; _man_ et _mā_
 
 **1** Si l'antécédent est **indéfini**, on n'emploie **pas** de pronom relatif : la relative suit directement (le pronom de rappel reste) :

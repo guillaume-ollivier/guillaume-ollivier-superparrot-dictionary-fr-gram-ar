@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Allaḏī_, _allatī_ : qui, que
 
 **1** Le pronom relatif s'accorde en genre et en nombre avec son antécédent, qui doit être **défini** :

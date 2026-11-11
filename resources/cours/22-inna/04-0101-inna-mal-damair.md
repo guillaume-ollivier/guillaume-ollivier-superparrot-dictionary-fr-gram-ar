@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _ʾInna_ et ses sœurs avec un pronom
 
 **1** Le sujet peut être un **pronom suffixe** :

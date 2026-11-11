@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Phrase ou groupe nominal ?
 
 **1** Tout se joue sur l'article de l'adjectif :

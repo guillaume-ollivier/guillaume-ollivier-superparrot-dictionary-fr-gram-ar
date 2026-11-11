@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les ordinaux et les jours de la semaine
 
 **1** Les ordinaux de 2 à 10 suivent le schème *فَاعِل* et s'accordent normalement (pas de polarité) :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le passif à l'accompli
 
 **1** Le passif arabe ne se forme pas avec un auxiliaire, mais en **changeant les voyelles** : _u_ – _i_ – _a_ à l'accompli :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le complément absolu (_mafʿūl muṭlaq_)
 
 **1** On renforce un verbe en le faisant suivre de **son propre nom verbal** à l'accusatif — souvent avec un adjectif, qui rend l'adverbe français :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # L'accompli : le singulier
 
 **1** Les personnes sont marquées par des **suffixes** :

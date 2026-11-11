@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les verbes sourds (2ᵉ et 3ᵉ consonnes identiques)
 
 **1** Quand les deux dernières consonnes sont identiques, elles fusionnent en _šadda_ : *مَدَّ* (étendre, racine _m-d-d_), *رَدَّ* (répondre), *ظَنَّ* (croire, penser).

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Arabe standard et dialectes
 
 **1** Le monde arabe vit en **diglossie** : deux variétés coexistent.

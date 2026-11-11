@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Noms en _-in_ et en *-ā*
 
 **1** Les noms terminés par _-ī_ après consonne simple (participes de verbes défectueux) perdent leur _ي_ à l'indéfini (nominatif et génitif) : ce sont les **_manqūṣ_**.

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # L'exception : _ʾillā_, _ġayr_, _siwā_
 
 **1** *إِلَّا* « sauf » : dans une phrase affirmative complète, le nom qui suit est à l'**accusatif** :

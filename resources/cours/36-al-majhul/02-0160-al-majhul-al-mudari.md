@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le passif à l'inaccompli
 
 **1** À l'inaccompli, le passif a les voyelles _u_ (préfixe) – _a_ (radical) :

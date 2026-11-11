@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Se présenter
 
 **1** Le nom : *اِسْمِي* _ismī_ (mon nom [est]) — pas de verbe « être » au présent (§5.4).

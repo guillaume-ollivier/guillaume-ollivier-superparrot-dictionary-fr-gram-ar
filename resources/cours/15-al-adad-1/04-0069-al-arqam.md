@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les chiffres
 
 **1** Au Proche-Orient, on écrit avec les chiffres dits « indiens » : *٠ ١ ٢ ٣ ٤ ٥ ٦ ٧ ٨ ٩*. Au Maghreb, on emploie les chiffres dits « arabes » de l'Europe, *0 1 2 3…* — qui viennent en effet du Maghreb.

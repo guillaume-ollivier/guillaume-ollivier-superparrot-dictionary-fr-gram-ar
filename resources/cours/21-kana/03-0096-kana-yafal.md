@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Kāna_ + inaccompli : l'imparfait
 
 **1** *كَانَ* + **inaccompli** exprime une action **en cours** ou **habituelle** dans le passé — l'imparfait français :

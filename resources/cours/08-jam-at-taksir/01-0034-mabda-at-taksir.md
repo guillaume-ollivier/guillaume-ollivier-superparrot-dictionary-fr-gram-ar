@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le principe du pluriel brisé
 
 **1** La majorité des noms arabes forment leur pluriel en **modifiant l'intérieur du mot** : les consonnes de la racine restent, les voyelles changent. C'est le **pluriel brisé** (_ǧamʿ at-taksīr_).

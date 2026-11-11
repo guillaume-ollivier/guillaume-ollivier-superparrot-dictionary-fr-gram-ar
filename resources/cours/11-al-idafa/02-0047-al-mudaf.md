@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le premier terme : ni article ni _tanwīn_
 
 **1** Le premier terme (_muḍāf_) ne prend **jamais** l'article ni le _tanwīn_ : il est défini par son complément.

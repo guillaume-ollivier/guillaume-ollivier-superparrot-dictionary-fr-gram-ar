@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # « Avoir » : _ʿinda_, _li-_, _maʿa_
 
 **1** L'arabe n'a pas de verbe « avoir ». On dit « chez moi (il y a) » :

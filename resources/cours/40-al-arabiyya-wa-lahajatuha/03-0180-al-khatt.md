@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # L'écriture : styles et usages
 
 **1** La calligraphie est un art majeur. Styles principaux :

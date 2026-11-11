@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les cas au duel et aux pluriels sains
 
 **1** Le duel et le pluriel masculin sain n'ont que **deux** formes : nominatif / accusatif-génitif. Elles se voient à l'écrit :

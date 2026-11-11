@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les lettres solaires
 
 **1** Devant certaines consonnes, le _l_ de l'article **ne se prononce pas** : il s'assimile à la consonne, qui se double (_šadda_). On les appelle **lettres solaires**, d'après *الشَّمْس* _aš-šams_ (le soleil).

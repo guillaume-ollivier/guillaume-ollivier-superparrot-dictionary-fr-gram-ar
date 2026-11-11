@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Tāʾ marbūṭa_ et _alif maqṣūra_
 
 **1** La **_tāʾ marbūṭa_** _ة_ (« t liée ») est un _ه_ coiffé des deux points du _ت_. Elle n'apparaît qu'**en fin de mot**, presque toujours pour marquer le **féminin** (§6.1).

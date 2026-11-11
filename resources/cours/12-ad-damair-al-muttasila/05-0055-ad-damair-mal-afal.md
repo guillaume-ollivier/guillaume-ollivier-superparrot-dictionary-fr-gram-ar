@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Suffixes compléments d'un verbe
 
 **1** Le complément d'objet pronom est le même suffixe, collé au verbe. Seule la 1ʳᵉ personne change : *ـنِي* _-nī_ (me) au lieu de _-ī_.

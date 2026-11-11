@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # La voyelle du radical
 
 **1** Chaque verbe a une voyelle de radical à l'inaccompli, notée dans le dictionnaire. Trois cas :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # L'accompli : le duel
 
 | pronom | forme | translittération |

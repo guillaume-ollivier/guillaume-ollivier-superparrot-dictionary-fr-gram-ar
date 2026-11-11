@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le féminin des noms de personnes
 
 **1** Les noms de métier et de fonction forment régulièrement leur féminin en _ة_ :

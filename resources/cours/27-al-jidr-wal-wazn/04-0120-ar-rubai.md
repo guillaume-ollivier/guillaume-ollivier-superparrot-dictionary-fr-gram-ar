@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Racines de quatre consonnes et emprunts
 
 **1** Quelques racines ont **quatre** consonnes : *تَرْجَمَ* (traduire), *زَلْزَلَ* (secouer), *سَيْطَرَ* (dominer). Inaccompli en _yu-_ : *يُتَرْجِمُ*.

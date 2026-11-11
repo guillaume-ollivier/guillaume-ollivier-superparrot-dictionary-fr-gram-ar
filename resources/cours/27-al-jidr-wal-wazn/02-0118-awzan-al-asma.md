@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les schèmes nominaux
 
 **1** On représente un schème avec les consonnes _ف ع ل_. Chaque schème a une valeur typique :

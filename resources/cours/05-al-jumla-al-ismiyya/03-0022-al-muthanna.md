@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les pronoms du duel
 
 **1** L'arabe a un **duel** : un nombre pour exactement deux (§7.1). Il a ses pronoms, sans distinction de genre :

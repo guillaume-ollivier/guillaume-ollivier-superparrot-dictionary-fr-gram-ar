@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Accorder avec un duel
 
 **1** L'adjectif qui qualifie un duel prend lui aussi le duel, avec la même terminaison :

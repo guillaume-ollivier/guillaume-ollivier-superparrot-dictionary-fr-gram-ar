@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Demander des nouvelles
 
 **1** La question s'accorde avec l'interlocuteur, par le suffixe (§12.1) :

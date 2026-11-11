@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les alternatives au passif
 
 **1** La forme VII (§29.3) exprime souvent le passif d'un verbe de forme I : *اِنْكَسَرَ الكَأْسُ* (le verre s'est cassé).

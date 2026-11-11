@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Le comparatif : _ʾafʿal min_
 
 **1** Le comparatif se forme sur le schème *أَفْعَل*, **invariable**, suivi de *مِنْ* (que) :

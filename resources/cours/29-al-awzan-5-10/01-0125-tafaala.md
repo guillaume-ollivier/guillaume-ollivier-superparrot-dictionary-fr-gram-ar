@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Forme V : _tafaʿʿala_
 
 **1** La forme V = *تَـ* + forme II. Elle est le **réfléchi** de la forme II : on fait l'action sur soi-même.

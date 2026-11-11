@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Forme VIII : _iftaʿala_
 
 **1** La forme VIII insère un _ت_ après la 1ʳᵉ consonne, avec _hamzat al-waṣl_ : *اِفْتَعَلَ*. Valeurs variées (réfléchi, effort pour soi) :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Lā_ + inaccompli
 
 **1** On nie le présent avec *لَا* _lā_ devant l'inaccompli, qui ne change pas :

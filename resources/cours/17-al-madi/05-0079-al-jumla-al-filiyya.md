@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # La phrase verbale : verbe en tête
 
 **1** L'ordre de base de la phrase verbale est **verbe – sujet – complément** :

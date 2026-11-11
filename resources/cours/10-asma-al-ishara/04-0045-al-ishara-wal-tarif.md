@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # « Ce livre » ou « c'est un livre » ?
 
 **1** Démonstratif + nom **défini** = groupe « ce… » ; démonstratif + nom **indéfini** = phrase « c'est un… » :

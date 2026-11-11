@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # L'impératif aux différentes personnes
 
 | à qui | forme | translittération |

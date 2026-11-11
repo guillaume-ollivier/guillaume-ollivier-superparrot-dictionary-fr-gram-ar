@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les adverbes de lieu
 
 **1** Ces mots s'emploient comme des prépositions, suivis du **génitif** (ils sont en annexion, et finissent en _-a_) :

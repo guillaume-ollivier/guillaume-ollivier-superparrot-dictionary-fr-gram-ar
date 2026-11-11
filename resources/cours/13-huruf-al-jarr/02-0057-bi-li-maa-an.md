@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Bi-_, _li-_, _maʿa_, _ʿan_
 
 **1** *بِـ* et *لِـ* s'écrivent **collées** au mot suivant :

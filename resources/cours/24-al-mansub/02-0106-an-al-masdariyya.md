@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _ʾAn_ + subjonctif après un verbe
 
 **1** Pour dire « vouloir faire », « pouvoir faire », l'arabe n'a pas d'infinitif : il emploie *أَنْ* + subjonctif, conjugué à la personne voulue :

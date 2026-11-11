@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # But et limite : _li-_, _kay_, _ḥattā_
 
 **1** « Pour (que) » : *لِـ*, *كَيْ* ou *لِكَيْ* + subjonctif :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Concaves : apocopé et impératif
 
 **1** Quand la dernière consonne prend le _sukūn_, la voyelle longue se **raccourcit** (une syllabe ne peut pas être longue et fermée) :

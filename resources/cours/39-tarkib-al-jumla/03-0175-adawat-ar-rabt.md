@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les connecteurs
 
 | mot | sens | exemple |

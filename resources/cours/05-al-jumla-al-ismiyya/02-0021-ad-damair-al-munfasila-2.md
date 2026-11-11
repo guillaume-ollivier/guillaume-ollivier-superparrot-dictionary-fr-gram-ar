@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Les pronoms personnels : le pluriel
 
 **1** Au pluriel aussi, masculin et féminin se distinguent à la 2ᵉ et à la 3ᵉ personne :

@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # _Fī_, _ʿalā_, _min_, _ʾilā_
 
 **1** Les prépositions sont suivies du **génitif** (_-i_, _-in_) :

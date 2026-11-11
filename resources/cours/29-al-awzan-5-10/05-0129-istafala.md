@@ -1,3 +1,6 @@
+---
+lang: ar
+---
 # Forme X : _istafʿala_
 
 **1** La forme X préfixe *اِسْتَـ*. Elle exprime le fait de **demander** quelque chose, ou de **considérer** comme :
