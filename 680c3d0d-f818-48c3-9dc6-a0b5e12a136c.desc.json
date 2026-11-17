@@ -1,0 +1,661 @@
+{
+  "format": "superparrot-dictionary-description",
+  "format_version": 1,
+  "generator": "parrotdict",
+  "id": "680c3d0d-f818-48c3-9dc6-a0b5e12a136c",
+  "title": {"ar": "قواعد اللغة العربية", "fr": "Grammaire arabe", "en": "Arabic grammar", "de": "Arabische Grammatik", "es": "Gramática árabe", "pt": "Gramática árabe", "it": "Grammatica araba"},
+  "description": {"ar": "قواعد اللغة العربية للناطقين بالفرنسية، من المستوى A1 إلى B2. يجمع كل درس بطاقةَ شرحٍ بالفرنسية، والمفرداتِ التي يقدّمها، وسلاسلَ من التمارين: الكتابة والقراءة، والتذكير والتأنيث والعدد (المثنى وجموع التكسير)، والإضافة، والماضي والمضارع، والجذور والأوزان، والأفعال المزيدة والمعتلّة.\n\nاللغة المدروسة هي العربية الفصحى المعاصرة، والأمثلة مشكولة، ولا تُدرَّس اللهجات. هذا ليس معجمًا: تقتصر المفردات على مفردات الدروس.", "fr": "Grammaire arabe pour francophones, du niveau A1 au B2. Chaque leçon associe une fiche de cours en français, le vocabulaire qu'elle introduit et des séries d'exercices : écriture et lecture, genre et nombre (duel, pluriels brisés), annexion (iḍāfa), accompli et inaccompli, racines et schèmes, formes dérivées et verbes faibles.\n\nL'arabe enseigné est l'arabe standard moderne ; les exemples sont vocalisés. Les dialectes ne sont pas enseignés. Ce n'est pas un dictionnaire : le vocabulaire se limite à celui des leçons.", "en": "Arabic grammar for French speakers, from A1 to B2. Each lesson combines a course sheet written in French, the vocabulary it introduces and sets of exercises: writing and reading, gender and number (dual, broken plurals), the iḍāfa, perfect and imperfect, roots and patterns, derived forms and weak verbs.\n\nThe Arabic taught is Modern Standard Arabic; examples are fully vowelled. Dialects are not taught. This is not a dictionary: the vocabulary is limited to what the lessons use.", "de": "Arabische Grammatik für Französischsprachige, von Niveau A1 bis B2. Jede Lektion verbindet ein Kursblatt auf Französisch, den darin eingeführten Wortschatz und Übungsreihen: Schrift und Lesen, Genus und Numerus (Dual, gebrochene Plurale), Iḍāfa, Perfekt und Imperfekt, Wurzeln und Wortmuster, abgeleitete Stämme und schwache Verben.\n\nGelehrt wird modernes Hocharabisch; die Beispiele sind vokalisiert. Dialekte werden nicht gelehrt. Es ist kein Wörterbuch: Der Wortschatz beschränkt sich auf den der Lektionen.", "es": "Gramática árabe para francófonos, del nivel A1 al B2. Cada lección reúne una ficha de curso en francés, el vocabulario que introduce y series de ejercicios: escritura y lectura, género y número (dual, plurales fractos), iḍāfa, perfectivo e imperfectivo, raíces y esquemas, formas derivadas y verbos débiles.\n\nSe enseña el árabe estándar moderno; los ejemplos están vocalizados. Los dialectos no se enseñan. No es un diccionario: el vocabulario se limita al de las lecciones.", "pt": "Gramática árabe para falantes de francês, do nível A1 ao B2. Cada lição reúne uma ficha de curso em francês, o vocabulário que introduz e séries de exercícios: escrita e leitura, género e número (dual, plurais fratos), iḍāfa, perfeito e imperfeito, raízes e esquemas, formas derivadas e verbos fracos.\n\nEnsina-se o árabe padrão moderno; os exemplos são vocalizados. Os dialetos não são ensinados. Não é um dicionário: o vocabulário limita-se ao das lições.", "it": "Grammatica araba per francofoni, dal livello A1 al B2. Ogni lezione unisce una scheda di corso in francese, il vocabolario che introduce e serie di esercizi: scrittura e lettura, genere e numero (duale, plurali fratti), iḍāfa, perfetto e imperfetto, radici e schemi, forme derivate e verbi deboli.\n\nSi insegna l'arabo standard moderno; gli esempi sono vocalizzati. I dialetti non vengono insegnati. Non è un dizionario: il vocabolario si limita a quello delle lezioni."},
+  "type": "WORKBOOK",
+  "languages": ["ar", "ar-SA", "fr-FR"],
+  "audience": "fr",
+  "version": "1",
+  "updated": "2026-11-17",
+  "counts": {"meanings": 654, "words": {"ar": 1326, "fr-FR": 778}, "exercises": 1021, "chapters": 40, "lessons": 182},
+  "package": {
+    "uris": ["fr_gram_ar.parrot"],
+    "file_name": "fr_gram_ar.parrot",
+    "format": "parrot",
+    "size": 363226,
+    "sha256": "538850f85ad3cf2b22b5c80a46fa3af9fd24d013e4fb2f69d74c1b1fc4140b12"
+  },
+  "tags": [
+    {
+      "label": {"fr": "action", "en": "action", "pt": "ação"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 9, "words": {"ar": 20, "fr-FR": 13}}, "total": {"meanings": 9, "words": {"ar": 20, "fr-FR": 13}}}
+    },
+    {
+      "label": {"fr": "alimentation", "en": "food and drink", "pt": "alimentação"},
+      "selectable": true,
+      "counts": {"total": {"meanings": 24, "words": {"ar": 48, "fr-FR": 25}}},
+      "children": [
+        {
+          "label": {"fr": "aliment", "en": "food item", "pt": "alimento"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 8, "words": {"ar": 16, "fr-FR": 8}}, "total": {"meanings": 8, "words": {"ar": 16, "fr-FR": 8}}}
+        },
+        {
+          "label": {"fr": "boisson", "en": "drink", "pt": "bebida"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 8, "words": {"ar": 16, "fr-FR": 8}}, "total": {"meanings": 8, "words": {"ar": 16, "fr-FR": 8}}}
+        },
+        {
+          "label": {"fr": "repas", "en": "meal", "pt": "refeição"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 8, "words": {"ar": 16, "fr-FR": 9}}, "total": {"meanings": 8, "words": {"ar": 16, "fr-FR": 9}}}
+        }
+      ]
+    },
+    {
+      "label": {"fr": "argent", "en": "money", "pt": "dinheiro"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 8, "words": {"ar": 16, "fr-FR": 8}}, "total": {"meanings": 8, "words": {"ar": 16, "fr-FR": 8}}}
+    },
+    {
+      "label": {"fr": "communication", "en": "communication", "pt": "comunicação"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 15, "words": {"ar": 30, "fr-FR": 21}}, "total": {"meanings": 52, "words": {"ar": 104, "fr-FR": 64}}},
+      "children": [
+        {
+          "label": {"fr": "langue", "en": "language", "pt": "língua"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 23, "words": {"ar": 46, "fr-FR": 29}}, "total": {"meanings": 23, "words": {"ar": 46, "fr-FR": 29}}}
+        },
+        {
+          "label": {"fr": "média", "en": "media", "pt": "meios de comunicação"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 6, "words": {"ar": 12, "fr-FR": 6}}, "total": {"meanings": 6, "words": {"ar": 12, "fr-FR": 6}}}
+        },
+        {
+          "label": {"fr": "parole", "en": "speech", "pt": "fala"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 8, "words": {"ar": 16, "fr-FR": 8}}, "total": {"meanings": 8, "words": {"ar": 16, "fr-FR": 8}}}
+        }
+      ]
+    },
+    {
+      "label": {"fr": "politesse", "en": "politeness", "pt": "cortesia"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 26, "words": {"ar": 54, "fr-FR": 30}}, "total": {"meanings": 26, "words": {"ar": 54, "fr-FR": 30}}}
+    },
+    {
+      "label": {"fr": "couleur", "en": "colour", "pt": "cor"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 7, "words": {"ar": 14, "fr-FR": 7}}, "total": {"meanings": 7, "words": {"ar": 14, "fr-FR": 7}}}
+    },
+    {
+      "label": {"fr": "déplacement", "en": "getting around", "pt": "deslocação"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 15, "words": {"ar": 34, "fr-FR": 18}}, "total": {"meanings": 15, "words": {"ar": 34, "fr-FR": 18}}}
+    },
+    {
+      "label": {"fr": "dimension", "en": "size", "pt": "dimensão"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 4, "words": {"ar": 8, "fr-FR": 6}}, "total": {"meanings": 4, "words": {"ar": 8, "fr-FR": 6}}}
+    },
+    {
+      "label": {"fr": "droit", "en": "law", "pt": "direito"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 5, "words": {"ar": 10, "fr-FR": 5}}, "total": {"meanings": 5, "words": {"ar": 10, "fr-FR": 5}}}
+    },
+    {
+      "label": {"fr": "échange", "en": "exchange", "pt": "troca"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 7, "words": {"ar": 14, "fr-FR": 8}}, "total": {"meanings": 7, "words": {"ar": 14, "fr-FR": 8}}}
+    },
+    {
+      "label": {"fr": "enseignement", "en": "education", "pt": "ensino"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 30, "words": {"ar": 60, "fr-FR": 38}}, "total": {"meanings": 30, "words": {"ar": 60, "fr-FR": 38}}}
+    },
+    {
+      "label": {"fr": "état", "en": "condition", "pt": "estado"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 18, "words": {"ar": 38, "fr-FR": 20}}, "total": {"meanings": 18, "words": {"ar": 38, "fr-FR": 20}}}
+    },
+    {
+      "label": {"fr": "fête", "en": "celebration", "pt": "festa"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 4, "words": {"ar": 8, "fr-FR": 4}}, "total": {"meanings": 4, "words": {"ar": 8, "fr-FR": 4}}}
+    },
+    {
+      "label": {"fr": "geste", "en": "gesture", "pt": "gesto"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 7, "words": {"ar": 14, "fr-FR": 9}}, "total": {"meanings": 7, "words": {"ar": 14, "fr-FR": 9}}}
+    },
+    {
+      "label": {"fr": "habitation", "en": "housing", "pt": "habitação"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 6, "words": {"ar": 12, "fr-FR": 6}}, "total": {"meanings": 19, "words": {"ar": 38, "fr-FR": 21}}},
+      "children": [
+        {
+          "label": {"fr": "logement", "en": "dwelling", "pt": "alojamento"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 4, "words": {"ar": 8, "fr-FR": 4}}, "total": {"meanings": 4, "words": {"ar": 8, "fr-FR": 4}}}
+        },
+        {
+          "label": {"fr": "mobilier", "en": "furniture", "pt": "mobiliário"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 5, "words": {"ar": 10, "fr-FR": 5}}, "total": {"meanings": 5, "words": {"ar": 10, "fr-FR": 5}}}
+        },
+        {
+          "label": {"fr": "pièce du logement", "en": "room of a home", "pt": "divisão da casa"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 4, "words": {"ar": 8, "fr-FR": 6}}, "total": {"meanings": 4, "words": {"ar": 8, "fr-FR": 6}}}
+        }
+      ]
+    },
+    {
+      "label": {"fr": "institution", "en": "institution", "pt": "instituição"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 12, "words": {"ar": 24, "fr-FR": 14}}, "total": {"meanings": 17, "words": {"ar": 34, "fr-FR": 19}}},
+      "children": [
+        {
+          "label": {"fr": "nationalité", "en": "nationality", "pt": "nacionalidade"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 5, "words": {"ar": 10, "fr-FR": 5}}, "total": {"meanings": 5, "words": {"ar": 10, "fr-FR": 5}}}
+        }
+      ]
+    },
+    {
+      "label": {"fr": "lieu", "en": "place", "pt": "lugar"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 17, "words": {"ar": 36, "fr-FR": 22}}, "total": {"meanings": 70, "words": {"ar": 142, "fr-FR": 86}}},
+      "children": [
+        {
+          "label": {"fr": "bâtiment public", "en": "public building", "pt": "edifício público"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 17, "words": {"ar": 34, "fr-FR": 19}}, "total": {"meanings": 17, "words": {"ar": 34, "fr-FR": 19}}}
+        },
+        {
+          "label": {"fr": "commerce", "en": "shop", "pt": "comércio"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 10, "words": {"ar": 20, "fr-FR": 11}}, "total": {"meanings": 10, "words": {"ar": 20, "fr-FR": 11}}}
+        },
+        {
+          "label": {"fr": "transport", "en": "transport", "pt": "transporte"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 12, "words": {"ar": 24, "fr-FR": 17}}, "total": {"meanings": 12, "words": {"ar": 24, "fr-FR": 17}}}
+        },
+        {
+          "label": {"fr": "ville", "en": "town", "pt": "cidade"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 16, "words": {"ar": 32, "fr-FR": 19}}, "total": {"meanings": 16, "words": {"ar": 32, "fr-FR": 19}}}
+        }
+      ]
+    },
+    {
+      "label": {"fr": "loisir", "en": "leisure", "pt": "lazer"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 3, "words": {"ar": 6, "fr-FR": 3}}, "total": {"meanings": 17, "words": {"ar": 34, "fr-FR": 21}}},
+      "children": [
+        {
+          "label": {"fr": "art", "en": "art", "pt": "arte"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 7, "words": {"ar": 14, "fr-FR": 9}}, "total": {"meanings": 7, "words": {"ar": 14, "fr-FR": 9}}}
+        },
+        {
+          "label": {"fr": "sport", "en": "sport", "pt": "desporto"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 7, "words": {"ar": 14, "fr-FR": 9}}, "total": {"meanings": 7, "words": {"ar": 14, "fr-FR": 9}}}
+        }
+      ]
+    },
+    {
+      "label": {"fr": "métier", "en": "occupation", "pt": "profissão"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 24, "words": {"ar": 48, "fr-FR": 28}}, "total": {"meanings": 24, "words": {"ar": 48, "fr-FR": 28}}}
+    },
+    {
+      "label": {"fr": "nature", "en": "nature", "pt": "natureza"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 8, "words": {"ar": 16, "fr-FR": 8}}, "total": {"meanings": 48, "words": {"ar": 98, "fr-FR": 53}}},
+      "children": [
+        {
+          "label": {"fr": "animal", "en": "animal", "pt": "animal"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 8, "words": {"ar": 16, "fr-FR": 10}}, "total": {"meanings": 8, "words": {"ar": 16, "fr-FR": 10}}}
+        },
+        {
+          "label": {"fr": "géographie", "en": "geography", "pt": "geografia"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 18, "words": {"ar": 36, "fr-FR": 19}}, "total": {"meanings": 18, "words": {"ar": 36, "fr-FR": 19}}}
+        },
+        {
+          "label": {"fr": "matière", "en": "material", "pt": "material"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 1, "words": {"ar": 2, "fr-FR": 1}}, "total": {"meanings": 1, "words": {"ar": 2, "fr-FR": 1}}}
+        },
+        {
+          "label": {"fr": "météo", "en": "weather", "pt": "meteorologia"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 7, "words": {"ar": 16, "fr-FR": 7}}, "total": {"meanings": 7, "words": {"ar": 16, "fr-FR": 7}}}
+        },
+        {
+          "label": {"fr": "végétal", "en": "plant", "pt": "planta"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 6, "words": {"ar": 12, "fr-FR": 8}}, "total": {"meanings": 6, "words": {"ar": 12, "fr-FR": 8}}}
+        }
+      ]
+    },
+    {
+      "label": {"fr": "nombre", "en": "number", "pt": "número"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 21, "words": {"ar": 44, "fr-FR": 24}}, "total": {"meanings": 21, "words": {"ar": 44, "fr-FR": 24}}}
+    },
+    {
+      "label": {"fr": "objet", "en": "object", "pt": "objeto"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 20, "words": {"ar": 42, "fr-FR": 22}}, "total": {"meanings": 20, "words": {"ar": 42, "fr-FR": 22}}}
+    },
+    {
+      "label": {"fr": "pensée", "en": "thought", "pt": "pensamento"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 15, "words": {"ar": 30, "fr-FR": 19}}, "total": {"meanings": 15, "words": {"ar": 30, "fr-FR": 19}}}
+    },
+    {
+      "label": {"fr": "perception", "en": "perception", "pt": "perceção"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 4, "words": {"ar": 8, "fr-FR": 4}}, "total": {"meanings": 4, "words": {"ar": 8, "fr-FR": 4}}}
+    },
+    {
+      "label": {"fr": "personne", "en": "person", "pt": "pessoa"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 28, "words": {"ar": 56, "fr-FR": 40}}, "total": {"meanings": 97, "words": {"ar": 194, "fr-FR": 112}}},
+      "children": [
+        {
+          "label": {"fr": "âge", "en": "age", "pt": "idade"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 4, "words": {"ar": 8, "fr-FR": 4}}, "total": {"meanings": 4, "words": {"ar": 8, "fr-FR": 4}}}
+        },
+        {
+          "label": {"fr": "caractère", "en": "personality", "pt": "personalidade"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 3, "words": {"ar": 6, "fr-FR": 4}}, "total": {"meanings": 3, "words": {"ar": 6, "fr-FR": 4}}}
+        },
+        {
+          "label": {"fr": "corps humain", "en": "human body", "pt": "corpo humano"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 17, "words": {"ar": 34, "fr-FR": 17}}, "total": {"meanings": 17, "words": {"ar": 34, "fr-FR": 17}}}
+        },
+        {
+          "label": {"fr": "émotion", "en": "emotion", "pt": "emoção"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 9, "words": {"ar": 18, "fr-FR": 10}}, "total": {"meanings": 9, "words": {"ar": 18, "fr-FR": 10}}}
+        },
+        {
+          "label": {"fr": "famille", "en": "family", "pt": "família"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 14, "words": {"ar": 28, "fr-FR": 14}}, "total": {"meanings": 14, "words": {"ar": 28, "fr-FR": 14}}}
+        },
+        {
+          "label": {"fr": "relation sociale", "en": "social relation", "pt": "relação social"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 15, "words": {"ar": 30, "fr-FR": 16}}, "total": {"meanings": 15, "words": {"ar": 30, "fr-FR": 16}}}
+        },
+        {
+          "label": {"fr": "santé", "en": "health", "pt": "saúde"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 5, "words": {"ar": 10, "fr-FR": 5}}, "total": {"meanings": 5, "words": {"ar": 10, "fr-FR": 5}}}
+        },
+        {
+          "label": {"fr": "sommeil", "en": "sleep", "pt": "sono"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 3, "words": {"ar": 6, "fr-FR": 3}}, "total": {"meanings": 3, "words": {"ar": 6, "fr-FR": 3}}}
+        },
+        {
+          "label": {"fr": "vie", "en": "life", "pt": "vida"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 1, "words": {"ar": 2, "fr-FR": 1}}, "total": {"meanings": 1, "words": {"ar": 2, "fr-FR": 1}}}
+        }
+      ]
+    },
+    {
+      "label": {"fr": "qualité", "en": "quality", "pt": "qualidade"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 17, "words": {"ar": 34, "fr-FR": 25}}, "total": {"meanings": 17, "words": {"ar": 34, "fr-FR": 25}}}
+    },
+    {
+      "label": {"fr": "quantité", "en": "quantity", "pt": "quantidade"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 10, "words": {"ar": 20, "fr-FR": 13}}, "total": {"meanings": 10, "words": {"ar": 20, "fr-FR": 13}}}
+    },
+    {
+      "label": {"fr": "religion", "en": "religion", "pt": "religião"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 8, "words": {"ar": 16, "fr-FR": 8}}, "total": {"meanings": 8, "words": {"ar": 16, "fr-FR": 8}}}
+    },
+    {
+      "label": {"fr": "repérage dans le temps", "en": "telling time", "pt": "localização no tempo"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 6, "words": {"ar": 12, "fr-FR": 7}}, "total": {"meanings": 51, "words": {"ar": 102, "fr-FR": 56}}},
+      "children": [
+        {
+          "label": {"fr": "calendrier", "en": "calendar", "pt": "calendário"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 13, "words": {"ar": 26, "fr-FR": 15}}, "total": {"meanings": 13, "words": {"ar": 26, "fr-FR": 15}}}
+        },
+        {
+          "label": {"fr": "durée", "en": "duration", "pt": "duração"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 12, "words": {"ar": 24, "fr-FR": 14}}, "total": {"meanings": 12, "words": {"ar": 24, "fr-FR": 14}}}
+        },
+        {
+          "label": {"fr": "fréquence", "en": "frequency", "pt": "frequência"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 4, "words": {"ar": 8, "fr-FR": 4}}, "total": {"meanings": 4, "words": {"ar": 8, "fr-FR": 4}}}
+        },
+        {
+          "label": {"fr": "moment de la journée", "en": "time of day", "pt": "momento do dia"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 19, "words": {"ar": 38, "fr-FR": 21}}, "total": {"meanings": 19, "words": {"ar": 38, "fr-FR": 21}}}
+        },
+        {
+          "label": {"fr": "saison", "en": "season", "pt": "estação do ano"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 1, "words": {"ar": 2, "fr-FR": 1}}, "total": {"meanings": 1, "words": {"ar": 2, "fr-FR": 1}}}
+        }
+      ]
+    },
+    {
+      "label": {"fr": "monde du travail", "en": "world of work", "pt": "mundo do trabalho"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 17, "words": {"ar": 34, "fr-FR": 21}}, "total": {"meanings": 17, "words": {"ar": 34, "fr-FR": 21}}}
+    },
+    {
+      "label": {"fr": "vêtement", "en": "clothing", "pt": "vestuário"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 2, "words": {"ar": 4, "fr-FR": 2}}, "total": {"meanings": 2, "words": {"ar": 4, "fr-FR": 2}}}
+    },
+    {
+      "label": {"fr": "volonté", "en": "will", "pt": "vontade"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 9, "words": {"ar": 18, "fr-FR": 11}}, "total": {"meanings": 9, "words": {"ar": 18, "fr-FR": 11}}}
+    },
+    {
+      "label": {"fr": "voyage", "en": "travel", "pt": "viagem"},
+      "selectable": true,
+      "counts": {"own": {"meanings": 14, "words": {"ar": 28, "fr-FR": 15}}, "total": {"meanings": 14, "words": {"ar": 28, "fr-FR": 15}}}
+    }
+  ],
+  "categories": [
+    {
+      "label": {"en": "content type", "fr": "type de contenu", "de": "Inhaltstyp", "es": "tipo de contenido", "it": "tipo di contenuto"},
+      "selectable": false,
+      "counts": {"total": {"meanings": 3, "words": {"ar": 2, "fr-FR": 3}}},
+      "children": [
+        {
+          "label": {"en": "definition", "fr": "définition", "de": "Definition", "es": "definición", "it": "definizione"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 2, "words": {"fr-FR": 2}}, "total": {"meanings": 2, "words": {"fr-FR": 2}}}
+        },
+        {
+          "label": {"en": "question", "fr": "question", "de": "Frage", "es": "pregunta", "it": "domanda"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 1, "words": {"ar": 2, "fr-FR": 1}}, "total": {"meanings": 1, "words": {"ar": 2, "fr-FR": 1}}}
+        }
+      ]
+    },
+    {
+      "label": {"fr": "formation du mot", "en": "word formation", "de": "Wortbildung", "es": "formación de palabras", "it": "formazione delle parole"},
+      "selectable": false,
+      "counts": {"total": {"meanings": 34, "words": {"ar": 68}}},
+      "children": [
+        {
+          "label": {"fr": "emprunt", "en": "loanword", "de": "Lehnwort", "es": "préstamo", "it": "prestito linguistico"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 9, "words": {"ar": 18}}, "total": {"meanings": 9, "words": {"ar": 18}}}
+        },
+        {
+          "label": {"fr": "nom verbal (maṣdar)", "en": "verbal noun (masdar)", "de": "Verbalnomen (Masdar)", "es": "nombre verbal (masdar)", "it": "nome verbale (masdar)"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 16, "words": {"ar": 32}}, "total": {"meanings": 16, "words": {"ar": 32}}}
+        },
+        {
+          "label": {"fr": "adjectif de relation (nisba)", "en": "relational adjective (nisba)", "de": "Nisba-Adjektiv", "es": "adjetivo de relación (nisba)", "it": "aggettivo di relazione (nisba)"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 9, "words": {"ar": 18}}, "total": {"meanings": 9, "words": {"ar": 18}}}
+        }
+      ]
+    },
+    {
+      "label": {"fr": "fréquence d'utilisation", "en": "usage frequency", "de": "Gebrauchshäufigkeit", "es": "frecuencia de uso", "it": "frequenza d'uso"},
+      "selectable": false,
+      "counts": {"total": {"meanings": 510, "words": {"ar": 1038}}},
+      "children": [
+        {
+          "label": {"fr": "fréquent", "en": "frequent", "de": "häufig", "es": "frecuente", "it": "frequente"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 133, "words": {"ar": 268}}, "total": {"meanings": 133, "words": {"ar": 268}}}
+        },
+        {
+          "label": {"fr": "peu fréquent", "en": "infrequent", "de": "wenig häufig", "es": "poco frecuente", "it": "poco frequente"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 11, "words": {"ar": 22}}, "total": {"meanings": 11, "words": {"ar": 22}}}
+        },
+        {
+          "label": {"fr": "très fréquent", "en": "very frequent", "de": "sehr häufig", "es": "muy frecuente", "it": "molto frequente"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 259, "words": {"ar": 532}}, "total": {"meanings": 259, "words": {"ar": 532}}}
+        },
+        {
+          "label": {"fr": "ultra-fréquent", "en": "ultra-frequent", "de": "ultrahäufig", "es": "ultrafrecuente", "it": "ultrafrequente"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 107, "words": {"ar": 216}}, "total": {"meanings": 107, "words": {"ar": 216}}}
+        }
+      ]
+    },
+    {
+      "label": {"fr": "grammaire", "en": "grammar", "de": "Grammatik", "es": "gramática", "it": "grammatica"},
+      "selectable": false,
+      "counts": {"total": {"meanings": 654, "words": {"ar": 1326, "fr-FR": 778}}},
+      "children": [
+        {
+          "label": {"fr": "flexion", "en": "inflection", "de": "Flexion", "es": "flexión", "it": "flessione"},
+          "selectable": false,
+          "counts": {"total": {"meanings": 466, "words": {"ar": 734, "fr-FR": 533}}},
+          "children": [
+            {
+              "label": {"fr": "genre", "en": "gender", "de": "Genus", "es": "género", "it": "genere"},
+              "selectable": false,
+              "counts": {"total": {"meanings": 367, "words": {"ar": 730, "fr-FR": 415}}},
+              "children": [
+                {
+                  "label": {"fr": "féminin", "en": "feminine", "de": "feminin", "es": "femenino", "it": "femminile"},
+                  "selectable": true,
+                  "counts": {"own": {"meanings": 189, "words": {"ar": 236, "fr-FR": 146}}, "total": {"meanings": 189, "words": {"ar": 236, "fr-FR": 146}}}
+                },
+                {
+                  "label": {"fr": "masculin", "en": "masculine", "de": "maskulin", "es": "masculino", "it": "maschile"},
+                  "selectable": true,
+                  "counts": {"own": {"meanings": 305, "words": {"ar": 494, "fr-FR": 269}}, "total": {"meanings": 305, "words": {"ar": 494, "fr-FR": 269}}}
+                }
+              ]
+            },
+            {
+              "label": {"fr": "cardinalité", "en": "number", "de": "Numerus", "es": "número", "it": "numero"},
+              "selectable": false,
+              "counts": {"total": {"meanings": 148, "words": {"ar": 294, "fr-FR": 167}}},
+              "children": [
+                {
+                  "label": {"fr": "duel", "en": "dual", "de": "Dual", "es": "dual", "it": "duale"},
+                  "selectable": true,
+                  "counts": {"own": {"meanings": 2, "words": {"ar": 4}}, "total": {"meanings": 2, "words": {"ar": 4}}}
+                },
+                {
+                  "label": {"fr": "pluriel", "en": "plural", "de": "Plural", "es": "plural", "it": "plurale"},
+                  "selectable": true,
+                  "counts": {"own": {"meanings": 146, "words": {"ar": 290, "fr-FR": 167}}, "total": {"meanings": 146, "words": {"ar": 290, "fr-FR": 167}}}
+                },
+                {
+                  "label": {"fr": "pluriel brisé", "en": "broken plural", "de": "gebrochener Plural", "es": "plural fracto", "it": "plurale fratto"},
+                  "selectable": true,
+                  "counts": {"own": {"meanings": 109, "words": {"ar": 218}}, "total": {"meanings": 109, "words": {"ar": 218}}}
+                }
+              ]
+            },
+            {
+              "label": {"fr": "temps", "en": "tense", "de": "Zeitform", "es": "tiempo", "it": "tempo"},
+              "selectable": false,
+              "counts": {"total": {"meanings": 97, "words": {"fr-FR": 118}}},
+              "children": [
+                {
+                  "label": {"fr": "infinitif", "en": "infinitive", "de": "Infinitiv", "es": "infinitivo", "it": "infinito"},
+                  "selectable": true,
+                  "counts": {"own": {"meanings": 97, "words": {"fr-FR": 118}}, "total": {"meanings": 97, "words": {"fr-FR": 118}}}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": {"fr": "nature du mot", "en": "part of speech", "de": "Wortart", "es": "categoría gramatical", "it": "categoria grammaticale"},
+          "selectable": false,
+          "counts": {"total": {"meanings": 654, "words": {"ar": 1326, "fr-FR": 778}}},
+          "children": [
+            {
+              "label": {"fr": "adjectif", "en": "adjective", "de": "Adjektiv", "es": "adjetivo", "it": "aggettivo"},
+              "selectable": true,
+              "counts": {"own": {"meanings": 60, "words": {"ar": 120, "fr-FR": 72}}, "total": {"meanings": 60, "words": {"ar": 120, "fr-FR": 72}}}
+            },
+            {
+              "label": {"fr": "adverbe", "en": "adverb", "de": "Adverb", "es": "adverbio", "it": "avverbio"},
+              "selectable": true,
+              "counts": {"own": {"meanings": 22, "words": {"ar": 32, "fr-FR": 22}}, "total": {"meanings": 22, "words": {"ar": 32, "fr-FR": 22}}}
+            },
+            {
+              "label": {"fr": "conjonction", "en": "conjunction", "de": "Konjunktion", "es": "conjunción", "it": "congiunzione"},
+              "selectable": true,
+              "counts": {"own": {"meanings": 16, "words": {"ar": 32, "fr-FR": 21}}, "total": {"meanings": 16, "words": {"ar": 32, "fr-FR": 21}}}
+            },
+            {
+              "label": {"fr": "déterminant", "en": "determiner", "de": "Determinativ", "es": "determinante", "it": "determinante"},
+              "selectable": true,
+              "counts": {"own": {"meanings": 2, "words": {"ar": 4, "fr-FR": 5}}, "total": {"meanings": 2, "words": {"ar": 4, "fr-FR": 5}}}
+            },
+            {
+              "label": {"fr": "interjection", "en": "interjection", "de": "Interjektion", "es": "interjección", "it": "interiezione"},
+              "selectable": true,
+              "counts": {"own": {"meanings": 22, "words": {"ar": 46, "fr-FR": 24}}, "total": {"meanings": 22, "words": {"ar": 46, "fr-FR": 24}}}
+            },
+            {
+              "label": {"fr": "locution", "en": "locution", "de": "Wortverbindung", "es": "locución", "it": "locuzione"},
+              "selectable": true,
+              "counts": {"own": {"meanings": 28, "words": {"ar": 48, "fr-FR": 30}}, "total": {"meanings": 28, "words": {"ar": 48, "fr-FR": 30}}}
+            },
+            {
+              "label": {"fr": "nom", "en": "noun", "de": "Substantiv", "es": "sustantivo", "it": "sostantivo"},
+              "selectable": true,
+              "counts": {"own": {"meanings": 369, "words": {"ar": 736, "fr-FR": 421}}, "total": {"meanings": 369, "words": {"ar": 738, "fr-FR": 421}}},
+              "children": [
+                {
+                  "label": {"fr": "nom propre", "en": "proper noun", "de": "Eigenname", "es": "nombre propio", "it": "nome proprio"},
+                  "selectable": true,
+                  "counts": {"own": {"meanings": 12, "words": {"ar": 24}}, "total": {"meanings": 12, "words": {"ar": 24}}}
+                }
+              ]
+            },
+            {
+              "label": {"fr": "numéral", "en": "numeral", "de": "Numerale", "es": "numeral", "it": "numerale"},
+              "selectable": true,
+              "counts": {"own": {"meanings": 15, "words": {"ar": 32, "fr-FR": 15}}, "total": {"meanings": 15, "words": {"ar": 32, "fr-FR": 15}}}
+            },
+            {
+              "label": {"fr": "particule", "en": "particle", "de": "Partikel", "es": "partícula", "it": "particella"},
+              "selectable": true,
+              "counts": {"own": {"meanings": 13, "words": {"ar": 26, "fr-FR": 10}}, "total": {"meanings": 13, "words": {"ar": 26, "fr-FR": 10}}}
+            },
+            {
+              "label": {"fr": "préposition", "en": "preposition", "de": "Präposition", "es": "preposición", "it": "preposizione"},
+              "selectable": true,
+              "counts": {"own": {"meanings": 18, "words": {"ar": 38, "fr-FR": 23}}, "total": {"meanings": 18, "words": {"ar": 38, "fr-FR": 23}}}
+            },
+            {
+              "label": {"fr": "pronom", "en": "pronoun", "de": "Pronomen", "es": "pronombre", "it": "pronome"},
+              "selectable": true,
+              "counts": {"own": {"meanings": 25, "words": {"ar": 50, "fr-FR": 43}}, "total": {"meanings": 25, "words": {"ar": 50, "fr-FR": 43}}}
+            },
+            {
+              "label": {"fr": "verbe", "en": "verb", "de": "Verb", "es": "verbo", "it": "verbo"},
+              "selectable": true,
+              "counts": {"own": {"meanings": 98, "words": {"ar": 202, "fr-FR": 119}}, "total": {"meanings": 98, "words": {"ar": 202, "fr-FR": 119}}},
+              "children": [
+                {
+                  "label": {"fr": "verbe de forme dérivée (II–X)", "en": "derived verb form", "de": "abgeleiteter Verbstamm", "es": "verbo de forma derivada", "it": "verbo di forma derivata"},
+                  "selectable": true,
+                  "counts": {"own": {"meanings": 39, "words": {"ar": 80}}, "total": {"meanings": 39, "words": {"ar": 80}}}
+                },
+                {
+                  "label": {"fr": "transitivité", "en": "transitivity", "de": "Transitivität", "es": "transitividad", "it": "transitività"},
+                  "selectable": false,
+                  "counts": {"total": {"meanings": 94, "words": {"ar": 196}}},
+                  "children": [
+                    {
+                      "label": {"fr": "intransitif", "en": "intransitive", "de": "intransitiv", "es": "intransitivo", "it": "intransitivo"},
+                      "selectable": true,
+                      "counts": {"own": {"meanings": 44, "words": {"ar": 94}}, "total": {"meanings": 44, "words": {"ar": 94}}}
+                    },
+                    {
+                      "label": {"fr": "transitif", "en": "transitive", "de": "transitiv", "es": "transitivo", "it": "transitivo"},
+                      "selectable": true,
+                      "counts": {"own": {"meanings": 50, "words": {"ar": 102}}, "total": {"meanings": 50, "words": {"ar": 102}}}
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": {"fr": "niveau de maîtrise", "en": "proficiency level", "de": "Niveaustufe", "es": "nivel de dominio", "it": "livello di padronanza"},
+      "selectable": false,
+      "counts": {"total": {"meanings": 654, "words": {"ar": 1326}, "exercises": 1021}},
+      "children": [
+        {
+          "label": {"fr": "A1", "en": "A1", "de": "A1", "es": "A1", "it": "A1"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 408, "words": {"ar": 826}, "exercises": 349}, "total": {"meanings": 408, "words": {"ar": 826}, "exercises": 349}}
+        },
+        {
+          "label": {"fr": "A2", "en": "A2", "de": "A2", "es": "A2", "it": "A2"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 143, "words": {"ar": 292}, "exercises": 222}, "total": {"meanings": 143, "words": {"ar": 292}, "exercises": 222}}
+        },
+        {
+          "label": {"fr": "B1", "en": "B1", "de": "B1", "es": "B1", "it": "B1"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 91, "words": {"ar": 184}, "exercises": 333}, "total": {"meanings": 91, "words": {"ar": 184}, "exercises": 333}}
+        },
+        {
+          "label": {"fr": "B2", "en": "B2", "de": "B2", "es": "B2", "it": "B2"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 12, "words": {"ar": 24}, "exercises": 117}, "total": {"meanings": 12, "words": {"ar": 24}, "exercises": 117}}
+        }
+      ]
+    },
+    {
+      "label": {"fr": "registre de langue", "en": "language register", "de": "Sprachregister", "es": "registro lingüístico", "it": "registro linguistico"},
+      "selectable": false,
+      "counts": {"total": {"meanings": 654, "words": {"ar": 1326, "fr-FR": 778}}},
+      "children": [
+        {
+          "label": {"fr": "courant", "en": "common", "de": "gebräuchlich", "es": "común", "it": "comune"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 654, "words": {"ar": 1310, "fr-FR": 778}}, "total": {"meanings": 654, "words": {"ar": 1310, "fr-FR": 778}}}
+        },
+        {
+          "label": {"fr": "familier", "en": "colloquial", "de": "umgangssprachlich", "es": "coloquial", "it": "colloquiale"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 1, "words": {"ar": 2}}, "total": {"meanings": 1, "words": {"ar": 2}}}
+        },
+        {
+          "label": {"fr": "soutenu", "en": "formal", "de": "gehoben", "es": "formal", "it": "formale"},
+          "selectable": true,
+          "counts": {"own": {"meanings": 7, "words": {"ar": 14}}, "total": {"meanings": 7, "words": {"ar": 14}}}
+        }
+      ]
+    }
+  ]
+}
