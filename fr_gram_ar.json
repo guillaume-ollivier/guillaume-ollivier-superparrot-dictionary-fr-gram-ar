@@ -99823,6 +99823,7 @@
           "question_context": "#1§lang=ar-SA§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "answer_media": "touch",
           "topic_id": "topi@B43C7EFD-88D7-5779-8F0C-7293BEB2DC6F",
           "creation_date": "2026-10-05T00:00:02.883",
           "categories": [
@@ -99885,6 +99886,7 @@
           "question_context": "#1§lang=ar-SA§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "answer_media": "touch",
           "topic_id": "topi@28013443-71A8-5515-BC0A-0784BAE2CF8A",
           "creation_date": "2026-10-05T00:00:02.903",
           "categories": [
@@ -99961,6 +99963,7 @@
           "question_context": "#1§lang=ar-SA§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "answer_media": "touch",
           "topic_id": "topi@E010BB25-3D09-5750-961F-B9E1670946F1",
           "creation_date": "2026-10-05T00:00:02.925",
           "categories": [
@@ -100037,6 +100040,7 @@
           "question_context": "#1§lang=ar-SA§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "answer_media": "touch",
           "topic_id": "topi@BBA40EB4-1872-5978-96CB-B1073D449CD9",
           "creation_date": "2026-10-05T00:00:02.950",
           "categories": [
@@ -100113,6 +100117,7 @@
           "question_context": "#1§lang=ar-SA§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "answer_media": "touch",
           "topic_id": "topi@81443FCE-8114-5A34-AFD2-6735A34EB5AD",
           "creation_date": "2026-10-05T00:00:02.973",
           "categories": [
@@ -100189,6 +100194,7 @@
           "question_context": "#1§lang=fr-FR§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "answer_media": "touch",
           "topic_id": "topi@B394DED4-9922-5276-867B-98AC7927C9AB",
           "creation_date": "2026-10-05T00:00:02.993",
           "categories": [
@@ -100251,6 +100257,7 @@
           "question_context": "#1§lang=fr-FR§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "answer_media": "touch",
           "topic_id": "topi@24DD4D92-456B-55A3-B244-252B61D9295A",
           "creation_date": "2026-10-05T00:00:03.011",
           "categories": [
@@ -100320,6 +100327,7 @@
           "question_context": "#1§lang=fr-FR§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "answer_media": "touch",
           "topic_id": "topi@CBE869E6-E03F-5C1B-8A03-9BE877020783",
           "creation_date": "2026-10-05T00:00:03.027",
           "categories": [
@@ -100382,6 +100390,7 @@
           "question_context": "#1§lang=fr-FR§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "answer_media": "touch",
           "topic_id": "topi@D77E58DA-C476-5FE8-A5BB-57C17FFC05CF",
           "creation_date": "2026-10-05T00:00:03.047",
           "categories": [
@@ -100451,6 +100460,7 @@
           "question_context": "#1§lang=fr-FR§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "answer_media": "touch",
           "topic_id": "topi@A74F075A-22AF-5694-ACD2-77E4E27DB026",
           "creation_date": "2026-10-05T00:00:03.066",
           "categories": [
@@ -100692,6 +100702,7 @@
           "question_context": "#1§lang=ar-SA§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "question_media": "visual",
           "topic_id": "topi@8CA07685-4A04-5212-80EB-4F4509FEFF0C",
           "creation_date": "2026-10-05T00:00:03.114",
           "categories": [
@@ -100768,6 +100779,7 @@
           "question_context": "#1§lang=fr-FR§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "answer_media": "touch",
           "topic_id": "topi@5F20AF90-6D45-5467-9F3F-CA620CBC4329",
           "creation_date": "2026-10-05T00:00:03.135",
           "categories": [
@@ -104064,6 +104076,8 @@
           "question_context": "#1§lang=ar-SA§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "question_media": "visual",
+          "answer_media": "touch",
           "topic_id": "topi@BFA80AA3-AB6D-503F-8462-DEC0233C868D",
           "creation_date": "2026-10-05T00:00:03.968",
           "categories": [
@@ -104285,6 +104299,8 @@
           "question_context": "#1§lang=ar-SA§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "question_media": "visual",
+          "answer_media": "touch",
           "topic_id": "topi@D88587DF-D6E2-5D18-A61B-2D4C9E768F46",
           "creation_date": "2026-10-05T00:00:04.008",
           "categories": [
@@ -104402,6 +104418,8 @@
           "question_context": "#1§lang=ar-SA§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "question_media": "visual",
+          "answer_media": "touch",
           "topic_id": "topi@0A2377A9-41C3-5693-952A-5A9CD65071E2",
           "creation_date": "2026-10-05T00:00:04.031",
           "categories": [
@@ -107295,6 +107313,7 @@
           "question_context": "#1§lang=ar-SA§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "answer_media": "touch",
           "topic_id": "topi@56779905-FA3F-5F07-A2C1-FA08F7BD888D",
           "creation_date": "2026-10-05T00:00:04.640",
           "categories": [
@@ -107419,6 +107438,7 @@
           "question_context": "#1§lang=ar-SA§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "answer_media": "touch",
           "topic_id": "topi@0161FE30-E884-504F-8ABB-5583417A4F8A",
           "creation_date": "2026-10-05T00:00:04.675",
           "categories": [
@@ -110852,6 +110872,7 @@
           "question_context": "#1§lang=fr-FR§",
           "answer_context": "#1§lang=ar-SA§",
           "language": "ar-SA",
+          "answer_media": "touch",
           "topic_id": "topi@F253817A-1059-5292-A12B-EF74ACF8CE62",
           "creation_date": "2026-10-05T00:00:05.514",
           "categories": [

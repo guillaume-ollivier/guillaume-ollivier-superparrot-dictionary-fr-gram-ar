@@ -4,6 +4,7 @@
 ;;wording;;;fr-FR;Écrivez le mot en liant les lettres
 ;;;;;ar-SA;اكتب الكلمة
 ;;categories;;;;niv-a1
+;;answer_media;;;;touch
 ;;question;1;;ar-SA;
 ;;answer;1;;ar-SA;
 ;1;question;;;;{?1§ش + م + س}{type=clue§lang=fr-FR§soleil}

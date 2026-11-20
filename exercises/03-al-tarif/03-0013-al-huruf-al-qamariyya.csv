@@ -4,6 +4,7 @@
 ;;wording;;;fr-FR;Le l de l'article se prononce-t-il ? Écrivez {lang=ar-SA§« نعم »} ou {lang=ar-SA§« لا »}
 ;;;;;ar-SA;هل تُنطق اللام؟
 ;;categories;;;;niv-a1
+;;question_media;;;;visual
 ;;question;1;;ar-SA;
 ;;answer;1;;ar-SA;
 ;1;question;;;;{?1§القمر}

@@ -9,14 +9,14 @@
   "languages": ["ar", "ar-SA", "fr-FR"],
   "audience": "fr",
   "version": "1",
-  "updated": "2026-11-17",
+  "updated": "2026-11-20",
   "counts": {"meanings": 654, "words": {"ar": 1326, "fr-FR": 778}, "exercises": 1021, "chapters": 40, "lessons": 182},
   "package": {
     "uris": ["fr_gram_ar.parrot"],
     "file_name": "fr_gram_ar.parrot",
     "format": "parrot",
-    "size": 363226,
-    "sha256": "538850f85ad3cf2b22b5c80a46fa3af9fd24d013e4fb2f69d74c1b1fc4140b12"
+    "size": 363372,
+    "sha256": "b508dca986bd68123ec1542ed179ec5f64b1cd7ee7b85a9a5a8d876956e30393"
   },
   "tags": [
     {

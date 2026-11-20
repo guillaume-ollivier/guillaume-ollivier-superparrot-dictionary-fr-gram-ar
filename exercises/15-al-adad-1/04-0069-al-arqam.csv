@@ -4,6 +4,8 @@
 ;;wording;;;fr-FR;Écrivez le nombre en lettres
 ;;;;;ar-SA;اكتب العدد
 ;;categories;;;;niv-a1
+;;question_media;;;;visual
+;;answer_media;;;;touch
 ;;question;1;;ar-SA;
 ;;answer;1;;ar-SA;
 ;1;question;;;;{?1§٧}

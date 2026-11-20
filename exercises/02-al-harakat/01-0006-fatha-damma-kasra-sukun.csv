@@ -4,6 +4,7 @@
 ;;wording;;;fr-FR;Écrivez en arabe, sans voyelles brèves
 ;;;;;ar-SA;اكتب بالعربية
 ;;categories;;;;niv-a1
+;;answer_media;;;;touch
 ;;question;1;;fr-FR;
 ;;answer;1;;ar-SA;
 ;1;question;;;;{?1§kataba (il a écrit)}
